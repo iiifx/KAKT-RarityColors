@@ -1,0 +1,1227 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<PL>Polski</PL>
+	</LanguageName>
+	<Languages>PL</Languages>
+	<items>
+		<2haxe_t5_c_1>
+			<PL>[T1] Runa przeszycia łamacza tarcz</PL>
+		</2haxe_t5_c_1>
+		<2haxe_t5_c_2>
+			<PL>[T1] Runa siły berserka</PL>
+		</2haxe_t5_c_2>
+		<2haxe_t5_c_3>
+			<PL>[T1] Wyczerpująca runa równowagi</PL>
+		</2haxe_t5_c_3>
+		<2haxe_t5_c_4>
+			<PL>[T1] Runa siły gwardzisty</PL>
+		</2haxe_t5_c_4>
+		<2haxe_t5_c_5>
+			<PL>[T1] Pustosząca runa osłabienia</PL>
+		</2haxe_t5_c_5>
+		<2haxe_t5_r_1>
+			<PL>[T3] Pieczęć łamacza tarcz</PL>
+		</2haxe_t5_r_1>
+		<2haxe_t5_r_2>
+			<PL>[T3] Piętno wychłostanego</PL>
+		</2haxe_t5_r_2>
+		<2haxe_t5_r_3>
+			<PL>[T3] Większa runa Neit</PL>
+		</2haxe_t5_r_3>
+		<2haxe_t5_u_1>
+			<PL>[T2] Runa furii mistrza bitwy</PL>
+		</2haxe_t5_u_1>
+		<2haxe_t5_u_2>
+			<PL>[T2] Runa sprytu gwardzisty</PL>
+		</2haxe_t5_u_2>
+		<2haxe_t5_u_3>
+			<PL>[T2] Atakująca runa płatnerza</PL>
+		</2haxe_t5_u_3>
+		<2haxe_t5_u_4>
+			<PL>[T2] Runa spalenia łamacza tarcz</PL>
+		</2haxe_t5_u_4>
+		<2haxe_t5_u_5>
+			<PL>[T2] Odmrażająca runa berserka</PL>
+		</2haxe_t5_u_5>
+		<2hmace_t5_c_1>
+			<PL>[T1] Runa zwinności szermierza</PL>
+		</2hmace_t5_c_1>
+		<2hmace_t5_c_2>
+			<PL>[T1] Szalejąca runa agresji</PL>
+		</2hmace_t5_c_2>
+		<2hmace_t5_c_3>
+			<PL>[T1] Runa rzezi nieumarłych watażki</PL>
+		</2hmace_t5_c_3>
+		<2hmace_t5_c_4>
+			<PL>[T1] Atakująca runa obrońcy</PL>
+		</2hmace_t5_c_4>
+		<2hmace_t5_r_1>
+			<PL>[T3] Piętno Abhartacha</PL>
+		</2hmace_t5_r_1>
+		<2hmace_t5_r_2>
+			<PL>[T3] Znak Crom Cruach</PL>
+		</2hmace_t5_r_2>
+		<2hmace_t5_r_3>
+			<PL>[T3] Znak Epony</PL>
+		</2hmace_t5_r_3>
+		<2hmace_t5_u_1>
+			<PL>[T2] Złożona runa infekcji</PL>
+		</2hmace_t5_u_1>
+		<2hmace_t5_u_2>
+			<PL>[T2] Krwawa runa osłabienia</PL>
+		</2hmace_t5_u_2>
+		<2hmace_t5_u_3>
+			<PL>[T2] Zamarznięta runa wycieńczenia</PL>
+		</2hmace_t5_u_3>
+		<2hmace_t5_u_4>
+			<PL>[T2] Niszczycielska runa szermierza</PL>
+		</2hmace_t5_u_4>
+		<accessory_t5_c_1>
+			<PL>[T1] Palący amulet wigoru</PL>
+		</accessory_t5_c_1>
+		<accessory_t5_c_2>
+			<PL>[T1] Amulet pierwszej pomocy pogromcy Seelie</PL>
+		</accessory_t5_c_2>
+		<accessory_t5_c_3>
+			<PL>[T1] Pobudzający amulet wierności</PL>
+		</accessory_t5_c_3>
+		<accessory_t5_c_4>
+			<PL>[T1] Amulet hartu płatnerza</PL>
+		</accessory_t5_c_4>
+		<accessory_t5_c_5>
+			<PL>[T1] Solidny stalowy amulet</PL>
+		</accessory_t5_c_5>
+		<accessory_t5_c_6>
+			<PL>[T1] Odporny stalowy amulet</PL>
+		</accessory_t5_c_6>
+		<accessory_t5_r_1>
+			<PL>[T3] Dębowy kamień Arduiny</PL>
+		</accessory_t5_r_1>
+		<accessory_t5_r_2>
+			<PL>[T3] Kamień ekstatycznej agonii</PL>
+		</accessory_t5_r_2>
+		<accessory_t5_r_3>
+			<PL>[T3] Kamień łez</PL>
+		</accessory_t5_r_3>
+		<accessory_t5_r_4>
+			<PL>[T3] Oko niespalonych</PL>
+		</accessory_t5_r_4>
+		<accessory_t5_r_5>
+			<PL>[T3] Oko Agrony</PL>
+		</accessory_t5_r_5>
+		<accessory_t5_r_6>
+			<PL>[T3] Kamień erudyty</PL>
+		</accessory_t5_r_6>
+		<accessory_t5_r_7>
+			<PL>[T3] Wszechwidzące oko</PL>
+		</accessory_t5_r_7>
+		<accessory_t5_u_1>
+			<PL>[T2] Gotowy amulet infekcji</PL>
+		</accessory_t5_u_1>
+		<accessory_t5_u_2>
+			<PL>[T2] Amulet odwetu mistrza bitwy</PL>
+		</accessory_t5_u_2>
+		<accessory_t5_u_3>
+			<PL>[T2] Krwawy amulet wierności</PL>
+		</accessory_t5_u_3>
+		<accessory_t5_u_4>
+			<PL>[T2] Wytrzymały amulet odmrożenia</PL>
+		</accessory_t5_u_4>
+		<accessory_t5_u_5>
+			<PL>[T2] Solidny amulet cierpienia</PL>
+		</accessory_t5_u_5>
+		<accessory_t5_u_6>
+			<PL>[T2] Stanowczy stalowy amulet</PL>
+		</accessory_t5_u_6>
+		<accessory_t5_u_7>
+			<PL>[T2] Agresywny amulet precyzji</PL>
+		</accessory_t5_u_7>
+		<armourheavy1_t5_c_1>
+			<PL>[T1] Bohaterska pieczęć wytrwałości</PL>
+		</armourheavy1_t5_c_1>
+		<armourheavy1_t5_c_2>
+			<PL>[T1] Trwała pieczęć odporności</PL>
+		</armourheavy1_t5_c_2>
+		<armourheavy1_t5_c_3>
+			<PL>[T1] Zbrojona pieczęć krzepnięcia</PL>
+		</armourheavy1_t5_c_3>
+		<armourheavy1_t5_c_4>
+			<PL>[T1] Pancerna pieczęć gniewu</PL>
+		</armourheavy1_t5_c_4>
+		<armourheavy1_t5_c_5>
+			<PL>[T1] Zbrojna pieczęć oporu</PL>
+		</armourheavy1_t5_c_5>
+		<armourheavy1_t5_c_6>
+			<PL>[T1] Sprawna pieczęć odporności</PL>
+		</armourheavy1_t5_c_6>
+		<armourheavy1_t5_c_7>
+			<PL>[T1] Nasycona pieczęć niezniszczalności</PL>
+		</armourheavy1_t5_c_7>
+		<armourheavy1_t5_r_1>
+			<PL>[T3] Pieczęć uświęconych</PL>
+		</armourheavy1_t5_r_1>
+		<armourheavy1_t5_r_2>
+			<PL>[T3] Pieczęć bastionu</PL>
+		</armourheavy1_t5_r_2>
+		<armourheavy1_t5_r_3>
+			<PL>[T3] Pieczęć fortuny</PL>
+		</armourheavy1_t5_r_3>
+		<armourheavy1_t5_r_4>
+			<PL>Kinetyczna pieczęć biegu</PL>
+		</armourheavy1_t5_r_4>
+		<armourheavy1_t5_u_1>
+			<PL>[T2] Nieuchwytna pieczęć odporności</PL>
+		</armourheavy1_t5_u_1>
+		<armourheavy1_t5_u_2>
+			<PL>[T2] Pancerna pieczęć niezniszczalności</PL>
+		</armourheavy1_t5_u_2>
+		<armourheavy1_t5_u_3>
+			<PL>[T2] Pieczęć odwetu zbrojmistrza</PL>
+		</armourheavy1_t5_u_3>
+		<armourheavy1_t5_u_4>
+			<PL>[T2] Zbrojona pieczęć trwałości</PL>
+		</armourheavy1_t5_u_4>
+		<armourheavy1_t5_u_5>
+			<PL>[T2] Zagęszczająca pieczęć pierwszej pomocy</PL>
+		</armourheavy1_t5_u_5>
+		<armourheavy1_t5_u_6>
+			<PL>[T2] Odporna pieczęć agresji</PL>
+		</armourheavy1_t5_u_6>
+		<armourheavy1_t5_u_7>
+			<PL>[T2] Gotowa pieczęć oporu</PL>
+		</armourheavy1_t5_u_7>
+		<armourheavy2_t5_c_1>
+			<PL>[T1] Niezawodna pieczęć pancerza</PL>
+		</armourheavy2_t5_c_1>
+		<armourheavy2_t5_c_2>
+			<PL>[T1] Pieczęć oporu zbrojmistrza</PL>
+		</armourheavy2_t5_c_2>
+		<armourheavy2_t5_c_3>
+			<PL>[T1] Wytrzymała pieczęć niezniszczalności</PL>
+		</armourheavy2_t5_c_3>
+		<armourheavy2_t5_c_4>
+			<PL>[T1] Trwała pieczęć pancerza</PL>
+		</armourheavy2_t5_c_4>
+		<armourheavy2_t5_c_5>
+			<PL>[T1] Niezawodna pieczęć wytrwałości</PL>
+		</armourheavy2_t5_c_5>
+		<armourheavy2_t5_c_6>
+			<PL>[T1] Zbrojona pieczęć trwałości</PL>
+		</armourheavy2_t5_c_6>
+		<armourheavy2_t5_c_7>
+			<PL>[T1] Odmładzająca pieczęć pierwszej pomocy</PL>
+		</armourheavy2_t5_c_7>
+		<armourheavy2_t5_r_1>
+			<PL>[T3] Znak srebrnego kowadła</PL>
+		</armourheavy2_t5_r_1>
+		<armourheavy2_t5_r_2>
+			<PL>[T3] Pieczęć cytadeli</PL>
+		</armourheavy2_t5_r_2>
+		<armourheavy2_t5_r_3>
+			<PL>[T3] Pieczęć niszczyciela</PL>
+		</armourheavy2_t5_r_3>
+		<armourheavy2_t5_u_1>
+			<PL>[T2] Spoczynkowa pieczęć naprawy</PL>
+		</armourheavy2_t5_u_1>
+		<armourheavy2_t5_u_2>
+			<PL>[T2] Mocna pieczęć spokoju</PL>
+		</armourheavy2_t5_u_2>
+		<armourheavy2_t5_u_3>
+			<PL>[T2] Złożona pieczęć krzepnięcia</PL>
+		</armourheavy2_t5_u_3>
+		<armourheavy2_t5_u_4>
+			<PL>[T2] Zbrojona pieczęć oporu</PL>
+		</armourheavy2_t5_u_4>
+		<armourheavy2_t5_u_5>
+			<PL>[T2] Pancerna pieczęć trwałości</PL>
+		</armourheavy2_t5_u_5>
+		<armourheavy2_t5_u_6>
+			<PL>[T2] Nietłukąca pieczęć odwetu</PL>
+		</armourheavy2_t5_u_6>
+		<armourheavy2_t5_u_7>
+			<PL>[T2] Gotowa pieczęć szału</PL>
+		</armourheavy2_t5_u_7>
+		<armourlight1_t5_c_1>
+			<PL>[T1] Pieczęć hartu piwowara</PL>
+		</armourlight1_t5_c_1>
+		<armourlight1_t5_c_2>
+			<PL>[T1] Pancerna pieczęć odmłodzenia</PL>
+		</armourlight1_t5_c_2>
+		<armourlight1_t5_c_3>
+			<PL>[T1] Ochronna pieczęć szału</PL>
+		</armourlight1_t5_c_3>
+		<armourlight1_t5_c_4>
+			<PL>[T1] Pospieszna pieczęć sprawności</PL>
+		</armourlight1_t5_c_4>
+		<armourlight1_t5_c_5>
+			<PL>[T1] Ogniotrwała pieczęć wytrwałości</PL>
+		</armourlight1_t5_c_5>
+		<armourlight1_t5_r_1>
+			<PL>[T3] Pieczęć boskiej przychylności</PL>
+		</armourlight1_t5_r_1>
+		<armourlight1_t5_r_2>
+			<PL>[T3] Większa pieczęć Aibell</PL>
+		</armourlight1_t5_r_2>
+		<armourlight1_t5_r_3>
+			<PL>[T3] Znak Andraste</PL>
+		</armourlight1_t5_r_3>
+		<armourlight1_t5_u_1>
+			<PL>[T2] Nieuchwytna pieczęć naprawy</PL>
+		</armourlight1_t5_u_1>
+		<armourlight1_t5_u_2>
+			<PL>[T2] Zbrojona pieczęć szału</PL>
+		</armourlight1_t5_u_2>
+		<armourlight1_t5_u_3>
+			<PL>[T2] Kojąca pieczęć pierwszej pomocy</PL>
+		</armourlight1_t5_u_3>
+		<armourlight1_t5_u_4>
+			<PL>[T2] Mocna pieczęć kinezy</PL>
+		</armourlight1_t5_u_4>
+		<armourlight1_t5_u_5>
+			<PL>[T2] Odporna pieczęć opanowania</PL>
+		</armourlight1_t5_u_5>
+		<armourlight2_t5_c_1>
+			<PL>[T1] Spoczynkowa pieczęć niespalonych</PL>
+		</armourlight2_t5_c_1>
+		<armourlight2_t5_c_2>
+			<PL>[T1] Nasycona pieczęć wytrwałości</PL>
+		</armourlight2_t5_c_2>
+		<armourlight2_t5_c_3>
+			<PL>[T1] Uciekająca pieczęć pierwszej pomocy</PL>
+		</armourlight2_t5_c_3>
+		<armourlight2_t5_c_4>
+			<PL>[T1] Nasycona pieczęć pancerza</PL>
+		</armourlight2_t5_c_4>
+		<armourlight2_t5_c_5>
+			<PL>[T1] Trwała pieczęć odmłodzenia</PL>
+		</armourlight2_t5_c_5>
+		<armourlight2_t5_r_1>
+			<PL>[T3] Pieczęć zrządzenia losu</PL>
+		</armourlight2_t5_r_1>
+		<armourlight2_t5_r_2>
+			<PL>[T3] Złota egida</PL>
+		</armourlight2_t5_r_2>
+		<armourlight2_t5_r_3>
+			<PL>[T3] Pieczęć świętego nimbu</PL>
+		</armourlight2_t5_r_3>
+		<armourlight2_t5_u_1>
+			<PL>[T2] Zagęszczająca pieczęć sprawności</PL>
+		</armourlight2_t5_u_1>
+		<armourlight2_t5_u_2>
+			<PL>[T2] Pancerna pieczęć hartu</PL>
+		</armourlight2_t5_u_2>
+		<armourlight2_t5_u_3>
+			<PL>[T2] Pieczęć gotowości zbrojmistrza</PL>
+		</armourlight2_t5_u_3>
+		<armourlight2_t5_u_4>
+			<PL>[T2] Nietłukąca pieczęć cierpienia</PL>
+		</armourlight2_t5_u_4>
+		<armourlight2_t5_u_5>
+			<PL>[T2] Solidna pieczęć wytchnienia</PL>
+		</armourlight2_t5_u_5>
+		<armourmedium1_t5_c_1>
+			<PL>[T1] Lecząca pieczęć uniku</PL>
+		</armourmedium1_t5_c_1>
+		<armourmedium1_t5_c_2>
+			<PL>[T1] Niezawodna pieczęć pierwszej pomocy</PL>
+		</armourmedium1_t5_c_2>
+		<armourmedium1_t5_c_3>
+			<PL>[T1] Gniewna pieczęć opanowania</PL>
+		</armourmedium1_t5_c_3>
+		<armourmedium1_t5_c_4>
+			<PL>[T1] Bohaterska pieczęć niezniszczalności</PL>
+		</armourmedium1_t5_c_4>
+		<armourmedium1_t5_c_5>
+			<PL>[T1] Bohaterska pieczęć gotowości</PL>
+		</armourmedium1_t5_c_5>
+		<armourmedium1_t5_r_1>
+			<PL>[T3] Znak Alaunusa</PL>
+		</armourmedium1_t5_r_1>
+		<armourmedium1_t5_r_2>
+			<PL>[T3] Pieczęć czerwonego ogara</PL>
+		</armourmedium1_t5_r_2>
+		<armourmedium1_t5_r_3>
+			<PL>[T3] Pieczęć charta</PL>
+		</armourmedium1_t5_r_3>
+		<armourmedium1_t5_r_4>
+			<PL>Lecznicza pieczęć wytrwałości</PL>
+		</armourmedium1_t5_r_4>
+		<armourmedium1_t5_u_1>
+			<PL>[T2] Trwała pieczęć pancerza</PL>
+		</armourmedium1_t5_u_1>
+		<armourmedium1_t5_u_2>
+			<PL>[T2] Odporna pieczęć gotowości</PL>
+		</armourmedium1_t5_u_2>
+		<armourmedium1_t5_u_3>
+			<PL>[T2] Zbrojona pieczęć hartu</PL>
+		</armourmedium1_t5_u_3>
+		<armourmedium1_t5_u_4>
+			<PL>[T2] Spoczynkowa pieczęć opanowania</PL>
+		</armourmedium1_t5_u_4>
+		<armourmedium1_t5_u_5>
+			<PL>[T2] Pieczęć szału zbrojmistrza</PL>
+		</armourmedium1_t5_u_5>
+		<armourmedium2_t5_c_1>
+			<PL>[T1] Zagęszczająca pieczęć spokoju</PL>
+		</armourmedium2_t5_c_1>
+		<armourmedium2_t5_c_2>
+			<PL>[T1] Trwała pieczęć gniewu</PL>
+		</armourmedium2_t5_c_2>
+		<armourmedium2_t5_c_3>
+			<PL>[T1] Bojowa pieczęć trwałości</PL>
+		</armourmedium2_t5_c_3>
+		<armourmedium2_t5_c_4>
+			<PL>[T1] Odmładzająca pieczęć odwetu</PL>
+		</armourmedium2_t5_c_4>
+		<armourmedium2_t5_c_5>
+			<PL>[T1] Bojowa pieczęć pancerza</PL>
+		</armourmedium2_t5_c_5>
+		<armourmedium2_t5_r_1>
+			<PL>[T3] Pieczęć błogosławionego</PL>
+		</armourmedium2_t5_r_1>
+		<armourmedium2_t5_r_2>
+			<PL>[T3] Piętno odbicia</PL>
+		</armourmedium2_t5_r_2>
+		<armourmedium2_t5_r_3>
+			<PL>[T3] Wielka pieczęć łowiecka</PL>
+		</armourmedium2_t5_r_3>
+		<armourmedium2_t5_u_1>
+			<PL>[T2] Nieuchwytna pieczęć trwałości</PL>
+		</armourmedium2_t5_u_1>
+		<armourmedium2_t5_u_2>
+			<PL>[T2] Mocna pieczęć odwetu</PL>
+		</armourmedium2_t5_u_2>
+		<armourmedium2_t5_u_3>
+			<PL>[T2] Zagęszczająca pieczęć pierwszej pomocy</PL>
+		</armourmedium2_t5_u_3>
+		<armourmedium2_t5_u_4>
+			<PL>[T2] Kojąca pieczęć niezniszczalności</PL>
+		</armourmedium2_t5_u_4>
+		<armourmedium2_t5_u_5>
+			<PL>[T2] Pancerna pieczęć oporu</PL>
+		</armourmedium2_t5_u_5>
+		<artifact_t5_c_1>
+			<PL>[T1] Szalejący artefakt przekleństwa</PL>
+		</artifact_t5_c_1>
+		<artifact_t5_c_2>
+			<PL>[T1] Drgający artefakt precyzji</PL>
+		</artifact_t5_c_2>
+		<artifact_t5_c_3>
+			<PL>[T1] Piekielny artefakt cierpienia</PL>
+		</artifact_t5_c_3>
+		<artifact_t5_c_4>
+			<PL>[T1] Odporny artefakt spalenia</PL>
+		</artifact_t5_c_4>
+		<artifact_t5_c_5>
+			<PL>[T1] Artefakt leczenia szamana</PL>
+		</artifact_t5_c_5>
+		<artifact_t5_r_1>
+			<PL>[T3] Żar ognistego olbrzyma</PL>
+		</artifact_t5_r_1>
+		<artifact_t5_r_2>
+			<PL>[T3] Popioły Abhartacha</PL>
+		</artifact_t5_r_2>
+		<artifact_t5_u_1>
+			<PL>[T2] Złożony artefakt cierpienia</PL>
+		</artifact_t5_u_1>
+		<artifact_t5_u_2>
+			<PL>[T2] Płonący artefakt spalenia</PL>
+		</artifact_t5_u_2>
+		<artifact_t5_u_3>
+			<PL>[T2] Artefakt odporności zbrojmistrza</PL>
+		</artifact_t5_u_3>
+		<artifact_t5_u_4>
+			<PL>[T2] Zgubny artefakt szamana</PL>
+		</artifact_t5_u_4>
+		<axe_t5_c_1>
+			<PL>[T1] Szalejąca krwawa runa</PL>
+		</axe_t5_c_1>
+		<axe_t5_c_2>
+			<PL>[T1] Runa przeszycia gwardzisty</PL>
+		</axe_t5_c_2>
+		<axe_t5_c_3>
+			<PL>[T1] Niszczycielska runa obrońcy</PL>
+		</axe_t5_c_3>
+		<axe_t5_c_4>
+			<PL>[T1] Atakująca runa pogromcy Sidhe</PL>
+		</axe_t5_c_4>
+		<axe_t5_c_5>
+			<PL>[T1] Agresywna runa zwinności</PL>
+		</axe_t5_c_5>
+		<axe_t5_c_6>
+			<PL>[T1] Zbrojmistrzowska runa rzezi nieumarłych</PL>
+		</axe_t5_c_6>
+		<axe_t5_c_7>
+			<PL>[T1] Atakująca runa inicjatora</PL>
+		</axe_t5_c_7>
+		<axe_t5_r_1>
+			<PL>[T3] Znak Okaleczonego Boga</PL>
+		</axe_t5_r_1>
+		<axe_t5_r_2>
+			<PL>[T3] Piętno skrwawionego</PL>
+		</axe_t5_r_2>
+		<axe_t5_r_3>
+			<PL>[T3] Większa runa Goibniu</PL>
+		</axe_t5_r_3>
+		<axe_t5_r_4>
+			<PL>[T3] Większa runa Luga</PL>
+		</axe_t5_r_4>
+		<axe_t5_r_5>
+			<PL>[T3] Większa runa Agrony</PL>
+		</axe_t5_r_5>
+		<axe_t5_u_1>
+			<PL>[T2] Agresywna runa pojedynku</PL>
+		</axe_t5_u_1>
+		<axe_t5_u_2>
+			<PL>[T2] Runa cierpienia pogromcy Fomorian</PL>
+		</axe_t5_u_2>
+		<axe_t5_u_3>
+			<PL>[T2] Piekielna runa łamacza tarcz</PL>
+		</axe_t5_u_3>
+		<axe_t5_u_4>
+			<PL>[T2] Kinetyczna runa wycieńczenia</PL>
+		</axe_t5_u_4>
+		<axe_t5_u_5>
+			<PL>[T2] Szaleńcza runa spalenia</PL>
+		</axe_t5_u_5>
+		<axe_t5_u_6>
+			<PL>[T2] Zamarznięta runa zniszczenia</PL>
+		</axe_t5_u_6>
+		<axe_t5_u_7>
+			<PL>[T2] Runa infekcji berserka</PL>
+		</axe_t5_u_7>
+		<bow_t5_c_1>
+			<PL>[T1] Uciekająca runa rozdzielenia</PL>
+		</bow_t5_c_1>
+		<bow_t5_c_2>
+			<PL>[T1] Toksyczna runa infekcji</PL>
+		</bow_t5_c_2>
+		<bow_t5_c_3>
+			<PL>[T1] Zwęglająca runa spalenia</PL>
+		</bow_t5_c_3>
+		<bow_t5_c_4>
+			<PL>[T1] Przeszywająca runa opanowania</PL>
+		</bow_t5_c_4>
+		<bow_t5_r_1>
+			<PL>[T3] Piętno pobladłego</PL>
+		</bow_t5_r_1>
+		<bow_t5_r_2>
+			<PL>[T3] Runa północnego wiatru</PL>
+		</bow_t5_r_2>
+		<bow_t5_r_3>
+			<PL>[T3] Pieczęć sokolego oka</PL>
+		</bow_t5_r_3>
+		<bow_t5_u_1>
+			<PL>[T2] Zamarznięta runa furii</PL>
+		</bow_t5_u_1>
+		<bow_t5_u_2>
+			<PL>[T2] Przeszywająca runa nadzorcy</PL>
+		</bow_t5_u_2>
+		<bow_t5_u_3>
+			<PL>[T2] Stanowcza runa spalenia</PL>
+		</bow_t5_u_3>
+		<bow_t5_u_4>
+			<PL>[T2] Krwawa runa łamacza tarcz</PL>
+		</bow_t5_u_4>
+		<crossbow_t5_c_1>
+			<PL>[T1] Runa rzezi Fomorian spojrzenia śmierci</PL>
+		</crossbow_t5_c_1>
+		<crossbow_t5_c_2>
+			<PL>[T1] Strażnicza runa przeszycia</PL>
+		</crossbow_t5_c_2>
+		<crossbow_t5_c_3>
+			<PL>[T1] Runa strzelca-łamacza tarcz</PL>
+		</crossbow_t5_c_3>
+		<crossbow_t5_c_4>
+			<PL>[T1] Krótkodystansowa runa pogromcy Unseelie</PL>
+		</crossbow_t5_c_4>
+		<crossbow_t5_c_5>
+			<PL>[T1] Szalejąca runa sprytu</PL>
+		</crossbow_t5_c_5>
+		<crossbow_t5_r_1>
+			<PL>[T3] Znak szalonego łucznika</PL>
+		</crossbow_t5_r_1>
+		<crossbow_t5_r_2>
+			<PL>[T3] Runa cierni</PL>
+		</crossbow_t5_r_2>
+		<crossbow_t5_r_3>
+			<PL>[T3] Piętno płonącej strzały</PL>
+		</crossbow_t5_r_3>
+		<crossbow_t5_u_1>
+			<PL>[T2] Runa sprytu strażnika</PL>
+		</crossbow_t5_u_1>
+		<crossbow_t5_u_2>
+			<PL>[T2] Rozdzielona runa berserka</PL>
+		</crossbow_t5_u_2>
+		<crossbow_t5_u_3>
+			<PL>[T2] Wyczerpująca runa infekcji</PL>
+		</crossbow_t5_u_3>
+		<crossbow_t5_u_4>
+			<PL>[T2] Zbrojmistrzowska runa krótkiego dystansu</PL>
+		</crossbow_t5_u_4>
+		<crossbow_t5_u_5>
+			<PL>[T2] Osłabiająca runa rzezi nieumarłych</PL>
+		</crossbow_t5_u_5>
+		<egs1_01>
+			<desc>
+				<PL>Starożytna runa łowców Tuatha Dé Danann.</PL>
+			</desc>
+			<PL>[TE] Znak ostrza duszy</PL>
+		</egs1_01>
+		<egs1_02>
+			<desc>
+				<PL>Runa owianych legendą cierni rozrywających duszę.</PL>
+			</desc>
+			<PL>[TE] Piętno cierni duszy</PL>
+		</egs1_02>
+		<egs1_03>
+			<desc>
+				<PL>Runa czempiona pobożnych dzierżącego topór.</PL>
+			</desc>
+			<PL>[TE] Znak skrzydlatego pogromcy</PL>
+		</egs1_03>
+		<egs1_04>
+			<desc>
+				<PL>Znak topora, który się rozszczepił, pokonując boga.</PL>
+			</desc>
+			<PL>[TE] Piętno strzaskanego topora</PL>
+		</egs1_04>
+		<egs1_05>
+			<desc>
+				<PL>Zapomniana runa zaklinaczy burz Tuatha Dé Danann.</PL>
+			</desc>
+			<PL>[TE] Runa kostura duszy</PL>
+		</egs1_05>
+		<egs1_06>
+			<desc>
+				<PL>Runa łowczyni, która spaliła Mrocznego Króla.</PL>
+			</desc>
+			<PL>[TE] Runa płomienia duszy</PL>
+		</egs1_06>
+		<egs1_07>
+			<desc>
+				<PL>Piętno zrodzonego w burzy łucznika Tuatha Dé Danann.</PL>
+			</desc>
+			<PL>[TE] Piętno dziecięcia burzy</PL>
+		</egs1_07>
+		<egs1_08>
+			<desc>
+				<PL>Znak legendarnego pasterza dusz.</PL>
+			</desc>
+			<PL>[TE] Boski znak poszukiwacza dusz</PL>
+		</egs1_08>
+		<egs1_09>
+			<desc>
+				<PL>Pieczęć starożytnego ducha strażniczego.</PL>
+			</desc>
+			<PL>[TE] Pieczęć ducha strażniczego</PL>
+		</egs1_09>
+		<egs1_10>
+			<desc>
+				<PL>Tajemna runa przeklętego kowala dusz Tuatha Dé Danann.</PL>
+			</desc>
+			<PL>[TE] Pieczęć Wędrowca z Zaświatów</PL>
+		</egs1_10>
+		<egs1_11>
+			<desc>
+				<PL>Pieczęć chwytającej dusze, zwiastującej nieszczęście komety.</PL>
+			</desc>
+			<PL>[TE] Pieczęć wnyków duszy</PL>
+		</egs1_11>
+		<egs1_12>
+			<desc>
+				<PL>Pieczęć boskiego stworzenia, które żywiło się duszami.</PL>
+			</desc>
+			<PL>[TE] Pieczęć kolekcjonera dusz</PL>
+		</egs1_12>
+		<egs1_13>
+			<desc>
+				<PL>Pieczęć bohatera Tuatha Dé Danann, którego skazano na wieczne płonięcie.</PL>
+			</desc>
+			<PL>[TE] Pieczęć płomienia duszy</PL>
+		</egs1_13>
+		<egs1_14>
+			<desc>
+				<PL>Pieczęć wojownika Tuatha Dé Danann oszalałego od zgryzoty.</PL>
+			</desc>
+			<PL>[TE] Pieczęć zgryzoty</PL>
+		</egs1_14>
+		<egs1_15>
+			<desc>
+				<PL>Kamienny pierścień wykuty z fomoriańskiej iglicy.</PL>
+			</desc>
+			<PL>[TE] Pierścień iglicy dusz</PL>
+		</egs1_15>
+		<egs1_16>
+			<desc>
+				<PL>Nasycony odłamek oderwany od fomoriańskiej iglicy.</PL>
+			</desc>
+			<PL>[TE] Odłamek iglicy</PL>
+		</egs1_16>
+		<egs1_17>
+			<desc>
+				<PL>Przystrojona racica warga.</PL>
+			</desc>
+			<PL>[TE] Racica</PL>
+		</egs1_17>
+		<egs1_18>
+			<desc>
+				<PL>Oko bladego ożywieńca skazanego na żywienie się duszami.</PL>
+			</desc>
+			<PL>[TE] Oko spijającego dusze</PL>
+		</egs1_18>
+		<egs1_19>
+			<desc>
+				<PL>Kamień przysięgi żniwiarza dusz.</PL>
+			</desc>
+			<PL>[TE] Przysięga pasterza dusz</PL>
+		</egs1_19>
+		<egs1_20>
+			<desc>
+				<PL>Szczątki Tuatha Dé Danann, nieustępliwego łowcy Fomorian.</PL>
+			</desc>
+			<PL>[TE] Czaszka wielkiego pogromcy</PL>
+		</egs1_20>
+		<egs1_21>
+			<desc>
+				<PL>Starodawny strój przeklętego kowala dusz Tuatha Dé Danann.</PL>
+			</desc>
+			<PL>[TE] Peleryna Wędrowca z Zaświatów</PL>
+		</egs1_21>
+		<egs1_22>
+			<desc>
+				<PL>Złowróżbny zaczarowany kamień z fomoriańskiej iglicy.</PL>
+			</desc>
+			<PL>[TE] Lewitujący kamień ducha</PL>
+		</egs1_22>
+		<egs1_23>
+			<desc>
+				<PL>Prochy nikczemnej fomoriańskiej wiedźmy.</PL>
+			</desc>
+			<PL>[TE] Prochy ślepej wiedźmy</PL>
+		</egs1_23>
+		<egs1_24>
+			<desc>
+				<PL>Nauczanie wielkiego wojowniczego króla Tuatha Dé Danann.</PL>
+			</desc>
+			<PL>[TE] Srebrne zwoje Nuady</PL>
+		</egs1_24>
+		<et_2haxe_t5_r_1>
+			<PL>[T3] Piekący znak klątwy</PL>
+		</et_2haxe_t5_r_1>
+		<et_2haxe_t5_r_2>
+			<PL>[T3] Piętno pogromcy wężów</PL>
+		</et_2haxe_t5_r_2>
+		<et_2haxe_t5_r_3>
+			<PL>[T3] Runa zbójcy</PL>
+		</et_2haxe_t5_r_3>
+		<et_accessory_t5_r_1>
+			<desc>
+				<PL>„Możesz wypić całą zawartość tego naczynia, a i tak w mgnieniu oka się napełni!”</PL>
+			</desc>
+			<PL>[T3] Wieczny róg Kormakra</PL>
+		</et_accessory_t5_r_1>
+		<et_accessory_t5_r_2>
+			<PL>[T3] Kamień nieuwagi</PL>
+		</et_accessory_t5_r_2>
+		<et_armourheavy1_t5_r_1>
+			<PL>[T3] Egida zbrojmistrza</PL>
+		</et_armourheavy1_t5_r_1>
+		<et_armourheavy1_t5_r_2>
+			<PL>[T3] Przeklęty znak oczekiwania</PL>
+		</et_armourheavy1_t5_r_2>
+		<et_armourheavy2_t5_r_1>
+			<PL>[T3] Klątwa bezkarności</PL>
+		</et_armourheavy2_t5_r_1>
+		<et_armourheavy2_t5_r_2>
+			<PL>[T3] Klątwa naprawy</PL>
+		</et_armourheavy2_t5_r_2>
+		<et_armourlight1_t5_r_1>
+			<PL>[T3] Nimb blasku księżyca</PL>
+		</et_armourlight1_t5_r_1>
+		<et_armourlight1_t5_r_2>
+			<PL>[T3] Pieczęć opończy grzmotów</PL>
+		</et_armourlight1_t5_r_2>
+		<et_armourlight2_t5_r_1>
+			<PL>[T3] Znak proroka</PL>
+		</et_armourlight2_t5_r_1>
+		<et_armourlight2_t5_r_2>
+			<PL>[T3] Pieczęć kruczych skrzydeł</PL>
+		</et_armourlight2_t5_r_2>
+		<et_armourmedium1_t5_r_1>
+			<PL>[T3] Znak byka</PL>
+		</et_armourmedium1_t5_r_1>
+		<et_armourmedium1_t5_r_2>
+			<PL>[T3] Klątwa uników</PL>
+		</et_armourmedium1_t5_r_2>
+		<et_armourmedium2_t5_r_1>
+			<PL>[T3] Klątwa czujności</PL>
+		</et_armourmedium2_t5_r_1>
+		<et_armourmedium2_t5_r_2>
+			<PL>[T3] Klątwa Unseelie</PL>
+		</et_armourmedium2_t5_r_2>
+		<et_artifact_t5_r_1>
+			<PL>[T3] Trybik Cohha</PL>
+		</et_artifact_t5_r_1>
+		<et_artifact_t5_r_2>
+			<PL>[T3] Prochy maga krwi</PL>
+		</et_artifact_t5_r_2>
+		<et_axe_t5_r_1>
+			<PL>[T3] Piętno szlochającego dębu</PL>
+		</et_axe_t5_r_1>
+		<et_axe_t5_r_2>
+			<PL>[T3] Przeklęta runa falochronu</PL>
+		</et_axe_t5_r_2>
+		<et_crossbow_t5_r_1>
+			<PL>[T3] Piorun pogromcy olbrzymów</PL>
+		</et_crossbow_t5_r_1>
+		<et_crossbow_t5_r_2>
+			<PL>[T3] Piorun śmierci</PL>
+		</et_crossbow_t5_r_2>
+		<et_crossbow_t5_r_3>
+			<PL>[T3] Znak krzywego łuku</PL>
+		</et_crossbow_t5_r_3>
+		<et_jewelry_t5_r_1>
+			<PL>[T3] Spuścizna Michaut</PL>
+		</et_jewelry_t5_r_1>
+		<et_jewelry_t5_r_2>
+			<PL>[T3] Astralny pierścień</PL>
+		</et_jewelry_t5_r_2>
+		<et_luckycharm_t5_r_1>
+			<PL>[T3] Talizman pogromcy Sidhe</PL>
+		</et_luckycharm_t5_r_1>
+		<et_luckycharm_t5_r_2>
+			<PL>[T3] Talizman upadku</PL>
+		</et_luckycharm_t5_r_2>
+		<et_manuscript_t5_r_1>
+			<PL>[T3] Zagubione fortele Neit</PL>
+		</et_manuscript_t5_r_1>
+		<et_manuscript_t5_r_2>
+			<PL>[T3] Księga lodowego maga</PL>
+		</et_manuscript_t5_r_2>
+		<et_oathstone_t5_r_1>
+			<PL>[T3] Przysięga ochrony</PL>
+		</et_oathstone_t5_r_1>
+		<et_oathstone_t5_r_2>
+			<PL>[T3] Przysięga przedrzeźniacza</PL>
+		</et_oathstone_t5_r_2>
+		<et_provision_t5_r_1>
+			<PL>[T3] Uprząż prekursora</PL>
+		</et_provision_t5_r_1>
+		<et_provision_t5_r_2>
+			<PL>[T3] Róg złodzieja</PL>
+		</et_provision_t5_r_2>
+		<et_staff2_t5_r_1>
+			<PL>[T3] Znak wojowniczego mnicha</PL>
+		</et_staff2_t5_r_1>
+		<et_staff2_t5_r_2>
+			<PL>[T3] Przeklęta runa mocy</PL>
+		</et_staff2_t5_r_2>
+		<et_staff2_t5_r_3>
+			<PL>[T3] Runa przekierowania</PL>
+		</et_staff2_t5_r_3>
+		<et_sword_t5_r_1>
+			<PL>[T3] Runa obdzierającego ostrza</PL>
+		</et_sword_t5_r_1>
+		<et_sword_t5_r_2>
+			<PL>[T3] Runa wierzbowej iskry</PL>
+		</et_sword_t5_r_2>
+		<et_sword_t5_r_3>
+			<PL>[T3] Runa skażonego ostrza</PL>
+		</et_sword_t5_r_3>
+		<et_trophy_t5_r_1>
+			<PL>[T3] Róg furii</PL>
+		</et_trophy_t5_r_1>
+		<et_trophy_t5_r_2>
+			<PL>[T3] Róg wysokiego zamku</PL>
+		</et_trophy_t5_r_2>
+		<jewelry_t5_c_1>
+			<PL>[T1] Gniewny pierścień zamrożenia</PL>
+		</jewelry_t5_c_1>
+		<jewelry_t5_c_2>
+			<PL>[T1] Kinetyczny pierścień patroszenia</PL>
+		</jewelry_t5_c_2>
+		<jewelry_t5_c_3>
+			<PL>[T1] Strażniczy pierścień głębokich ran</PL>
+		</jewelry_t5_c_3>
+		<jewelry_t5_c_4>
+			<PL>[T1] Piekielny pierścień rozdzielenia</PL>
+		</jewelry_t5_c_4>
+		<jewelry_t5_c_5>
+			<PL>[T1] Trujący pierścień infekcji</PL>
+		</jewelry_t5_c_5>
+		<jewelry_t5_c_6>
+			<PL>[T1] Pierścień sprytu pogromcy Seelie</PL>
+		</jewelry_t5_c_6>
+		<jewelry_t5_r_1>
+			<PL>[T3] Pierścień Ecnego</PL>
+		</jewelry_t5_r_1>
+		<jewelry_t5_r_2>
+			<PL>[T3] Pierścień męstwa</PL>
+		</jewelry_t5_r_2>
+		<jewelry_t5_r_3>
+			<PL>[T3] Pierścień wojowniczego erudyty</PL>
+		</jewelry_t5_r_3>
+		<jewelry_t5_r_4>
+			<PL>[T3] Żelazny pierścień Lén</PL>
+		</jewelry_t5_r_4>
+		<jewelry_t5_r_5>
+			<PL>[T3] Pierścień Bodhmall</PL>
+		</jewelry_t5_r_5>
+		<jewelry_t5_r_6>
+			<PL>[T3] Pierścień Epony</PL>
+		</jewelry_t5_r_6>
+		<jewelry_t5_r_7>
+			<PL>[T3] Pierścień Bebd</PL>
+		</jewelry_t5_r_7>
+		<jewelry_t5_r_8>
+			<PL>Pierścień niezłomnego oporu</PL>
+		</jewelry_t5_r_8>
+		<jewelry_t5_u_1>
+			<PL>[T2] Pierścień furii gwardzisty</PL>
+		</jewelry_t5_u_1>
+		<jewelry_t5_u_2>
+			<PL>[T2] Niszczycielski pierścień lojalności</PL>
+		</jewelry_t5_u_2>
+		<jewelry_t5_u_3>
+			<PL>[T2] Osłabiający pierścień sprawności</PL>
+		</jewelry_t5_u_3>
+		<jewelry_t5_u_4>
+			<PL>[T2] Złożony pierścień furii</PL>
+		</jewelry_t5_u_4>
+		<jewelry_t5_u_5>
+			<PL>[T2] Pierścień lojalności szermierza</PL>
+		</jewelry_t5_u_5>
+		<jewelry_t5_u_6>
+			<PL>[T2] Nietłukący pierścień spalenia</PL>
+		</jewelry_t5_u_6>
+		<jewelry_t5_u_7>
+			<PL>[T2] Odporny pierścień sprytu</PL>
+		</jewelry_t5_u_7>
+		<luckycharm_t5_c_1>
+			<PL>[T1] Spoczynkowy talizman hartu</PL>
+		</luckycharm_t5_c_1>
+		<luckycharm_t5_c_2>
+			<PL>[T1] Trucicielski talizman odmłodzenia</PL>
+		</luckycharm_t5_c_2>
+		<luckycharm_t5_c_3>
+			<PL>[T1] Gniewny talizman precyzji</PL>
+		</luckycharm_t5_c_3>
+		<luckycharm_t5_c_4>
+			<PL>[T1] Piekielny talizman spalenia</PL>
+		</luckycharm_t5_c_4>
+		<luckycharm_t5_c_5>
+			<PL>[T1] Odrażający talizman zatrucia</PL>
+		</luckycharm_t5_c_5>
+		<luckycharm_t5_r_1>
+			<PL>[T3] Fomoriański kieł wiedźmy</PL>
+		</luckycharm_t5_r_1>
+		<luckycharm_t5_r_2>
+			<PL>[T3] Ręka wisielca</PL>
+		</luckycharm_t5_r_2>
+		<luckycharm_t5_u_1>
+			<PL>[T2] Precyzyjny talizman kinezy</PL>
+		</luckycharm_t5_u_1>
+		<luckycharm_t5_u_2>
+			<PL>[T2] Talizman uniku berserka</PL>
+		</luckycharm_t5_u_2>
+		<luckycharm_t5_u_3>
+			<PL>[T2] Sprawny talizman furii</PL>
+		</luckycharm_t5_u_3>
+		<luckycharm_t5_u_4>
+			<PL>[T2] Trucicielski talizman infekcji</PL>
+		</luckycharm_t5_u_4>
+		<manuscript_t5_c_1>
+			<PL>[T1] Zamarznięty manuskrypt przeszycia</PL>
+		</manuscript_t5_c_1>
+		<manuscript_t5_c_2>
+			<PL>[T1] Druzgocący manuskrypt wycieńczenia</PL>
+		</manuscript_t5_c_2>
+		<manuscript_t5_c_3>
+			<PL>[T1] Mocny manuskrypt krzepnięcia</PL>
+		</manuscript_t5_c_3>
+		<manuscript_t5_c_4>
+			<PL>[T1] Wzmacniający manuskrypt odmłodzenia</PL>
+		</manuscript_t5_c_4>
+		<manuscript_t5_c_5>
+			<PL>[T1] Błogosławiony manuskrypt hartu</PL>
+		</manuscript_t5_c_5>
+		<manuscript_t5_r_1>
+			<PL>[T3] Zagubione zwoje Cailleach</PL>
+		</manuscript_t5_r_1>
+		<manuscript_t5_r_2>
+			<PL>[T3] Pisma Glanisa</PL>
+		</manuscript_t5_r_2>
+		<manuscript_t5_r_3>
+			<PL>Tłumiący manuskrypt polarny</PL>
+		</manuscript_t5_r_3>
+		<manuscript_t5_u_1>
+			<PL>[T2] Zamarznięty manuskrypt łamacza tarcz</PL>
+		</manuscript_t5_u_1>
+		<manuscript_t5_u_2>
+			<PL>[T2] Wzmacniający manuskrypt wycieńczenia</PL>
+		</manuscript_t5_u_2>
+		<manuscript_t5_u_3>
+			<PL>[T2] Odporny manuskrypt furii</PL>
+		</manuscript_t5_u_3>
+		<manuscript_t5_u_4>
+			<PL>[T2] Błogosławiony manuskrypt opanowania</PL>
+		</manuscript_t5_u_4>
+		<oathstone_t5_c_1>
+			<PL>[T1] Ochronny kamień przysięgi obrońcy</PL>
+		</oathstone_t5_c_1>
+		<oathstone_t5_c_2>
+			<PL>[T1] Trwały kamień przysięgi prowokacji</PL>
+		</oathstone_t5_c_2>
+		<oathstone_t5_c_3>
+			<PL>[T1] Odporny kamień przysięgi oporu</PL>
+		</oathstone_t5_c_3>
+		<oathstone_t5_c_4>
+			<PL>[T1] Nasycony kamień przysięgi destrukcji</PL>
+		</oathstone_t5_c_4>
+		<oathstone_t5_c_5>
+			<PL>[T1] Kinetyczny kamień szarży</PL>
+		</oathstone_t5_c_5>
+		<oathstone_t5_r_1>
+			<PL>[T3] Przysięga czempiona</PL>
+		</oathstone_t5_r_1>
+		<oathstone_t5_r_2>
+			<PL>[T3] Przysięga herolda</PL>
+		</oathstone_t5_r_2>
+		<oathstone_t5_u_1>
+			<PL>[T2] Nietłukący kamień przysięgi furii</PL>
+		</oathstone_t5_u_1>
+		<oathstone_t5_u_2>
+			<PL>[T2] Wytrzymały kamień wycieńczenia</PL>
+		</oathstone_t5_u_2>
+		<oathstone_t5_u_3>
+			<PL>[T2] Strzałoodporny kamień przysięgi obrońcy</PL>
+		</oathstone_t5_u_3>
+		<oathstone_t5_u_4>
+			<PL>[T2] Napastniczy kamień przysięgi prowokacji</PL>
+		</oathstone_t5_u_4>
+		<provision_t5_c_1>
+			<PL>[T1] Usidlający prowiant furii</PL>
+		</provision_t5_c_1>
+		<provision_t5_c_2>
+			<PL>[T1] Prowiant silnego nożownika</PL>
+		</provision_t5_c_2>
+		<provision_t5_c_3>
+			<PL>[T1] Prowiant wycieńczonego trapera</PL>
+		</provision_t5_c_3>
+		<provision_t5_c_4>
+			<PL>[T1] Prowiant przeszywającego łowcy czaszek</PL>
+		</provision_t5_c_4>
+		<provision_t5_c_5>
+			<PL>[T1] Prowiant krwawego trapera</PL>
+		</provision_t5_c_5>
+		<provision_t5_r_1>
+			<PL>[T3] Róg Cernunnosa</PL>
+		</provision_t5_r_1>
+		<provision_t5_r_2>
+			<PL>[T3] Narzędzia myśliwego</PL>
+		</provision_t5_r_2>
+		<provision_t5_u_1>
+			<PL>[T2] Niebezpieczny prowiant uwięzienia</PL>
+		</provision_t5_u_1>
+		<provision_t5_u_2>
+			<PL>[T2] Agresywny prowiant kinezy</PL>
+		</provision_t5_u_2>
+		<provision_t5_u_3>
+			<PL>[T2] Prowiant silnego łamacza tarcz</PL>
+		</provision_t5_u_3>
+		<provision_t5_u_4>
+			<PL>[T2] Lekki prowiant podstępu</PL>
+		</provision_t5_u_4>
+		<staff1_t5_c_1>
+			<PL>[T1] Sprytna runa potęgi</PL>
+		</staff1_t5_c_1>
+		<staff1_t5_c_2>
+			<PL>[T1] Wzmacniająca runa precyzji</PL>
+		</staff1_t5_c_2>
+		<staff1_t5_c_3>
+			<PL>[T1] Krótkodystansowa runa eksplozji</PL>
+		</staff1_t5_c_3>
+		<staff1_t5_c_4>
+			<PL>[T1] Opanowana runa strugacza skór</PL>
+		</staff1_t5_c_4>
+		<staff1_t5_c_5>
+			<PL>[T1] Zwęglająca runa spalenia</PL>
+		</staff1_t5_c_5>
+		<staff1_t5_r_1>
+			<PL>[T3] Przeklęta runa Caoineag</PL>
+		</staff1_t5_r_1>
+		<staff1_t5_r_2>
+			<PL>[T3] Niegasnące płomienie Aine</PL>
+		</staff1_t5_r_2>
+		<staff1_t5_r_3>
+			<PL>[T3] Piętno nieustannego biegu rzeki</PL>
+		</staff1_t5_r_3>
+		<staff1_t5_u_1>
+			<PL>[T2] Runa infekcji łamacza tarcz</PL>
+		</staff1_t5_u_1>
+		<staff1_t5_u_2>
+			<PL>[T2] Wyczerpująca krwawa runa</PL>
+		</staff1_t5_u_2>
+		<staff1_t5_u_3>
+			<PL>[T2] Odmrażającą runa nadzorcy</PL>
+		</staff1_t5_u_3>
+		<staff1_t5_u_4>
+			<PL>[T2] Strzelecka runa rzezi Fomorian</PL>
+		</staff1_t5_u_4>
+		<staff1_t5_u_5>
+			<PL>[T2] Szaleńcza runa sprytu</PL>
+		</staff1_t5_u_5>
+		<staff2_t5_c_1>
+			<PL>[T1] Szamańska runa głębokich ran</PL>
+		</staff2_t5_c_1>
+		<staff2_t5_c_2>
+			<PL>[T1] Runa strzelca-łamacza tarcz</PL>
+		</staff2_t5_c_2>
+		<staff2_t5_c_3>
+			<PL>[T1] Wybuchowa krwawa runa</PL>
+		</staff2_t5_c_3>
+		<staff2_t5_c_4>
+			<PL>[T1] Strzelecka runa przeszycia</PL>
+		</staff2_t5_c_4>
+		<staff2_t5_r_1>
+			<PL>[T3] Piętno zdeformowanej ręki</PL>
+		</staff2_t5_r_1>
+		<staff2_t5_r_2>
+			<PL>[T3] Znak większego kostura runicznego</PL>
+		</staff2_t5_r_2>
+		<staff2_t5_r_3>
+			<PL>[T3] Znak Bechuille</PL>
+		</staff2_t5_r_3>
+		<staff2_t5_r_4>
+			<PL>Skuteczna runa zemsty</PL>
+		</staff2_t5_r_4>
+		<staff2_t5_u_1>
+			<PL>[T2] Rozdzielona runa berserka</PL>
+		</staff2_t5_u_1>
+		<staff2_t5_u_2>
+			<PL>[T2] Strażnicza runa potęgi</PL>
+		</staff2_t5_u_2>
+		<staff2_t5_u_3>
+			<PL>[T2] Osłabiająca runa spalenia</PL>
+		</staff2_t5_u_3>
+		<staff2_t5_u_4>
+			<PL>[T2] Stanowcza runa krótkiego dystansu</PL>
+		</staff2_t5_u_4>
+		<sword_t5_c_1>
+			<PL>[T1] Zdradziecka runa pojedynku</PL>
+		</sword_t5_c_1>
+		<sword_t5_c_2>
+			<PL>[T1] Krwawa runa mistrza bitwy</PL>
+		</sword_t5_c_2>
+		<sword_t5_c_3>
+			<PL>[T1] Zakaźna runa mdłości</PL>
+		</sword_t5_c_3>
+		<sword_t5_c_4>
+			<PL>[T1] Zamarznięta runa patroszenia</PL>
+		</sword_t5_c_4>
+		<sword_t5_c_5>
+			<PL>[T1] Niszczycielska runa osłabienia</PL>
+		</sword_t5_c_5>
+		<sword_t5_c_6>
+			<PL>[T1] Głęboko tnąca runa cierpienia</PL>
+		</sword_t5_c_6>
+		<sword_t5_c_7>
+			<PL>[T1] Wyczerpująca runa siły</PL>
+		</sword_t5_c_7>
+		<sword_t5_r_1>
+			<PL>[T3] Znak jastrzębia</PL>
+		</sword_t5_r_1>
+		<sword_t5_r_2>
+			<PL>[T3] Piętno roześmianego boga</PL>
+		</sword_t5_r_2>
+		<sword_t5_r_3>
+			<PL>[T3] Znak zepsucia</PL>
+		</sword_t5_r_3>
+		<sword_t5_r_4>
+			<PL>[T3] Runa uboju</PL>
+		</sword_t5_r_4>
+		<sword_t5_r_5>
+			<PL>[T3] Runa profanacji</PL>
+		</sword_t5_r_5>
+		<sword_t5_u_1>
+			<PL>[T2] Osłabiająca runa głębokich ran</PL>
+		</sword_t5_u_1>
+		<sword_t5_u_2>
+			<PL>[T2] Krwawa runa gwardzisty</PL>
+		</sword_t5_u_2>
+		<sword_t5_u_3>
+			<PL>[T2] Runa sprytu płatnerza</PL>
+		</sword_t5_u_3>
+		<sword_t5_u_4>
+			<PL>[T2] Złożona runa trucizny</PL>
+		</sword_t5_u_4>
+		<sword_t5_u_5>
+			<PL>[T2] Naprawcza runa ataku</PL>
+		</sword_t5_u_5>
+		<sword_t5_u_6>
+			<PL>[T2] Kojąca runa mistrza bitwy</PL>
+		</sword_t5_u_6>
+		<sword_t5_u_7>
+			<PL>[T2] Przeszywająca runa sprytu</PL>
+		</sword_t5_u_7>
+		<th_2haxe_t5_r_1>
+			<PL>[T3] Onyksowe ostrze</PL>
+		</th_2haxe_t5_r_1>
+		<th_accessory_t5_r_1>
+			<PL>[T3] Róg do napitków sir Pétura</PL>
+		</th_accessory_t5_r_1>
+		<th_jewelry_t5_r_1>
+			<PL>[T3] Pierścień z kości wiedźmy</PL>
+		</th_jewelry_t5_r_1>
+		<th_jewelry_t5_r_2>
+			<PL>[T3] Pierścień banshee</PL>
+		</th_jewelry_t5_r_2>
+		<th_jewelry_t5_r_3>
+			<desc>
+				<PL>ZKF zawiera prawdziwą esencję fomoriańskich władców wiatru.</PL>
+			</desc>
+			<PL>[T3] Zgubny klejnot Fomorian</PL>
+		</th_jewelry_t5_r_3>
+		<th_luckycharm_t5_r_1>
+			<PL>[T3] Wspaniały talizman umarłych</PL>
+		</th_luckycharm_t5_r_1>
+		<th_sword_t5_r_1>
+			<PL>[T3] Brzdąc</PL>
+		</th_sword_t5_r_1>
+		<trophy_t5_c_1>
+			<PL>[T1] Zbrojmistrzowskie trofeum szału</PL>
+		</trophy_t5_c_1>
+		<trophy_t5_c_2>
+			<PL>[T1] Szaleńcze trofeum hartu</PL>
+		</trophy_t5_c_2>
+		<trophy_t5_c_3>
+			<PL>[T1] Gniewne trofeum szału</PL>
+		</trophy_t5_c_3>
+		<trophy_t5_c_4>
+			<PL>[T1] Sprawne trofeum uniku</PL>
+		</trophy_t5_c_4>
+		<trophy_t5_c_5>
+			<PL>[T1] Nietłukące trofeum rzezi Fomorian</PL>
+		</trophy_t5_c_5>
+		<trophy_t5_r_1>
+			<PL>[T3] Róg pobladłego jelenia</PL>
+		</trophy_t5_r_1>
+		<trophy_t5_r_2>
+			<PL>[T3] Róg pogromcy olbrzymów</PL>
+		</trophy_t5_r_2>
+		<trophy_t5_u_1>
+			<PL>[T2] Trofeum spustoszenia berserka</PL>
+		</trophy_t5_u_1>
+		<trophy_t5_u_2>
+			<PL>[T2] Wirujące krwawe trofeum</PL>
+		</trophy_t5_u_2>
+		<trophy_t5_u_3>
+			<PL>[T2] Szaleńcze trofeum pojedynku</PL>
+		</trophy_t5_u_3>
+		<trophy_t5_u_4>
+			<PL>[T2] Wściekłe trofeum sprytu</PL>
+		</trophy_t5_u_4>
+	</items>
+</Root>

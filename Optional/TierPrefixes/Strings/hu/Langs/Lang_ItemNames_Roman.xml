@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<HU>Magyar</HU>
+	</LanguageName>
+	<Languages>HU</Languages>
+	<items>
+		<lar_cacus>
+			<HU>[TL] Lár Cacus</HU>
+		</lar_cacus>
+		<lar_fulgora>
+			<HU>[TL] Lár Fulgora</HU>
+		</lar_fulgora>
+		<lar_lemure>
+			<HU>[TL] Lár Lemure</HU>
+		</lar_lemure>
+		<lar_poena>
+			<HU>[TL] Lár Poena</HU>
+		</lar_poena>
+		<lar_umbrae>
+			<HU>[TL] Lár Umbrae</HU>
+		</lar_umbrae>
+		<lar_volcanus>
+			<HU>[TL] Lár Volcanus</HU>
+		</lar_volcanus>
+	</items>
+</Root>

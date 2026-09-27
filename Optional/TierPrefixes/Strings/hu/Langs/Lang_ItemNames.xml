@@ -1,0 +1,1221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<HU>Magyar</HU>
+	</LanguageName>
+	<Languages>HU</Languages>
+	<items>
+		<1haxe_start>
+			<HU>[T0] Az Acél Rúnája</HU>
+		</1haxe_start>
+		<1hmace_start>
+			<HU>[T0] Az Acél Rúnája</HU>
+		</1hmace_start>
+		<1hsword_start>
+			<HU>[T0] Az Acél Rúnája</HU>
+		</1hsword_start>
+		<2haxe_start>
+			<HU>[T0] Az Acél Rúnája</HU>
+		</2haxe_start>
+		<2haxe_t1_c_1>
+			<HU>[T1] Metsző Rúna</HU>
+		</2haxe_t1_c_1>
+		<2haxe_t1_c_2>
+			<HU>[T1] A Véreztetés Rúnája</HU>
+		</2haxe_t1_c_2>
+		<2haxe_t1_c_3>
+			<HU>[T1] Mély Sebek Rúnája</HU>
+		</2haxe_t1_c_3>
+		<2haxe_t1_r_1>
+			<HU>[T3] Vérrel Kovácsolt Pecsét</HU>
+		</2haxe_t1_r_1>
+		<2haxe_t1_r_2>
+			<HU>[T3] A Pihenés Szent Rúnája</HU>
+		</2haxe_t1_r_2>
+		<2haxe_t1_u_1>
+			<HU>[T2] Az Élőhalott-mészáros Támadó Rúnája</HU>
+		</2haxe_t1_u_1>
+		<2haxe_t1_u_2>
+			<HU>[T2] Az Előőrs Erő Rúnája</HU>
+		</2haxe_t1_u_2>
+		<2haxe_t1_u_3>
+			<HU>[T2] A Hadvezér Dühödt harcos Rúnája</HU>
+		</2haxe_t1_u_3>
+		<2hmace_start>
+			<HU>[T0] Az Acél Rúnája</HU>
+		</2hmace_start>
+		<2hmace_t1_c_1>
+			<HU>[T1] A Sietség Rúnája</HU>
+		</2hmace_t1_c_1>
+		<2hmace_t1_c_2>
+			<HU>[T1] Élőhalott-ölő Rúna</HU>
+		</2hmace_t1_c_2>
+		<2hmace_t1_c_3>
+			<HU>[T1] Tomboló Rúna</HU>
+		</2hmace_t1_c_3>
+		<2hmace_t1_r_1>
+			<HU>[T3] Mértékletesség Jele</HU>
+		</2hmace_t1_r_1>
+		<2hmace_t1_r_2>
+			<HU>[T3] Az Óriásölő Nyoma</HU>
+		</2hmace_t1_r_2>
+		<2hmace_t1_u_1>
+			<HU>[T2] A Kimerítés Vérontó Rúnája</HU>
+		</2hmace_t1_u_1>
+		<2hmace_t1_u_2>
+			<HU>[T2] A Kezdeményező Pusztító Rúnája</HU>
+		</2hmace_t1_u_2>
+		<2hmace_t1_u_3>
+			<HU>[T2] A Hatalom Mélyre Vágó Rúnája</HU>
+		</2hmace_t1_u_3>
+		<2hsword_start>
+			<HU>[T0] Az Acél Rúnája</HU>
+		</2hsword_start>
+		<2hsword_t1_c_1>
+			<HU>[T1] A Hadvezér Rúnája</HU>
+		</2hsword_t1_c_1>
+		<2hsword_t1_c_2>
+			<HU>[T1] Az Első Vér Rúnája</HU>
+		</2hsword_t1_c_2>
+		<2hsword_t1_c_3>
+			<HU>[T1] Az Erő Rúnája</HU>
+		</2hsword_t1_c_3>
+		<2hsword_t1_r_1>
+			<HU>[T3] Aeron Ajánlata</HU>
+		</2hsword_t1_r_1>
+		<2hsword_t1_r_2>
+			<HU>[T3] A Metszés Pecsétje</HU>
+		</2hsword_t1_r_2>
+		<2hsword_t1_u_1>
+			<HU>[T2] A Fegyvermester Barázdáló Rúnája</HU>
+		</2hsword_t1_u_1>
+		<2hsword_t1_u_2>
+			<HU>[T2] A Párbaj Páncéllepte Rúnája</HU>
+		</2hsword_t1_u_2>
+		<2hsword_t1_u_3>
+			<HU>[T2] A Metszés Dühöngő Rúnája</HU>
+		</2hsword_t1_u_3>
+		<accessory_start>
+			<HU>Amulett</HU>
+		</accessory_start>
+		<accessory_t1_c_1>
+			<HU>[T1] Hősi Amulett</HU>
+		</accessory_t1_c_1>
+		<accessory_t1_c_2>
+			<HU>[T1] A Kitartás Amulettje</HU>
+		</accessory_t1_c_2>
+		<accessory_t1_c_3>
+			<HU>[T1] A Mozgékonyság Amulettje</HU>
+		</accessory_t1_c_3>
+		<accessory_t1_c_4>
+			<HU>[T1] A Védelem Amulettje</HU>
+		</accessory_t1_c_4>
+		<accessory_t1_c_5>
+			<HU>[T1] A Hadvezér Talizmánja</HU>
+		</accessory_t1_c_5>
+		<accessory_t1_c_6>
+			<HU>[T1] A Merészség Amulettje</HU>
+		</accessory_t1_c_6>
+		<accessory_t1_r_1>
+			<HU>[T3] Az Élet Medálja</HU>
+		</accessory_t1_r_1>
+		<accessory_t1_r_2>
+			<HU>[T3] Azúr Szem</HU>
+		</accessory_t1_r_2>
+		<accessory_t1_r_3>
+			<HU>[T3] A Vadásznő Medálja</HU>
+		</accessory_t1_r_3>
+		<accessory_t1_r_4>
+			<HU>[T3] Párbajozó Köve</HU>
+		</accessory_t1_r_4>
+		<accessory_t1_r_5>
+			<HU>[T3] Credne Nyaklánca</HU>
+		</accessory_t1_r_5>
+		<accessory_t1_r_6>
+			<HU>[T3] Epona Rubintos Medálja</HU>
+		</accessory_t1_r_6>
+		<accessory_t1_r_7>
+			<HU>[T3] A Látó Köve</HU>
+		</accessory_t1_r_7>
+		<accessory_t1_u_1>
+			<HU>[T2] A Harcmester Vérontó Amulettje</HU>
+		</accessory_t1_u_1>
+		<accessory_t1_u_2>
+			<HU>[T2] A Javulás Élőhalott-ölő Amulettje</HU>
+		</accessory_t1_u_2>
+		<accessory_t1_u_3>
+			<HU>[T2] A Sietség Állhatatos Amulettje</HU>
+		</accessory_t1_u_3>
+		<accessory_t1_u_4>
+			<HU>[T2] A Megtorlás Merész Amulettje</HU>
+		</accessory_t1_u_4>
+		<accessory_t1_u_5>
+			<HU>[T2] A Birkózó Kicselező Amulettje</HU>
+		</accessory_t1_u_5>
+		<accessory_t1_u_6>
+			<HU>[T2] A Pontosság Pokoli Amulettje</HU>
+		</accessory_t1_u_6>
+		<accessory_t1_u_7>
+			<HU>[T2] A Fürgeség Hűséges Amulettje</HU>
+		</accessory_t1_u_7>
+		<am_consumable_ap>
+			<HU>[T3] Sebesség Esszenciája</HU>
+		</am_consumable_ap>
+		<am_consumable_apperkill>
+			<HU>[T3] Kipusztítás Esszenciája</HU>
+		</am_consumable_apperkill>
+		<am_consumable_armour>
+			<HU>[T3] Páncél Esszenciája</HU>
+		</am_consumable_armour>
+		<am_consumable_armourbreak>
+			<HU>[T3] Zúzás Esszenciája</HU>
+		</am_consumable_armourbreak>
+		<am_consumable_bleedingdamage>
+			<HU>[T3] Vérzés Esszenciája</HU>
+		</am_consumable_bleedingdamage>
+		<am_consumable_block>
+			<HU>[T3] Megerősítés Esszenciája</HU>
+		</am_consumable_block>
+		<am_consumable_burningdamage>
+			<HU>[T3] Tűzvész Esszenciája</HU>
+		</am_consumable_burningdamage>
+		<am_consumable_damage>
+			<HU>[T3] Megsemmisítés Esszenciája</HU>
+		</am_consumable_damage>
+		<am_consumable_damagefromranged>
+			<HU>[T3] Kikerülés Esszenciája</HU>
+		</am_consumable_damagefromranged>
+		<am_consumable_dodge>
+			<HU>[T3] Kitérés Esszenciája</HU>
+		</am_consumable_dodge>
+		<am_consumable_doubledamage>
+			<HU>[T3] Csonkítás Esszenciája</HU>
+		</am_consumable_doubledamage>
+		<am_consumable_fomorianslayer>
+			<HU>[T3] Fomori-ölő Esszenciája</HU>
+		</am_consumable_fomorianslayer>
+		<am_consumable_healvitality>
+			<HU>[T3] Javulás Esszenciája</HU>
+		</am_consumable_healvitality>
+		<am_consumable_hp>
+			<HU>[T3] Élet Esszenciája</HU>
+		</am_consumable_hp>
+		<am_consumable_immunitybleeding>
+			<HU>[T3] Vérzés Immunitás Esszenciája</HU>
+		</am_consumable_immunitybleeding>
+		<am_consumable_immunityblind>
+			<HU>[T3] Látás Esszenciája</HU>
+		</am_consumable_immunityblind>
+		<am_consumable_immunityburning>
+			<HU>[T3] Perzselés Immunitás Esszenciája</HU>
+		</am_consumable_immunityburning>
+		<am_consumable_immunityknockdow>
+			<HU>[T3] Stabilitás Esszenciája</HU>
+		</am_consumable_immunityknockdow>
+		<am_consumable_immunitypoison>
+			<HU>[T3] Méreg Immunitás Esszenciája</HU>
+		</am_consumable_immunitypoison>
+		<am_consumable_immunitystun>
+			<HU>[T3] Egyensúly Esszenciája</HU>
+		</am_consumable_immunitystun>
+		<am_consumable_injurytoken>
+			<HU>[T3] Ellenállás Esszenciája</HU>
+		</am_consumable_injurytoken>
+		<am_consumable_lostslayer>
+			<HU>[T3] Elveszett Ölő Esszenciája</HU>
+		</am_consumable_lostslayer>
+		<am_consumable_mr>
+			<HU>[T3] Akaraterő Esszenciája</HU>
+		</am_consumable_mr>
+		<am_consumable_perception>
+			<HU>[T3] Észlelés Esszenciája</HU>
+		</am_consumable_perception>
+		<am_consumable_pictslayer>
+			<HU>[T3] A Pikt Ölő Esszenciája</HU>
+		</am_consumable_pictslayer>
+		<am_consumable_poisondamage>
+			<HU>[T3] Métely Esszenciája</HU>
+		</am_consumable_poisondamage>
+		<am_consumable_pr>
+			<HU>[T3] Összetétel Esszenciája</HU>
+		</am_consumable_pr>
+		<am_consumable_rangeincrease>
+			<HU>[T3] Megfigyelés Esszenciája</HU>
+		</am_consumable_rangeincrease>
+		<am_consumable_sidheslayer>
+			<HU>[T3] A Tündér Ölő Esszenciája</HU>
+		</am_consumable_sidheslayer>
+		<am_consumable_spellcraft>
+			<HU>[T3] Varázslás Esszenciája</HU>
+		</am_consumable_spellcraft>
+		<am_consumable_spellresistance>
+			<HU>[T3] Oltalmazás Esszenciája</HU>
+		</am_consumable_spellresistance>
+		<am_consumable_vitality>
+			<HU>[T3] Egészség Esszenciája</HU>
+		</am_consumable_vitality>
+		<armourheavy1_t1_c_1>
+			<HU>[T1] Életerő Pecsétje</HU>
+		</armourheavy1_t1_c_1>
+		<armourheavy1_t1_c_2>
+			<HU>[T1] Dühös Pecsét</HU>
+		</armourheavy1_t1_c_2>
+		<armourheavy1_t1_c_3>
+			<HU>[T1] Páncéllepte Pecsét</HU>
+		</armourheavy1_t1_c_3>
+		<armourheavy1_t1_c_4>
+			<HU>[T1] Fiatalítás Pecsétje</HU>
+		</armourheavy1_t1_c_4>
+		<armourheavy1_t1_c_5>
+			<HU>[T1] Kitartás Pecsétje</HU>
+		</armourheavy1_t1_c_5>
+		<armourheavy1_t1_c_6>
+			<HU>[T1] Páncélos Pecsét</HU>
+		</armourheavy1_t1_c_6>
+		<armourheavy1_t1_c_7>
+			<HU>[T1] A Védelmező Pecsétje</HU>
+		</armourheavy1_t1_c_7>
+		<armourheavy1_t1_r_1>
+			<HU>[T3] Az Őrző Nyoma</HU>
+		</armourheavy1_t1_r_1>
+		<armourheavy1_t1_r_2>
+			<HU>[T3] Tündérkohó Pecsét</HU>
+		</armourheavy1_t1_r_2>
+		<armourheavy1_t1_r_3>
+			<HU>[T3] Bosszú Szimbóluma</HU>
+		</armourheavy1_t1_r_3>
+		<armourheavy1_t1_u_1>
+			<HU>[T2] A Készenlét Bosszantó Pecsétje</HU>
+		</armourheavy1_t1_u_1>
+		<armourheavy1_t1_u_2>
+			<HU>[T2] A Merészség Páncélozott Pecsétje</HU>
+		</armourheavy1_t1_u_2>
+		<armourheavy1_t1_u_3>
+			<HU>[T2] Páncélos Páncélozott Pecsétje</HU>
+		</armourheavy1_t1_u_3>
+		<armourheavy1_t1_u_4>
+			<HU>[T2] Fegyverkovács Töltött Pecsétje</HU>
+		</armourheavy1_t1_u_4>
+		<armourheavy1_t1_u_5>
+			<HU>[T2] Tombolás Tartós Pecsétje</HU>
+		</armourheavy1_t1_u_5>
+		<armourheavy1_t1_u_6>
+			<HU>[T2] Az Elpusztíthatatlanság Dühös Pecsétje</HU>
+		</armourheavy1_t1_u_6>
+		<armourheavy1_t1_u_7>
+			<HU>[T2] A Fürgeség Állhatatos Pecsétje</HU>
+		</armourheavy1_t1_u_7>
+		<armourheavy2_t1_c_1>
+			<HU>[T1] Főzőmester Pecsétje</HU>
+		</armourheavy2_t1_c_1>
+		<armourheavy2_t1_c_2>
+			<HU>[T1] Főzet Pecsétje</HU>
+		</armourheavy2_t1_c_2>
+		<armourheavy2_t1_c_3>
+			<HU>[T1] Hősies Pecsét</HU>
+		</armourheavy2_t1_c_3>
+		<armourheavy2_t1_c_4>
+			<HU>[T1] A Mozgékonyság Pecsétje</HU>
+		</armourheavy2_t1_c_4>
+		<armourheavy2_t1_c_5>
+			<HU>[T1] Pihenés Pecsétje</HU>
+		</armourheavy2_t1_c_5>
+		<armourheavy2_t1_c_6>
+			<HU>[T1] Harag Pecsétje</HU>
+		</armourheavy2_t1_c_6>
+		<armourheavy2_t1_c_7>
+			<HU>[T1] A Merészség Pecsétje</HU>
+		</armourheavy2_t1_c_7>
+		<armourheavy2_t1_r_1>
+			<HU>[T3] Oltalmazás Isteni Rúnája</HU>
+		</armourheavy2_t1_r_1>
+		<armourheavy2_t1_r_2>
+			<HU>[T3] Aibell Jele</HU>
+		</armourheavy2_t1_r_2>
+		<armourheavy2_t1_r_3>
+			<HU>[T3] Örök-Páncél Pecsét</HU>
+		</armourheavy2_t1_r_3>
+		<armourheavy2_t1_u_1>
+			<HU>[T2] Pihenés Páncélozott Pecsétje</HU>
+		</armourheavy2_t1_u_1>
+		<armourheavy2_t1_u_2>
+			<HU>[T2] A Nyugalom Merész Pecsétje</HU>
+		</armourheavy2_t1_u_2>
+		<armourheavy2_t1_u_3>
+			<HU>[T2] Páncél Mozgékony Pecsétje</HU>
+		</armourheavy2_t1_u_3>
+		<armourheavy2_t1_u_4>
+			<HU>[T2] Megtorlás Erőteli Pecsétje</HU>
+		</armourheavy2_t1_u_4>
+		<armourheavy2_t1_u_5>
+			<HU>[T2] A Javulás Fiatalító Pecsétje</HU>
+		</armourheavy2_t1_u_5>
+		<armourheavy2_t1_u_6>
+			<HU>[T2] Az Életerő Higgadt Pecsétje</HU>
+		</armourheavy2_t1_u_6>
+		<armourheavy2_t1_u_7>
+			<HU>[T2] Az Erőszak Mozgékony Pecsétje</HU>
+		</armourheavy2_t1_u_7>
+		<armourheavy_start1>
+			<HU>[T0] Az Üllő Pecsétje</HU>
+		</armourheavy_start1>
+		<armourheavy_start2>
+			<HU>[T0] Az Üllő Pecsétje</HU>
+		</armourheavy_start2>
+		<armourlight1_t1_c_1>
+			<HU>[T1] A Merészség Pecsétje</HU>
+		</armourlight1_t1_c_1>
+		<armourlight1_t1_c_2>
+			<HU>[T1] Pihenés Pecsétje</HU>
+		</armourlight1_t1_c_2>
+		<armourlight1_t1_c_3>
+			<HU>[T1] Sasszemű Pecsét</HU>
+		</armourlight1_t1_c_3>
+		<armourlight1_t1_c_4>
+			<HU>[T1] Életerő Pecsétje</HU>
+		</armourlight1_t1_c_4>
+		<armourlight1_t1_c_5>
+			<HU>[T1] Páncélos Pecsétje</HU>
+		</armourlight1_t1_c_5>
+		<armourlight1_t1_r_1>
+			<HU>[T3] Előjel Pecsétje</HU>
+		</armourlight1_t1_r_1>
+		<armourlight1_t1_r_2>
+			<HU>[T3] Isteni Kegy Pecsétje</HU>
+		</armourlight1_t1_r_2>
+		<armourlight1_t1_r_3>
+			<HU>[T3] Élet Égisz Pecsétje</HU>
+		</armourlight1_t1_r_3>
+		<armourlight1_t1_u_1>
+			<HU>[T2] Páncélos Sas Pecsétje</HU>
+		</armourlight1_t1_u_1>
+		<armourlight1_t1_u_2>
+			<HU>[T2] Energia Merész Pecsétje</HU>
+		</armourlight1_t1_u_2>
+		<armourlight1_t1_u_3>
+			<HU>[T2] A Pontosság Védelmező Pecsétje</HU>
+		</armourlight1_t1_u_3>
+		<armourlight1_t1_u_4>
+			<HU>[T2] A Merészség Mozgékony Pecsétje</HU>
+		</armourlight1_t1_u_4>
+		<armourlight1_t1_u_5>
+			<HU>[T2] Főzőmester Elsősegély Pecsétje</HU>
+		</armourlight1_t1_u_5>
+		<armourlight2_t1_c_1>
+			<HU>[T1] Főzet Pecsétje</HU>
+		</armourlight2_t1_c_1>
+		<armourlight2_t1_c_2>
+			<HU>[T1] Harag Pecsétje</HU>
+		</armourlight2_t1_c_2>
+		<armourlight2_t1_c_3>
+			<HU>[T1] A főzőmester Pecsétje</HU>
+		</armourlight2_t1_c_3>
+		<armourlight2_t1_c_4>
+			<HU>[T1] Sietség Pecsétje</HU>
+		</armourlight2_t1_c_4>
+		<armourlight2_t1_c_5>
+			<HU>[T1] Csapás Pecsétje</HU>
+		</armourlight2_t1_c_5>
+		<armourlight2_t1_r_1>
+			<HU>[T3] Áldott Páncél Pecsét</HU>
+		</armourlight2_t1_r_1>
+		<armourlight2_t1_r_2>
+			<HU>[T3] Pusztulásra ítélt Hős Nyoma</HU>
+		</armourlight2_t1_r_2>
+		<armourlight2_t1_r_3>
+			<HU>[T3] Mennyei Égisz Pecsét</HU>
+		</armourlight2_t1_r_3>
+		<armourlight2_t1_r_4>
+			<HU>[T3] A Meg nem Tört Jele</HU>
+		</armourlight2_t1_r_4>
+		<armourlight2_t1_u_1>
+			<HU>[T2] Páncél Fiatalító Pecsétje</HU>
+		</armourlight2_t1_u_1>
+		<armourlight2_t1_u_2>
+			<HU>[T2] Elpusztíthatatlanság Páncélos Pecsétje</HU>
+		</armourlight2_t1_u_2>
+		<armourlight2_t1_u_3>
+			<HU>[T2] Fegyverkovács Kitartó Pecsétje</HU>
+		</armourlight2_t1_u_3>
+		<armourlight2_t1_u_4>
+			<HU>[T2] Páncél Merész Pecsétje</HU>
+		</armourlight2_t1_u_4>
+		<armourlight2_t1_u_5>
+			<HU>[T2] Az Állhatatosság Fürge Pecsétje</HU>
+		</armourlight2_t1_u_5>
+		<armourlight_start1>
+			<HU>[T0] Vaddisznó Pecsétje</HU>
+		</armourlight_start1>
+		<armourlight_start2>
+			<HU>[T0] Vaddisznó Pecsétje</HU>
+		</armourlight_start2>
+		<armourmedium1_t1_c_1>
+			<HU>[T1] Életerő Pecsétje</HU>
+		</armourmedium1_t1_c_1>
+		<armourmedium1_t1_c_2>
+			<HU>[T1] Fiatalítás Pecsétje</HU>
+		</armourmedium1_t1_c_2>
+		<armourmedium1_t1_c_3>
+			<HU>[T1] Hősiesség Pecsétje</HU>
+		</armourmedium1_t1_c_3>
+		<armourmedium1_t1_c_4>
+			<HU>[T1] Páncélos Pecsét</HU>
+		</armourmedium1_t1_c_4>
+		<armourmedium1_t1_c_5>
+			<HU>[T1] Főzet Pecsétje</HU>
+		</armourmedium1_t1_c_5>
+		<armourmedium1_t1_r_1>
+			<HU>[T3] Belenus Nyoma</HU>
+		</armourmedium1_t1_r_1>
+		<armourmedium1_t1_r_2>
+			<HU>[T3] Sors Nagyobb Rúnája</HU>
+		</armourmedium1_t1_r_2>
+		<armourmedium1_t1_r_3>
+			<HU>[T3] Tollkohó Pecsét</HU>
+		</armourmedium1_t1_r_3>
+		<armourmedium1_t1_u_1>
+			<HU>[T2] Pihenés Páncélozott Pecsétje</HU>
+		</armourmedium1_t1_u_1>
+		<armourmedium1_t1_u_2>
+			<HU>[T2] Készenlét Merész Pecsétje</HU>
+		</armourmedium1_t1_u_2>
+		<armourmedium1_t1_u_3>
+			<HU>[T2] A Fürgeség Szilánkmentes Pecsétje</HU>
+		</armourmedium1_t1_u_3>
+		<armourmedium1_t1_u_4>
+			<HU>[T2] Merészség Páncélozott Pecsétje</HU>
+		</armourmedium1_t1_u_4>
+		<armourmedium1_t1_u_5>
+			<HU>[T2] Fegyverkovács Páncélos Pecsétje</HU>
+		</armourmedium1_t1_u_5>
+		<armourmedium2_t1_c_1>
+			<HU>[T1] Pihenés Pecsétje</HU>
+		</armourmedium2_t1_c_1>
+		<armourmedium2_t1_c_2>
+			<HU>[T1] Tartós Pecsét</HU>
+		</armourmedium2_t1_c_2>
+		<armourmedium2_t1_c_3>
+			<HU>[T1] Főzőmester Pecsétje</HU>
+		</armourmedium2_t1_c_3>
+		<armourmedium2_t1_c_4>
+			<HU>[T1] Páncéllepte Pecsét</HU>
+		</armourmedium2_t1_c_4>
+		<armourmedium2_t1_c_5>
+			<HU>[T1] Merészség Pecsétje</HU>
+		</armourmedium2_t1_c_5>
+		<armourmedium2_t1_r_1>
+			<HU>[T3] Megtorlás Nyoma</HU>
+		</armourmedium2_t1_r_1>
+		<armourmedium2_t1_r_2>
+			<HU>[T3] Nagyobb Fegyvermester Rúna</HU>
+		</armourmedium2_t1_r_2>
+		<armourmedium2_t1_r_3>
+			<HU>[T3] Fegyvermester Pihenése</HU>
+		</armourmedium2_t1_r_3>
+		<armourmedium2_t1_u_1>
+			<HU>[T2] A Dühöngés Gyógyító Pecsétje</HU>
+		</armourmedium2_t1_u_1>
+		<armourmedium2_t1_u_2>
+			<HU>[T2] Ravaszság Erőteli Pecsétje</HU>
+		</armourmedium2_t1_u_2>
+		<armourmedium2_t1_u_3>
+			<HU>[T2] Az Erőszak Páncélozott Pecsétje</HU>
+		</armourmedium2_t1_u_3>
+		<armourmedium2_t1_u_4>
+			<HU>[T2] Lopakodás Merész Pecsétje</HU>
+		</armourmedium2_t1_u_4>
+		<armourmedium2_t1_u_5>
+			<HU>[T2] Elsősegély Fiatalító Pecsétje</HU>
+		</armourmedium2_t1_u_5>
+		<armourmedium_start1>
+			<HU>[T0] A Kalapács Pecsétje</HU>
+		</armourmedium_start1>
+		<armourmedium_start2>
+			<HU>[T0] A Kalapács Pecsétje</HU>
+		</armourmedium_start2>
+		<artifact_start>
+			<HU>Átok totem</HU>
+		</artifact_start>
+		<artifact_t1_c_1>
+			<HU>[T1] Heves Varázstárgy</HU>
+		</artifact_t1_c_1>
+		<artifact_t1_c_2>
+			<HU>[T1] Páncélos Varázstárgy</HU>
+		</artifact_t1_c_2>
+		<artifact_t1_c_3>
+			<HU>[T1] Csapás Varázstárgya</HU>
+		</artifact_t1_c_3>
+		<artifact_t1_c_4>
+			<HU>[T1] Vészjósló Varázstárgy</HU>
+		</artifact_t1_c_4>
+		<artifact_t1_c_5>
+			<HU>[T1] A Barázdálás Varázstárgya</HU>
+		</artifact_t1_c_5>
+		<artifact_t1_r_1>
+			<HU>[T3] Éteri Edény</HU>
+		</artifact_t1_r_1>
+		<artifact_t1_r_2>
+			<HU>[T3] Mug Ruith Hamvai</HU>
+		</artifact_t1_r_2>
+		<artifact_t1_u_1>
+			<HU>[T2] Berzerker Erő Varázstárgya</HU>
+		</artifact_t1_u_1>
+		<artifact_t1_u_2>
+			<HU>[T2] A Vészjósló Közvetlen Varázstárgya</HU>
+		</artifact_t1_u_2>
+		<artifact_t1_u_3>
+			<HU>[T2] Kín Gonosz Varázstárgya</HU>
+		</artifact_t1_u_3>
+		<artifact_t1_u_4>
+			<HU>[T2] Erő Pusztító Varázstárgya</HU>
+		</artifact_t1_u_4>
+		<axe_t1_c_1>
+			<HU>[T1] Élőhalott-ölő Rúna</HU>
+		</axe_t1_c_1>
+		<axe_t1_c_2>
+			<HU>[T1] Mély Sebek Rúnája</HU>
+		</axe_t1_c_2>
+		<axe_t1_c_3>
+			<HU>[T1] Az Erő Rúnája</HU>
+		</axe_t1_c_3>
+		<axe_t1_c_4>
+			<HU>[T1] Egyensúly Rúnája</HU>
+		</axe_t1_c_4>
+		<axe_t1_c_5>
+			<HU>[T1] A Védelmező Rúnája</HU>
+		</axe_t1_c_5>
+		<axe_t1_r_1>
+			<HU>[T3] Kasza Pecsét</HU>
+		</axe_t1_r_1>
+		<axe_t1_r_2>
+			<HU>[T3] Arató Nyoma</HU>
+		</axe_t1_r_2>
+		<axe_t1_r_3>
+			<HU>[T3] A Mártír Bátorsága</HU>
+		</axe_t1_r_3>
+		<axe_t1_u_1>
+			<HU>[T2] Vérszívás Fiatalító Rúnája</HU>
+		</axe_t1_u_1>
+		<axe_t1_u_2>
+			<HU>[T2] Előőrs Düh Rúnája</HU>
+		</axe_t1_u_2>
+		<axe_t1_u_3>
+			<HU>[T2] Az Orgyilkos Erőszak Rúnája</HU>
+		</axe_t1_u_3>
+		<axe_t1_u_4>
+			<HU>[T2] A Kín Merész Pecsétje</HU>
+		</axe_t1_u_4>
+		<axe_t1_u_5>
+			<HU>[T2] Higgadtság Erősítő Rúnája</HU>
+		</axe_t1_u_5>
+		<bow_t1_c_1>
+			<HU>[T1] A Birkózás Rúnája</HU>
+		</bow_t1_c_1>
+		<bow_t1_c_2>
+			<HU>[T1] A Lövész Rúnája</HU>
+		</bow_t1_c_2>
+		<bow_t1_c_3>
+			<HU>[T1] A védelmező Rúnája</HU>
+		</bow_t1_c_3>
+		<bow_t1_c_4>
+			<HU>[T1] Bőrbarázdáló Rúna</HU>
+		</bow_t1_c_4>
+		<bow_t1_r_1>
+			<HU>[T3] Agrona Nyila Rúna</HU>
+		</bow_t1_r_1>
+		<bow_t1_r_2>
+			<HU>[T3] Az Íjász Jele</HU>
+		</bow_t1_r_2>
+		<bow_t1_r_3>
+			<HU>[T3] Vadásznő Dühe</HU>
+		</bow_t1_r_3>
+		<bow_t1_u_1>
+			<HU>[T2] Rövid Távú Düh Rúna</HU>
+		</bow_t1_u_1>
+		<bow_t1_u_2>
+			<HU>[T2] A Kimerítés Mozgékony Rúnája</HU>
+		</bow_t1_u_2>
+		<bow_t1_u_3>
+			<HU>[T2] Az Erő Pusztító Rúnája</HU>
+		</bow_t1_u_3>
+		<bow_t1_u_4>
+			<HU>[T2] A Kezdeményező Higgadtság Rúnája</HU>
+		</bow_t1_u_4>
+		<console_earlybird_ring>
+			<desc>
+				<HU>Csak az a néhány első szabadíthatja el az erejét, akik siettek megmenteni Avalont a nehéz időkben...</HU>
+			</desc>
+			<HU>[T3] A Koránkelő Gyűrűje</HU>
+		</console_earlybird_ring>
+		<crossbow_t1_c_1>
+			<HU>[T1] Méreg Rúnája</HU>
+		</crossbow_t1_c_1>
+		<crossbow_t1_c_2>
+			<HU>[T1] Betegség Rúnája</HU>
+		</crossbow_t1_c_2>
+		<crossbow_t1_c_3>
+			<HU>[T1] Pokoli Rúna</HU>
+		</crossbow_t1_c_3>
+		<crossbow_t1_c_4>
+			<HU>[T1] Hátbaszúró Rúnája</HU>
+		</crossbow_t1_c_4>
+		<crossbow_t1_c_5>
+			<HU>[T1] Elszenesítés Rúnája</HU>
+		</crossbow_t1_c_5>
+		<crossbow_t1_r_1>
+			<HU>[T3] Szívkereső Rúna</HU>
+		</crossbow_t1_r_1>
+		<crossbow_t1_r_2>
+			<HU>[T3] Végzet Érintése</HU>
+		</crossbow_t1_r_2>
+		<crossbow_t1_r_3>
+			<HU>[T3] Halál Rúnája</HU>
+		</crossbow_t1_r_3>
+		<crossbow_t1_u_1>
+			<HU>[T2] A Berzerker Mérges Rúnája</HU>
+		</crossbow_t1_u_1>
+		<crossbow_t1_u_2>
+			<HU>[T2] Mesterlövész Egyensúlyozó Rúnája</HU>
+		</crossbow_t1_u_2>
+		<crossbow_t1_u_3>
+			<HU>[T2] A Sas Dühöngő Rúnája</HU>
+		</crossbow_t1_u_3>
+		<crossbow_t1_u_4>
+			<HU>[T2] Perzselés Elszenesítő Rúnája</HU>
+		</crossbow_t1_u_4>
+		<crossbow_t1_u_5>
+			<HU>[T2] Betegség Hatalmas Rúnája</HU>
+		</crossbow_t1_u_5>
+		<isoldesneklace>
+			<HU>[T3] Isolde Nyaklánca</HU>
+		</isoldesneklace>
+		<jewelry_start>
+			<HU>Ékes Gyűrű</HU>
+		</jewelry_start>
+		<jewelry_t1_c_1>
+			<HU>[T1] A Fürgeség Gyűrűje</HU>
+		</jewelry_t1_c_1>
+		<jewelry_t1_c_2>
+			<HU>[T1] Elszenesítő Gyűrű</HU>
+		</jewelry_t1_c_2>
+		<jewelry_t1_c_3>
+			<HU>[T1] A Védelmező Gyűrűje</HU>
+		</jewelry_t1_c_3>
+		<jewelry_t1_c_4>
+			<HU>[T1] Pokoli Gyűrű</HU>
+		</jewelry_t1_c_4>
+		<jewelry_t1_c_5>
+			<HU>[T1] Csapás Gyűrűje</HU>
+		</jewelry_t1_c_5>
+		<jewelry_t1_c_6>
+			<HU>[T1] Erő Gyűrűje</HU>
+		</jewelry_t1_c_6>
+		<jewelry_t1_r_1>
+			<HU>[T3] Megtizedelés Gyűrűje</HU>
+		</jewelry_t1_r_1>
+		<jewelry_t1_r_2>
+			<HU>[T3] Tűzkő Gyűrű</HU>
+		</jewelry_t1_r_2>
+		<jewelry_t1_r_3>
+			<HU>[T3] Credne Gyűrűje</HU>
+		</jewelry_t1_r_3>
+		<jewelry_t1_r_4>
+			<HU>[T3] Gondolkodókő Gyűrű</HU>
+		</jewelry_t1_r_4>
+		<jewelry_t1_r_5>
+			<HU>[T3] Párbajozó Gyűrűje</HU>
+		</jewelry_t1_r_5>
+		<jewelry_t1_r_6>
+			<HU>[T3] Istenkovács Ékszer</HU>
+		</jewelry_t1_r_6>
+		<jewelry_t1_r_7>
+			<HU>[T3] Crom Cruach Vérköve</HU>
+		</jewelry_t1_r_7>
+		<jewelry_t1_u_1>
+			<HU>[T2] Életerő Szilárd Gyűrűje</HU>
+		</jewelry_t1_u_1>
+		<jewelry_t1_u_2>
+			<HU>[T2] Első Vér Sietős Gyűrűje</HU>
+		</jewelry_t1_u_2>
+		<jewelry_t1_u_3>
+			<HU>[T2] A Kiszabadult Mérges Gyűrűje</HU>
+		</jewelry_t1_u_3>
+		<jewelry_t1_u_4>
+			<HU>[T2] A Párbaj Sasszemű Gyűrűje</HU>
+		</jewelry_t1_u_4>
+		<jewelry_t1_u_5>
+			<HU>[T2] Ravaszság Émelyítő Gyűrűje</HU>
+		</jewelry_t1_u_5>
+		<jewelry_t1_u_6>
+			<HU>[T2] A Hátbaszúró Vérszívő Gyűrűje</HU>
+		</jewelry_t1_u_6>
+		<jewelry_t1_u_7>
+			<HU>[T2] Védelmező Pajzstörő Gyűrűje</HU>
+		</jewelry_t1_u_7>
+		<luckycharm_start>
+			<HU>Szerencse Érme</HU>
+		</luckycharm_start>
+		<luckycharm_t1_c_1>
+			<HU>[T1] A Fürgeség Szerencse Medálja</HU>
+		</luckycharm_t1_c_1>
+		<luckycharm_t1_c_2>
+			<HU>[T1] Lángoló Szerencse Medál</HU>
+		</luckycharm_t1_c_2>
+		<luckycharm_t1_c_3>
+			<HU>[T1] Elszenesítő Szerencse Medál</HU>
+		</luckycharm_t1_c_3>
+		<luckycharm_t1_c_4>
+			<HU>[T1] Betegség Szerencse Medál</HU>
+		</luckycharm_t1_c_4>
+		<luckycharm_t1_c_5>
+			<HU>[T1] Mérges Szerencse Medál</HU>
+		</luckycharm_t1_c_5>
+		<luckycharm_t1_r_1>
+			<HU>[T3] Vadász Szerencsevarázsa</HU>
+		</luckycharm_t1_r_1>
+		<luckycharm_t1_r_2>
+			<HU>[T3] Kovács Tűzvarázsa</HU>
+		</luckycharm_t1_r_2>
+		<luckycharm_t1_u_1>
+			<HU>[T2] A Pajzstörés Metsző Szerencse Medálja</HU>
+		</luckycharm_t1_u_1>
+		<luckycharm_t1_u_2>
+			<HU>[T2] A Higgadtság Sasszemű Szerencse Medálja</HU>
+		</luckycharm_t1_u_2>
+		<luckycharm_t1_u_3>
+			<HU>[T2] Lövész Rövid Távú Szerencse Medálja</HU>
+		</luckycharm_t1_u_3>
+		<luckycharm_t1_u_4>
+			<HU>[T2] Kicselezés Szerencse Medálja</HU>
+		</luckycharm_t1_u_4>
+		<mace_t1_c_1>
+			<HU>[T1] Méreg Rúnája</HU>
+		</mace_t1_c_1>
+		<mace_t1_c_2>
+			<HU>[T1] Hátbaszúró Rúnája</HU>
+		</mace_t1_c_2>
+		<mace_t1_c_3>
+			<HU>[T1] Tomboló Rúna</HU>
+		</mace_t1_c_3>
+		<mace_t1_c_4>
+			<HU>[T1] Orgyilkosság Rúnája</HU>
+		</mace_t1_c_4>
+		<mace_t1_r_1>
+			<HU>[T3] Vetélytárs Bánata</HU>
+		</mace_t1_r_1>
+		<mace_t1_r_2>
+			<HU>[T3] A Száműzetés Jele</HU>
+		</mace_t1_r_2>
+		<mace_t1_r_3>
+			<HU>[T3] Lugh Nyoma</HU>
+		</mace_t1_r_3>
+		<mace_t1_u_1>
+			<HU>[T2] Mély Sebek Dühöngő Rúnája</HU>
+		</mace_t1_u_1>
+		<mace_t1_u_2>
+			<HU>[T2] Harcmester Düh Rúnája</HU>
+		</mace_t1_u_2>
+		<mace_t1_u_3>
+			<HU>[T2] A Hatalom Metsző Rúnája</HU>
+		</mace_t1_u_3>
+		<mace_t1_u_4>
+			<HU>[T2] A Berzerker Mélyre Vágó Rúnája</HU>
+		</mace_t1_u_4>
+		<manuscript_start>
+			<HU>Kézirat</HU>
+		</manuscript_start>
+		<manuscript_t1_c_1>
+			<HU>[T1] Az Energia Kézirata</HU>
+		</manuscript_t1_c_1>
+		<manuscript_t1_c_2>
+			<HU>[T1] A Kitartás Kézirata</HU>
+		</manuscript_t1_c_2>
+		<manuscript_t1_c_3>
+			<HU>[T1] Az Élőhalott-ölő Kézirata</HU>
+		</manuscript_t1_c_3>
+		<manuscript_t1_c_4>
+			<HU>[T1] A Fürgeség Kézirata</HU>
+		</manuscript_t1_c_4>
+		<manuscript_t1_c_5>
+			<HU>[T1] A Főzőmester Kézirata</HU>
+		</manuscript_t1_c_5>
+		<manuscript_t1_r_1>
+			<HU>[T3] Az Egybefolyás Könyve</HU>
+		</manuscript_t1_r_1>
+		<manuscript_t1_r_2>
+			<HU>[T3] Donn Végrendelete</HU>
+		</manuscript_t1_r_2>
+		<manuscript_t1_u_1>
+			<HU>[T2] Az Áldások Páncélozott Kézirata</HU>
+		</manuscript_t1_u_1>
+		<manuscript_t1_u_2>
+			<HU>[T2] Az Ellenállás Élőhalott-ölő Kézirata</HU>
+		</manuscript_t1_u_2>
+		<manuscript_t1_u_3>
+			<HU>[T2] Az Elsősegély Erőteli Kézirata</HU>
+		</manuscript_t1_u_3>
+		<manuscript_t1_u_4>
+			<HU>[T2] Az Állhatatosság Töltött Kézirata</HU>
+		</manuscript_t1_u_4>
+		<oathstone_start>
+			<HU>Főzetek Esküköve</HU>
+		</oathstone_start>
+		<oathstone_t1_c_1>
+			<HU>[T1] Főzet Esküköve</HU>
+		</oathstone_t1_c_1>
+		<oathstone_t1_c_2>
+			<HU>[T1] A Birkózó Esküköve</HU>
+		</oathstone_t1_c_2>
+		<oathstone_t1_c_3>
+			<HU>[T1] Bőrbarázdáló Eskükő</HU>
+		</oathstone_t1_c_3>
+		<oathstone_t1_c_4>
+			<HU>[T1] Hősiesség Esküköve</HU>
+		</oathstone_t1_c_4>
+		<oathstone_t1_c_5>
+			<HU>[T1] Erőt adó Eskükő</HU>
+		</oathstone_t1_c_5>
+		<oathstone_t1_r_1>
+			<HU>[T3] Üllőkő</HU>
+		</oathstone_t1_r_1>
+		<oathstone_t1_r_2>
+			<HU>[T3] Visszhangok Hegyi Kristálya</HU>
+		</oathstone_t1_r_2>
+		<oathstone_t1_u_1>
+			<HU>[T2] Oltalmazás Merész Esküköve</HU>
+		</oathstone_t1_u_1>
+		<oathstone_t1_u_2>
+			<HU>[T2] Lövedékálló Páncélos Eskükő</HU>
+		</oathstone_t1_u_2>
+		<oathstone_t1_u_3>
+			<HU>[T2] Főzőmester Szilárd Esküköve</HU>
+		</oathstone_t1_u_3>
+		<oathstone_t1_u_4>
+			<HU>[T2] A Javulás Pihenő Esküköve</HU>
+		</oathstone_t1_u_4>
+		<potion_armour>
+			<HU>[T0] Páncél Főzet</HU>
+		</potion_armour>
+		<potion_armour_large>
+			<HU>[T2] Nagy Páncél főzet</HU>
+		</potion_armour_large>
+		<potion_bless>
+			<HU>[T0] Áldás Főzet</HU>
+		</potion_bless>
+		<potion_bless_large>
+			<HU>[T2] Nagy Áldás Főzet</HU>
+		</potion_bless_large>
+		<potion_haste>
+			<HU>[T0] Sietség Főzet</HU>
+		</potion_haste>
+		<potion_haste_large>
+			<HU>[T2] Nagy Sietség Főzet</HU>
+		</potion_haste_large>
+		<potion_healing>
+			<HU>[T0] Gyógyító Főzet</HU>
+		</potion_healing>
+		<potion_healing_large>
+			<HU>[T2] Nagy Gyógyító Főzet</HU>
+		</potion_healing_large>
+		<potion_invisibility>
+			<HU>[T2] Láthatatlanság Főzet</HU>
+		</potion_invisibility>
+		<potion_refreshing>
+			<HU>[T2] Frissítő Főzet</HU>
+		</potion_refreshing>
+		<potion_stoneskin>
+			<HU>[T0] Kőburok Főzet</HU>
+		</potion_stoneskin>
+		<potion_stoneskin_large>
+			<HU>[T2] Nagy Kőburok főzet</HU>
+		</potion_stoneskin_large>
+		<provision_start>
+			<HU>Köpeny</HU>
+		</provision_start>
+		<provision_t1_c_1>
+			<HU>[T1] Sietség Ellátmánya</HU>
+		</provision_t1_c_1>
+		<provision_t1_c_2>
+			<HU>[T1] Hátbaszúrás Ellátmánya</HU>
+		</provision_t1_c_2>
+		<provision_t1_c_3>
+			<HU>[T1] Prémvadász Ellátmánya</HU>
+		</provision_t1_c_3>
+		<provision_t1_c_4>
+			<HU>[T1] Lappangó Ellátmánya</HU>
+		</provision_t1_c_4>
+		<provision_t1_c_5>
+			<HU>[T1] Harag Ellátmánya</HU>
+		</provision_t1_c_5>
+		<provision_t1_r_1>
+			<HU>[T3] Kutató Szem</HU>
+		</provision_t1_r_1>
+		<provision_t1_r_2>
+			<HU>[T3] Előőrs Távcsöve</HU>
+		</provision_t1_r_2>
+		<provision_t1_u_1>
+			<HU>[T2] Aljas Lopakodás Ellátmánya</HU>
+		</provision_t1_u_1>
+		<provision_t1_u_2>
+			<HU>[T2] Rejtés Elfogó Ellátmánya</HU>
+		</provision_t1_u_2>
+		<provision_t1_u_3>
+			<HU>[T2] Kinézis Fürge Ellátmánya</HU>
+		</provision_t1_u_3>
+		<provision_t1_u_4>
+			<HU>[T2] Aljas Lappangás Ellátmánya</HU>
+		</provision_t1_u_4>
+		<rangedbow_start>
+			<HU>[T0] A Lövész Rúnája</HU>
+		</rangedbow_start>
+		<rangedcrossbow_start>
+			<HU>[T0] A Lövész Rúnája</HU>
+		</rangedcrossbow_start>
+		<resource_gemcommon>
+			<HU>[T0] Smaragdok ládája</HU>
+		</resource_gemcommon>
+		<resource_gemrelic>
+			<HU>[T3] Topáz</HU>
+		</resource_gemrelic>
+		<resource_gemuncommon>
+			<HU>[T2] Zafírok doboza</HU>
+		</resource_gemuncommon>
+		<resource_relicdust>
+			<HU>[T3] Relikviapor batyuja</HU>
+		</resource_relicdust>
+		<scroll_dash>
+			<HU>[T2] Lendülés Tekercse</HU>
+		</scroll_dash>
+		<scroll_fireblast>
+			<HU>[T2] Tűz Robbanás Tekercse</HU>
+		</scroll_fireblast>
+		<scroll_icewall>
+			<HU>[T2] Jég Fal Tekercse</HU>
+		</scroll_icewall>
+		<scroll_recuperate>
+			<HU>[T2] Felépülés Tekercse</HU>
+		</scroll_recuperate>
+		<scroll_taunt>
+			<HU>[T2] Gúnyolás Tekercse</HU>
+		</scroll_taunt>
+		<scroll_thunderbolt>
+			<HU>[T2] Villámcsapás Tekercse</HU>
+		</scroll_thunderbolt>
+		<scroll_wallofflame>
+			<HU>[T2] Láng Fal Tekercse</HU>
+		</scroll_wallofflame>
+		<sirdagonet_masterofpotions_potion>
+			<HU>[T0] Frissítő Keverék</HU>
+		</sirdagonet_masterofpotions_potion>
+		<staff1_t1_c_1>
+			<HU>[T1] Egyensúly Rúnája</HU>
+		</staff1_t1_c_1>
+		<staff1_t1_c_2>
+			<HU>[T1] Lövész Rúnája</HU>
+		</staff1_t1_c_2>
+		<staff1_t1_c_3>
+			<HU>[T1] Az Erő Rúnája</HU>
+		</staff1_t1_c_3>
+		<staff1_t1_c_4>
+			<HU>[T1] Erő Rúnája</HU>
+		</staff1_t1_c_4>
+		<staff1_t1_c_5>
+			<HU>[T1] Erőt adó Rúna</HU>
+		</staff1_t1_c_5>
+		<staff1_t1_r_1>
+			<HU>[T3] Be Chuille Szeme</HU>
+		</staff1_t1_r_1>
+		<staff1_t1_r_2>
+			<HU>[T3] Megtorlás Rúnája</HU>
+		</staff1_t1_r_2>
+		<staff1_t1_r_3>
+			<HU>[T3] Nélkülözés Jele</HU>
+		</staff1_t1_r_3>
+		<staff1_t1_u_1>
+			<HU>[T2] Higgadtság Tomboló Rúnája</HU>
+		</staff1_t1_u_1>
+		<staff1_t1_u_2>
+			<HU>[T2] A Kín Bőrbarázdáló Rúnája</HU>
+		</staff1_t1_u_2>
+		<staff1_t1_u_3>
+			<HU>[T2] Átokmester Mély Sebek Rúnája</HU>
+		</staff1_t1_u_3>
+		<staff1_t1_u_4>
+			<HU>[T2] Az Őrszem Erő Rúnája</HU>
+		</staff1_t1_u_4>
+		<staff1_t1_u_5>
+			<HU>[T2] A Vérontás Kiszabadult Rúnája</HU>
+		</staff1_t1_u_5>
+		<staff2_t1_c_1>
+			<HU>[T1] Első Vér Rúnája</HU>
+		</staff2_t1_c_1>
+		<staff2_t1_c_2>
+			<HU>[T1] Védelmező Rúnája</HU>
+		</staff2_t1_c_2>
+		<staff2_t1_c_3>
+			<HU>[T1] Metsző Rúna</HU>
+		</staff2_t1_c_3>
+		<staff2_t1_c_4>
+			<HU>[T1] Fiatalítás Rúnája</HU>
+		</staff2_t1_c_4>
+		<staff2_t1_r_1>
+			<HU>[T3] Donn Hívása</HU>
+		</staff2_t1_r_1>
+		<staff2_t1_r_2>
+			<HU>[T3] Ecne Dühe</HU>
+		</staff2_t1_r_2>
+		<staff2_t1_r_3>
+			<HU>[T3] Sújtás Isteni Rúnája</HU>
+		</staff2_t1_r_3>
+		<staff2_t1_u_1>
+			<HU>[T2] Mesterlövész Lövész Rúnája</HU>
+		</staff2_t1_u_1>
+		<staff2_t1_u_2>
+			<HU>[T2] A Rövid Táv Metsző Rúnája</HU>
+		</staff2_t1_u_2>
+		<staff2_t1_u_3>
+			<HU>[T2] Hatalom Erőt adó Rúnája</HU>
+		</staff2_t1_u_3>
+		<staff2_t1_u_4>
+			<HU>[T2] Birkózó Pusztító Rúnája</HU>
+		</staff2_t1_u_4>
+		<staff_start1>
+			<HU>[T0] Mágia Rúnája</HU>
+		</staff_start1>
+		<staff_start2>
+			<HU>[T0] Mágia Rúnája</HU>
+		</staff_start2>
+		<sword_t1_c_1>
+			<HU>[T1] Sasszemű Rúna</HU>
+		</sword_t1_c_1>
+		<sword_t1_c_2>
+			<HU>[T1] Bőrbarázdáló Rúna</HU>
+		</sword_t1_c_2>
+		<sword_t1_c_3>
+			<HU>[T1] A Birkózás Rúnája</HU>
+		</sword_t1_c_3>
+		<sword_t1_c_4>
+			<HU>[T1] Metsző Rúna</HU>
+		</sword_t1_c_4>
+		<sword_t1_c_5>
+			<HU>[T1] Vérontás Rúnája</HU>
+		</sword_t1_c_5>
+		<sword_t1_r_1>
+			<HU>[T3] A Tolvaj Jele</HU>
+		</sword_t1_r_1>
+		<sword_t1_r_2>
+			<HU>[T3] Tollpenge Szimbólum</HU>
+		</sword_t1_r_2>
+		<sword_t1_r_3>
+			<HU>[T3] Párbajozó Megoldása</HU>
+		</sword_t1_r_3>
+		<sword_t1_r_4>
+			<HU>[T3] Átitatott Köszörűkő</HU>
+		</sword_t1_r_4>
+		<sword_t1_u_1>
+			<HU>[T2] Hatalom Émelyítő Rúnája</HU>
+		</sword_t1_u_1>
+		<sword_t1_u_2>
+			<HU>[T2] Orgyilkos Párbajozó Rúnája</HU>
+		</sword_t1_u_2>
+		<sword_t1_u_3>
+			<HU>[T2] A Birkózás Kinetikus Rúnája</HU>
+		</sword_t1_u_3>
+		<sword_t1_u_4>
+			<HU>[T2] A Csapás Tomboló Rúnája</HU>
+		</sword_t1_u_4>
+		<sword_t1_u_5>
+			<HU>[T2] A Kimerítés Bőrbarázdáló Rúnája</HU>
+		</sword_t1_u_5>
+		<temp_accessory_berserker>
+			<HU>[T3] Tombolás Amulettje</HU>
+		</temp_accessory_berserker>
+		<temp_accessory_drainlife>
+			<HU>[T3] Vámpírhit Amulettje</HU>
+		</temp_accessory_drainlife>
+		<temp_jewelry_damageresist>
+			<HU>[T3] Ellenállás Gyűrűje</HU>
+		</temp_jewelry_damageresist>
+		<temp_jewelry_power>
+			<HU>[T3] Pusztítás Gyűrűje</HU>
+		</temp_jewelry_power>
+		<temp_jewelry_summonlost>
+			<HU>[T3] A Halottidéző Smaragdja</HU>
+		</temp_jewelry_summonlost>
+		<temp_jewelry_teleport>
+			<HU>[T3] Varázslás Gyűrűje</HU>
+		</temp_jewelry_teleport>
+		<tome_healinjury>
+			<HU>[T0] Felépülés Kötete</HU>
+		</tome_healinjury>
+		<tome_healvitality>
+			<HU>[T0] Sebészet Kötete</HU>
+		</tome_healvitality>
+		<tome_missionap>
+			<HU>[T2] Sietség Kötete</HU>
+		</tome_missionap>
+		<tome_missiondamage>
+			<HU>[T0] Háború Kötete</HU>
+		</tome_missiondamage>
+		<tome_missionresist>
+			<HU>[T0] Ellenállás Kötete</HU>
+		</tome_missionresist>
+		<tome_removetrait>
+			<HU>[T2] Eleresztés Kötete</HU>
+		</tome_removetrait>
+		<tome_resetloyalty>
+			<HU>[T0] Megbocsátás Kötete</HU>
+		</tome_resetloyalty>
+		<tome_resetskills>
+			<HU>[T0] Megbánás Kötete</HU>
+		</tome_resetskills>
+		<tome_resurrection>
+			<HU>[T2] Feltámadás Kötete</HU>
+		</tome_resurrection>
+		<tome_returntoaspirant>
+			<HU>[T0] A Korlátok Kötete</HU>
+		</tome_returntoaspirant>
+		<tome_skillpoint>
+			<HU>[T2] Jártasság Kötete</HU>
+		</tome_skillpoint>
+		<tome_xp>
+			<HU>[T0] Tapasztalat Kötete</HU>
+		</tome_xp>
+		<trophy_start>
+			<HU>Vadász Trófeája</HU>
+		</trophy_start>
+		<trophy_t1_c_1>
+			<HU>[T1] A Kitartás Trófeája</HU>
+		</trophy_t1_c_1>
+		<trophy_t1_c_2>
+			<HU>[T1] Düh Trófeája</HU>
+		</trophy_t1_c_2>
+		<trophy_t1_c_3>
+			<HU>[T1] A Hasítás Trófeája</HU>
+		</trophy_t1_c_3>
+		<trophy_t1_c_4>
+			<HU>[T1] Erő Trófeája</HU>
+		</trophy_t1_c_4>
+		<trophy_t1_c_5>
+			<HU>[T1] Vérontás Trófeája</HU>
+		</trophy_t1_c_5>
+		<trophy_t1_r_1>
+			<HU>[T3] Cernunnos Agancsai</HU>
+		</trophy_t1_r_1>
+		<trophy_t1_r_2>
+			<HU>[T3] Arduin Szarvas Agancsai</HU>
+		</trophy_t1_r_2>
+		<trophy_t1_u_1>
+			<HU>[T2] Vérszívás Erős Trófeája</HU>
+		</trophy_t1_u_1>
+		<trophy_t1_u_2>
+			<HU>[T2] Tombolás Bosszantó Trófeája</HU>
+		</trophy_t1_u_2>
+		<trophy_t1_u_3>
+			<HU>[T2] Pusztítás Pajzstörő Trófeája</HU>
+		</trophy_t1_u_3>
+		<trophy_t1_u_4>
+			<HU>[T2] Az Elpusztíthatatlanság Hősies Trófeája</HU>
+		</trophy_t1_u_4>
+	</items>
+</Root>

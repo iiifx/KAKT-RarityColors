@@ -1,0 +1,1019 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root>
+<LanguageName>
+<IT>Italian</IT>
+</LanguageName>
+<Items>
+<2hAxe_T4_C_1>
+<IT>[T1] Runa Criccata dell'Armaiolo</IT>
+</2hAxe_T4_C_1>
+<2hAxe_T4_C_2>
+<IT>[T1] Runa del Duello Corazzata</IT>
+</2hAxe_T4_C_2>
+<2hAxe_T4_C_3>
+<IT>[T1] Runa Perforante della Frenesia</IT>
+</2hAxe_T4_C_3>
+<2hAxe_T4_C_4>
+<IT>[T1] Runa Spietata dell'Uccisione Fomoriana</IT>
+</2hAxe_T4_C_4>
+<2hAxe_T4_C_5>
+<IT>[T1] Runa Potente dell'Avanguardia</IT>
+</2hAxe_T4_C_5>
+<2hAxe_T4_R_1>
+<IT>[T3] Segno del Coraggioso</IT>
+</2hAxe_T4_R_1>
+<2hAxe_T4_R_2>
+<IT>[T3] Segno dell'Uccisore</IT>
+</2hAxe_T4_R_2>
+<2hAxe_T4_R_3>
+<IT>[T3] Simbolo di Mannan</IT>
+</2hAxe_T4_R_3>
+<2hAxe_T4_U_1>
+<IT>[T2] Runa Sanguisuga dell'Attaccante</IT>
+</2hAxe_T4_U_1>
+<2hAxe_T4_U_2>
+<IT>[T2] Runa Sete di Sangue dell'Attaccante</IT>
+</2hAxe_T4_U_2>
+<2hAxe_T4_U_3>
+<IT>[T2] Runa Aggressiva della Frenesia</IT>
+</2hAxe_T4_U_3>
+<2hAxe_T4_U_4>
+<IT>[T2] Runa Riparatrice del Berserker</IT>
+</2hAxe_T4_U_4>
+<2hAxe_T4_U_5>
+<IT>[T2] Runa Guerriera Esausta</IT>
+</2hAxe_T4_U_5>
+<2hMace_T4_C_1>
+<IT>[T1] Runa Berserk del Signore della Guerra</IT>
+</2hMace_T4_C_1>
+<2hMace_T4_C_2>
+<IT>[T1] Runa Sanguinante Esausta</IT>
+</2hMace_T4_C_2>
+<2hMace_T4_C_3>
+<IT>[T1] Runa Distruttiva dell'Iniziatore</IT>
+</2hMace_T4_C_3>
+<2hMace_T4_C_4>
+<IT>[T1] Runa Colpo Profondo</IT>
+</2hMace_T4_C_4>
+<2hMace_T4_R_1>
+<IT>[T3] Marchio del Gigante</IT>
+</2hMace_T4_R_1>
+<2hMace_T4_R_2>
+<IT>[T3] Runa di Agrona</IT>
+</2hMace_T4_R_2>
+<2hMace_T4_R_3>
+<IT>[T3] Sigillo Grande Quercia</IT>
+</2hMace_T4_R_3>
+<2hMace_T4_U_1>
+<IT>[T2] Runa Infuocata della Manovra</IT>
+</2hMace_T4_U_1>
+<2hMace_T4_U_2>
+<IT>[T2] Runa Composta del Berserker</IT>
+</2hMace_T4_U_2>
+<2hMace_T4_U_3>
+<IT>[T2] Runa Duellante Rompiscudo</IT>
+</2hMace_T4_U_3>
+<2hMace_T4_U_4>
+<IT>[T2] Runa Distruttiva Rompiscudo</IT>
+</2hMace_T4_U_4>
+<Accessory_T4_C_1>
+<IT>[T1] Amuleto Guerriero del Salasso</IT>
+</Accessory_T4_C_1>
+<Accessory_T4_C_2>
+<IT>[T1] Amuleto Riparatore dell'Ucccisore Fomoriano</IT>
+</Accessory_T4_C_2>
+<Accessory_T4_C_3>
+<IT>[T1] Amuleto Frettoloso della Tenacia</IT>
+</Accessory_T4_C_3>
+<Accessory_T4_C_4>
+<IT>[T1] Amuleto Resistente della Ritorsione</IT>
+</Accessory_T4_C_4>
+<Accessory_T4_C_5>
+<IT>[T1] Amuleto del Lottatore Astuto</IT>
+</Accessory_T4_C_5>
+<Accessory_T4_C_6>
+<IT>[T1] Amuleto Infernale della Precisione</IT>
+</Accessory_T4_C_6>
+<Accessory_T4_R_1>
+<IT>[T3] Gemma Bollente di Aengus</IT>
+</Accessory_T4_R_1>
+<Accessory_T4_R_2>
+<IT>[T3] Gemma della Morte Astuta</IT>
+</Accessory_T4_R_2>
+<Accessory_T4_R_3>
+<IT>[T3] Pietra della Devozione</IT>
+</Accessory_T4_R_3>
+<Accessory_T4_R_4>
+<IT>[T3] Pietra del Difensore</IT>
+</Accessory_T4_R_4>
+<Accessory_T4_R_5>
+<IT>[T3] Pietra dell'Anima di Onice</IT>
+</Accessory_T4_R_5>
+<Accessory_T4_R_6>
+<IT>[T3] Ciondolo dell'Errante</IT>
+</Accessory_T4_R_6>
+<Accessory_T4_R_7>
+<IT>[T3] Occhio della Bestia d'Autunno</IT>
+</Accessory_T4_R_7>
+<Accessory_T4_U_1>
+<IT>[T2] Amuleto Tormentoso della Fedeltà</IT>
+</Accessory_T4_U_1>
+<Accessory_T4_U_2>
+<IT>[T2] Amuleto dell'Esaurimento Pronto</IT>
+</Accessory_T4_U_2>
+<Accessory_T4_U_3>
+<IT>[T2] Amuleto Resistente Riparatore</IT>
+</Accessory_T4_U_3>
+<Accessory_T4_U_4>
+<IT>[T2] Amuleto Curativo Coagulante</IT>
+</Accessory_T4_U_4>
+<Accessory_T4_U_5>
+<IT>[T2] Amuleto Resistente dell'Armaiolo</IT>
+</Accessory_T4_U_5>
+<Accessory_T4_U_6>
+<IT>[T2] Amuleto Furioso Rompiscudo</IT>
+</Accessory_T4_U_6>
+<Accessory_T4_U_7>
+<IT>[T2] Amuleto Cinetico della Malattia</IT>
+</Accessory_T4_U_7>
+<ArmourHeavy1_T4_C_1>
+<IT>[T1] Sigillo Rabbioso Pronto</IT>
+</ArmourHeavy1_T4_C_1>
+<ArmourHeavy1_T4_C_2>
+<IT>[T1] Sigillo Duro dell'Armatura</IT>
+</ArmourHeavy1_T4_C_2>
+<ArmourHeavy1_T4_C_3>
+<IT>[T1] Sigillo Placcato in Acciaio dell'Armatura</IT>
+</ArmourHeavy1_T4_C_3>
+<ArmourHeavy1_T4_C_4>
+<IT>[T1] Sigillo Infuso dell'Armaiolo</IT>
+</ArmourHeavy1_T4_C_4>
+<ArmourHeavy1_T4_C_5>
+<IT>[T1] Sigillo Furioso Duraturo</IT>
+</ArmourHeavy1_T4_C_5>
+<ArmourHeavy1_T4_C_6>
+<IT>[T1] Sigillo Infrangibile dell'Ira</IT>
+</ArmourHeavy1_T4_C_6>
+<ArmourHeavy1_T4_C_7>
+<IT>[T1] Sigillo Rapido della Tenacia</IT>
+</ArmourHeavy1_T4_C_7>
+<ArmourHeavy1_T4_R_1>
+<IT>[T3] Segno di Menhir</IT>
+</ArmourHeavy1_T4_R_1>
+<ArmourHeavy1_T4_R_2>
+<IT>[T3] Simbolo di Goibniu</IT>
+</ArmourHeavy1_T4_R_2>
+<ArmourHeavy1_T4_R_3>
+<IT>[T3] Marchio di Ceridwen</IT>
+</ArmourHeavy1_T4_R_3>
+<ArmourHeavy1_T4_R_4>
+<IT>Sigillo Cinetico dello Scatto</IT>
+</ArmourHeavy1_T4_R_4>
+<ArmourHeavy1_T4_U_1>
+<IT>[T2] Sigillo Tranquillo della Ritorsione</IT>
+</ArmourHeavy1_T4_U_1>
+<ArmourHeavy1_T4_U_2>
+<IT>[T2] Sigillo Infrangibile della Resilienza</IT>
+</ArmourHeavy1_T4_U_2>
+<ArmourHeavy1_T4_U_3>
+<IT>[T2] Sigillo Corazzato dell'Agilità</IT>
+</ArmourHeavy1_T4_U_3>
+<ArmourHeavy1_T4_U_4>
+<IT>[T2] Sigillo Coagulante del Primo Soccorso</IT>
+</ArmourHeavy1_T4_U_4>
+<ArmourHeavy1_T4_U_5>
+<IT>[T2] Sigillo Robusto dell'Indistruttibilità</IT>
+</ArmourHeavy1_T4_U_5>
+<ArmourHeavy1_T4_U_6>
+<IT>[T2] Sigillo Furioso della Ritorsione</IT>
+</ArmourHeavy1_T4_U_6>
+<ArmourHeavy1_T4_U_7>
+<IT>[T2] Sigillo Tenace della Ritorsione</IT>
+</ArmourHeavy1_T4_U_7>
+<ArmourHeavy2_T4_C_1>
+<IT>[T1] Sigillo Corazzato della Tregua</IT>
+</ArmourHeavy2_T4_C_1>
+<ArmourHeavy2_T4_C_2>
+<IT>[T1] Sigillo Robusto della Tranquillità</IT>
+</ArmourHeavy2_T4_C_2>
+<ArmourHeavy2_T4_C_3>
+<IT>[T1] Sigillo Corazzato dell'Agilità</IT>
+</ArmourHeavy2_T4_C_3>
+<ArmourHeavy2_T4_C_4>
+<IT>[T1] Sigillo Vigoroso della Ritorsione</IT>
+</ArmourHeavy2_T4_C_4>
+<ArmourHeavy2_T4_C_5>
+<IT>[T1] Sigillo del Ringiovanimento</IT>
+</ArmourHeavy2_T4_C_5>
+<ArmourHeavy2_T4_C_6>
+<IT>[T1] Sigillo Composto del Vigore</IT>
+</ArmourHeavy2_T4_C_6>
+<ArmourHeavy2_T4_C_7>
+<IT>[T1] Sigillo Agile dell'Aggressione</IT>
+</ArmourHeavy2_T4_C_7>
+<ArmourHeavy2_T4_R_1>
+<IT>[T3] Sigillo della Penitenza</IT>
+</ArmourHeavy2_T4_R_1>
+<ArmourHeavy2_T4_R_2>
+<IT>[T3] Sigillo Radice di Terra</IT>
+</ArmourHeavy2_T4_R_2>
+<ArmourHeavy2_T4_R_3>
+<IT>[T3] Sigillo di Taranis</IT>
+</ArmourHeavy2_T4_R_3>
+<ArmourHeavy2_T4_U_1>
+<IT>[T2] Sigillo di Pronto Soccorso</IT>
+</ArmourHeavy2_T4_U_1>
+<ArmourHeavy2_T4_U_2>
+<IT>[T2] Sigillo Corazzato della Robustezza</IT>
+</ArmourHeavy2_T4_U_2>
+<ArmourHeavy2_T4_U_3>
+<IT>[T2] Sigillo Curativo dell'Elusione</IT>
+</ArmourHeavy2_T4_U_3>
+<ArmourHeavy2_T4_U_4>
+<IT>[T2] Sigillo Resistente dell'Indistruttibilità</IT>
+</ArmourHeavy2_T4_U_4>
+<ArmourHeavy2_T4_U_5>
+<IT>[T2] Sigillo Placcato in Acciaio della Tenacia</IT>
+</ArmourHeavy2_T4_U_5>
+<ArmourHeavy2_T4_U_6>
+<IT>[T2] Sigillo Resistente del Riparatore</IT>
+</ArmourHeavy2_T4_U_6>
+<ArmourHeavy2_T4_U_7>
+<IT>[T2] Sigillo Furioso dell'Armaiolo</IT>
+</ArmourHeavy2_T4_U_7>
+<ArmourLight1_T4_C_1>
+<IT>[T1] Sigillo  Placcato in Acciaio dell'Aquila</IT>
+</ArmourLight1_T4_C_1>
+<ArmourLight1_T4_C_2>
+<IT>[T1] Sigillo Energizzante della Resistenza</IT>
+</ArmourLight1_T4_C_2>
+<ArmourLight1_T4_C_3>
+<IT>[T1] Sigillo Protettivo della Precisione</IT>
+</ArmourLight1_T4_C_3>
+<ArmourLight1_T4_C_4>
+<IT>[T1] Sigillo dell'Agilità</IT>
+</ArmourLight1_T4_C_4>
+<ArmourLight1_T4_C_5>
+<IT>[T1] Sigillo Birraio del Primo Soccorso</IT>
+</ArmourLight1_T4_C_5>
+<ArmourLight1_T4_R_1>
+<IT>[T3] Sigillo degli Incontaminati</IT>
+</ArmourLight1_T4_R_1>
+<ArmourLight1_T4_R_2>
+<IT>[T3] Sigillo Spirito Ardente</IT>
+</ArmourLight1_T4_R_2>
+<ArmourLight1_T4_R_3>
+<IT>[T3] Sigillo Guardiano Sidhe</IT>
+</ArmourLight1_T4_R_3>
+<ArmourLight1_T4_U_1>
+<IT>[T2] Sigillo Resiliente della Tenacia</IT>
+</ArmourLight1_T4_U_1>
+<ArmourLight1_T4_U_2>
+<IT>[T2] Sigillo Tormentante dell'Elusione</IT>
+</ArmourLight1_T4_U_2>
+<ArmourLight1_T4_U_3>
+<IT>[T2] Sigillo Resistente con Piastre in Acciaio</IT>
+</ArmourLight1_T4_U_3>
+<ArmourLight1_T4_U_4>
+<IT>[T2] Sigillo Furioso Coagulante</IT>
+</ArmourLight1_T4_U_4>
+<ArmourLight1_T4_U_5>
+<IT>[T2] Sigillo Composto con Piastre in Acciaio</IT>
+</ArmourLight1_T4_U_5>
+<ArmourLight2_T4_C_1>
+<IT>[T1] Sigillo Corazzato del Ringiovanimento</IT>
+</ArmourLight2_T4_C_1>
+<ArmourLight2_T4_C_2>
+<IT>[T1] Sigillo Placcato Acciaio dell'Indistruttibilità</IT>
+</ArmourLight2_T4_C_2>
+<ArmourLight2_T4_C_3>
+<IT>[T1] Sigillo della Resistenza dell'Armaiolo</IT>
+</ArmourLight2_T4_C_3>
+<ArmourLight2_T4_C_4>
+<IT>[T1] Sigillo Corazzato della Resistenza</IT>
+</ArmourLight2_T4_C_4>
+<ArmourLight2_T4_C_5>
+<IT>[T1] Sigillo Rapido della Tenacia</IT>
+</ArmourLight2_T4_C_5>
+<ArmourLight2_T4_R_1>
+<IT>[T3] Runa Pellesalda</IT>
+</ArmourLight2_T4_R_1>
+<ArmourLight2_T4_R_2>
+<IT>[T3] Sigillo del Vagabondo</IT>
+</ArmourLight2_T4_R_2>
+<ArmourLight2_T4_R_3>
+<IT>[T3] Sigillo dell'Imperterrito</IT>
+</ArmourLight2_T4_R_3>
+<ArmourLight2_T4_U_1>
+<IT>[T2] Sigillo Protettivo di Kinesis</IT>
+</ArmourLight2_T4_U_1>
+<ArmourLight2_T4_U_2>
+<IT>[T2] Sigillo Pronto dell'Armaiolo</IT>
+</ArmourLight2_T4_U_2>
+<ArmourLight2_T4_U_3>
+<IT>[T2] Sigillo Armato dell'Antidoto</IT>
+</ArmourLight2_T4_U_3>
+<ArmourLight2_T4_U_4>
+<IT>[T2] Sigillo Infrangibile del Riposo</IT>
+</ArmourLight2_T4_U_4>
+<ArmourLight2_T4_U_5>
+<IT>[T2] Sigillo Resistente del Primo Soccorso</IT>
+</ArmourLight2_T4_U_5>
+<ArmourMedium1_T4_C_1>
+<IT>[T1] Sigillo dell'Armatura Riposante</IT>
+</ArmourMedium1_T4_C_1>
+<ArmourMedium1_T4_C_2>
+<IT>[T1] Sigillo Resistente della Prontezza</IT>
+</ArmourMedium1_T4_C_2>
+<ArmourMedium1_T4_C_3>
+<IT>[T1] Sigillo Infrangibile della Rapidità</IT>
+</ArmourMedium1_T4_C_3>
+<ArmourMedium1_T4_C_4>
+<IT>[T1] Sigillo dell'Armatura Resistente</IT>
+</ArmourMedium1_T4_C_4>
+<ArmourMedium1_T4_C_5>
+<IT>[T1] Sigillo Placcato in Acciaio dell'Armaiolo</IT>
+</ArmourMedium1_T4_C_5>
+<ArmourMedium1_T4_R_1>
+<IT>[T3] Marchio del Segugio</IT>
+</ArmourMedium1_T4_R_1>
+<ArmourMedium1_T4_R_2>
+<IT>[T3] Sigillo della Manutenzione</IT>
+</ArmourMedium1_T4_R_2>
+<ArmourMedium1_T4_R_3>
+<IT>[T3] Sigillo del Mietitore</IT>
+</ArmourMedium1_T4_R_3>
+<ArmourMedium1_T4_R_4>
+<IT>Sigillo della Resistenza</IT>
+</ArmourMedium1_T4_R_4>
+<ArmourMedium1_T4_U_1>
+<IT>[T2] Sigillo Tenace di Kinesis</IT>
+</ArmourMedium1_T4_U_1>
+<ArmourMedium1_T4_U_2>
+<IT>[T2] Sigillo Curativo dell'Agilità</IT>
+</ArmourMedium1_T4_U_2>
+<ArmourMedium1_T4_U_3>
+<IT>[T2] Sigillo Resistente dell'Armatura</IT>
+</ArmourMedium1_T4_U_3>
+<ArmourMedium1_T4_U_4>
+<IT>[T2] Sigillo Elusivo della Compostezza</IT>
+</ArmourMedium1_T4_U_4>
+<ArmourMedium1_T4_U_5>
+<IT>[T2] Sigillo dell'Armatura Indistruttibile</IT>
+</ArmourMedium1_T4_U_5>
+<ArmourMedium2_T4_C_1>
+<IT>[T1] Sigillo Curativo della Frenesia</IT>
+</ArmourMedium2_T4_C_1>
+<ArmourMedium2_T4_C_2>
+<IT>[T1] Sigillo Vigoroso dell'Elusione</IT>
+</ArmourMedium2_T4_C_2>
+<ArmourMedium2_T4_C_3>
+<IT>[T1] Sigillo Corazzato dell'Aggressione</IT>
+</ArmourMedium2_T4_C_3>
+<ArmourMedium2_T4_C_4>
+<IT>[T1] Sigillo Resistente della Furtività</IT>
+</ArmourMedium2_T4_C_4>
+<ArmourMedium2_T4_C_5>
+<IT>[T1] Sigillo Ringiovanente del Primo Soccorso</IT>
+</ArmourMedium2_T4_C_5>
+<ArmourMedium2_T4_R_1>
+<IT>[T3] Simbolo di Lugh</IT>
+</ArmourMedium2_T4_R_1>
+<ArmourMedium2_T4_R_2>
+<IT>[T3] Sigillo dell'Alta Cittadella</IT>
+</ArmourMedium2_T4_R_2>
+<ArmourMedium2_T4_R_3>
+<IT>[T3] Aureola di Elatha</IT>
+</ArmourMedium2_T4_R_3>
+<ArmourMedium2_T4_U_1>
+<IT>[T2] Sigillo Furioso della Ritorsione</IT>
+</ArmourMedium2_T4_U_1>
+<ArmourMedium2_T4_U_2>
+<IT>[T2] Sigillo Resistente dell'Armaiolo</IT>
+</ArmourMedium2_T4_U_2>
+<ArmourMedium2_T4_U_3>
+<IT>[T2] Sigillo Riparatore della Ritorsione</IT>
+</ArmourMedium2_T4_U_3>
+<ArmourMedium2_T4_U_4>
+<IT>[T2] Sigillo Robusto della Tempra</IT>
+</ArmourMedium2_T4_U_4>
+<ArmourMedium2_T4_U_5>
+<IT>[T2] Sigillo Resiliente della Tranquillità</IT>
+</ArmourMedium2_T4_U_5>
+<Artifact_T4_C_1>
+<IT>[T1] Artefatto della Forza del Berserker</IT>
+</Artifact_T4_C_1>
+<Artifact_T4_C_2>
+<IT>[T1] Artefatto Reciso della Forza</IT>
+</Artifact_T4_C_2>
+<Artifact_T4_C_3>
+<IT>[T1] Artefatto Maligno del Tormento</IT>
+</Artifact_T4_C_3>
+<Artifact_T4_C_4>
+<IT>[T1] Artefatto Curativo Distruttivo</IT>
+</Artifact_T4_C_4>
+<Artifact_T4_C_5>
+<IT>[T1] Artefatto Malefico delle Ferite Profonde</IT>
+</Artifact_T4_C_5>
+<Artifact_T4_R_1>
+<IT>[T3] Cenere del Precursore</IT>
+</Artifact_T4_R_1>
+<Artifact_T4_R_2>
+<IT>[T3] Corteccia dell'Albero di Cenere</IT>
+</Artifact_T4_R_2>
+<Artifact_T4_U_1>
+<IT>[T2] Artefatto Astuto del Maestro delle Maledizioni</IT>
+</Artifact_T4_U_1>
+<Artifact_T4_U_2>
+<IT>[T2] Artefatto delle Fiamme Brucianti</IT>
+</Artifact_T4_U_2>
+<Artifact_T4_U_3>
+<IT>[T2] Artefatto Sanguinario della Compostezza</IT>
+</Artifact_T4_U_3>
+<Artifact_T4_U_4>
+<IT>[T2] Artefatto Tormentante Rompiscudo</IT>
+</Artifact_T4_U_4>
+<Axe_T4_C_1>
+<IT>[T1] Runa Assassina dell'Aggressione</IT>
+</Axe_T4_C_1>
+<Axe_T4_C_2>
+<IT>[T1] Runa Resistente del Tormento</IT>
+</Axe_T4_C_2>
+<Axe_T4_C_3>
+<IT>[T1] Runa della Compostezza Rafforzata</IT>
+</Axe_T4_C_3>
+<Axe_T4_C_4>
+<IT>[T1] Runa Frenetica del Taglio Profondo</IT>
+</Axe_T4_C_4>
+<Axe_T4_C_5>
+<IT>[T1] Runa dell'Ira del Maestro di Battaglia</IT>
+</Axe_T4_C_5>
+<Axe_T4_C_6>
+<IT>[T1] Runa Perforante dell'Attaccante</IT>
+</Axe_T4_C_6>
+<Axe_T4_C_7>
+<IT>[T1] Runa delle Ferite Profonde del Berserker</IT>
+</Axe_T4_C_7>
+<Axe_T4_R_1>
+<IT>[T3] Tocco di Cailleach</IT>
+</Axe_T4_R_1>
+<Axe_T4_R_2>
+<IT>[T3] Ira del Re Caduto</IT>
+</Axe_T4_R_2>
+<Axe_T4_R_3>
+<IT>[T3] Sigillo del Cavaliere Fatato</IT>
+</Axe_T4_R_3>
+<Axe_T4_R_4>
+<IT>[T3] Marchio del Vendicatore</IT>
+</Axe_T4_R_4>
+<Axe_T4_R_5>
+<IT>[T3] Marcio Maledetto di Fúamnach</IT>
+</Axe_T4_R_5>
+<Axe_T4_U_1>
+<IT>[T2] Runa Astuta dell'Attaccante</IT>
+</Axe_T4_U_1>
+<Axe_T4_U_2>
+<IT>[T2] Runa Aggressiva del Duellante</IT>
+</Axe_T4_U_2>
+<Axe_T4_U_3>
+<IT>[T2] Runa Distruttiva dell'Avanguardia</IT>
+</Axe_T4_U_3>
+<Axe_T4_U_4>
+<IT>[T2] Runa Spezzascudo dell'Uccisione Fomoriana</IT>
+</Axe_T4_U_4>
+<Axe_T4_U_5>
+<IT>[T2] Runa del Colpo Spazzascudo</IT>
+</Axe_T4_U_5>
+<Axe_T4_U_6>
+<IT>[T2] Runa Congelata dell'Esaurimento</IT>
+</Axe_T4_U_6>
+<Axe_T4_U_7>
+<IT>[T2] Runa Cinetica dell'Iniziatore</IT>
+</Axe_T4_U_7>
+<Bow_T4_C_1>
+<IT>[T1] Runa a Corto Raggio della Rabbia</IT>
+</Bow_T4_C_1>
+<Bow_T4_C_2>
+<IT>[T1] Runa dell'Esaurimento dell'Uccisore Fomoriano</IT>
+</Bow_T4_C_2>
+<Bow_T4_C_3>
+<IT>[T1] Runa di Rafforzamento della Distruzione</IT>
+</Bow_T4_C_3>
+<Bow_T4_C_4>
+<IT>[T1] Runa dell'Iniziatore della Compostezza</IT>
+</Bow_T4_C_4>
+<Bow_T4_R_1>
+<IT>[T3] Runa del Vento Elementale</IT>
+</Bow_T4_R_1>
+<Bow_T4_R_2>
+<IT>[T3] Simbolo dell'Arco del Sole Seelie</IT>
+</Bow_T4_R_2>
+<Bow_T4_R_3>
+<IT>[T3] Sigillo della Grande Caccia</IT>
+</Bow_T4_R_3>
+<Bow_T4_U_1>
+<IT>[T2] Runa della Frenesia del Tiratore Scelto</IT>
+</Bow_T4_U_1>
+<Bow_T4_U_2>
+<IT>[T2] Runa a Breve Distanza del Bruciore</IT>
+</Bow_T4_U_2>
+<Bow_T4_U_3>
+<IT>[T2] Runa della Compostezza del Tiratore Scelto</IT>
+</Bow_T4_U_3>
+<Bow_T4_U_4>
+<IT>[T2] Runa velenosa di Infezione</IT>
+</Bow_T4_U_4>
+<Crossbow_T4_C_1>
+<IT>[T1] Runa del Veleno del Berserker</IT>
+</Crossbow_T4_C_1>
+<Crossbow_T4_C_2>
+<IT>[T1] Runa dell'Equilibrio del Tiratore Scelto</IT>
+</Crossbow_T4_C_2>
+<Crossbow_T4_C_3>
+<IT>[T1] Runa della Frenesia dagli Occhi d'Aquila</IT>
+</Crossbow_T4_C_3>
+<Crossbow_T4_C_4>
+<IT>[T1] Runa del Bruciatore</IT>
+</Crossbow_T4_C_4>
+<Crossbow_T4_C_5>
+<IT>[T1] Runa di Malattia dell'Occhio Morto</IT>
+</Crossbow_T4_C_5>
+<Crossbow_T4_R_1>
+<IT>[T3] Marchio dell'Occhio Acuto</IT>
+</Crossbow_T4_R_1>
+<Crossbow_T4_R_2>
+<IT>[T3] Sigillo dell'Arciere di Sidhe</IT>
+</Crossbow_T4_R_2>
+<Crossbow_T4_R_3>
+<IT>[T3] Marchio del Fuoco Elementale</IT>
+</Crossbow_T4_R_3>
+<Crossbow_T4_R_4>
+<IT>Runa di Penetrazione a Breve Distanza</IT>
+</Crossbow_T4_R_4>
+<Crossbow_T4_U_1>
+<IT>[T2] Runa Precisa di Cinesia</IT>
+</Crossbow_T4_U_1>
+<Crossbow_T4_U_2>
+<IT>[T2] Runa Infernale di Corto Raggio</IT>
+</Crossbow_T4_U_2>
+<Crossbow_T4_U_3>
+<IT>[T2] Runa del Cane da Guardia di Trafiggere</IT>
+</Crossbow_T4_U_3>
+<Crossbow_T4_U_4>
+<IT>[T2] Runa del Disimpegno</IT>
+</Crossbow_T4_U_4>
+<Crossbow_T4_U_5>
+<IT>[T2] Runa del Taglio Profondo della Sete di Sangue</IT>
+</Crossbow_T4_U_5>
+<Jewelry_T4_C_1>
+<IT>[T1] Anello Robusto del Vigore</IT>
+</Jewelry_T4_C_1>
+<Jewelry_T4_C_2>
+<IT>[T1] Anello dell'Iniziatore della Fretta</IT>
+</Jewelry_T4_C_2>
+<Jewelry_T4_C_3>
+<IT>[T1] Anello Velenoso del Disimpegnato</IT>
+</Jewelry_T4_C_3>
+<Jewelry_T4_C_4>
+<IT>[T1] Anello del Duello con Occhi d'Aquila</IT>
+</Jewelry_T4_C_4>
+<Jewelry_T4_C_5>
+<IT>[T1] Oscuro Anello della Malattia</IT>
+</Jewelry_T4_C_5>
+<Jewelry_T4_C_6>
+<IT>[T1] Anello del Colpo alle Spalle della Sanguisuga</IT>
+</Jewelry_T4_C_6>
+<Jewelry_T4_R_1>
+<IT>[T3] Anello dell'Alchimista</IT>
+</Jewelry_T4_R_1>
+<Jewelry_T4_R_2>
+<IT>[T3] Anello dell'Espiazione</IT>
+</Jewelry_T4_R_2>
+<Jewelry_T4_R_3>
+<IT>[T3] Cuore di Buggane</IT>
+</Jewelry_T4_R_3>
+<Jewelry_T4_R_4>
+<IT>[T3] Anello di Aeron</IT>
+</Jewelry_T4_R_4>
+<Jewelry_T4_R_5>
+<IT>[T3] Anello della Penitenza</IT>
+</Jewelry_T4_R_5>
+<Jewelry_T4_R_6>
+<IT>[T3] Anello del Recupero</IT>
+</Jewelry_T4_R_6>
+<Jewelry_T4_R_7>
+<IT>[T3] Anello di Aereda</IT>
+</Jewelry_T4_R_7>
+<Jewelry_T4_U_1>
+<IT>[T2] Anello della Prontezza della Prontezza</IT>
+</Jewelry_T4_U_1>
+<Jewelry_T4_U_2>
+<IT>[T2] Anello dell'Aggressività Resiliente</IT>
+</Jewelry_T4_U_2>
+<Jewelry_T4_U_3>
+<IT>[T2] Anello di Piastre d'Acciaio Brucianti</IT>
+</Jewelry_T4_U_3>
+<Jewelry_T4_U_4>
+<IT>[T2] Anello Resiliente della Frenesia</IT>
+</Jewelry_T4_U_4>
+<Jewelry_T4_U_5>
+<IT>[T2] Anello Esclusivo dell'Esaurimento</IT>
+</Jewelry_T4_U_5>
+<Jewelry_T4_U_6>
+<IT>[T2] Anello Composto della Sanguisuga</IT>
+</Jewelry_T4_U_6>
+<Jewelry_T4_U_7>
+<IT>[T2] Anello Resistente della Fedeltà</IT>
+</Jewelry_T4_U_7>
+<LuckyCharm_T4_C_1>
+<IT>[T1] Portafortuna dello Spezzascudo</IT>
+</LuckyCharm_T4_C_1>
+<LuckyCharm_T4_C_2>
+<IT>[T1] Portafortuna Occhi d'Aquila della Compostezza</IT>
+</LuckyCharm_T4_C_2>
+<LuckyCharm_T4_C_3>
+<IT>[T1] Portafortuna del Tiratore Scelto di Corto Raggio</IT>
+</LuckyCharm_T4_C_3>
+<LuckyCharm_T4_C_4>
+<IT>[T1] Portafortuna del Tiratore Scelto di Bruciare</IT>
+</LuckyCharm_T4_C_4>
+<LuckyCharm_T4_C_5>
+<IT>[T1] Portafortuna del Primo Soccorso</IT>
+</LuckyCharm_T4_C_5>
+<LuckyCharm_T4_R_1>
+<IT>[T3] Incanto Occhio per Occhio</IT>
+</LuckyCharm_T4_R_1>
+<LuckyCharm_T4_R_2>
+<IT>[T3] Amuleto di Ossidiana</IT>
+</LuckyCharm_T4_R_2>
+<LuckyCharm_T4_U_1>
+<IT>[T2] Portafortuna penetrante del Bruciore</IT>
+</LuckyCharm_T4_U_1>
+<LuckyCharm_T4_U_2>
+<IT>[T2] Portafortuna dell'Antidoto dell'Avvelenatore</IT>
+</LuckyCharm_T4_U_2>
+<LuckyCharm_T4_U_3>
+<IT>[T2] Portafortuna Frenetica del Disimpegnato</IT>
+</LuckyCharm_T4_U_3>
+<LuckyCharm_T4_U_4>
+<IT>[T2] Portafortuna della Distruzione Fomoriana</IT>
+</LuckyCharm_T4_U_4>
+<Manuscript_T4_C_1>
+<IT>[T1] Manoscritto Ispiratore di Benedizioni</IT>
+</Manuscript_T4_C_1>
+<Manuscript_T4_C_2>
+<IT>[T1] Manoscritto della Tempra Fomoriana</IT>
+</Manuscript_T4_C_2>
+<Manuscript_T4_C_3>
+<IT>[T1] Manoscritto Vigoroso di Primo Soccorso</IT>
+</Manuscript_T4_C_3>
+<Manuscript_T4_C_4>
+<IT>[T1] Manoscritto Infuso di Tenacia</IT>
+</Manuscript_T4_C_4>
+<Manuscript_T4_C_5>
+<IT>[T1] Manoscritto Glaciale del Congelamento</IT>
+</Manuscript_T4_C_5>
+<Manuscript_T4_R_1>
+<IT>[T3] Pergamene Sacre di Aibell</IT>
+</Manuscript_T4_R_1>
+<Manuscript_T4_R_2>
+<IT>[T3] Incantazioni di Be Chuille</IT>
+</Manuscript_T4_R_2>
+<Manuscript_T4_U_1>
+<IT>[T2] Manoscritto Riportante di Fortezza</IT>
+</Manuscript_T4_U_1>
+<Manuscript_T4_U_2>
+<IT>[T2] Manoscritto Coagulante di Piastre d'Acciaio</IT>
+</Manuscript_T4_U_2>
+<Manuscript_T4_U_3>
+<IT>[T2] Manoscritto Resiliente della Robustezza</IT>
+</Manuscript_T4_U_3>
+<Manuscript_T4_U_4>
+<IT>[T2] Manoscritto Curativo della Potenza</IT>
+</Manuscript_T4_U_4>
+<Oathstone_T4_C_1>
+<IT>[T1] Pietra del Giuramento della Schermatura</IT>
+</Oathstone_T4_C_1>
+<Oathstone_T4_C_2>
+<IT>[T1] Giuramento a prova di proiettile di piastre d'acciaio</IT>
+</Oathstone_T4_C_2>
+<Oathstone_T4_C_3>
+<IT>[T1] Pietra del Giuramento del Birraio della Robustezza</IT>
+</Oathstone_T4_C_3>
+<Oathstone_T4_C_4>
+<IT>[T1] Pietra del Giuramento del Riparatore</IT>
+</Oathstone_T4_C_4>
+<Oathstone_T4_C_5>
+<IT>[T1] Pietra del Giuramento del Difensore della Disfida</IT>
+</Oathstone_T4_C_5>
+<Oathstone_T4_R_1>
+<IT>[T3] Pietra del Sole della Guardia</IT>
+</Oathstone_T4_R_1>
+<Oathstone_T4_R_2>
+<IT>[T3] Pietra del Tauntstone Impregnato</IT>
+</Oathstone_T4_R_2>
+<Oathstone_T4_U_1>
+<IT>[T2] Pietra del Giuramento Resistente della Coagulazione</IT>
+</Oathstone_T4_U_1>
+<Oathstone_T4_U_2>
+<IT>[T2] Pietra del Giuramento del Portatore di Scudi</IT>
+</Oathstone_T4_U_2>
+<Oathstone_T4_U_3>
+<IT>[T2] Pietra del Giuramento del Duellante di Colpo</IT>
+</Oathstone_T4_U_3>
+<Oathstone_T4_U_4>
+<IT>[T2] Pietra del Giuramento dell'Armiere Provocatore</IT>
+</Oathstone_T4_U_4>
+<Provision_T4_C_1>
+<IT>[T1] Provvedimento di Furtività dello Sciacallo</IT>
+</Provision_T4_C_1>
+<Provision_T4_C_2>
+<IT>[T1] Provvigione della Trappola Intrappolante</IT>
+</Provision_T4_C_2>
+<Provision_T4_C_3>
+<IT>[T1] Provvigione di Cinesia</IT>
+</Provision_T4_C_3>
+<Provision_T4_C_4>
+<IT>[T1] Provvista di Appostamento del Becchino</IT>
+</Provision_T4_C_4>
+<Provision_T4_C_5>
+<IT>[T1] Provvedimento di Occultamento con i Piedi Leggeri</IT>
+</Provision_T4_C_5>
+<Provision_T4_R_1>
+<IT>[T3] Libra di Morrígu</IT>
+</Provision_T4_R_1>
+<Provision_T4_R_2>
+<IT>[T3] Scala di Lén</IT>
+</Provision_T4_R_2>
+<Provision_T4_R_3>
+<IT>Provvista di Trappola di Impalamento</IT>
+</Provision_T4_R_3>
+<Provision_T4_U_1>
+<IT>[T2] Provvista di Sangue di Kinesis</IT>
+</Provision_T4_U_1>
+<Provision_T4_U_2>
+<IT>[T2] Pericoloso Provvedimento di Esaurimento</IT>
+</Provision_T4_U_2>
+<Provision_T4_U_3>
+<IT>[T2] Provvista del Lanciatore di Coltelli di Vista Lontana</IT>
+</Provision_T4_U_3>
+<Provision_T4_U_4>
+<IT>[T2] Provvista di Manovra di Sbarramento</IT>
+</Provision_T4_U_4>
+<Staff1_T4_C_1>
+<IT>[T1] Runa della Compostezza Infuriata</IT>
+</Staff1_T4_C_1>
+<Staff1_T4_C_2>
+<IT>[T1] Runa del Tormento di Skingouger</IT>
+</Staff1_T4_C_2>
+<Staff1_T4_C_3>
+<IT>[T1] Runa del Maestro dell'Esercito delle Ferite Profonde</IT>
+</Staff1_T4_C_3>
+<Staff1_T4_C_4>
+<IT>[T1] Runa della Forza della Sentinella</IT>
+</Staff1_T4_C_4>
+<Staff1_T4_C_5>
+<IT>[T1] Runa del Dissanguamento</IT>
+</Staff1_T4_C_5>
+<Staff1_T4_R_1>
+<IT>[T3] Runa del Marchio del Fuoco</IT>
+</Staff1_T4_R_1>
+<Staff1_T4_R_2>
+<IT>[T3] Simbolo di Alaunus</IT>
+</Staff1_T4_R_2>
+<Staff1_T4_R_3>
+<IT>[T3] Occhio Vigile</IT>
+</Staff1_T4_R_3>
+<Staff1_T4_U_1>
+<IT>[T2] Runa di Precisione dello Spaccascudo</IT>
+</Staff1_T4_U_1>
+<Staff1_T4_U_2>
+<IT>[T2] Runa di Distruzione Fuori Controllo</IT>
+</Staff1_T4_U_2>
+<Staff1_T4_U_3>
+<IT>[T2] Runa Frenetica del Bruciore</IT>
+</Staff1_T4_U_3>
+<Staff1_T4_U_4>
+<IT>[T2] Runa del Tiratore Scelto di Trafiggere</IT>
+</Staff1_T4_U_4>
+<Staff1_T4_U_5>
+<IT>[T2] Runa Sanguinaria delle Ferite Profonde</IT>
+</Staff1_T4_U_5>
+<Staff2_T4_C_1>
+<IT>[T1] Runa del Tiratore Scelto</IT>
+</Staff2_T4_C_1>
+<Staff2_T4_C_2>
+<IT>[T1] Runa a Breve Distanza di Perforazione</IT>
+</Staff2_T4_C_2>
+<Staff2_T4_C_3>
+<IT>[T1] Runa Energizzante della Forza</IT>
+</Staff2_T4_C_3>
+<Staff2_T4_C_4>
+<IT>[T1] Runa di Distruzione del Lottatore</IT>
+</Staff2_T4_C_4>
+<Staff2_T4_R_1>
+<IT>[T3] Lamento di Caoineag</IT>
+</Staff2_T4_R_1>
+<Staff2_T4_R_2>
+<IT>[T3] Segno dello Scettro</IT>
+</Staff2_T4_R_2>
+<Staff2_T4_R_3>
+<IT>[T3] Marchio di Basilisco</IT>
+</Staff2_T4_R_3>
+<Staff2_T4_R_4>
+<IT>Runa Impattante della Ritorsione</IT>
+</Staff2_T4_R_4>
+<Staff2_T4_U_1>
+<IT>[T2] Runa Tormentosa della Frenesia</IT>
+</Staff2_T4_U_1>
+<Staff2_T4_U_2>
+<IT>[T2] Runa della Forza Fuori Controllo</IT>
+</Staff2_T4_U_2>
+<Staff2_T4_U_3>
+<IT>[T2] Runa Disimpegnata del Tiratore Scelto</IT>
+</Staff2_T4_U_3>
+<Staff2_T4_U_4>
+<IT>[T2] Runa del Dissanguamento del Berserk</IT>
+</Staff2_T4_U_4>
+<Sword_T4_C_1>
+<IT>[T1] Runa della Malattia dell'Attaccante</IT>
+</Sword_T4_C_1>
+<Sword_T4_C_2>
+<IT>[T1] Runa di Duello dell'Assassino</IT>
+</Sword_T4_C_2>
+<Sword_T4_C_3>
+<IT>[T1] Runa del Lottatore di Cinesia</IT>
+</Sword_T4_C_3>
+<Sword_T4_C_4>
+<IT>[T1] Runa della Runa dell'Attaccabrighe</IT>
+</Sword_T4_C_4>
+<Sword_T4_C_5>
+<IT>[T1] Runa Esauriente di Sgorbio</IT>
+</Sword_T4_C_5>
+<Sword_T4_C_6>
+<IT>[T1] Runa di Ringiovanimento che fa piangere</IT>
+</Sword_T4_C_6>
+<Sword_T4_C_7>
+<IT>[T1] Runa d'Avanguardia della Rabbia</IT>
+</Sword_T4_C_7>
+<Sword_T4_R_1>
+<IT>[T3] Runa della Lama d'Autunno</IT>
+</Sword_T4_R_1>
+<Sword_T4_R_2>
+<IT>[T3] Marchio del Lama Incantato</IT>
+</Sword_T4_R_2>
+<Sword_T4_R_3>
+<IT>[T3] Runa della Sottomissione</IT>
+</Sword_T4_R_3>
+<Sword_T4_R_4>
+<IT>[T3] Segno del Predatore</IT>
+</Sword_T4_R_4>
+<Sword_T4_R_5>
+<IT>[T3] Simbolo della Pira</IT>
+</Sword_T4_R_5>
+<Sword_T4_U_1>
+<IT>[T2] Runa del Maestro di Battaglia della Storta</IT>
+</Sword_T4_U_1>
+<Sword_T4_U_2>
+<IT>[T2] Runa del Sanguinario</IT>
+</Sword_T4_U_2>
+<Sword_T4_U_3>
+<IT>[T2] Runa dell'Infezione dell'Attaccante</IT>
+</Sword_T4_U_3>
+<Sword_T4_U_4>
+<IT>[T2] Runa dello Strangolatore della Sanguisuga</IT>
+</Sword_T4_U_4>
+<Sword_T4_U_5>
+<IT>[T2] Runa della Compostezza per riparare</IT>
+</Sword_T4_U_5>
+<Sword_T4_U_6>
+<IT>[T2] Runa di Riparazione del Berserker</IT>
+</Sword_T4_U_6>
+<Sword_T4_U_7>
+<IT>[T2] Runa dell'Uccisione Fomoriana del Bruciore</IT>
+</Sword_T4_U_7>
+<Trophy_T4_C_1>
+<IT>[T1] Trofeo dell'Uccisore Fomoriano della Sanguisuga</IT>
+</Trophy_T4_C_1>
+<Trophy_T4_C_2>
+<IT>[T1] Trofeo della Furia</IT>
+</Trophy_T4_C_2>
+<Trophy_T4_C_3>
+<IT>[T1] Trofeo Devastante di Rompere lo Scudo</IT>
+</Trophy_T4_C_3>
+<Trophy_T4_C_4>
+<IT>[T1] Trofeo Eroico dell'Indistruttibilità</IT>
+</Trophy_T4_C_4>
+<Trophy_T4_C_5>
+<IT>[T1] Trofeo Difensivo della Storta</IT>
+</Trophy_T4_C_5>
+<Trophy_T4_R_1>
+<IT>[T3] Mascella di Morgawr</IT>
+</Trophy_T4_R_1>
+<Trophy_T4_R_2>
+<IT>[T3] Testa del Chiamatore di Tempeste</IT>
+</Trophy_T4_R_2>
+<Trophy_T4_U_1>
+<IT>[T2] Trofeo Curativo del Maestro di Battaglia</IT>
+</Trophy_T4_U_1>
+<Trophy_T4_U_2>
+<IT>[T2] Trofeo dell'Agilità di Whirling</IT>
+</Trophy_T4_U_2>
+<Trophy_T4_U_3>
+<IT>[T2] Trofeo della Furia del Berserker</IT>
+</Trophy_T4_U_3>
+<Trophy_T4_U_4>
+<IT>[T2] Trofeo Robusto della Distruzione</IT>
+</Trophy_T4_U_4>
+<ET_Sword_T4_R_1>
+<IT>[T3] Estemio della Lama Incantata</IT>
+</ET_Sword_T4_R_1>
+<ET_Axe_T4_R_1>
+<IT>[T3] Furore dell'Assassino</IT>
+</ET_Axe_T4_R_1>
+<ET_2hAxe_T4_R_1>
+<IT>[T3] Runa dello Spaccaterra</IT>
+</ET_2hAxe_T4_R_1>
+<ET_Staff2_T4_R_1>
+<IT>[T3] Runa della Tempesta</IT>
+</ET_Staff2_T4_R_1>
+<ET_Crossbow_T4_R_1>
+<IT>[T3] Segno della Freccia Sbagliata</IT>
+</ET_Crossbow_T4_R_1>
+<ET_Armourlight1_T4_R_1>
+<IT>[T3] Sigillo del Maestro Incantatore</IT>
+</ET_Armourlight1_T4_R_1>
+<ET_Armourlight2_T4_R_1>
+<IT>[T3] Marchio del Falegname</IT>
+</ET_Armourlight2_T4_R_1>
+<ET_Armourmedium1_T4_R_1>
+<IT>[T3] Sigillo dell'Armatura Fantasma</IT>
+</ET_Armourmedium1_T4_R_1>
+<ET_Armourmedium2_T4_R_1>
+<IT>[T3] Sigillo del Marcatore Celeste</IT>
+</ET_Armourmedium2_T4_R_1>
+<ET_Armourheavy1_T4_R_1>
+<IT>[T3] Sigillo del Fardello Condiviso</IT>
+</ET_Armourheavy1_T4_R_1>
+<ET_Armourheavy2_T4_R_1>
+<IT>[T3] Sigillo della Consapevolezza</IT>
+</ET_Armourheavy2_T4_R_1>
+<ET_Jewelry_T4_R_1>
+<IT>[T3] Anello del Maestro Duellante</IT>
+</ET_Jewelry_T4_R_1>
+<ET_Accessory_T4_R_1>
+<IT>[T3] Sasso di Sussurro</IT>
+</ET_Accessory_T4_R_1>
+<ET_Oathstone_T4_R_1>
+<IT>[T3] Giuramento del Rompilinea</IT>
+</ET_Oathstone_T4_R_1>
+<ET_Trophy_T4_R_1>
+<IT>[T3] Corona di Bebd</IT>
+</ET_Trophy_T4_R_1>
+<ET_Provision_T4_R_1>
+<IT>[T3] Tascapane dell'Alchimista</IT>
+</ET_Provision_T4_R_1>
+<ET_LuckyCharm_T4_R_1>
+<IT>[T3] Talismano di Mannan</IT>
+</ET_LuckyCharm_T4_R_1>
+<ET_Artifact_T4_R_1>
+<IT>[T3] Furia di Cailleach</IT>
+</ET_Artifact_T4_R_1>
+<ET_Manuscript_T4_R_1>
+<IT>[T3] Fame di Crom Cruach</IT>
+</ET_Manuscript_T4_R_1>
+<TH_Sword_T4_R_1>
+<IT>[T3] Segno del Verme di Fuoco</IT>
+</TH_Sword_T4_R_1>
+<TH_2hAxe_T4_R_1>
+<IT>[T3] Segno del Terrore Bestiale</IT>
+</TH_2hAxe_T4_R_1>
+<TH_Staff2_T4_R_1>
+<IT>[T3] Segno della Fiamma che Cammina</IT>
+</TH_Staff2_T4_R_1>
+<TH_Crossbow_T4_R_1>
+<IT>[T3] Runa dell'Appassimento</IT>
+</TH_Crossbow_T4_R_1>
+<TH_Sword_T4_R_2>
+<IT>[T3] Runa dell'Intralcio</IT>
+</TH_Sword_T4_R_2>
+<TH_2hAxe_T4_R_2>
+<IT>[T3] Runa del Dominio</IT>
+</TH_2hAxe_T4_R_2>
+<TH_Staff2_T4_R_2>
+<IT>[T3] Segno di Fúamnach</IT>
+</TH_Staff2_T4_R_2>
+<TH_Crossbow_T4_R_2>
+<IT>[T3] Lingua Spinata di Fúamnach</IT>
+</TH_Crossbow_T4_R_2>
+<TH_Jewelry_T4_R_1>
+<IT>[T3] Anello del Fabbro della Terra</IT>
+</TH_Jewelry_T4_R_1>
+<TH_Accessory_T4_R_1>
+<IT>[T3] Occhio della Grande Tempesta</IT>
+</TH_Accessory_T4_R_1>
+<TH_Jewelry_T4_R_2>
+<IT>[T3] Anello della Pietra Battente</IT>
+</TH_Jewelry_T4_R_2>
+</Items>
+</Root>

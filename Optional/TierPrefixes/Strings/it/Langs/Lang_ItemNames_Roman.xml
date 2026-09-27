@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root>
+<LanguageName>
+<IT>Italian</IT>
+</LanguageName>
+<Items>
+<lar_cacus>
+<IT>[TL] Lar Cacus</IT>
+</lar_cacus>
+<lar_lemure>
+<IT>[TL] Lar Lemure</IT>
+</lar_lemure>
+<lar_poena>
+<IT>[TL] Lar Poena</IT>
+</lar_poena>
+<lar_umbrae>
+<IT>[TL] Lar Umbrae</IT>
+</lar_umbrae>
+<lar_volcanus>
+<IT>[TL] Lar Volcanus</IT>
+</lar_volcanus>
+<lar_fulgora>
+<IT>[TL] Lar Fulgora</IT>
+</lar_fulgora>
+</Items>
+</Root>

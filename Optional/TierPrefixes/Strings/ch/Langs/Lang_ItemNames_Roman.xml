@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CH>简体中文</CH>
+	</LanguageName>
+	<Languages>CH</Languages>
+	<items>
+		<lar_cacus>
+			<CH>[TL] 卡库斯家神</CH>
+		</lar_cacus>
+		<lar_fulgora>
+			<CH>[TL] 芙尔戈拉家神</CH>
+		</lar_fulgora>
+		<lar_lemure>
+			<CH>[TL] 莱穆尔家神</CH>
+		</lar_lemure>
+		<lar_poena>
+			<CH>[TL] 珀艾娜家神</CH>
+		</lar_poena>
+		<lar_umbrae>
+			<CH>[TL] 昂布雷家神</CH>
+		</lar_umbrae>
+		<lar_volcanus>
+			<CH>[TL] 沃尔坎努斯家神</CH>
+		</lar_volcanus>
+	</items>
+</Root>

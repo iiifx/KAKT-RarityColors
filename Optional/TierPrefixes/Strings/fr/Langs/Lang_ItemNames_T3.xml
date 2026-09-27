@@ -1,0 +1,1080 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<FR>Français</FR>
+	</LanguageName>
+	<Languages>FR</Languages>
+	<items>
+		<2haxe_t3_c_1>
+			<FR>[T1] Rune de force dévastatrice</FR>
+		</2haxe_t3_c_1>
+		<2haxe_t3_c_2>
+			<FR>[T1] Rune d'incision du chef de guerre</FR>
+		</2haxe_t3_c_2>
+		<2haxe_t3_c_3>
+			<FR>[T1] Rune d'équilibre secouante</FR>
+		</2haxe_t3_c_3>
+		<2haxe_t3_c_4>
+			<FR>[T1] Rune de saignée acérée</FR>
+		</2haxe_t3_c_4>
+		<2haxe_t3_c_5>
+			<FR>[T1] Rune de défense perçante</FR>
+		</2haxe_t3_c_5>
+		<2haxe_t3_r_1>
+			<FR>[T3] Rune de malédiction Unseelie</FR>
+		</2haxe_t3_r_1>
+		<2haxe_t3_r_2>
+			<FR>[T3] Symbole divin de rage</FR>
+		</2haxe_t3_r_2>
+		<2haxe_t3_r_3>
+			<FR>[T3] Fléau des Sidhe</FR>
+		</2haxe_t3_r_3>
+		<2haxe_t3_u_1>
+			<FR>[T2] Rune brise-bouclier perçante</FR>
+		</2haxe_t3_u_1>
+		<2haxe_t3_u_2>
+			<FR>[T2] Rune de force de rage sanguinaire</FR>
+		</2haxe_t3_u_2>
+		<2haxe_t3_u_3>
+			<FR>[T2] Rune de sang-froid épuisante</FR>
+		</2haxe_t3_u_3>
+		<2haxe_t3_u_4>
+			<FR>[T2] Rune de destruction agressive</FR>
+		</2haxe_t3_u_4>
+		<2haxe_t3_u_5>
+			<FR>[T2] Rune de dévastation sangsue</FR>
+		</2haxe_t3_u_5>
+		<2hmace_t3_c_1>
+			<FR>[T1] Rune de commotion tue-Seelie</FR>
+		</2hmace_t3_c_1>
+		<2hmace_t3_c_2>
+			<FR>[T1] Rune d'agilité énergisante</FR>
+		</2hmace_t3_c_2>
+		<2hmace_t3_c_3>
+			<FR>[T1] Rune d'entaille du traître</FR>
+		</2hmace_t3_c_3>
+		<2hmace_t3_c_4>
+			<FR>[T1] Rune de rage tue-Unseelie</FR>
+		</2hmace_t3_c_4>
+		<2hmace_t3_r_1>
+			<FR>[T3] Prouesses du héros</FR>
+		</2hmace_t3_r_1>
+		<2hmace_t3_r_2>
+			<FR>[T3] Rune de sanguinaire</FR>
+		</2hmace_t3_r_2>
+		<2hmace_t3_r_3>
+			<FR>[T3] Rune de séisme</FR>
+		</2hmace_t3_r_3>
+		<2hmace_t3_u_1>
+			<FR>[T2] Rune de frappe rapide</FR>
+		</2hmace_t3_u_1>
+		<2hmace_t3_u_2>
+			<FR>[T2] Rune d'agression enragée</FR>
+		</2hmace_t3_u_2>
+		<2hmace_t3_u_3>
+			<FR>[T2] Rune tue-Unseelie du chef de guerre</FR>
+		</2hmace_t3_u_3>
+		<2hmace_t3_u_4>
+			<FR>[T2] Rune de frappe protectrice</FR>
+		</2hmace_t3_u_4>
+		<accessory_t3_c_1>
+			<FR>[T1] Amulette d'endurance coagulante</FR>
+		</accessory_t3_c_1>
+		<accessory_t3_c_2>
+			<FR>[T1] Amulette de répit résistante</FR>
+		</accessory_t3_c_2>
+		<accessory_t3_c_3>
+			<FR>[T1] Amulette de rapidité résiliente</FR>
+		</accessory_t3_c_3>
+		<accessory_t3_c_4>
+			<FR>[T1] Amulette d'infusion du brasseur</FR>
+		</accessory_t3_c_4>
+		<accessory_t3_c_5>
+			<FR>[T1] Amulette de protection habile</FR>
+		</accessory_t3_c_5>
+		<accessory_t3_c_6>
+			<FR>[T1] Amulette de colère courroucée</FR>
+		</accessory_t3_c_6>
+		<accessory_t3_r_1>
+			<FR>[T3] Œil fomoire</FR>
+		</accessory_t3_r_1>
+		<accessory_t3_r_2>
+			<FR>[T3] Pierre-pensée</FR>
+		</accessory_t3_r_2>
+		<accessory_t3_r_3>
+			<FR>[T3] Larme de lune</FR>
+		</accessory_t3_r_3>
+		<accessory_t3_r_4>
+			<FR>[T3] Gemme gardienne</FR>
+		</accessory_t3_r_4>
+		<accessory_t3_r_5>
+			<FR>[T3] Pierre d'Artahe</FR>
+		</accessory_t3_r_5>
+		<accessory_t3_r_6>
+			<FR>[T3] Pendentif d'abondance</FR>
+		</accessory_t3_r_6>
+		<accessory_t3_r_7>
+			<FR>[T3] Pierre de Lén</FR>
+		</accessory_t3_r_7>
+		<accessory_t3_u_1>
+			<FR>[T2] Amulette d'alacrité vigoureuse</FR>
+		</accessory_t3_u_1>
+		<accessory_t3_u_2>
+			<FR>[T2] Amulette de premiers soins tue-Seelie</FR>
+		</accessory_t3_u_2>
+		<accessory_t3_u_3>
+			<FR>[T2] Amulette d'allégeance énergisante</FR>
+		</accessory_t3_u_3>
+		<accessory_t3_u_4>
+			<FR>[T2] Amulette de reconstitution robuste</FR>
+		</accessory_t3_u_4>
+		<accessory_t3_u_5>
+			<FR>[T2] Amulette de solidité en acier</FR>
+		</accessory_t3_u_5>
+		<accessory_t3_u_6>
+			<FR>[T2] Amulette de résilience en acier</FR>
+		</accessory_t3_u_6>
+		<accessory_t3_u_7>
+			<FR>[T2] Amulette de préparation agile</FR>
+		</accessory_t3_u_7>
+		<armourheavy1_t3_c_1>
+			<FR>[T1] Insigne du brasseur cuirassé</FR>
+		</armourheavy1_t3_c_1>
+		<armourheavy1_t3_c_2>
+			<FR>[T1] Insigne de coagulation en acier</FR>
+		</armourheavy1_t3_c_2>
+		<armourheavy1_t3_c_3>
+			<FR>[T1] Insigne d'endurance énergisant</FR>
+		</armourheavy1_t3_c_3>
+		<armourheavy1_t3_c_4>
+			<FR>[T1] Insigne d'héroïsme incombustible</FR>
+		</armourheavy1_t3_c_4>
+		<armourheavy1_t3_c_5>
+			<FR>[T1] Insigne de rajeunissement infusé</FR>
+		</armourheavy1_t3_c_5>
+		<armourheavy1_t3_c_6>
+			<FR>[T1] Insigne d'agilité curatif</FR>
+		</armourheavy1_t3_c_6>
+		<armourheavy1_t3_c_7>
+			<FR>[T1] Insigne de colère résistant</FR>
+		</armourheavy1_t3_c_7>
+		<armourheavy1_t3_r_1>
+			<FR>[T3] Insigne gardien de givre</FR>
+		</armourheavy1_t3_r_1>
+		<armourheavy1_t3_r_2>
+			<FR>[T3] Gardien cuirassé</FR>
+		</armourheavy1_t3_r_2>
+		<armourheavy1_t3_r_3>
+			<FR>[T3] Rune d'acier spirituel</FR>
+		</armourheavy1_t3_r_3>
+		<armourheavy1_t3_r_4>
+			<FR>[T3] Rune lacustre</FR>
+		</armourheavy1_t3_r_4>
+		<armourheavy1_t3_u_1>
+			<FR>[T2] Insigne de constance héroïque</FR>
+		</armourheavy1_t3_u_1>
+		<armourheavy1_t3_u_2>
+			<FR>[T2] Insigne de robustesse résilient</FR>
+		</armourheavy1_t3_u_2>
+		<armourheavy1_t3_u_3>
+			<FR>[T2] Insigne de coagulation en acier</FR>
+		</armourheavy1_t3_u_3>
+		<armourheavy1_t3_u_4>
+			<FR>[T2] Insigne de fureur renforcé</FR>
+		</armourheavy1_t3_u_4>
+		<armourheavy1_t3_u_5>
+			<FR>[T2] Insigne de résistance cuirassé</FR>
+		</armourheavy1_t3_u_5>
+		<armourheavy1_t3_u_6>
+			<FR>[T2] Insigne de résilience agile</FR>
+		</armourheavy1_t3_u_6>
+		<armourheavy1_t3_u_7>
+			<FR>[T2] Insigne d'infusion indivisible</FR>
+		</armourheavy1_t3_u_7>
+		<armourheavy2_t3_c_1>
+			<FR>[T1] Insigne de vigueur tenace</FR>
+		</armourheavy2_t3_c_1>
+		<armourheavy2_t3_c_2>
+			<FR>[T1] Insigne de répit résistant</FR>
+		</armourheavy2_t3_c_2>
+		<armourheavy2_t3_c_3>
+			<FR>[T1] Insigne de coagulation du brasseur</FR>
+		</armourheavy2_t3_c_3>
+		<armourheavy2_t3_c_4>
+			<FR>[T1] Insigne de rapidité résilient</FR>
+		</armourheavy2_t3_c_4>
+		<armourheavy2_t3_c_5>
+			<FR>[T1] Insigne de l'imbrûlé cuirassé</FR>
+		</armourheavy2_t3_c_5>
+		<armourheavy2_t3_c_6>
+			<FR>[T1] Insigne d'énergie rajeunissant</FR>
+		</armourheavy2_t3_c_6>
+		<armourheavy2_t3_c_7>
+			<FR>[T1] Insigne d'héroïsme curatif</FR>
+		</armourheavy2_t3_c_7>
+		<armourheavy2_t3_r_1>
+			<FR>[T3] Marque du marche-tempête</FR>
+		</armourheavy2_t3_r_1>
+		<armourheavy2_t3_r_2>
+			<FR>[T3] Signe du monolithe</FR>
+		</armourheavy2_t3_r_2>
+		<armourheavy2_t3_r_3>
+			<FR>[T3] Sceau de Mug Ruith</FR>
+		</armourheavy2_t3_r_3>
+		<armourheavy2_t3_u_1>
+			<FR>[T2] Insigne d'endurance renforcé</FR>
+		</armourheavy2_t3_u_1>
+		<armourheavy2_t3_u_2>
+			<FR>[T2] Insigne de résistance de l'armurier</FR>
+		</armourheavy2_t3_u_2>
+		<armourheavy2_t3_u_3>
+			<FR>[T2] Insigne de résistance indivisible</FR>
+		</armourheavy2_t3_u_3>
+		<armourheavy2_t3_u_4>
+			<FR>[T2] Insigne d'héroïsme robuste</FR>
+		</armourheavy2_t3_u_4>
+		<armourheavy2_t3_u_5>
+			<FR>[T2] Insigne d'endurance obstiné</FR>
+		</armourheavy2_t3_u_5>
+		<armourheavy2_t3_u_6>
+			<FR>[T2] Insigne de solidité en acier</FR>
+		</armourheavy2_t3_u_6>
+		<armourheavy2_t3_u_7>
+			<FR>[T2] Insigne de premiers soins rajeunissant</FR>
+		</armourheavy2_t3_u_7>
+		<armourlight1_t3_c_1>
+			<FR>[T1] Insigne de vigueur tenace</FR>
+		</armourlight1_t3_c_1>
+		<armourlight1_t3_c_2>
+			<FR>[T1] Insigne de coagulation curatif</FR>
+		</armourlight1_t3_c_2>
+		<armourlight1_t3_c_3>
+			<FR>[T1] Insigne de résistance du brasseur</FR>
+		</armourlight1_t3_c_3>
+		<armourlight1_t3_c_4>
+			<FR>[T1] Insigne de l'imbrûlé protecteur</FR>
+		</armourlight1_t3_c_4>
+		<armourlight1_t3_c_5>
+			<FR>[T1] Insigne de vigueur protecteur</FR>
+		</armourlight1_t3_c_5>
+		<armourlight1_t3_r_1>
+			<FR>[T3] Marque du guerrier prédestiné</FR>
+		</armourlight1_t3_r_1>
+		<armourlight1_t3_r_2>
+			<FR>[T3] Sceau du jugement divin</FR>
+		</armourlight1_t3_r_2>
+		<armourlight1_t3_r_3>
+			<FR>[T3] Insigne de la main du destin</FR>
+		</armourlight1_t3_r_3>
+		<armourlight1_t3_u_1>
+			<FR>[T2] Insigne de robustesse du brasseur</FR>
+		</armourlight1_t3_u_1>
+		<armourlight1_t3_u_2>
+			<FR>[T2] Insigne de rajeunissement renforcé</FR>
+		</armourlight1_t3_u_2>
+		<armourlight1_t3_u_3>
+			<FR>[T2] Insigne de furie protecteur</FR>
+		</armourlight1_t3_u_3>
+		<armourlight1_t3_u_4>
+			<FR>[T2] Insigne de célérité agile</FR>
+		</armourlight1_t3_u_4>
+		<armourlight1_t3_u_5>
+			<FR>[T2] Insigne de constance rajeunissant</FR>
+		</armourlight1_t3_u_5>
+		<armourlight2_t3_c_1>
+			<FR>[T1] Insigne de répit énergisant</FR>
+		</armourlight2_t3_c_1>
+		<armourlight2_t3_c_2>
+			<FR>[T1] Insigne de colère cuirassé</FR>
+		</armourlight2_t3_c_2>
+		<armourlight2_t3_c_3>
+			<FR>[T1] Insigne de résilience curatif</FR>
+		</armourlight2_t3_c_3>
+		<armourlight2_t3_c_4>
+			<FR>[T1] Insigne de vigueur rajeunissant</FR>
+		</armourlight2_t3_c_4>
+		<armourlight2_t3_c_5>
+			<FR>[T1] Insigne de l'aigle agile</FR>
+		</armourlight2_t3_c_5>
+		<armourlight2_t3_r_1>
+			<FR>[T3] Insigne du forge-marteau</FR>
+		</armourlight2_t3_r_1>
+		<armourlight2_t3_r_2>
+			<FR>[T3] Signe de réflexion</FR>
+		</armourlight2_t3_r_2>
+		<armourlight2_t3_r_3>
+			<FR>[T3] Signe de Lir</FR>
+		</armourlight2_t3_r_3>
+		<armourlight2_t3_u_1>
+			<FR>[T2] Insigne de répit énergisant</FR>
+		</armourlight2_t3_u_1>
+		<armourlight2_t3_u_2>
+			<FR>[T2] Insigne de constance infusé</FR>
+		</armourlight2_t3_u_2>
+		<armourlight2_t3_u_3>
+			<FR>[T2] Insigne de premiers soins verrouilleur</FR>
+		</armourlight2_t3_u_3>
+		<armourlight2_t3_u_4>
+			<FR>[T2] Insigne d'infusion renforcé</FR>
+		</armourlight2_t3_u_4>
+		<armourlight2_t3_u_5>
+			<FR>[T2] Insigne de rajeunissement robuste</FR>
+		</armourlight2_t3_u_5>
+		<armourmedium1_t3_c_1>
+			<FR>[T1] Insigne d'héroïsme vigoureux</FR>
+		</armourmedium1_t3_c_1>
+		<armourmedium1_t3_c_2>
+			<FR>[T1] Insigne de résilience résistant</FR>
+		</armourmedium1_t3_c_2>
+		<armourmedium1_t3_c_3>
+			<FR>[T1] Insigne de fureur fâcheux</FR>
+		</armourmedium1_t3_c_3>
+		<armourmedium1_t3_c_4>
+			<FR>[T1] Insigne de colère en acier</FR>
+		</armourmedium1_t3_c_4>
+		<armourmedium1_t3_c_5>
+			<FR>[T1] Insigne d'endurance du brasseur</FR>
+		</armourmedium1_t3_c_5>
+		<armourmedium1_t3_r_1>
+			<FR>[T3] Insigne de frimas</FR>
+		</armourmedium1_t3_r_1>
+		<armourmedium1_t3_r_2>
+			<FR>[T3] Symbole de communion</FR>
+		</armourmedium1_t3_r_2>
+		<armourmedium1_t3_r_3>
+			<FR>[T3] Insigne d'Aibell</FR>
+		</armourmedium1_t3_r_3>
+		<armourmedium1_t3_r_4>
+			<FR>[T3] Sceau incassable</FR>
+		</armourmedium1_t3_r_4>
+		<armourmedium1_t3_u_1>
+			<FR>[T2] Insigne d'évasion curatif</FR>
+		</armourmedium1_t3_u_1>
+		<armourmedium1_t3_u_2>
+			<FR>[T2] Insigne de premiers soins tenace</FR>
+		</armourmedium1_t3_u_2>
+		<armourmedium1_t3_u_3>
+			<FR>[T2] Insigne de sang-froid courroucé</FR>
+		</armourmedium1_t3_u_3>
+		<armourmedium1_t3_u_4>
+			<FR>[T2] Insigne d'héroïsme indivisible</FR>
+		</armourmedium1_t3_u_4>
+		<armourmedium1_t3_u_5>
+			<FR>[T2] Insigne de préparation héroïque</FR>
+		</armourmedium1_t3_u_5>
+		<armourmedium2_t3_c_1>
+			<FR>[T1] Insigne de coagulation cuirassé</FR>
+		</armourmedium2_t3_c_1>
+		<armourmedium2_t3_c_2>
+			<FR>[T1] Insigne d'énergie empressé</FR>
+		</armourmedium2_t3_c_2>
+		<armourmedium2_t3_c_3>
+			<FR>[T1] Insigne de l'imbrûlé cuirassé</FR>
+		</armourmedium2_t3_c_3>
+		<armourmedium2_t3_c_4>
+			<FR>[T1] Insigne de l'antidote vigoureux</FR>
+		</armourmedium2_t3_c_4>
+		<armourmedium2_t3_c_5>
+			<FR>[T1] Insigne d'héroïsme du brasseur</FR>
+		</armourmedium2_t3_c_5>
+		<armourmedium2_t3_r_1>
+			<FR>[T3] Sceau de ténacité</FR>
+		</armourmedium2_t3_r_1>
+		<armourmedium2_t3_r_2>
+			<FR>[T3] Marque de l'immaculé</FR>
+		</armourmedium2_t3_r_2>
+		<armourmedium2_t3_r_3>
+			<FR>[T3] Marque de répulsion</FR>
+		</armourmedium2_t3_r_3>
+		<armourmedium2_t3_u_1>
+			<FR>[T2] Insigne d'alacrité coagulant</FR>
+		</armourmedium2_t3_u_1>
+		<armourmedium2_t3_u_2>
+			<FR>[T2] Insigne de fureur robuste</FR>
+		</armourmedium2_t3_u_2>
+		<armourmedium2_t3_u_3>
+			<FR>[T2] Insigne de cuirassé solide</FR>
+		</armourmedium2_t3_u_3>
+		<armourmedium2_t3_u_4>
+			<FR>[T2] Insigne de réplique rajeunissant</FR>
+		</armourmedium2_t3_u_4>
+		<armourmedium2_t3_u_5>
+			<FR>[T2] Insigne d'armure cuirassé</FR>
+		</armourmedium2_t3_u_5>
+		<artifact_t3_c_1>
+			<FR>[T1] Artéfact de lutte incombustible</FR>
+		</artifact_t3_c_1>
+		<artifact_t3_c_2>
+			<FR>[T1] Artéfact de robustesse du chef de guerre</FR>
+		</artifact_t3_c_2>
+		<artifact_t3_c_3>
+			<FR>[T1] Artéfact de perforage du tireur d'élite</FR>
+		</artifact_t3_c_3>
+		<artifact_t3_c_4>
+			<FR>[T1] Artéfact de vigueur fumant</FR>
+		</artifact_t3_c_4>
+		<artifact_t3_c_5>
+			<FR>[T1] Artéfact d'ardeur en acier</FR>
+		</artifact_t3_c_5>
+		<artifact_t3_r_1>
+			<FR>[T3] Cendres de Bebd</FR>
+		</artifact_t3_r_1>
+		<artifact_t3_r_2>
+			<FR>[T3] Urne d'orage</FR>
+		</artifact_t3_r_2>
+		<artifact_t3_u_1>
+			<FR>[T2] Artéfact de malédiction enragé</FR>
+		</artifact_t3_u_1>
+		<artifact_t3_u_2>
+			<FR>[T2] Artéfact de précision secouant</FR>
+		</artifact_t3_u_2>
+		<artifact_t3_u_3>
+			<FR>[T2] Artéfact de tourment infernal</FR>
+		</artifact_t3_u_3>
+		<artifact_t3_u_4>
+			<FR>[T2] Artéfact de résilience ardent</FR>
+		</artifact_t3_u_4>
+		<axe_t3_c_1>
+			<FR>[T1] Rune de venin de l'assassin</FR>
+		</axe_t3_c_1>
+		<axe_t3_c_2>
+			<FR>[T1] Rune tue-Pictes du creuse-crâne</FR>
+		</axe_t3_c_2>
+		<axe_t3_c_3>
+			<FR>[T1] Rune tue-Seelie du lutteur</FR>
+		</axe_t3_c_3>
+		<axe_t3_c_4>
+			<FR>[T1] Rune de maladie infâme</FR>
+		</axe_t3_c_4>
+		<axe_t3_c_5>
+			<FR>[T1] Rune d'énergie fracassante</FR>
+		</axe_t3_c_5>
+		<axe_t3_c_6>
+			<FR>[T1] Rune tue-Pictes creuse-peau</FR>
+		</axe_t3_c_6>
+		<axe_t3_c_7>
+			<FR>[T1] Rune de rage protectrice</FR>
+		</axe_t3_c_7>
+		<axe_t3_r_1>
+			<FR>[T3] Marque du fendeur</FR>
+		</axe_t3_r_1>
+		<axe_t3_r_2>
+			<FR>[T3] Soif de Crom Cruach</FR>
+		</axe_t3_r_2>
+		<axe_t3_r_3>
+			<FR>[T3] Signe de la hache</FR>
+		</axe_t3_r_3>
+		<axe_t3_r_4>
+			<FR>[T3] Empreinte du cerf spirituel</FR>
+		</axe_t3_r_4>
+		<axe_t3_r_5>
+			<FR>[T3] Rune mortelle fomoire</FR>
+		</axe_t3_r_5>
+		<axe_t3_u_1>
+			<FR>[T2] Rune de rage assoiffée de sang</FR>
+		</axe_t3_u_1>
+		<axe_t3_u_2>
+			<FR>[T2] Rune de perforage d'avant-garde</FR>
+		</axe_t3_u_2>
+		<axe_t3_u_3>
+			<FR>[T2] Rune de destruction protectrice</FR>
+		</axe_t3_u_3>
+		<axe_t3_u_4>
+			<FR>[T2] Rune de puissance tue-Seelie</FR>
+		</axe_t3_u_4>
+		<axe_t3_u_5>
+			<FR>[T2] Rune de rapidité agressive</FR>
+		</axe_t3_u_5>
+		<axe_t3_u_6>
+			<FR>[T2] Rune de célérité de l'armurier</FR>
+		</axe_t3_u_6>
+		<axe_t3_u_7>
+			<FR>[T2] Rune de frappe de l'initiateur</FR>
+		</axe_t3_u_7>
+		<bow_t3_c_1>
+			<FR>[T1] Rune de force fumante</FR>
+		</bow_t3_c_1>
+		<bow_t3_c_2>
+			<FR>[T1] Rune de perforage énergisante</FR>
+		</bow_t3_c_2>
+		<bow_t3_c_3>
+			<FR>[T1] Rune de perforage ciblée</FR>
+		</bow_t3_c_3>
+		<bow_t3_c_4>
+			<FR>[T1] Rune d'équilibre nocive</FR>
+		</bow_t3_c_4>
+		<bow_t3_r_1>
+			<FR>[T3] Sceau de Poing-du-jour</FR>
+		</bow_t3_r_1>
+		<bow_t3_r_2>
+			<FR>[T3] Rune de l'arc-serpent</FR>
+		</bow_t3_r_2>
+		<bow_t3_r_3>
+			<FR>[T3] Flèche de Goibniu</FR>
+		</bow_t3_r_3>
+		<bow_t3_u_1>
+			<FR>[T2] Rune de verrouillage désengagée</FR>
+		</bow_t3_u_1>
+		<bow_t3_u_2>
+			<FR>[T2] Rune d'infection nocive</FR>
+		</bow_t3_u_2>
+		<bow_t3_u_3>
+			<FR>[T2] Rune de brûlure fumante</FR>
+		</bow_t3_u_3>
+		<bow_t3_u_4>
+			<FR>[T2] Rune de sang-froid perçante</FR>
+		</bow_t3_u_4>
+		<chaliceofdagda>
+			<FR>[T3] Calice de Dagda</FR>
+		</chaliceofdagda>
+		<crossbow_t3_c_1>
+			<FR>[T1] Rune d'équilibre embrasée</FR>
+		</crossbow_t3_c_1>
+		<crossbow_t3_c_2>
+			<FR>[T1] Rune de rage tue-Unseelie</FR>
+		</crossbow_t3_c_2>
+		<crossbow_t3_c_3>
+			<FR>[T1] Rune de chef de guerre nocive</FR>
+		</crossbow_t3_c_3>
+		<crossbow_t3_c_4>
+			<FR>[T1] Rune d'équilibre protectrice</FR>
+		</crossbow_t3_c_4>
+		<crossbow_t3_c_5>
+			<FR>[T1] Rune de venin du tireur d'élite</FR>
+		</crossbow_t3_c_5>
+		<crossbow_t3_r_1>
+			<FR>[T3] Rune de tir sauvage</FR>
+		</crossbow_t3_r_1>
+		<crossbow_t3_r_2>
+			<FR>[T3] Marque de la sentinelle</FR>
+		</crossbow_t3_r_2>
+		<crossbow_t3_r_3>
+			<FR>[T3] Rune d'Ankou mortelle</FR>
+		</crossbow_t3_r_3>
+		<crossbow_t3_r_4>
+			<FR>[T3] Rune de vent intense</FR>
+		</crossbow_t3_r_4>
+		<crossbow_t3_u_1>
+			<FR>[T2] Rune de maladie de l'œil de lynx</FR>
+		</crossbow_t3_u_1>
+		<crossbow_t3_u_2>
+			<FR>[T2] Rune de perforage de la sentinelle</FR>
+		</crossbow_t3_u_2>
+		<crossbow_t3_u_3>
+			<FR>[T2] Rune brise-bouclier du tireur d'élite</FR>
+		</crossbow_t3_u_3>
+		<crossbow_t3_u_4>
+			<FR>[T2] Rune tue-Unseelie de courte portée</FR>
+		</crossbow_t3_u_4>
+		<crossbow_t3_u_5>
+			<FR>[T2] Rune de contournement enragée</FR>
+		</crossbow_t3_u_5>
+		<et_2haxe_t3_r_1>
+			<FR>[T3] Marque du conquérant</FR>
+		</et_2haxe_t3_r_1>
+		<et_accessory_t3_r_1>
+			<FR>[T3] Gemme glacée du conjurateur</FR>
+		</et_accessory_t3_r_1>
+		<et_armourheavy1_t3_r_1>
+			<FR>[T3] Sceau de l'équilibre</FR>
+		</et_armourheavy1_t3_r_1>
+		<et_armourheavy2_t3_r_1>
+			<FR>[T3] Insigne maudit de Goibniu</FR>
+		</et_armourheavy2_t3_r_1>
+		<et_armourlight1_t3_r_1>
+			<FR>[T3] Insigne de réflexion</FR>
+		</et_armourlight1_t3_r_1>
+		<et_armourlight2_t3_r_1>
+			<FR>[T3] Insigne de réparation</FR>
+		</et_armourlight2_t3_r_1>
+		<et_armourmedium1_t3_r_1>
+			<FR>[T3] Signe de l'hirondelle</FR>
+		</et_armourmedium1_t3_r_1>
+		<et_armourmedium2_t3_r_1>
+			<FR>[T3] Sceau de sérénité</FR>
+		</et_armourmedium2_t3_r_1>
+		<et_artifact_t3_r_1>
+			<FR>[T3] Pieds flétris de Cichol</FR>
+		</et_artifact_t3_r_1>
+		<et_axe_t3_r_1>
+			<FR>[T3] Rune de la hache ailée</FR>
+		</et_axe_t3_r_1>
+		<et_crossbow_t3_r_1>
+			<FR>[T3] Rune de la flèche maudite</FR>
+		</et_crossbow_t3_r_1>
+		<et_jewelry_t3_r_1>
+			<FR>[T3] Anneau de feu du conjurateur</FR>
+		</et_jewelry_t3_r_1>
+		<et_luckycharm_t3_r_1>
+			<FR>[T3] Charme d'indulgence</FR>
+		</et_luckycharm_t3_r_1>
+		<et_manuscript_t3_r_1>
+			<FR>[T3] Grimoire du sorcier sauvage</FR>
+		</et_manuscript_t3_r_1>
+		<et_oathstone_t3_r_1>
+			<FR>[T3] Serment de bourreau</FR>
+		</et_oathstone_t3_r_1>
+		<et_provision_t3_r_1>
+			<FR>[T3] Bottes en cuir de Fomoire</FR>
+		</et_provision_t3_r_1>
+		<et_staff1_t3_r_1>
+			<FR>[T3] Grande rune de malédiction</FR>
+		</et_staff1_t3_r_1>
+		<et_sword_t3_r_1>
+			<FR>[T3] Rune de trompe-la-mort</FR>
+		</et_sword_t3_r_1>
+		<et_trophy_t3_r_1>
+			<FR>[T3] Défenses maudites de sanglier souillé</FR>
+		</et_trophy_t3_r_1>
+		<jewelry_t3_c_1>
+			<FR>[T1] Anneau de saignée protecteur</FR>
+		</jewelry_t3_c_1>
+		<jewelry_t3_c_2>
+			<FR>[T1] Anneau tue-Seelie secouant</FR>
+		</jewelry_t3_c_2>
+		<jewelry_t3_c_3>
+			<FR>[T1] Anneau d'énergie du lutteur</FR>
+		</jewelry_t3_c_3>
+		<jewelry_t3_c_4>
+			<FR>[T1] Anneau du tireur d'élite habile</FR>
+		</jewelry_t3_c_4>
+		<jewelry_t3_c_5>
+			<FR>[T1] Anneau de taillade épuisant</FR>
+		</jewelry_t3_c_5>
+		<jewelry_t3_c_6>
+			<FR>[T1] Anneau de premier sang fumant</FR>
+		</jewelry_t3_c_6>
+		<jewelry_t3_r_1>
+			<FR>[T3] Anneau du philosophe</FR>
+		</jewelry_t3_r_1>
+		<jewelry_t3_r_2>
+			<FR>[T3] Bijou serpentin</FR>
+		</jewelry_t3_r_2>
+		<jewelry_t3_r_3>
+			<FR>[T3] Pierre estivale des Seelie</FR>
+		</jewelry_t3_r_3>
+		<jewelry_t3_r_4>
+			<FR>[T3] Pierre-esprit chantante</FR>
+		</jewelry_t3_r_4>
+		<jewelry_t3_r_5>
+			<FR>[T3] Anneau de Lir</FR>
+		</jewelry_t3_r_5>
+		<jewelry_t3_r_6>
+			<FR>[T3] Anneau divin du duelliste</FR>
+		</jewelry_t3_r_6>
+		<jewelry_t3_r_7>
+			<FR>[T3] Anneau du factionnaire</FR>
+		</jewelry_t3_r_7>
+		<jewelry_t3_r_8>
+			<FR>[T3] Anneau d'inflexibilité</FR>
+		</jewelry_t3_r_8>
+		<jewelry_t3_u_1>
+			<FR>[T2] Anneau d'engelure courroucé</FR>
+		</jewelry_t3_u_1>
+		<jewelry_t3_u_2>
+			<FR>[T2] Anneau de taillade cinétique</FR>
+		</jewelry_t3_u_2>
+		<jewelry_t3_u_3>
+			<FR>[T2] Anneau d'entaille de la sentinelle</FR>
+		</jewelry_t3_u_3>
+		<jewelry_t3_u_4>
+			<FR>[T2] Anneau de désengagement infernal</FR>
+		</jewelry_t3_u_4>
+		<jewelry_t3_u_5>
+			<FR>[T2] Anneau de force venimeux</FR>
+		</jewelry_t3_u_5>
+		<jewelry_t3_u_6>
+			<FR>[T2] Anneau de contournement tue-Seelie</FR>
+		</jewelry_t3_u_6>
+		<jewelry_t3_u_7>
+			<FR>[T2] Anneau de perforage d'avant-garde</FR>
+		</jewelry_t3_u_7>
+		<luckycharm_t3_c_1>
+			<FR>[T1] Porte-bonheur du protecteur ciblé</FR>
+		</luckycharm_t3_c_1>
+		<luckycharm_t3_c_2>
+			<FR>[T1] Porte-bonheur de perforage fumant</FR>
+		</luckycharm_t3_c_2>
+		<luckycharm_t3_c_3>
+			<FR>[T1] Porte-bonheur de maladie nocif</FR>
+		</luckycharm_t3_c_3>
+		<luckycharm_t3_c_4>
+			<FR>[T1] Porte-bonheur de force rapide</FR>
+		</luckycharm_t3_c_4>
+		<luckycharm_t3_c_5>
+			<FR>[T1] Porte-bonheur de revitalisation habile</FR>
+		</luckycharm_t3_c_5>
+		<luckycharm_t3_r_1>
+			<FR>[T3] Talisman de bonheur</FR>
+		</luckycharm_t3_r_1>
+		<luckycharm_t3_r_2>
+			<FR>[T3] Talisman du Sagittaire</FR>
+		</luckycharm_t3_r_2>
+		<luckycharm_t3_u_1>
+			<FR>[T2] Porte-bonheur de répit robuste</FR>
+		</luckycharm_t3_u_1>
+		<luckycharm_t3_u_2>
+			<FR>[T2] Porte-bonheur d'infusion de l'armurier</FR>
+		</luckycharm_t3_u_2>
+		<luckycharm_t3_u_3>
+			<FR>[T2] Porte-bonheur de fureur en acier</FR>
+		</luckycharm_t3_u_3>
+		<luckycharm_t3_u_4>
+			<FR>[T2] Porte-bonheur de brûlure infernal</FR>
+		</luckycharm_t3_u_4>
+		<manuscript_t3_c_1>
+			<FR>[T1] Manuscrit d'endurance résilient</FR>
+		</manuscript_t3_c_1>
+		<manuscript_t3_c_2>
+			<FR>[T1] Manuscrit de célérité glacial</FR>
+		</manuscript_t3_c_2>
+		<manuscript_t3_c_3>
+			<FR>[T1] Manuscrit d'inspiration rajeunissant</FR>
+		</manuscript_t3_c_3>
+		<manuscript_t3_c_4>
+			<FR>[T1] Manuscrit de courage infusé</FR>
+		</manuscript_t3_c_4>
+		<manuscript_t3_c_5>
+			<FR>[T1] Manuscrit de l'assassin glacial</FR>
+		</manuscript_t3_c_5>
+		<manuscript_t3_r_1>
+			<FR>[T3] Enseignements d'Ecne</FR>
+		</manuscript_t3_r_1>
+		<manuscript_t3_r_2>
+			<FR>[T3] Cantiques d'Aibell</FR>
+		</manuscript_t3_r_2>
+		<manuscript_t3_r_3>
+			<FR>[T3] Testament de Cailleach</FR>
+		</manuscript_t3_r_3>
+		<manuscript_t3_u_1>
+			<FR>[T2] Manuscrit de perforage gelé</FR>
+		</manuscript_t3_u_1>
+		<manuscript_t3_u_2>
+			<FR>[T2] Manuscrit d'épuisement curatif</FR>
+		</manuscript_t3_u_2>
+		<manuscript_t3_u_3>
+			<FR>[T2] Manuscrit de constance persistant</FR>
+		</manuscript_t3_u_3>
+		<manuscript_t3_u_4>
+			<FR>[T2] Manuscrit de courage rajeunissant</FR>
+		</manuscript_t3_u_4>
+		<oathstone_t3_c_1>
+			<FR>[T1] Pierre-serment d'entaille sanglante</FR>
+		</oathstone_t3_c_1>
+		<oathstone_t3_c_2>
+			<FR>[T1] Pierre-serment de résistance du lutteur</FR>
+		</oathstone_t3_c_2>
+		<oathstone_t3_c_3>
+			<FR>[T1] Pierre-serment de force vivifiante</FR>
+		</oathstone_t3_c_3>
+		<oathstone_t3_c_4>
+			<FR>[T1] Pierre-serment tue-Seelie reposante</FR>
+		</oathstone_t3_c_4>
+		<oathstone_t3_c_5>
+			<FR>[T1] Pierre-serment de vigueur robuste</FR>
+		</oathstone_t3_c_5>
+		<oathstone_t3_r_1>
+			<FR>[T3] Serment du porte-bouclier</FR>
+		</oathstone_t3_r_1>
+		<oathstone_t3_r_2>
+			<FR>[T3] Serment de vigilance</FR>
+		</oathstone_t3_r_2>
+		<oathstone_t3_u_1>
+			<FR>[T2] Pierre-serment de bouclier protecteur</FR>
+		</oathstone_t3_u_1>
+		<oathstone_t3_u_2>
+			<FR>[T2] Pierre-serment de provocation robuste</FR>
+		</oathstone_t3_u_2>
+		<oathstone_t3_u_3>
+			<FR>[T2] Pierre-serment de résistance résiliente</FR>
+		</oathstone_t3_u_3>
+		<oathstone_t3_u_4>
+			<FR>[T2] Pierre-serment de destruction infusée</FR>
+		</oathstone_t3_u_4>
+		<provision_t3_c_1>
+			<FR>[T1] Fétiche de maladie de l'embusqueur</FR>
+		</provision_t3_c_1>
+		<provision_t3_c_2>
+			<FR>[T1] Fétiche de rôdeur habile</FR>
+		</provision_t3_c_2>
+		<provision_t3_c_3>
+			<FR>[T1] Fétiche de célérité verrouilleur</FR>
+		</provision_t3_c_3>
+		<provision_t3_c_4>
+			<FR>[T1] Fétiche de venin infâme</FR>
+		</provision_t3_c_4>
+		<provision_t3_c_5>
+			<FR>[T1] Fétiche de coagulation du coupe-jarret</FR>
+		</provision_t3_c_5>
+		<provision_t3_r_1>
+			<FR>[T3] Longue-vue d'éclaireur</FR>
+		</provision_t3_r_1>
+		<provision_t3_r_2>
+			<FR>[T3] Ailettes célestes</FR>
+		</provision_t3_r_2>
+		<provision_t3_r_3>
+			<FR>Creuset du maître des pièges</FR>
+		</provision_t3_r_3>
+		<provision_t3_u_1>
+			<FR>[T2] Fétiche de frénésie colleteur</FR>
+		</provision_t3_u_1>
+		<provision_t3_u_2>
+			<FR>[T2] Fétiche de force du lanceur de couteaux</FR>
+		</provision_t3_u_2>
+		<provision_t3_u_3>
+			<FR>[T2] Fétiche d'épuisement du trappeur</FR>
+		</provision_t3_u_3>
+		<provision_t3_u_4>
+			<FR>[T2] Fétiche de combine perçant</FR>
+		</provision_t3_u_4>
+		<spearoflugh>
+			<FR>[T3] Lance de Lugh</FR>
+		</spearoflugh>
+		<staff1_t3_c_1>
+			<FR>[T1] Rune de lutte de l'assassin</FR>
+		</staff1_t3_c_1>
+		<staff1_t3_c_2>
+			<FR>[T1] Rune d'agilité du tireur d'élite</FR>
+		</staff1_t3_c_2>
+		<staff1_t3_c_3>
+			<FR>[T1] Rune tue-Sidhe</FR>
+		</staff1_t3_c_3>
+		<staff1_t3_c_4>
+			<FR>[T1] Rune de l'imbrûlé tue-Pictes</FR>
+		</staff1_t3_c_4>
+		<staff1_t3_c_5>
+			<FR>[T1] Rune de commotion protectrice</FR>
+		</staff1_t3_c_5>
+		<staff1_t3_r_1>
+			<FR>[T3] Furie de Taranis</FR>
+		</staff1_t3_r_1>
+		<staff1_t3_r_2>
+			<FR>[T3] Rune cataclysmique</FR>
+		</staff1_t3_r_2>
+		<staff1_t3_r_3>
+			<FR>[T3] Marque du savant</FR>
+		</staff1_t3_r_3>
+		<staff1_t3_u_1>
+			<FR>[T2] Rune de contournement déterminée</FR>
+		</staff1_t3_u_1>
+		<staff1_t3_u_2>
+			<FR>[T2] Rune de force précise</FR>
+		</staff1_t3_u_2>
+		<staff1_t3_u_3>
+			<FR>[T2] Rune d'explosion de courte portée</FR>
+		</staff1_t3_u_3>
+		<staff1_t3_u_4>
+			<FR>[T2] Rune de taillade calme</FR>
+		</staff1_t3_u_4>
+		<staff1_t3_u_5>
+			<FR>[T2] Rune de calcination ardente</FR>
+		</staff1_t3_u_5>
+		<staff2_t3_c_1>
+			<FR>[T1] Rune d'équilibre énergisante</FR>
+		</staff2_t3_c_1>
+		<staff2_t3_c_2>
+			<FR>[T1] Rune de perforage du chef de guerre</FR>
+		</staff2_t3_c_2>
+		<staff2_t3_c_3>
+			<FR>[T1] Rune de calcination infernale</FR>
+		</staff2_t3_c_3>
+		<staff2_t3_c_4>
+			<FR>[T1] Rune de fracassement enragée</FR>
+		</staff2_t3_c_4>
+		<staff2_t3_r_1>
+			<FR>[T3] Griffe de Fúamnach</FR>
+		</staff2_t3_r_1>
+		<staff2_t3_r_2>
+			<FR>[T3] Sceau du lointain</FR>
+		</staff2_t3_r_2>
+		<staff2_t3_r_3>
+			<FR>[T3] Croc brisé de Cichol</FR>
+		</staff2_t3_r_3>
+		<staff2_t3_r_4>
+			<FR>[T3] Rune de l'invocateur de tempêtes</FR>
+		</staff2_t3_r_4>
+		<staff2_t3_u_1>
+			<FR>[T2] Rune d'entaille du maudisseur</FR>
+		</staff2_t3_u_1>
+		<staff2_t3_u_2>
+			<FR>[T2] Rune brise-bouclier du tireur d'élite</FR>
+		</staff2_t3_u_2>
+		<staff2_t3_u_3>
+			<FR>[T2] Rune d'explosion de rage sanguinaire</FR>
+		</staff2_t3_u_3>
+		<staff2_t3_u_4>
+			<FR>[T2] Rune de perforage de l'œil de lynx</FR>
+		</staff2_t3_u_4>
+		<sword_t3_c_1>
+			<FR>[T1] Rune d'équilibre enragée</FR>
+		</sword_t3_c_1>
+		<sword_t3_c_2>
+			<FR>[T1] Rune de premier sang du traître</FR>
+		</sword_t3_c_2>
+		<sword_t3_c_3>
+			<FR>[T1] Rune de saignée du duelliste</FR>
+		</sword_t3_c_3>
+		<sword_t3_c_4>
+			<FR>[T1] Rune d'entaille du coupe-jarret</FR>
+		</sword_t3_c_4>
+		<sword_t3_c_5>
+			<FR>[T1] Rune de perforage secouante</FR>
+		</sword_t3_c_5>
+		<sword_t3_c_6>
+			<FR>[T1] Rune de commotion consolidante</FR>
+		</sword_t3_c_6>
+		<sword_t3_c_7>
+			<FR>[T1] Rune de perforage protectrice</FR>
+		</sword_t3_c_7>
+		<sword_t3_r_1>
+			<FR>[T3] Rune de lame estivale</FR>
+		</sword_t3_r_1>
+		<sword_t3_r_2>
+			<FR>[T3] Marque de trahison</FR>
+		</sword_t3_r_2>
+		<sword_t3_r_3>
+			<FR>[T3] Grâce d'Andraste</FR>
+		</sword_t3_r_3>
+		<sword_t3_r_4>
+			<FR>[T3] Marque du tisse-magie</FR>
+		</sword_t3_r_4>
+		<sword_t3_r_5>
+			<FR>[T3] Énigme de Lugh</FR>
+		</sword_t3_r_5>
+		<sword_t3_u_1>
+			<FR>[T2] Rune de duel de l'assassin</FR>
+		</sword_t3_u_1>
+		<sword_t3_u_2>
+			<FR>[T2] Rune de saignée du maître de guerre</FR>
+		</sword_t3_u_2>
+		<sword_t3_u_3>
+			<FR>[T2] Rune d'infection ignoble</FR>
+		</sword_t3_u_3>
+		<sword_t3_u_4>
+			<FR>[T2] Rune de taillade gelée</FR>
+		</sword_t3_u_4>
+		<sword_t3_u_5>
+			<FR>[T2] Rune tue-Unseelie éreintante</FR>
+		</sword_t3_u_5>
+		<sword_t3_u_6>
+			<FR>[T2] Rune d'entaille lancinante</FR>
+		</sword_t3_u_6>
+		<sword_t3_u_7>
+			<FR>[T2] Rune de force épuisante</FR>
+		</sword_t3_u_7>
+		<swordofnuada>
+			<FR>[T3] Épée de Nuada</FR>
+		</swordofnuada>
+		<th_2haxe_t3_r_1>
+			<FR>[T3] Rune de la hache sidhe</FR>
+		</th_2haxe_t3_r_1>
+		<th_accessory_t3_r_1>
+			<FR>[T3] Gemme infernale</FR>
+		</th_accessory_t3_r_1>
+		<th_accessory_t3_r_2>
+			<FR>[T3] Pierre-blizzard</FR>
+		</th_accessory_t3_r_2>
+		<th_accessory_t3_r_3>
+			<FR>[T3] Pendentif d'évêque</FR>
+		</th_accessory_t3_r_3>
+		<th_accessory_t3_r_4>
+			<FR>[T3] Pierre sacrée de miracle</FR>
+		</th_accessory_t3_r_4>
+		<th_armourheavy1_t3_r_1>
+			<FR>[T3] Seigneur de l'insigne pourri</FR>
+		</th_armourheavy1_t3_r_1>
+		<th_armourlight2_t3_r_1>
+			<FR>[T3] Marque de décomposition</FR>
+		</th_armourlight2_t3_r_1>
+		<th_armourmedium2_t3_r_1>
+			<FR>[T3] Insigne de putréfaction</FR>
+		</th_armourmedium2_t3_r_1>
+		<th_artifact_t3_r_1>
+			<FR>[T3] Complainte de l'immolé</FR>
+		</th_artifact_t3_r_1>
+		<th_axe_t3_r_1>
+			<FR>[T3] Rune grêleuse</FR>
+		</th_axe_t3_r_1>
+		<th_crossbow_t3_r_1>
+			<FR>[T3] Rune solaire</FR>
+		</th_crossbow_t3_r_1>
+		<th_crossbow_t3_r_2>
+			<FR>[T3] Rune de la chasseresse</FR>
+		</th_crossbow_t3_r_2>
+		<th_jewelry_t3_r_1>
+			<FR>[T3] Anneau de la cour de l'Été</FR>
+		</th_jewelry_t3_r_1>
+		<th_jewelry_t3_r_2>
+			<FR>[T3] Anneau de la cour de l'Hiver</FR>
+		</th_jewelry_t3_r_2>
+		<th_jewelry_t3_r_3>
+			<FR>[T3] Anneau du sorcier</FR>
+		</th_jewelry_t3_r_3>
+		<th_jewelry_t3_r_4>
+			<FR>[T3] Anneau de Fismernan</FR>
+		</th_jewelry_t3_r_4>
+		<th_jewelry_t3_r_5>
+			<FR>[T3] Anneau de renoncement</FR>
+		</th_jewelry_t3_r_5>
+		<th_luckycharm_t3_r_1>
+			<FR>[T3] Charme de voyant</FR>
+		</th_luckycharm_t3_r_1>
+		<th_manuscript_t3_r_1>
+			<FR>[T3] Parchemins de Gwynn ap Nudd</FR>
+		</th_manuscript_t3_r_1>
+		<th_oathstone_t3_r_1>
+			<FR>[T3] Serment de l'enfant de la tempête</FR>
+		</th_oathstone_t3_r_1>
+		<th_provision_t3_r_1>
+			<FR>[T3] Cristal de la pythie</FR>
+		</th_provision_t3_r_1>
+		<th_staff2_t3_r_1>
+			<FR>[T3] Rune de bâton estival</FR>
+		</th_staff2_t3_r_1>
+		<th_staff2_t3_r_2>
+			<FR>[T3] Rune du sorcier</FR>
+		</th_staff2_t3_r_2>
+		<th_sword_t3_r_1>
+			<FR>[T3] Rune du chevauche-tempêtes</FR>
+		</th_sword_t3_r_1>
+		<th_sword_t3_r_2>
+			<FR>[T3] Rune de la lame sidhe</FR>
+		</th_sword_t3_r_2>
+		<th_trophy_t3_r_1>
+			<FR>[T3] La tête du sauvage</FR>
+		</th_trophy_t3_r_1>
+		<trophy_t3_c_1>
+			<FR>[T1] Trophée de force acéré</FR>
+		</trophy_t3_c_1>
+		<trophy_t3_c_2>
+			<FR>[T1] Trophée de rage héroïque</FR>
+		</trophy_t3_c_2>
+		<trophy_t3_c_3>
+			<FR>[T1] Trophée d'entaille sanglant</FR>
+		</trophy_t3_c_3>
+		<trophy_t3_c_4>
+			<FR>[T1] Trophée de perforage rapide</FR>
+		</trophy_t3_c_4>
+		<trophy_t3_c_5>
+			<FR>[T1] Trophée de cuirassé dévastateur</FR>
+		</trophy_t3_c_5>
+		<trophy_t3_r_1>
+			<FR>[T3] Miroir du destin</FR>
+		</trophy_t3_r_1>
+		<trophy_t3_r_2>
+			<FR>[T3] Griffe de sorcière fomoire</FR>
+		</trophy_t3_r_2>
+		<trophy_t3_u_1>
+			<FR>[T2] Trophée de frénésie enragé</FR>
+		</trophy_t3_u_1>
+		<trophy_t3_u_2>
+			<FR>[T2] Trophée d'endurance robuste</FR>
+		</trophy_t3_u_2>
+		<trophy_t3_u_3>
+			<FR>[T2] Trophée de furie fâcheux</FR>
+		</trophy_t3_u_3>
+		<trophy_t3_u_4>
+			<FR>[T2] Trophée d'évasion agile</FR>
+		</trophy_t3_u_4>
+	</items>
+</Root>

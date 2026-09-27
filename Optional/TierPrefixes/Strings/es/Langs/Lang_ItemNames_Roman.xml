@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<ES>Español</ES>
+	</LanguageName>
+	<Languages>ES</Languages>
+	<items>
+		<lar_cacus>
+			<ES>[TL] Lar de Caco</ES>
+		</lar_cacus>
+		<lar_fulgora>
+			<ES>[TL] Lar de Fulgora</ES>
+		</lar_fulgora>
+		<lar_lemure>
+			<ES>[TL] Lar de Lémur</ES>
+		</lar_lemure>
+		<lar_poena>
+			<ES>[TL] Lar de Pena</ES>
+		</lar_poena>
+		<lar_umbrae>
+			<ES>[TL] Lar de Umbra</ES>
+		</lar_umbrae>
+		<lar_volcanus>
+			<ES>[TL] Lar de Volcano</ES>
+		</lar_volcanus>
+	</items>
+</Root>

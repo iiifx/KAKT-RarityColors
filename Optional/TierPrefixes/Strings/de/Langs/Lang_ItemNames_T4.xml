@@ -1,0 +1,1020 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<DE>Deutsch</DE>
+	</LanguageName>
+	<Languages>DE</Languages>
+	<items>
+		<2haxe_t4_c_1>
+			<DE>[T1] Waffenschmiedrune der Halsabschneiderei</DE>
+		</2haxe_t4_c_1>
+		<2haxe_t4_c_2>
+			<DE>[T1] Gepanzerte Duell-Rune</DE>
+		</2haxe_t4_c_2>
+		<2haxe_t4_c_3>
+			<DE>[T1] Bohrende Rune der Raserei</DE>
+		</2haxe_t4_c_3>
+		<2haxe_t4_c_4>
+			<DE>[T1] Formorier-Tötungsrune des Schlägers</DE>
+		</2haxe_t4_c_4>
+		<2haxe_t4_c_5>
+			<DE>[T1] Stärke-Rune der Vorhut</DE>
+		</2haxe_t4_c_5>
+		<2haxe_t4_r_1>
+			<DE>[T3] Zeichen des Standhaften</DE>
+		</2haxe_t4_r_1>
+		<2haxe_t4_r_2>
+			<DE>[T3] Zeichen des Töters</DE>
+		</2haxe_t4_r_2>
+		<2haxe_t4_r_3>
+			<DE>[T3] Symbol des Mannan</DE>
+		</2haxe_t4_r_3>
+		<2haxe_t4_u_1>
+			<DE>[T2] Blutsauger-Rune des Schlägers</DE>
+		</2haxe_t4_u_1>
+		<2haxe_t4_u_2>
+			<DE>[T2] Blutdurst-Rune des Schlägers</DE>
+		</2haxe_t4_u_2>
+		<2haxe_t4_u_3>
+			<DE>[T2] Aggressive Rune der Raserei</DE>
+		</2haxe_t4_u_3>
+		<2haxe_t4_u_4>
+			<DE>[T2] Wiederherstellungsrune des Berserkers</DE>
+		</2haxe_t4_u_4>
+		<2haxe_t4_u_5>
+			<DE>[T2] Erschöpfungs-Rune des Schlachtenmeisters</DE>
+		</2haxe_t4_u_5>
+		<2hmace_t4_c_1>
+			<DE>[T1] Kriegsherren-Rune des Berserkers</DE>
+		</2hmace_t4_c_1>
+		<2hmace_t4_c_2>
+			<DE>[T1] Aderlassrune der Erschöpfung</DE>
+		</2hmace_t4_c_2>
+		<2hmace_t4_c_3>
+			<DE>[T1] Zerstörungsrune des Initiators</DE>
+		</2hmace_t4_c_3>
+		<2hmace_t4_c_4>
+			<DE>[T1] Tief schneidende Schlagrune</DE>
+		</2hmace_t4_c_4>
+		<2hmace_t4_r_1>
+			<DE>[T3] Mal des Riesenfällers</DE>
+		</2hmace_t4_r_1>
+		<2hmace_t4_r_2>
+			<DE>[T3] Rune des Agrona</DE>
+		</2hmace_t4_r_2>
+		<2hmace_t4_r_3>
+			<DE>[T3] Großes Eichensiegel</DE>
+		</2hmace_t4_r_3>
+		<2hmace_t4_u_1>
+			<DE>[T2] Versengende Rune der Überlistung</DE>
+		</2hmace_t4_u_1>
+		<2hmace_t4_u_2>
+			<DE>[T2] Gelassene Rune des Berserkers</DE>
+		</2hmace_t4_u_2>
+		<2hmace_t4_u_3>
+			<DE>[T2] Schildbrechende Rune des Duellanten</DE>
+		</2hmace_t4_u_3>
+		<2hmace_t4_u_4>
+			<DE>[T2] Zerstörerische Schildbrecher-Rune</DE>
+		</2hmace_t4_u_4>
+		<accessory_t4_c_1>
+			<DE>[T1] Aderlass-Amulett des Schlachtenmeisters</DE>
+		</accessory_t4_c_1>
+		<accessory_t4_c_2>
+			<DE>[T1] Formorier-Töter-Amulett der Reparatur</DE>
+		</accessory_t4_c_2>
+		<accessory_t4_c_3>
+			<DE>[T1] Hastiges Amulett der Hartnäckigkeit</DE>
+		</accessory_t4_c_3>
+		<accessory_t4_c_4>
+			<DE>[T1] Konter-Amulett der Zähigkeit</DE>
+		</accessory_t4_c_4>
+		<accessory_t4_c_5>
+			<DE>[T1] Überlistungs-Amulett des Ringers</DE>
+		</accessory_t4_c_5>
+		<accessory_t4_c_6>
+			<DE>[T1] Höllisches Amulett der Präzision</DE>
+		</accessory_t4_c_6>
+		<accessory_t4_r_1>
+			<DE>[T3] Verbrühender Edelstein von Aengus</DE>
+		</accessory_t4_r_1>
+		<accessory_t4_r_2>
+			<DE>[T3] Edelstein des tückischen Todes</DE>
+		</accessory_t4_r_2>
+		<accessory_t4_r_3>
+			<DE>[T3] Stein der Hingabe</DE>
+		</accessory_t4_r_3>
+		<accessory_t4_r_4>
+			<DE>[T3] Verteidigerstein</DE>
+		</accessory_t4_r_4>
+		<accessory_t4_r_5>
+			<DE>[T3] Onyx-Seelenstein</DE>
+		</accessory_t4_r_5>
+		<accessory_t4_r_6>
+			<DE>[T3] Anhänger des fahrenden Ritters</DE>
+		</accessory_t4_r_6>
+		<accessory_t4_r_7>
+			<DE>[T3] Auge der Herbstbestie</DE>
+		</accessory_t4_r_7>
+		<accessory_t4_u_1>
+			<DE>[T2] Quälendes Gefolgschaftsamulett</DE>
+		</accessory_t4_u_1>
+		<accessory_t4_u_2>
+			<DE>[T2] Williges Amulett der Erschöpfung</DE>
+		</accessory_t4_u_2>
+		<accessory_t4_u_3>
+			<DE>[T2] Resistentes Amulett der Reparatur</DE>
+		</accessory_t4_u_3>
+		<accessory_t4_u_4>
+			<DE>[T2] Heilendes Amulett der Gerinnung</DE>
+		</accessory_t4_u_4>
+		<accessory_t4_u_5>
+			<DE>[T2] Resistenz-Amulett der Waffenschmieds</DE>
+		</accessory_t4_u_5>
+		<accessory_t4_u_6>
+			<DE>[T2] Wut-Amulett des Schildbrechers</DE>
+		</accessory_t4_u_6>
+		<accessory_t4_u_7>
+			<DE>[T2] Kinetik-Amulett der Erkrankung</DE>
+		</accessory_t4_u_7>
+		<armourheavy1_t4_c_1>
+			<DE>[T1] Williges Siegel des Ärgers</DE>
+		</armourheavy1_t4_c_1>
+		<armourheavy1_t4_c_2>
+			<DE>[T1] Robustes Rüstungssiegel</DE>
+		</armourheavy1_t4_c_2>
+		<armourheavy1_t4_c_3>
+			<DE>[T1] Stahlplatten-Rüstungssiegel</DE>
+		</armourheavy1_t4_c_3>
+		<armourheavy1_t4_c_4>
+			<DE>[T1] Durchdrungenes Rüstungsschmied-Siegel</DE>
+		</armourheavy1_t4_c_4>
+		<armourheavy1_t4_c_5>
+			<DE>[T1] Duldsames Siegel der Wut</DE>
+		</armourheavy1_t4_c_5>
+		<armourheavy1_t4_c_6>
+			<DE>[T1] Bruchsicheres Siegel des Zorns</DE>
+		</armourheavy1_t4_c_6>
+		<armourheavy1_t4_c_7>
+			<DE>[T1] Schnelles Siegel der Hartnäckigkeit</DE>
+		</armourheavy1_t4_c_7>
+		<armourheavy1_t4_r_1>
+			<DE>[T3] Zeichen des Menhir</DE>
+		</armourheavy1_t4_r_1>
+		<armourheavy1_t4_r_2>
+			<DE>[T3] Symbol des Goibniu</DE>
+		</armourheavy1_t4_r_2>
+		<armourheavy1_t4_r_3>
+			<DE>[T3] Ceridwens Mal</DE>
+		</armourheavy1_t4_r_3>
+		<armourheavy1_t4_r_4>
+			<DE>Kinetik-Siegel des Sprintens</DE>
+		</armourheavy1_t4_r_4>
+		<armourheavy1_t4_u_1>
+			<DE>[T2] Beruhigendes Siegel der Erwiderung</DE>
+		</armourheavy1_t4_u_1>
+		<armourheavy1_t4_u_2>
+			<DE>[T2] Bruchsicheres Siegel der Belastbarkeit</DE>
+		</armourheavy1_t4_u_2>
+		<armourheavy1_t4_u_3>
+			<DE>[T2] Bewehrtes Siegel der Agilität</DE>
+		</armourheavy1_t4_u_3>
+		<armourheavy1_t4_u_4>
+			<DE>[T2] Gerinnungssiegel der Erstversorgung</DE>
+		</armourheavy1_t4_u_4>
+		<armourheavy1_t4_u_5>
+			<DE>[T2] Stabiles Siegel der Unzerstörbarkeit</DE>
+		</armourheavy1_t4_u_5>
+		<armourheavy1_t4_u_6>
+			<DE>[T2] Wütendes Siegel der Erwiderung</DE>
+		</armourheavy1_t4_u_6>
+		<armourheavy1_t4_u_7>
+			<DE>[T2] Beharrliches Siegel der Erwiderung</DE>
+		</armourheavy1_t4_u_7>
+		<armourheavy2_t4_c_1>
+			<DE>[T1] Bewehrtes Siegel der Pause</DE>
+		</armourheavy2_t4_c_1>
+		<armourheavy2_t4_c_2>
+			<DE>[T1] Robustes Siegel der Erholsamkeit</DE>
+		</armourheavy2_t4_c_2>
+		<armourheavy2_t4_c_3>
+			<DE>[T1] Bewehrtes Siegel der Agilität</DE>
+		</armourheavy2_t4_c_3>
+		<armourheavy2_t4_c_4>
+			<DE>[T1] Vitalitätssiegel der Erwiderung</DE>
+		</armourheavy2_t4_c_4>
+		<armourheavy2_t4_c_5>
+			<DE>[T1] Reparierendes Siegel der Verjüngung</DE>
+		</armourheavy2_t4_c_5>
+		<armourheavy2_t4_c_6>
+			<DE>[T1] Gefasstes Siegel der Vitalität</DE>
+		</armourheavy2_t4_c_6>
+		<armourheavy2_t4_c_7>
+			<DE>[T1] Wendiges Siegel der Aggression</DE>
+		</armourheavy2_t4_c_7>
+		<armourheavy2_t4_r_1>
+			<DE>[T3] Siegel der Buße</DE>
+		</armourheavy2_t4_r_1>
+		<armourheavy2_t4_r_2>
+			<DE>[T3] Erdwurzel-Siegel</DE>
+		</armourheavy2_t4_r_2>
+		<armourheavy2_t4_r_3>
+			<DE>[T3] Siegel des Taranis</DE>
+		</armourheavy2_t4_r_3>
+		<armourheavy2_t4_u_1>
+			<DE>[T2] Williges Siegel der Erstversorgung</DE>
+		</armourheavy2_t4_u_1>
+		<armourheavy2_t4_u_2>
+			<DE>[T2] Bewehrtes Siegel der Robustheit</DE>
+		</armourheavy2_t4_u_2>
+		<armourheavy2_t4_u_3>
+			<DE>[T2] Heilendes Siegel der Ausflucht</DE>
+		</armourheavy2_t4_u_3>
+		<armourheavy2_t4_u_4>
+			<DE>[T2] Resistentes Siegel der Unzerstörbarkeit</DE>
+		</armourheavy2_t4_u_4>
+		<armourheavy2_t4_u_5>
+			<DE>[T2] Stahlplatten-Siegel der Hartnäckigkeit</DE>
+		</armourheavy2_t4_u_5>
+		<armourheavy2_t4_u_6>
+			<DE>[T2] Resistentes Siegel der Reparatur</DE>
+		</armourheavy2_t4_u_6>
+		<armourheavy2_t4_u_7>
+			<DE>[T2] Wut-Siegel des Rüstungsschmieds</DE>
+		</armourheavy2_t4_u_7>
+		<armourlight1_t4_c_1>
+			<DE>[T1] Stahlplatten-Siegel des Adlers</DE>
+		</armourlight1_t4_c_1>
+		<armourlight1_t4_c_2>
+			<DE>[T1] Energiespendendes Siegel der Zähigkeit</DE>
+		</armourlight1_t4_c_2>
+		<armourlight1_t4_c_3>
+			<DE>[T1] Schutzsiegel der Präzision</DE>
+		</armourlight1_t4_c_3>
+		<armourlight1_t4_c_4>
+			<DE>[T1] Robustes Siegel der Agilität</DE>
+		</armourlight1_t4_c_4>
+		<armourlight1_t4_c_5>
+			<DE>[T1] Erstversorgungs-Siegel des Braumeisters</DE>
+		</armourlight1_t4_c_5>
+		<armourlight1_t4_r_1>
+			<DE>[T3] Siegel des Reinen</DE>
+		</armourlight1_t4_r_1>
+		<armourlight1_t4_r_2>
+			<DE>[T3] Geistflammen-Siegel</DE>
+		</armourlight1_t4_r_2>
+		<armourlight1_t4_r_3>
+			<DE>[T3] Sidhe-Wächtersiegel</DE>
+		</armourlight1_t4_r_3>
+		<armourlight1_t4_u_1>
+			<DE>[T2] Unverwüstliches Hartnäckigkeitssiegel</DE>
+		</armourlight1_t4_u_1>
+		<armourlight1_t4_u_2>
+			<DE>[T2] Quälendes Siegel der Ausflucht</DE>
+		</armourlight1_t4_u_2>
+		<armourlight1_t4_u_3>
+			<DE>[T2] Robustes Siegel der Stahlplatten</DE>
+		</armourlight1_t4_u_3>
+		<armourlight1_t4_u_4>
+			<DE>[T2] Wütendes Siegel der Gerinnung</DE>
+		</armourlight1_t4_u_4>
+		<armourlight1_t4_u_5>
+			<DE>[T2] Stahlplatten-Siegel der Gelassenheit</DE>
+		</armourlight1_t4_u_5>
+		<armourlight2_t4_c_1>
+			<DE>[T1] Bewehrtes Siegel der Verjüngung</DE>
+		</armourlight2_t4_c_1>
+		<armourlight2_t4_c_2>
+			<DE>[T1] Stahlplatten-Siegel der Unzerstörbarkeit</DE>
+		</armourlight2_t4_c_2>
+		<armourlight2_t4_c_3>
+			<DE>[T1] Ausdauersiegel des Rüstungsschmieds</DE>
+		</armourlight2_t4_c_3>
+		<armourlight2_t4_c_4>
+			<DE>[T1] Bewehrtes Siegel der Zähigkeit</DE>
+		</armourlight2_t4_c_4>
+		<armourlight2_t4_c_5>
+			<DE>[T1] Schnelles Siegel der Hartnäckigkeit</DE>
+		</armourlight2_t4_c_5>
+		<armourlight2_t4_r_1>
+			<DE>[T3] Steinhaut-Rune</DE>
+		</armourlight2_t4_r_1>
+		<armourlight2_t4_r_2>
+			<DE>[T3] Zeichen des Vagabunden</DE>
+		</armourlight2_t4_r_2>
+		<armourlight2_t4_r_3>
+			<DE>[T3] Siegel des Unbeeindruckten</DE>
+		</armourlight2_t4_r_3>
+		<armourlight2_t4_u_1>
+			<DE>[T2] Schutzsiegel der Kinese</DE>
+		</armourlight2_t4_u_1>
+		<armourlight2_t4_u_2>
+			<DE>[T2] Williges Siegel des Rüstungsschmieds</DE>
+		</armourlight2_t4_u_2>
+		<armourlight2_t4_u_3>
+			<DE>[T2] Bewehrtes Siegel des Gegengifts</DE>
+		</armourlight2_t4_u_3>
+		<armourlight2_t4_u_4>
+			<DE>[T2] Bruchsicheres Siegel der Erholsamkeit</DE>
+		</armourlight2_t4_u_4>
+		<armourlight2_t4_u_5>
+			<DE>[T2] Resistentes Siegel der Erstversorgung</DE>
+		</armourlight2_t4_u_5>
+		<armourmedium1_t4_c_1>
+			<DE>[T1] Ruhendes Rüstungssiegel</DE>
+		</armourmedium1_t4_c_1>
+		<armourmedium1_t4_c_2>
+			<DE>[T1] Robustes Siegel der Bereitwilligkeit</DE>
+		</armourmedium1_t4_c_2>
+		<armourmedium1_t4_c_3>
+			<DE>[T1] Bruchsicheres Siegel der Flinkheit</DE>
+		</armourmedium1_t4_c_3>
+		<armourmedium1_t4_c_4>
+			<DE>[T1] Robustes Rüstungssiegel</DE>
+		</armourmedium1_t4_c_4>
+		<armourmedium1_t4_c_5>
+			<DE>[T1] Stahlplatten-Siegel des Rüstungsschmieds</DE>
+		</armourmedium1_t4_c_5>
+		<armourmedium1_t4_r_1>
+			<DE>[T3] Bluthundmal</DE>
+		</armourmedium1_t4_r_1>
+		<armourmedium1_t4_r_2>
+			<DE>[T3] Siegel der Aufrechterhaltung</DE>
+		</armourmedium1_t4_r_2>
+		<armourmedium1_t4_r_3>
+			<DE>[T3] Zeichen des Mähers</DE>
+		</armourmedium1_t4_r_3>
+		<armourmedium1_t4_r_4>
+			<DE>Behebendes Siegel der Ausdauer</DE>
+		</armourmedium1_t4_r_4>
+		<armourmedium1_t4_u_1>
+			<DE>[T2] Beharrliches Siegel der Kinese</DE>
+		</armourmedium1_t4_u_1>
+		<armourmedium1_t4_u_2>
+			<DE>[T2] Heilendes Siegel der Agilität</DE>
+		</armourmedium1_t4_u_2>
+		<armourmedium1_t4_u_3>
+			<DE>[T2] Resistentes Rüstungssiegel</DE>
+		</armourmedium1_t4_u_3>
+		<armourmedium1_t4_u_4>
+			<DE>[T2] Schwer fassbares Siegel der Gelassenheit</DE>
+		</armourmedium1_t4_u_4>
+		<armourmedium1_t4_u_5>
+			<DE>[T2] Bewehrtes Siegel der Unzerstörbarkeit</DE>
+		</armourmedium1_t4_u_5>
+		<armourmedium2_t4_c_1>
+			<DE>[T1] Heilendes Siegel der Raserei</DE>
+		</armourmedium2_t4_c_1>
+		<armourmedium2_t4_c_2>
+			<DE>[T1] Vitalitätssiegel der Ausflucht</DE>
+		</armourmedium2_t4_c_2>
+		<armourmedium2_t4_c_3>
+			<DE>[T1] Gepanzertes Siegel der Aggression</DE>
+		</armourmedium2_t4_c_3>
+		<armourmedium2_t4_c_4>
+			<DE>[T1] Robustes Siegel der Heimlichkeit</DE>
+		</armourmedium2_t4_c_4>
+		<armourmedium2_t4_c_5>
+			<DE>[T1] Verjüngendes Siegel der Erstversorgung</DE>
+		</armourmedium2_t4_c_5>
+		<armourmedium2_t4_r_1>
+			<DE>[T3] Symbol des Lugh</DE>
+		</armourmedium2_t4_r_1>
+		<armourmedium2_t4_r_2>
+			<DE>[T3] Siegel der hohen Zitadelle</DE>
+		</armourmedium2_t4_r_2>
+		<armourmedium2_t4_r_3>
+			<DE>[T3] Elathas Nimbus</DE>
+		</armourmedium2_t4_r_3>
+		<armourmedium2_t4_u_1>
+			<DE>[T2] Wütendes Siegel der Erwiderung</DE>
+		</armourmedium2_t4_u_1>
+		<armourmedium2_t4_u_2>
+			<DE>[T2] Robustes Siegel des Rüstungsschmieds</DE>
+		</armourmedium2_t4_u_2>
+		<armourmedium2_t4_u_3>
+			<DE>[T2] Reparierendes Siegel der Erwiderung</DE>
+		</armourmedium2_t4_u_3>
+		<armourmedium2_t4_u_4>
+			<DE>[T2] Stabiles Siegel der Zähigkeit</DE>
+		</armourmedium2_t4_u_4>
+		<armourmedium2_t4_u_5>
+			<DE>[T2] Unverwüstliches Siegel der Erholsamkeit</DE>
+		</armourmedium2_t4_u_5>
+		<artifact_t4_c_1>
+			<DE>[T1] Berserker-Artefakt der Stärke</DE>
+		</artifact_t4_c_1>
+		<artifact_t4_c_2>
+			<DE>[T1] Unverhohlenes Artefakt der Kraft</DE>
+		</artifact_t4_c_2>
+		<artifact_t4_c_3>
+			<DE>[T1] Boshaftes Artefakt der Qual</DE>
+		</artifact_t4_c_3>
+		<artifact_t4_c_4>
+			<DE>[T1] Heilendes Artefakt der Zerstörung</DE>
+		</artifact_t4_c_4>
+		<artifact_t4_c_5>
+			<DE>[T1] Unheilvolles Artefakt der Tiefen Wunden</DE>
+		</artifact_t4_c_5>
+		<artifact_t4_r_1>
+			<DE>[T3] Asche des Vorboten</DE>
+		</artifact_t4_r_1>
+		<artifact_t4_r_2>
+			<DE>[T3] Rinde des Aschebaums</DE>
+		</artifact_t4_r_2>
+		<artifact_t4_u_1>
+			<DE>[T2] Überlistungsartefakt des Bannmeisters</DE>
+		</artifact_t4_u_1>
+		<artifact_t4_u_2>
+			<DE>[T2] Versengendes Artefakt der Flammen</DE>
+		</artifact_t4_u_2>
+		<artifact_t4_u_3>
+			<DE>[T2] Blutrünstiges Artefakt der Gelassenheit</DE>
+		</artifact_t4_u_3>
+		<artifact_t4_u_4>
+			<DE>[T2] Quälendes Schildbrecher-Artefakt</DE>
+		</artifact_t4_u_4>
+		<axe_t4_c_1>
+			<DE>[T1] Aggressionsrune des Attentäters</DE>
+		</axe_t4_c_1>
+		<axe_t4_c_2>
+			<DE>[T1] Robuste Rune der Qual</DE>
+		</axe_t4_c_2>
+		<axe_t4_c_3>
+			<DE>[T1] Stärkende Rune der Gelassenheit</DE>
+		</axe_t4_c_3>
+		<axe_t4_c_4>
+			<DE>[T1] Tief schneidende Rune der Raserei</DE>
+		</axe_t4_c_4>
+		<axe_t4_c_5>
+			<DE>[T1] Zornesrune des Schlachtenmeisters</DE>
+		</axe_t4_c_5>
+		<axe_t4_c_6>
+			<DE>[T1] Durchbohrende Rune des Schlägers</DE>
+		</axe_t4_c_6>
+		<axe_t4_c_7>
+			<DE>[T1] Tiefwunden-Rune des Berserkers</DE>
+		</axe_t4_c_7>
+		<axe_t4_r_1>
+			<DE>[T3] Cailleachs Berührung</DE>
+		</axe_t4_r_1>
+		<axe_t4_r_2>
+			<DE>[T3] Zorn des grausamen Königs</DE>
+		</axe_t4_r_2>
+		<axe_t4_r_3>
+			<DE>[T3] Siegel des unglückseligen Ritters</DE>
+		</axe_t4_r_3>
+		<axe_t4_r_4>
+			<DE>[T3] Mal des Wiedergängers</DE>
+		</axe_t4_r_4>
+		<axe_t4_r_5>
+			<DE>[T3] Fúamnachs Bannmal</DE>
+		</axe_t4_r_5>
+		<axe_t4_u_1>
+			<DE>[T2] Überlistungsrune des Schlägers</DE>
+		</axe_t4_u_1>
+		<axe_t4_u_2>
+			<DE>[T2] Aggressionsrune des Duellanten</DE>
+		</axe_t4_u_2>
+		<axe_t4_u_3>
+			<DE>[T2] Zerstörungsrune der Vorhut</DE>
+		</axe_t4_u_3>
+		<axe_t4_u_4>
+			<DE>[T2] Formorier-Tötungsrune des Schildbrechers</DE>
+		</axe_t4_u_4>
+		<axe_t4_u_5>
+			<DE>[T2] Schlagrune des Schildbrechers</DE>
+		</axe_t4_u_5>
+		<axe_t4_u_6>
+			<DE>[T2] Erfrierungsrune der Erschöpfung</DE>
+		</axe_t4_u_6>
+		<axe_t4_u_7>
+			<DE>[T2] Kinese-Rune des Initiators</DE>
+		</axe_t4_u_7>
+		<bow_t4_c_1>
+			<DE>[T1] Kurzdistanz-Rune der Wut</DE>
+		</bow_t4_c_1>
+		<bow_t4_c_2>
+			<DE>[T1] Erschöpfungsrune des Formorier-Töters</DE>
+		</bow_t4_c_2>
+		<bow_t4_c_3>
+			<DE>[T1] Stärkende Rune der Zerstörung</DE>
+		</bow_t4_c_3>
+		<bow_t4_c_4>
+			<DE>[T1] Gelassenheitsrune des Initiators</DE>
+		</bow_t4_c_4>
+		<bow_t4_r_1>
+			<DE>[T3] Elementare Windrune</DE>
+		</bow_t4_r_1>
+		<bow_t4_r_2>
+			<DE>[T3] Seelie-Sonnenbogensymbol</DE>
+		</bow_t4_r_2>
+		<bow_t4_r_3>
+			<DE>[T3] Siegel der großen Jagd</DE>
+		</bow_t4_r_3>
+		<bow_t4_u_1>
+			<DE>[T2] Raserei-Rune des Scharfschützen</DE>
+		</bow_t4_u_1>
+		<bow_t4_u_2>
+			<DE>[T2] Versengende Rune der kurzen Distanz</DE>
+		</bow_t4_u_2>
+		<bow_t4_u_3>
+			<DE>[T2] Gelassenheitsrune des Scharfschützen</DE>
+		</bow_t4_u_3>
+		<bow_t4_u_4>
+			<DE>[T2] Giftige Rune der Infektion</DE>
+		</bow_t4_u_4>
+		<crossbow_t4_c_1>
+			<DE>[T1] Vergiftungsrune des Berserkers</DE>
+		</crossbow_t4_c_1>
+		<crossbow_t4_c_2>
+			<DE>[T1] Gleichgewichtsrune des Scharfschützen</DE>
+		</crossbow_t4_c_2>
+		<crossbow_t4_c_3>
+			<DE>[T1] Adleraugen-Rune der Raserei</DE>
+		</crossbow_t4_c_3>
+		<crossbow_t4_c_4>
+			<DE>[T1] Kokelnde Rune des Loderns</DE>
+		</crossbow_t4_c_4>
+		<crossbow_t4_c_5>
+			<DE>[T1] Volltrefferrune der Erkrankung</DE>
+		</crossbow_t4_c_5>
+		<crossbow_t4_r_1>
+			<DE>[T3] Mal des scharfen Auges</DE>
+		</crossbow_t4_r_1>
+		<crossbow_t4_r_2>
+			<DE>[T3] Sidhe-Bogenschützensiegel</DE>
+		</crossbow_t4_r_2>
+		<crossbow_t4_r_3>
+			<DE>[T3] Elementarfeuer-Mal</DE>
+		</crossbow_t4_r_3>
+		<crossbow_t4_r_4>
+			<DE>Kurzdistanz-Rune der Penetration</DE>
+		</crossbow_t4_r_4>
+		<crossbow_t4_u_1>
+			<DE>[T2] Präzise Rune der Kinese</DE>
+		</crossbow_t4_u_1>
+		<crossbow_t4_u_2>
+			<DE>[T2] Höllische Rune der kurzen Distanz</DE>
+		</crossbow_t4_u_2>
+		<crossbow_t4_u_3>
+			<DE>[T2] Durchbohrende Rune des Wachhunds</DE>
+		</crossbow_t4_u_3>
+		<crossbow_t4_u_4>
+			<DE>[T2] Beruhigende Rune der Losgelöstheit</DE>
+		</crossbow_t4_u_4>
+		<crossbow_t4_u_5>
+			<DE>[T2] Tief schneidende Blutdurst-Rune</DE>
+		</crossbow_t4_u_5>
+		<et_2haxe_t4_r_1>
+			<DE>[T3] Erderschütterungsrune</DE>
+		</et_2haxe_t4_r_1>
+		<et_accessory_t4_r_1>
+			<DE>[T3] Flüsterstein</DE>
+		</et_accessory_t4_r_1>
+		<et_armourheavy1_t4_r_1>
+			<DE>[T3] Siegel der geteilten Last</DE>
+		</et_armourheavy1_t4_r_1>
+		<et_armourheavy2_t4_r_1>
+			<DE>[T3] Zeichen der Wahrnehmung</DE>
+		</et_armourheavy2_t4_r_1>
+		<et_armourlight1_t4_r_1>
+			<DE>[T3] Siegel des Verzauberermeisters</DE>
+		</et_armourlight1_t4_r_1>
+		<et_armourlight2_t4_r_1>
+			<DE>[T3] Mal des Wildmagiers</DE>
+		</et_armourlight2_t4_r_1>
+		<et_armourmedium1_t4_r_1>
+			<DE>[T3] Geisterrüstungssiegel</DE>
+		</et_armourmedium1_t4_r_1>
+		<et_armourmedium2_t4_r_1>
+			<DE>[T3] Himmlisches Schützensiegel</DE>
+		</et_armourmedium2_t4_r_1>
+		<et_artifact_t4_r_1>
+			<DE>[T3] Cailleachs Wut</DE>
+		</et_artifact_t4_r_1>
+		<et_axe_t4_r_1>
+			<DE>[T3] Aufruhr des Axtmanns</DE>
+		</et_axe_t4_r_1>
+		<et_crossbow_t4_r_1>
+			<DE>[T3] Zeichen des unreinen Pfeils</DE>
+		</et_crossbow_t4_r_1>
+		<et_jewelry_t4_r_1>
+			<DE>[T3] Ring des Meisterduellanten</DE>
+		</et_jewelry_t4_r_1>
+		<et_luckycharm_t4_r_1>
+			<DE>[T3] Talisman des Mannan</DE>
+		</et_luckycharm_t4_r_1>
+		<et_manuscript_t4_r_1>
+			<DE>[T3] Cromm Cruachs Hunger</DE>
+		</et_manuscript_t4_r_1>
+		<et_oathstone_t4_r_1>
+			<DE>[T3] Eid des Linienbrechers</DE>
+		</et_oathstone_t4_r_1>
+		<et_provision_t4_r_1>
+			<DE>[T3] Rucksack des Alchemisten</DE>
+		</et_provision_t4_r_1>
+		<et_staff2_t4_r_1>
+			<DE>[T3] Feuersturm-Rune</DE>
+		</et_staff2_t4_r_1>
+		<et_sword_t4_r_1>
+			<DE>[T3] Zauberklingen-Bannmal</DE>
+		</et_sword_t4_r_1>
+		<et_trophy_t4_r_1>
+			<DE>[T3] Kranz von Bebd</DE>
+		</et_trophy_t4_r_1>
+		<jewelry_t4_c_1>
+			<DE>[T1] Stabiler Ring der Vitalität</DE>
+		</jewelry_t4_c_1>
+		<jewelry_t4_c_2>
+			<DE>[T1] Hast-Ring des Initiators</DE>
+		</jewelry_t4_c_2>
+		<jewelry_t4_c_3>
+			<DE>[T1] Giftiger Ring der Losgelöstheit</DE>
+		</jewelry_t4_c_3>
+		<jewelry_t4_c_4>
+			<DE>[T1] Adlerauge-Ring des Duells</DE>
+		</jewelry_t4_c_4>
+		<jewelry_t4_c_5>
+			<DE>[T1] Schwer fassbarer Ring der Erkrankung</DE>
+		</jewelry_t4_c_5>
+		<jewelry_t4_c_6>
+			<DE>[T1] Blutsauger-Ring des Hinterhalts</DE>
+		</jewelry_t4_c_6>
+		<jewelry_t4_r_1>
+			<DE>[T3] Ring des Alchemisten</DE>
+		</jewelry_t4_r_1>
+		<jewelry_t4_r_2>
+			<DE>[T3] Ring der Sühne</DE>
+		</jewelry_t4_r_2>
+		<jewelry_t4_r_3>
+			<DE>[T3] Buggane-Herz</DE>
+		</jewelry_t4_r_3>
+		<jewelry_t4_r_4>
+			<DE>[T3] Aerons Ring</DE>
+		</jewelry_t4_r_4>
+		<jewelry_t4_r_5>
+			<DE>[T3] Ring der Buße</DE>
+		</jewelry_t4_r_5>
+		<jewelry_t4_r_6>
+			<DE>[T3] Ring der Erholung</DE>
+		</jewelry_t4_r_6>
+		<jewelry_t4_r_7>
+			<DE>[T3] Ring des Aereda</DE>
+		</jewelry_t4_r_7>
+		<jewelry_t4_u_1>
+			<DE>[T2] Bereitwilligkeitsring des Schildbrechers</DE>
+		</jewelry_t4_u_1>
+		<jewelry_t4_u_2>
+			<DE>[T2] Unverwüstlicher Ring der Aggression</DE>
+		</jewelry_t4_u_2>
+		<jewelry_t4_u_3>
+			<DE>[T2] Lodernder Ring der Stahlplatten</DE>
+		</jewelry_t4_u_3>
+		<jewelry_t4_u_4>
+			<DE>[T2] Unverwüstlicher Ring der Raserei</DE>
+		</jewelry_t4_u_4>
+		<jewelry_t4_u_5>
+			<DE>[T2] Schwer fassbarer Ring der Erschöpfung</DE>
+		</jewelry_t4_u_5>
+		<jewelry_t4_u_6>
+			<DE>[T2] Gefasster Ring des Blutsaugers</DE>
+		</jewelry_t4_u_6>
+		<jewelry_t4_u_7>
+			<DE>[T2] Resistenter Ring der Gefolgschaft</DE>
+		</jewelry_t4_u_7>
+		<luckycharm_t4_c_1>
+			<DE>[T1] Brecher-Glücksbringer des Durchbohrens</DE>
+		</luckycharm_t4_c_1>
+		<luckycharm_t4_c_2>
+			<DE>[T1] Adlerauge-Glücksbringer der Gelassenheit</DE>
+		</luckycharm_t4_c_2>
+		<luckycharm_t4_c_3>
+			<DE>[T1] Nahkampf-Glücksbringer des Schützen</DE>
+		</luckycharm_t4_c_3>
+		<luckycharm_t4_c_4>
+			<DE>[T1] Kokelnder Scharfschützen-Glücksbringer</DE>
+		</luckycharm_t4_c_4>
+		<luckycharm_t4_c_5>
+			<DE>[T1] Duldsamer Erstversorgung-Glücksbringer</DE>
+		</luckycharm_t4_c_5>
+		<luckycharm_t4_r_1>
+			<DE>[T3] Auge um Augentalisman</DE>
+		</luckycharm_t4_r_1>
+		<luckycharm_t4_r_2>
+			<DE>[T3] Obsidianamulett</DE>
+		</luckycharm_t4_r_2>
+		<luckycharm_t4_u_1>
+			<DE>[T2] Bohrender Glücksbringer des Loderns</DE>
+		</luckycharm_t4_u_1>
+		<luckycharm_t4_u_2>
+			<DE>[T2] Gegengift-Glücksbringer des Giftmischers</DE>
+		</luckycharm_t4_u_2>
+		<luckycharm_t4_u_3>
+			<DE>[T2] Rasender Glücksbringer der Losgelöstheit</DE>
+		</luckycharm_t4_u_3>
+		<luckycharm_t4_u_4>
+			<DE>[T2] Formorier-Zerstörungsglücksbringer</DE>
+		</luckycharm_t4_u_4>
+		<manuscript_t4_c_1>
+			<DE>[T1] Inspirierendes Manuskript der Segen</DE>
+		</manuscript_t4_c_1>
+		<manuscript_t4_c_2>
+			<DE>[T1] Formorier-Töter-Manuskript der Zähigkeit</DE>
+		</manuscript_t4_c_2>
+		<manuscript_t4_c_3>
+			<DE>[T1] Vitalitätsmanuskript der Erstversorgung</DE>
+		</manuscript_t4_c_3>
+		<manuscript_t4_c_4>
+			<DE>[T1] Durchdrungenes Hartnäckigkeitsmanuskript</DE>
+		</manuscript_t4_c_4>
+		<manuscript_t4_c_5>
+			<DE>[T1] Gletschermanuskript der Erfrierung</DE>
+		</manuscript_t4_c_5>
+		<manuscript_t4_r_1>
+			<DE>[T3] Heilige Schriftrollen der Aibell</DE>
+		</manuscript_t4_r_1>
+		<manuscript_t4_r_2>
+			<DE>[T3] Zauberformeln der Be Chuille</DE>
+		</manuscript_t4_r_2>
+		<manuscript_t4_u_1>
+			<DE>[T2] Konter-Manuskript der Tapferkeit</DE>
+		</manuscript_t4_u_1>
+		<manuscript_t4_u_2>
+			<DE>[T2] Gerinnungsmanuskript der Stahlplatten</DE>
+		</manuscript_t4_u_2>
+		<manuscript_t4_u_3>
+			<DE>[T2] Unverwüstliches Robustheitsmanuskript</DE>
+		</manuscript_t4_u_3>
+		<manuscript_t4_u_4>
+			<DE>[T2] Heilendes Manuskript der Macht</DE>
+		</manuscript_t4_u_4>
+		<oathstone_t4_c_1>
+			<DE>[T1] Robuster Schild-Eidstein</DE>
+		</oathstone_t4_c_1>
+		<oathstone_t4_c_2>
+			<DE>[T1] Geschossabwehr-Eidstein der Stahlplatten</DE>
+		</oathstone_t4_c_2>
+		<oathstone_t4_c_3>
+			<DE>[T1] Robustheitseidstein des Braumeisters</DE>
+		</oathstone_t4_c_3>
+		<oathstone_t4_c_4>
+			<DE>[T1] Ruhender Eidstein der Reparatur</DE>
+		</oathstone_t4_c_4>
+		<oathstone_t4_c_5>
+			<DE>[T1] Spott-Eidstein des Verteidigers</DE>
+		</oathstone_t4_c_5>
+		<oathstone_t4_r_1>
+			<DE>[T3] Schutzsonnenstein</DE>
+		</oathstone_t4_r_1>
+		<oathstone_t4_r_2>
+			<DE>[T3] Durchdrungener Spottstein</DE>
+		</oathstone_t4_r_2>
+		<oathstone_t4_u_1>
+			<DE>[T2] Resistenter Eidstein der Gerinnung</DE>
+		</oathstone_t4_u_1>
+		<oathstone_t4_u_2>
+			<DE>[T2] Erwiderungseidstein des Schildträgers</DE>
+		</oathstone_t4_u_2>
+		<oathstone_t4_u_3>
+			<DE>[T2] Schlag-Eidstein des Duellanten</DE>
+		</oathstone_t4_u_3>
+		<oathstone_t4_u_4>
+			<DE>[T2] Spott-Eidstein des Rüstungsschmieds</DE>
+		</oathstone_t4_u_4>
+		<provision_t4_c_1>
+			<DE>[T1] Heimlichkeitsproviant des Schädelgräbers</DE>
+		</provision_t4_c_1>
+		<provision_t4_c_2>
+			<DE>[T1] Schling-Proviant des Fallenstellers</DE>
+		</provision_t4_c_2>
+		<provision_t4_c_3>
+			<DE>[T1] Flinker Proviant der Kinese</DE>
+		</provision_t4_c_3>
+		<provision_t4_c_4>
+			<DE>[T1] Pirscher-Proviant des Schädelgräbers</DE>
+		</provision_t4_c_4>
+		<provision_t4_c_5>
+			<DE>[T1] Leichtfüßiger Proviant des Verschleierns</DE>
+		</provision_t4_c_5>
+		<provision_t4_r_1>
+			<DE>[T3] Morrígus Waage</DE>
+		</provision_t4_r_1>
+		<provision_t4_r_2>
+			<DE>[T3] Waagschalen von Lén</DE>
+		</provision_t4_r_2>
+		<provision_t4_r_3>
+			<DE>Fallensteller-Proviant des Aufspießens</DE>
+		</provision_t4_r_3>
+		<provision_t4_u_1>
+			<DE>[T2] Blutrünstiger Proviant der Kinese</DE>
+		</provision_t4_u_1>
+		<provision_t4_u_2>
+			<DE>[T2] Gefährlicher Proviant der Erschöpfung</DE>
+		</provision_t4_u_2>
+		<provision_t4_u_3>
+			<DE>[T2] Weitsichtproviant des Messerwerfers</DE>
+		</provision_t4_u_3>
+		<provision_t4_u_4>
+			<DE>[T2] Erholsamer Proviant der Mobilität</DE>
+		</provision_t4_u_4>
+		<staff1_t4_c_1>
+			<DE>[T1] Wütende Rune der Gelassenheit</DE>
+		</staff1_t4_c_1>
+		<staff1_t4_c_2>
+			<DE>[T1] Qual-Rune des Hautschälers</DE>
+		</staff1_t4_c_2>
+		<staff1_t4_c_3>
+			<DE>[T1] Tiefwunden-Rune des Bannmeisters</DE>
+		</staff1_t4_c_3>
+		<staff1_t4_c_4>
+			<DE>[T1] Stärke-Rune des Spähers</DE>
+		</staff1_t4_c_4>
+		<staff1_t4_c_5>
+			<DE>[T1] Nicht verwickelte Aderlass-Rune</DE>
+		</staff1_t4_c_5>
+		<staff1_t4_r_1>
+			<DE>[T3] Brandrune</DE>
+		</staff1_t4_r_1>
+		<staff1_t4_r_2>
+			<DE>[T3] Symbol des Alaunus</DE>
+		</staff1_t4_r_2>
+		<staff1_t4_r_3>
+			<DE>[T3] Das wachsame Auge</DE>
+		</staff1_t4_r_3>
+		<staff1_t4_u_1>
+			<DE>[T2] Präzisionsrune des Schildbrechers</DE>
+		</staff1_t4_u_1>
+		<staff1_t4_u_2>
+			<DE>[T2] Mobilitätsrune der Zerstörung</DE>
+		</staff1_t4_u_2>
+		<staff1_t4_u_3>
+			<DE>[T2] Rasende Rune des Loderns</DE>
+		</staff1_t4_u_3>
+		<staff1_t4_u_4>
+			<DE>[T2] Scharfschützenrune des Durchbohrens</DE>
+		</staff1_t4_u_4>
+		<staff1_t4_u_5>
+			<DE>[T2] Blutrünstige Rune der tiefen Wunden</DE>
+		</staff1_t4_u_5>
+		<staff2_t4_c_1>
+			<DE>[T1] Schützen-Rune des Scharfschützen</DE>
+		</staff2_t4_c_1>
+		<staff2_t4_c_2>
+			<DE>[T1] Kurzdistanz-Rune des Durchbohrens</DE>
+		</staff2_t4_c_2>
+		<staff2_t4_c_3>
+			<DE>[T1] Energiespendende Rune der Kraft</DE>
+		</staff2_t4_c_3>
+		<staff2_t4_c_4>
+			<DE>[T1] Zerstörungsrune des Ringers</DE>
+		</staff2_t4_c_4>
+		<staff2_t4_r_1>
+			<DE>[T3] Klagelied der Caoineag</DE>
+		</staff2_t4_r_1>
+		<staff2_t4_r_2>
+			<DE>[T3] Zeichen des Zepters</DE>
+		</staff2_t4_r_2>
+		<staff2_t4_r_3>
+			<DE>[T3] Basiliskenmal</DE>
+		</staff2_t4_r_3>
+		<staff2_t4_r_4>
+			<DE>Schlagkräftige Rune der Vergeltung</DE>
+		</staff2_t4_r_4>
+		<staff2_t4_u_1>
+			<DE>[T2] Qualrune der Raserei</DE>
+		</staff2_t4_u_1>
+		<staff2_t4_u_2>
+			<DE>[T2] Mobilitätsrune der Kraft</DE>
+		</staff2_t4_u_2>
+		<staff2_t4_u_3>
+			<DE>[T2] Nicht verwickelte Scharfschützen-Rune</DE>
+		</staff2_t4_u_3>
+		<staff2_t4_u_4>
+			<DE>[T2] Blutsauger-Rune des Berserkers</DE>
+		</staff2_t4_u_4>
+		<sword_t4_c_1>
+			<DE>[T1] Schlagrune der Erkrankung</DE>
+		</sword_t4_c_1>
+		<sword_t4_c_2>
+			<DE>[T1] Duell-Rune des Attentäters</DE>
+		</sword_t4_c_2>
+		<sword_t4_c_3>
+			<DE>[T1] Kinese-Rune des Ringers</DE>
+		</sword_t4_c_3>
+		<sword_t4_c_4>
+			<DE>[T1] Schlagrune der Wut</DE>
+		</sword_t4_c_4>
+		<sword_t4_c_5>
+			<DE>[T1] Erschöpfende Rune der Halsabschneiderei</DE>
+		</sword_t4_c_5>
+		<sword_t4_c_6>
+			<DE>[T1] Blutsauger-Rune der Verjüngung</DE>
+		</sword_t4_c_6>
+		<sword_t4_c_7>
+			<DE>[T1] Wut-Rune der Vorhut</DE>
+		</sword_t4_c_7>
+		<sword_t4_r_1>
+			<DE>[T3] Herbstklingenrune</DE>
+		</sword_t4_r_1>
+		<sword_t4_r_2>
+			<DE>[T3] Mal des Zauberklinge</DE>
+		</sword_t4_r_2>
+		<sword_t4_r_3>
+			<DE>[T3] Rune der Unterwerfung</DE>
+		</sword_t4_r_3>
+		<sword_t4_r_4>
+			<DE>[T3] Zeichen des Herumtreibers</DE>
+		</sword_t4_r_4>
+		<sword_t4_r_5>
+			<DE>[T3] Symbol des Scheiterhaufens</DE>
+		</sword_t4_r_5>
+		<sword_t4_u_1>
+			<DE>[T2] Erwiderungsrune des Schlachtenmeisters</DE>
+		</sword_t4_u_1>
+		<sword_t4_u_2>
+			<DE>[T2] Blutdurst-Rune des Hautschälers</DE>
+		</sword_t4_u_2>
+		<sword_t4_u_3>
+			<DE>[T2] Infektionsrune des Schlägers</DE>
+		</sword_t4_u_3>
+		<sword_t4_u_4>
+			<DE>[T2] Blutsauger-Rune des Schlägers</DE>
+		</sword_t4_u_4>
+		<sword_t4_u_5>
+			<DE>[T2] Reparierende Rune der Gelassenheit</DE>
+		</sword_t4_u_5>
+		<sword_t4_u_6>
+			<DE>[T2] Wiederherstellungsrune des Berserkers</DE>
+		</sword_t4_u_6>
+		<sword_t4_u_7>
+			<DE>[T2] Lodernde Rune der Formorier-Tötung</DE>
+		</sword_t4_u_7>
+		<th_2haxe_t4_r_1>
+			<DE>[T3] Zeichen der schrecklichen Bestie</DE>
+		</th_2haxe_t4_r_1>
+		<th_2haxe_t4_r_2>
+			<DE>[T3] Rune der Herrschaft</DE>
+		</th_2haxe_t4_r_2>
+		<th_accessory_t4_r_1>
+			<DE>[T3] Auge des großen Sturms</DE>
+		</th_accessory_t4_r_1>
+		<th_crossbow_t4_r_1>
+			<DE>[T3] Rune der Vergänglichkeit</DE>
+		</th_crossbow_t4_r_1>
+		<th_crossbow_t4_r_2>
+			<DE>[T3] Fúamnachs gezackte Zunge</DE>
+		</th_crossbow_t4_r_2>
+		<th_jewelry_t4_r_1>
+			<DE>[T3] Ring des Erdschmieds</DE>
+		</th_jewelry_t4_r_1>
+		<th_jewelry_t4_r_2>
+			<DE>[T3] Schwefelring</DE>
+		</th_jewelry_t4_r_2>
+		<th_staff2_t4_r_1>
+			<DE>[T3] Zeichen der wandelnden Flamme</DE>
+		</th_staff2_t4_r_1>
+		<th_staff2_t4_r_2>
+			<DE>[T3] Fúamnachs Bannmal</DE>
+		</th_staff2_t4_r_2>
+		<th_sword_t4_r_1>
+			<DE>[T3] Zeichen des Feuerwurms</DE>
+		</th_sword_t4_r_1>
+		<th_sword_t4_r_2>
+			<DE>[T3] Rune der Knechtschaft</DE>
+		</th_sword_t4_r_2>
+		<trophy_t4_c_1>
+			<DE>[T1] Blutsauger-Trophäe des Formorier-Töters</DE>
+		</trophy_t4_c_1>
+		<trophy_t4_c_2>
+			<DE>[T1] Erzürnende Trophäe der Wut</DE>
+		</trophy_t4_c_2>
+		<trophy_t4_c_3>
+			<DE>[T1] Verheerende Trophäe des Schildbrechers</DE>
+		</trophy_t4_c_3>
+		<trophy_t4_c_4>
+			<DE>[T1] Heldentrophäe der Unzerstörbarkeit</DE>
+		</trophy_t4_c_4>
+		<trophy_t4_c_5>
+			<DE>[T1] Verteidigungstrophäe der Erwiderung</DE>
+		</trophy_t4_c_5>
+		<trophy_t4_r_1>
+			<DE>[T3] Morgawrs Kieferknochen</DE>
+		</trophy_t4_r_1>
+		<trophy_t4_r_2>
+			<DE>[T3] Kopf des Sturmrufers</DE>
+		</trophy_t4_r_2>
+		<trophy_t4_u_1>
+			<DE>[T2] Heilende Trophäe der Schlachtenmeisters</DE>
+		</trophy_t4_u_1>
+		<trophy_t4_u_2>
+			<DE>[T2] Wirbelnde Trophäe der Agilität</DE>
+		</trophy_t4_u_2>
+		<trophy_t4_u_3>
+			<DE>[T2] Wut-Trophäe des Berserkers</DE>
+		</trophy_t4_u_3>
+		<trophy_t4_u_4>
+			<DE>[T2] Stabile Trophäe der Zerstörung</DE>
+		</trophy_t4_u_4>
+	</items>
+</Root>

@@ -1,0 +1,1020 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<PT>Português (Brasil)</PT>
+	</LanguageName>
+	<Languages>PT</Languages>
+	<items>
+		<2haxe_t4_c_1>
+			<PT>[T1] Runa de entalhe do armeiro</PT>
+		</2haxe_t4_c_1>
+		<2haxe_t4_c_2>
+			<PT>[T1] Runa metálica de duelo</PT>
+		</2haxe_t4_c_2>
+		<2haxe_t4_c_3>
+			<PT>[T1] Runa perfurante de frenesi</PT>
+		</2haxe_t4_c_3>
+		<2haxe_t4_c_4>
+			<PT>[T1] Runa mata-Fomoriano do golpeador</PT>
+		</2haxe_t4_c_4>
+		<2haxe_t4_c_5>
+			<PT>[T1] Runa de força da vanguarda</PT>
+		</2haxe_t4_c_5>
+		<2haxe_t4_r_1>
+			<PT>[T3] Sinal do impávido</PT>
+		</2haxe_t4_r_1>
+		<2haxe_t4_r_2>
+			<PT>[T3] Sinal do matador</PT>
+		</2haxe_t4_r_2>
+		<2haxe_t4_r_3>
+			<PT>[T3] Símbolo de Mannan</PT>
+		</2haxe_t4_r_3>
+		<2haxe_t4_u_1>
+			<PT>[T2] Runa de sugar do golpeador</PT>
+		</2haxe_t4_u_1>
+		<2haxe_t4_u_2>
+			<PT>[T2] Runa de sanguinolência do golpeador</PT>
+		</2haxe_t4_u_2>
+		<2haxe_t4_u_3>
+			<PT>[T2] Runa agressiva de frenesi</PT>
+		</2haxe_t4_u_3>
+		<2haxe_t4_u_4>
+			<PT>[T2] Runa de conserto do berserker</PT>
+		</2haxe_t4_u_4>
+		<2haxe_t4_u_5>
+			<PT>[T2] Runa de exaustão do batalhador</PT>
+		</2haxe_t4_u_5>
+		<2hmace_t4_c_1>
+			<PT>[T1] Runa de caudilho do berserker</PT>
+		</2hmace_t4_c_1>
+		<2hmace_t4_c_2>
+			<PT>[T1] Runa de sangria da exaustão</PT>
+		</2hmace_t4_c_2>
+		<2hmace_t4_c_3>
+			<PT>[T1] Runa de destruição do iniciador</PT>
+		</2hmace_t4_c_3>
+		<2hmace_t4_c_4>
+			<PT>[T1] Runa corta-fundo do golpe</PT>
+		</2hmace_t4_c_4>
+		<2hmace_t4_r_1>
+			<PT>[T3] Marca do mata-gigante</PT>
+		</2hmace_t4_r_1>
+		<2hmace_t4_r_2>
+			<PT>[T3] Runa de Agrona</PT>
+		</2hmace_t4_r_2>
+		<2hmace_t4_r_3>
+			<PT>[T3] Grande selo do carvalho</PT>
+		</2hmace_t4_r_3>
+		<2hmace_t4_u_1>
+			<PT>[T2] Runa calcinante da manobra</PT>
+		</2hmace_t4_u_1>
+		<2hmace_t4_u_2>
+			<PT>[T2] Runa composta do berserker</PT>
+		</2hmace_t4_u_2>
+		<2hmace_t4_u_3>
+			<PT>[T2] Runa quebra-escudo do duelista</PT>
+		</2hmace_t4_u_3>
+		<2hmace_t4_u_4>
+			<PT>[T2] Runa destrutiva quebra-escudo</PT>
+		</2hmace_t4_u_4>
+		<accessory_t4_c_1>
+			<PT>[T1] Amuleto de sangria do batalhador</PT>
+		</accessory_t4_c_1>
+		<accessory_t4_c_2>
+			<PT>[T1] Amuleto de reparo do mata-Fomoriano</PT>
+		</accessory_t4_c_2>
+		<accessory_t4_c_3>
+			<PT>[T1] Amuleto acelerado da tenacidade</PT>
+		</accessory_t4_c_3>
+		<accessory_t4_c_4>
+			<PT>[T1] Amuleto revidante da robustez</PT>
+		</accessory_t4_c_4>
+		<accessory_t4_c_5>
+			<PT>[T1] Amuleto de manobra do lutador</PT>
+		</accessory_t4_c_5>
+		<accessory_t4_c_6>
+			<PT>[T1] Amuleto infernal de precisão</PT>
+		</accessory_t4_c_6>
+		<accessory_t4_r_1>
+			<PT>[T3] Gema escaldante de Aengus</PT>
+		</accessory_t4_r_1>
+		<accessory_t4_r_2>
+			<PT>[T3] Gema da morte ardilosa</PT>
+		</accessory_t4_r_2>
+		<accessory_t4_r_3>
+			<PT>[T3] Pedra da devoção</PT>
+		</accessory_t4_r_3>
+		<accessory_t4_r_4>
+			<PT>[T3] Pedra do defensor</PT>
+		</accessory_t4_r_4>
+		<accessory_t4_r_5>
+			<PT>[T3] Pedra da alma de ônix</PT>
+		</accessory_t4_r_5>
+		<accessory_t4_r_6>
+			<PT>[T3] Pingente do errante</PT>
+		</accessory_t4_r_6>
+		<accessory_t4_r_7>
+			<PT>[T3] Olho da fera de outono</PT>
+		</accessory_t4_r_7>
+		<accessory_t4_u_1>
+			<PT>[T2] Amuleto tormentoso da pactuação</PT>
+		</accessory_t4_u_1>
+		<accessory_t4_u_2>
+			<PT>[T2] Amuleto pronto da exaustão</PT>
+		</accessory_t4_u_2>
+		<accessory_t4_u_3>
+			<PT>[T2] Amuleto resistente de reparo</PT>
+		</accessory_t4_u_3>
+		<accessory_t4_u_4>
+			<PT>[T2] Amuleto curativo da coagulação</PT>
+		</accessory_t4_u_4>
+		<accessory_t4_u_5>
+			<PT>[T2] Amuleto de resistência do armeiro</PT>
+		</accessory_t4_u_5>
+		<accessory_t4_u_6>
+			<PT>[T2] Amuleto quebra-escudo de fúria</PT>
+		</accessory_t4_u_6>
+		<accessory_t4_u_7>
+			<PT>[T2] Amuleto cinético de doença</PT>
+		</accessory_t4_u_7>
+		<armourheavy1_t4_c_1>
+			<PT>[T1] Sigilo pronto da cólera</PT>
+		</armourheavy1_t4_c_1>
+		<armourheavy1_t4_c_2>
+			<PT>[T1] Sigilo robusto de armadura</PT>
+		</armourheavy1_t4_c_2>
+		<armourheavy1_t4_c_3>
+			<PT>[T1] Sigilo couraçado de armadura</PT>
+		</armourheavy1_t4_c_3>
+		<armourheavy1_t4_c_4>
+			<PT>[T1] Sigilo infundido de armadureiro</PT>
+		</armourheavy1_t4_c_4>
+		<armourheavy1_t4_c_5>
+			<PT>[T1] Sigilo resistente da fúria</PT>
+		</armourheavy1_t4_c_5>
+		<armourheavy1_t4_c_6>
+			<PT>[T1] Sigilo indivisível de ira</PT>
+		</armourheavy1_t4_c_6>
+		<armourheavy1_t4_c_7>
+			<PT>[T1] Sigilo célere de tenacidade</PT>
+		</armourheavy1_t4_c_7>
+		<armourheavy1_t4_r_1>
+			<PT>[T3] Sinal de menir</PT>
+		</armourheavy1_t4_r_1>
+		<armourheavy1_t4_r_2>
+			<PT>[T3] Símbolo de Goibniu</PT>
+		</armourheavy1_t4_r_2>
+		<armourheavy1_t4_r_3>
+			<PT>[T3] Marca de Ceridwen</PT>
+		</armourheavy1_t4_r_3>
+		<armourheavy1_t4_r_4>
+			<PT>Sigilo cinético de disparada</PT>
+		</armourheavy1_t4_r_4>
+		<armourheavy1_t4_u_1>
+			<PT>[T2] Sigilo sossegado do revide</PT>
+		</armourheavy1_t4_u_1>
+		<armourheavy1_t4_u_2>
+			<PT>[T2] Sigilo indivisível de resiliência</PT>
+		</armourheavy1_t4_u_2>
+		<armourheavy1_t4_u_3>
+			<PT>[T2] Sigilo blindado de agilidade</PT>
+		</armourheavy1_t4_u_3>
+		<armourheavy1_t4_u_4>
+			<PT>[T2] Sigilo coagulador de socorro</PT>
+		</armourheavy1_t4_u_4>
+		<armourheavy1_t4_u_5>
+			<PT>[T2] Sigilo sólido da indestrutibilidade</PT>
+		</armourheavy1_t4_u_5>
+		<armourheavy1_t4_u_6>
+			<PT>[T2] Sigilo furioso do revide</PT>
+		</armourheavy1_t4_u_6>
+		<armourheavy1_t4_u_7>
+			<PT>[T2] Sigilo tenaz de revide</PT>
+		</armourheavy1_t4_u_7>
+		<armourheavy2_t4_c_1>
+			<PT>[T1] Sigilo blindado de trégua</PT>
+		</armourheavy2_t4_c_1>
+		<armourheavy2_t4_c_2>
+			<PT>[T1] Sigilo robusto de repouso</PT>
+		</armourheavy2_t4_c_2>
+		<armourheavy2_t4_c_3>
+			<PT>[T1] Sigilo blindado de agilidade</PT>
+		</armourheavy2_t4_c_3>
+		<armourheavy2_t4_c_4>
+			<PT>[T1] Sigilo vigoroso de revide</PT>
+		</armourheavy2_t4_c_4>
+		<armourheavy2_t4_c_5>
+			<PT>[T1] Sigilo reparador de rejuvenescer</PT>
+		</armourheavy2_t4_c_5>
+		<armourheavy2_t4_c_6>
+			<PT>[T1] Sigilo composto do vigor</PT>
+		</armourheavy2_t4_c_6>
+		<armourheavy2_t4_c_7>
+			<PT>[T1] Sigilo ágil da agressão</PT>
+		</armourheavy2_t4_c_7>
+		<armourheavy2_t4_r_1>
+			<PT>[T3] Selo da penitência</PT>
+		</armourheavy2_t4_r_1>
+		<armourheavy2_t4_r_2>
+			<PT>[T3] Sigilo enraizado</PT>
+		</armourheavy2_t4_r_2>
+		<armourheavy2_t4_r_3>
+			<PT>[T3] Selo de Taranis</PT>
+		</armourheavy2_t4_r_3>
+		<armourheavy2_t4_u_1>
+			<PT>[T2] Sigilo pronto do socorro</PT>
+		</armourheavy2_t4_u_1>
+		<armourheavy2_t4_u_2>
+			<PT>[T2] Sigilo blindado de solidez</PT>
+		</armourheavy2_t4_u_2>
+		<armourheavy2_t4_u_3>
+			<PT>[T2] Sigilo curativo de fugacidade</PT>
+		</armourheavy2_t4_u_3>
+		<armourheavy2_t4_u_4>
+			<PT>[T2] Sigilo resistente de indestrutibilidade</PT>
+		</armourheavy2_t4_u_4>
+		<armourheavy2_t4_u_5>
+			<PT>[T2] Sigilo couraçado de tenacidade</PT>
+		</armourheavy2_t4_u_5>
+		<armourheavy2_t4_u_6>
+			<PT>[T2] Sigilo resistente de reparo</PT>
+		</armourheavy2_t4_u_6>
+		<armourheavy2_t4_u_7>
+			<PT>[T2] Sigilo da fúria do armadureiro</PT>
+		</armourheavy2_t4_u_7>
+		<armourlight1_t4_c_1>
+			<PT>[T1] Sigilo couraçado de águia</PT>
+		</armourlight1_t4_c_1>
+		<armourlight1_t4_c_2>
+			<PT>[T1] Sigilo energizante da robustez</PT>
+		</armourlight1_t4_c_2>
+		<armourlight1_t4_c_3>
+			<PT>[T1] Sigilo protetor da precisão</PT>
+		</armourlight1_t4_c_3>
+		<armourlight1_t4_c_4>
+			<PT>[T1] Sigilo robusto da agilidade</PT>
+		</armourlight1_t4_c_4>
+		<armourlight1_t4_c_5>
+			<PT>[T1] Sigilo do socorro do cervejeiro</PT>
+		</armourlight1_t4_c_5>
+		<armourlight1_t4_r_1>
+			<PT>[T3] Sigilo de impuro</PT>
+		</armourlight1_t4_r_1>
+		<armourlight1_t4_r_2>
+			<PT>[T3] Selo da chama espiritual</PT>
+		</armourlight1_t4_r_2>
+		<armourlight1_t4_r_3>
+			<PT>[T3] Sigilo do guardião Sidhe</PT>
+		</armourlight1_t4_r_3>
+		<armourlight1_t4_u_1>
+			<PT>[T2] Sigilo resiliente da tenacidade</PT>
+		</armourlight1_t4_u_1>
+		<armourlight1_t4_u_2>
+			<PT>[T2] Sigilo tormentoso da fugacidade</PT>
+		</armourlight1_t4_u_2>
+		<armourlight1_t4_u_3>
+			<PT>[T2] Sigilo robusto de couraça</PT>
+		</armourlight1_t4_u_3>
+		<armourlight1_t4_u_4>
+			<PT>[T2] Sigilo furioso da coagulação</PT>
+		</armourlight1_t4_u_4>
+		<armourlight1_t4_u_5>
+			<PT>[T2] Sigilo couraçado de compostura</PT>
+		</armourlight1_t4_u_5>
+		<armourlight2_t4_c_1>
+			<PT>[T1] Sigilo blindado de rejuvenescer</PT>
+		</armourlight2_t4_c_1>
+		<armourlight2_t4_c_2>
+			<PT>[T1] Sigilo couraçado de indestrutibilidade</PT>
+		</armourlight2_t4_c_2>
+		<armourlight2_t4_c_3>
+			<PT>[T1] Sigilo de ânimo do armadureiro</PT>
+		</armourlight2_t4_c_3>
+		<armourlight2_t4_c_4>
+			<PT>[T1] Sigilo blindado de robustez</PT>
+		</armourlight2_t4_c_4>
+		<armourlight2_t4_c_5>
+			<PT>[T1] Sigilo célere de tenacidade</PT>
+		</armourlight2_t4_c_5>
+		<armourlight2_t4_r_1>
+			<PT>[T3] Runa de couro pétreo</PT>
+		</armourlight2_t4_r_1>
+		<armourlight2_t4_r_2>
+			<PT>[T3] Sinal de errante</PT>
+		</armourlight2_t4_r_2>
+		<armourlight2_t4_r_3>
+			<PT>[T3] Sigilo de imperturbável</PT>
+		</armourlight2_t4_r_3>
+		<armourlight2_t4_u_1>
+			<PT>[T2] Sigilo protetor da cinese</PT>
+		</armourlight2_t4_u_1>
+		<armourlight2_t4_u_2>
+			<PT>[T2] Sigilo pronto de armadureiro</PT>
+		</armourlight2_t4_u_2>
+		<armourlight2_t4_u_3>
+			<PT>[T2] Sigilo blindado de antídoto</PT>
+		</armourlight2_t4_u_3>
+		<armourlight2_t4_u_4>
+			<PT>[T2] Sigilo indivisível de repouso</PT>
+		</armourlight2_t4_u_4>
+		<armourlight2_t4_u_5>
+			<PT>[T2] Sigilo resistente de socorro</PT>
+		</armourlight2_t4_u_5>
+		<armourmedium1_t4_c_1>
+			<PT>[T1] Sigilo do descanso da armadura</PT>
+		</armourmedium1_t4_c_1>
+		<armourmedium1_t4_c_2>
+			<PT>[T1] Sigilo robusto de prontidão</PT>
+		</armourmedium1_t4_c_2>
+		<armourmedium1_t4_c_3>
+			<PT>[T1] Sigilo indivisível de celeridade</PT>
+		</armourmedium1_t4_c_3>
+		<armourmedium1_t4_c_4>
+			<PT>[T1] Sigilo robusto de armadura</PT>
+		</armourmedium1_t4_c_4>
+		<armourmedium1_t4_c_5>
+			<PT>[T1] Sigilo couraçado de armadureiro</PT>
+		</armourmedium1_t4_c_5>
+		<armourmedium1_t4_r_1>
+			<PT>[T3] Marca do cão de caça</PT>
+		</armourmedium1_t4_r_1>
+		<armourmedium1_t4_r_2>
+			<PT>[T3] Sigilo da manutenção</PT>
+		</armourmedium1_t4_r_2>
+		<armourmedium1_t4_r_3>
+			<PT>[T3] Sinal de ceifador</PT>
+		</armourmedium1_t4_r_3>
+		<armourmedium1_t4_r_4>
+			<PT>Sigilo corretivo de ânimo</PT>
+		</armourmedium1_t4_r_4>
+		<armourmedium1_t4_u_1>
+			<PT>[T2] Sigilo tenaz de cinese</PT>
+		</armourmedium1_t4_u_1>
+		<armourmedium1_t4_u_2>
+			<PT>[T2] Sigilo curativo de agilidade</PT>
+		</armourmedium1_t4_u_2>
+		<armourmedium1_t4_u_3>
+			<PT>[T2] Sigilo resistente de armadura</PT>
+		</armourmedium1_t4_u_3>
+		<armourmedium1_t4_u_4>
+			<PT>[T2] Sigilo fugaz da compostura</PT>
+		</armourmedium1_t4_u_4>
+		<armourmedium1_t4_u_5>
+			<PT>[T2] Sigilo blindado de indestrutibilidade</PT>
+		</armourmedium1_t4_u_5>
+		<armourmedium2_t4_c_1>
+			<PT>[T1] Sigilo curativo do frenesi</PT>
+		</armourmedium2_t4_c_1>
+		<armourmedium2_t4_c_2>
+			<PT>[T1] Sigilo vigoroso de fugacidade</PT>
+		</armourmedium2_t4_c_2>
+		<armourmedium2_t4_c_3>
+			<PT>[T1] Sigilo metálico de agressão</PT>
+		</armourmedium2_t4_c_3>
+		<armourmedium2_t4_c_4>
+			<PT>[T1] Sigilo robusto da furtividade</PT>
+		</armourmedium2_t4_c_4>
+		<armourmedium2_t4_c_5>
+			<PT>[T1] Sigilo de rejuvenescer de socorro</PT>
+		</armourmedium2_t4_c_5>
+		<armourmedium2_t4_r_1>
+			<PT>[T3] Símbolo de Lugh</PT>
+		</armourmedium2_t4_r_1>
+		<armourmedium2_t4_r_2>
+			<PT>[T3] Sigilo de cidadela alta</PT>
+		</armourmedium2_t4_r_2>
+		<armourmedium2_t4_r_3>
+			<PT>[T3] Halo de Elatha</PT>
+		</armourmedium2_t4_r_3>
+		<armourmedium2_t4_u_1>
+			<PT>[T2] Sigilo furioso do revide</PT>
+		</armourmedium2_t4_u_1>
+		<armourmedium2_t4_u_2>
+			<PT>[T2] Sigilo robusto de armadureiro</PT>
+		</armourmedium2_t4_u_2>
+		<armourmedium2_t4_u_3>
+			<PT>[T2] Sigilo reparador de revide</PT>
+		</armourmedium2_t4_u_3>
+		<armourmedium2_t4_u_4>
+			<PT>[T2] Sigilo sólido da robustez</PT>
+		</armourmedium2_t4_u_4>
+		<armourmedium2_t4_u_5>
+			<PT>[T2] Sigilo resiliente de repouso</PT>
+		</armourmedium2_t4_u_5>
+		<artifact_t4_c_1>
+			<PT>[T1] Artefato de força do berserker</PT>
+		</artifact_t4_c_1>
+		<artifact_t4_c_2>
+			<PT>[T1] Artefato à queima-roupa de potência</PT>
+		</artifact_t4_c_2>
+		<artifact_t4_c_3>
+			<PT>[T1] Artefato malicioso do tormento</PT>
+		</artifact_t4_c_3>
+		<artifact_t4_c_4>
+			<PT>[T1] Artefato curativo da destruição</PT>
+		</artifact_t4_c_4>
+		<artifact_t4_c_5>
+			<PT>[T1] Artefato ameaçador de ferida funda</PT>
+		</artifact_t4_c_5>
+		<artifact_t4_r_1>
+			<PT>[T3] Cinzas de emissário</PT>
+		</artifact_t4_r_1>
+		<artifact_t4_r_2>
+			<PT>[T3] Casca de árvore cinzenta</PT>
+		</artifact_t4_r_2>
+		<artifact_t4_u_1>
+			<PT>[T2] Artefato de manobra do praguejador</PT>
+		</artifact_t4_u_1>
+		<artifact_t4_u_2>
+			<PT>[T2] Artefato calcinante das chamas</PT>
+		</artifact_t4_u_2>
+		<artifact_t4_u_3>
+			<PT>[T2] Artefato sanguinolento de compostura</PT>
+		</artifact_t4_u_3>
+		<artifact_t4_u_4>
+			<PT>[T2] Artefato tormentoso quebra-escudo</PT>
+		</artifact_t4_u_4>
+		<axe_t4_c_1>
+			<PT>[T1] Runa da agressão do assassino</PT>
+		</axe_t4_c_1>
+		<axe_t4_c_2>
+			<PT>[T1] Runa robusta de tormento</PT>
+		</axe_t4_c_2>
+		<axe_t4_c_3>
+			<PT>[T1] Runa fortalecedora de compostura</PT>
+		</axe_t4_c_3>
+		<axe_t4_c_4>
+			<PT>[T1] Runa corta-fundo de frenesi</PT>
+		</axe_t4_c_4>
+		<axe_t4_c_5>
+			<PT>[T1] Runa da ira do batalhador</PT>
+		</axe_t4_c_5>
+		<axe_t4_c_6>
+			<PT>[T1] Runa da perfuração do golpeador</PT>
+		</axe_t4_c_6>
+		<axe_t4_c_7>
+			<PT>[T1] Runa de ferida funda do berserker</PT>
+		</axe_t4_c_7>
+		<axe_t4_r_1>
+			<PT>[T3] Toque de Cailleach</PT>
+		</axe_t4_r_1>
+		<axe_t4_r_2>
+			<PT>[T3] Ira do rei caído</PT>
+		</axe_t4_r_2>
+		<axe_t4_r_3>
+			<PT>[T3] Selo do cavaleiro predestinado</PT>
+		</axe_t4_r_3>
+		<axe_t4_r_4>
+			<PT>[T3] Marca de regressado</PT>
+		</axe_t4_r_4>
+		<axe_t4_r_5>
+			<PT>[T3] Marca da praga de Fúamnach</PT>
+		</axe_t4_r_5>
+		<axe_t4_u_1>
+			<PT>[T2] Runa de manobra do golpeador</PT>
+		</axe_t4_u_1>
+		<axe_t4_u_2>
+			<PT>[T2] Runa de agressão do duelista</PT>
+		</axe_t4_u_2>
+		<axe_t4_u_3>
+			<PT>[T2] Runa da destruição da vanguarda</PT>
+		</axe_t4_u_3>
+		<axe_t4_u_4>
+			<PT>[T2] Runa quebra-escudo mata-Fomoriano</PT>
+		</axe_t4_u_4>
+		<axe_t4_u_5>
+			<PT>[T2] Runa quebra-escudo de golpe</PT>
+		</axe_t4_u_5>
+		<axe_t4_u_6>
+			<PT>[T2] Runa gélida da exaustão</PT>
+		</axe_t4_u_6>
+		<axe_t4_u_7>
+			<PT>[T2] Runa da cinese do iniciador</PT>
+		</axe_t4_u_7>
+		<bow_t4_c_1>
+			<PT>[T1] Runa de curto alcance de raiva</PT>
+		</bow_t4_c_1>
+		<bow_t4_c_2>
+			<PT>[T1] Runa de exaustão do mata-Fomoriano</PT>
+		</bow_t4_c_2>
+		<bow_t4_c_3>
+			<PT>[T1] Runa fortalecedora da destruição</PT>
+		</bow_t4_c_3>
+		<bow_t4_c_4>
+			<PT>[T1] Runa da compostura do iniciador</PT>
+		</bow_t4_c_4>
+		<bow_t4_r_1>
+			<PT>[T3] Runa elemental do vento</PT>
+		</bow_t4_r_1>
+		<bow_t4_r_2>
+			<PT>[T3] Símbolo do arco solar Seelie</PT>
+		</bow_t4_r_2>
+		<bow_t4_r_3>
+			<PT>[T3] Grande selo da caça</PT>
+		</bow_t4_r_3>
+		<bow_t4_u_1>
+			<PT>[T2] Runa de frenesi do boa-mira</PT>
+		</bow_t4_u_1>
+		<bow_t4_u_2>
+			<PT>[T2] Runa de curto alcance de calcinação</PT>
+		</bow_t4_u_2>
+		<bow_t4_u_3>
+			<PT>[T2] Runa de compostura do boa-mira</PT>
+		</bow_t4_u_3>
+		<bow_t4_u_4>
+			<PT>[T2] Runa peçonhenta da infecção</PT>
+		</bow_t4_u_4>
+		<crossbow_t4_c_1>
+			<PT>[T1] Runa da peçonha do berserker</PT>
+		</crossbow_t4_c_1>
+		<crossbow_t4_c_2>
+			<PT>[T1] Runa de equilíbrio do boa-mira</PT>
+		</crossbow_t4_c_2>
+		<crossbow_t4_c_3>
+			<PT>[T1] Runa olho de águia de frenesi</PT>
+		</crossbow_t4_c_3>
+		<crossbow_t4_c_4>
+			<PT>[T1] Runa carbonizadora de calcinação</PT>
+		</crossbow_t4_c_4>
+		<crossbow_t4_c_5>
+			<PT>[T1] Runa de doença do olho certeiro</PT>
+		</crossbow_t4_c_5>
+		<crossbow_t4_r_1>
+			<PT>[T3] A marca do olho treinado</PT>
+		</crossbow_t4_r_1>
+		<crossbow_t4_r_2>
+			<PT>[T3] Selo do arqueiro Sidhe</PT>
+		</crossbow_t4_r_2>
+		<crossbow_t4_r_3>
+			<PT>[T3] Marca elemental do fogo</PT>
+		</crossbow_t4_r_3>
+		<crossbow_t4_r_4>
+			<PT>Runa de curto alcance de penetração</PT>
+		</crossbow_t4_r_4>
+		<crossbow_t4_u_1>
+			<PT>[T2] Runa precisa da cinese</PT>
+		</crossbow_t4_u_1>
+		<crossbow_t4_u_2>
+			<PT>[T2] Runa infernal de curto alcance</PT>
+		</crossbow_t4_u_2>
+		<crossbow_t4_u_3>
+			<PT>[T2] Runa de perfuração do vigilante</PT>
+		</crossbow_t4_u_3>
+		<crossbow_t4_u_4>
+			<PT>[T2] Runa sossegada de livre</PT>
+		</crossbow_t4_u_4>
+		<crossbow_t4_u_5>
+			<PT>[T2] Runa corta-fundo de sanguinolência</PT>
+		</crossbow_t4_u_5>
+		<et_2haxe_t4_r_1>
+			<PT>[T3] Runa do abala-terra</PT>
+		</et_2haxe_t4_r_1>
+		<et_accessory_t4_r_1>
+			<PT>[T3] Pedra sussurrante</PT>
+		</et_accessory_t4_r_1>
+		<et_armourheavy1_t4_r_1>
+			<PT>[T3] Sigilo do fardo dividido</PT>
+		</et_armourheavy1_t4_r_1>
+		<et_armourheavy2_t4_r_1>
+			<PT>[T3] Sinal da consciência</PT>
+		</et_armourheavy2_t4_r_1>
+		<et_armourlight1_t4_r_1>
+			<PT>[T3] Sigilo do encantador mestre</PT>
+		</et_armourlight1_t4_r_1>
+		<et_armourlight2_t4_r_1>
+			<PT>[T3] Marca do mago selvagem</PT>
+		</et_armourlight2_t4_r_1>
+		<et_armourmedium1_t4_r_1>
+			<PT>[T3] Sigilo da armadura espectral</PT>
+		</et_armourmedium1_t4_r_1>
+		<et_armourmedium2_t4_r_1>
+			<PT>[T3] Selo do atirador celestial</PT>
+		</et_armourmedium2_t4_r_1>
+		<et_artifact_t4_r_1>
+			<PT>[T3] Fúria de Cailleach</PT>
+		</et_artifact_t4_r_1>
+		<et_axe_t4_r_1>
+			<PT>[T3] Furor do machadeiro</PT>
+		</et_axe_t4_r_1>
+		<et_crossbow_t4_r_1>
+			<PT>[T3] Sinal da flecha abjeta</PT>
+		</et_crossbow_t4_r_1>
+		<et_jewelry_t4_r_1>
+			<PT>[T3] Anel do duelista mestre</PT>
+		</et_jewelry_t4_r_1>
+		<et_luckycharm_t4_r_1>
+			<PT>[T3] Talismã de Mannan</PT>
+		</et_luckycharm_t4_r_1>
+		<et_manuscript_t4_r_1>
+			<PT>[T3] Fome de Crom Cruach</PT>
+		</et_manuscript_t4_r_1>
+		<et_oathstone_t4_r_1>
+			<PT>[T3] Juramento do quebra-linha</PT>
+		</et_oathstone_t4_r_1>
+		<et_provision_t4_r_1>
+			<PT>[T3] Mochila de alquimista</PT>
+		</et_provision_t4_r_1>
+		<et_staff2_t4_r_1>
+			<PT>[T3] Runa da tempestade ígnea</PT>
+		</et_staff2_t4_r_1>
+		<et_sword_t4_r_1>
+			<PT>[T3] Marca da praga da magilâmina</PT>
+		</et_sword_t4_r_1>
+		<et_trophy_t4_r_1>
+			<PT>[T3] Grinalda de Bebd</PT>
+		</et_trophy_t4_r_1>
+		<jewelry_t4_c_1>
+			<PT>[T1] Anel sólido de vigor</PT>
+		</jewelry_t4_c_1>
+		<jewelry_t4_c_2>
+			<PT>[T1] Anel da aceleração do iniciador</PT>
+		</jewelry_t4_c_2>
+		<jewelry_t4_c_3>
+			<PT>[T1] Anel peçonhento de livre</PT>
+		</jewelry_t4_c_3>
+		<jewelry_t4_c_4>
+			<PT>[T1] Anel olho de águia do duelo</PT>
+		</jewelry_t4_c_4>
+		<jewelry_t4_c_5>
+			<PT>[T1] Anel fugaz de doença</PT>
+		</jewelry_t4_c_5>
+		<jewelry_t4_c_6>
+			<PT>[T1] Anel de sugar do apunhalador</PT>
+		</jewelry_t4_c_6>
+		<jewelry_t4_r_1>
+			<PT>[T3] Anel de alquimista</PT>
+		</jewelry_t4_r_1>
+		<jewelry_t4_r_2>
+			<PT>[T3] Anel da expiação</PT>
+		</jewelry_t4_r_2>
+		<jewelry_t4_r_3>
+			<PT>[T3] Coração de Buggane</PT>
+		</jewelry_t4_r_3>
+		<jewelry_t4_r_4>
+			<PT>[T3] Anel de Aeron</PT>
+		</jewelry_t4_r_4>
+		<jewelry_t4_r_5>
+			<PT>[T3] Anel da penitência</PT>
+		</jewelry_t4_r_5>
+		<jewelry_t4_r_6>
+			<PT>[T3] Anel da recuperação</PT>
+		</jewelry_t4_r_6>
+		<jewelry_t4_r_7>
+			<PT>[T3] Anel de Aereda</PT>
+		</jewelry_t4_r_7>
+		<jewelry_t4_u_1>
+			<PT>[T2] Anel de prontidão do quebra-escudo</PT>
+		</jewelry_t4_u_1>
+		<jewelry_t4_u_2>
+			<PT>[T2] Anel resiliente da agressão</PT>
+		</jewelry_t4_u_2>
+		<jewelry_t4_u_3>
+			<PT>[T2] Anel calcinante de couraça</PT>
+		</jewelry_t4_u_3>
+		<jewelry_t4_u_4>
+			<PT>[T2] Anel resiliente do frenesi</PT>
+		</jewelry_t4_u_4>
+		<jewelry_t4_u_5>
+			<PT>[T2] Anel fugaz da exaustão</PT>
+		</jewelry_t4_u_5>
+		<jewelry_t4_u_6>
+			<PT>[T2] Anel de sugar composto</PT>
+		</jewelry_t4_u_6>
+		<jewelry_t4_u_7>
+			<PT>[T2] Anel resistente de pactuação</PT>
+		</jewelry_t4_u_7>
+		<luckycharm_t4_c_1>
+			<PT>[T1] Patuá quebra-escudo de perfuração</PT>
+		</luckycharm_t4_c_1>
+		<luckycharm_t4_c_2>
+			<PT>[T1] Patuá olho de águia de compostura</PT>
+		</luckycharm_t4_c_2>
+		<luckycharm_t4_c_3>
+			<PT>[T1] Patuá de curto alcance do atirador</PT>
+		</luckycharm_t4_c_3>
+		<luckycharm_t4_c_4>
+			<PT>[T1] Patuá de carbonização do boa-mira</PT>
+		</luckycharm_t4_c_4>
+		<luckycharm_t4_c_5>
+			<PT>[T1] Patuá resistente de socorro</PT>
+		</luckycharm_t4_c_5>
+		<luckycharm_t4_r_1>
+			<PT>[T3] Fetiche olho por olho</PT>
+		</luckycharm_t4_r_1>
+		<luckycharm_t4_r_2>
+			<PT>[T3] Amuleto de obsidiana</PT>
+		</luckycharm_t4_r_2>
+		<luckycharm_t4_u_1>
+			<PT>[T2] Patuá perfurante de calcinação</PT>
+		</luckycharm_t4_u_1>
+		<luckycharm_t4_u_2>
+			<PT>[T2] Patuá de antídoto do envenenador</PT>
+		</luckycharm_t4_u_2>
+		<luckycharm_t4_u_3>
+			<PT>[T2] Patuá frenético de livre</PT>
+		</luckycharm_t4_u_3>
+		<luckycharm_t4_u_4>
+			<PT>[T2] Patuá mata-Fomoriano de destruição</PT>
+		</luckycharm_t4_u_4>
+		<manuscript_t4_c_1>
+			<PT>[T1] Manuscrito inspirador das bênçãos</PT>
+		</manuscript_t4_c_1>
+		<manuscript_t4_c_2>
+			<PT>[T1] Manuscrito de robustez do mata-Fomoriano</PT>
+		</manuscript_t4_c_2>
+		<manuscript_t4_c_3>
+			<PT>[T1] Manuscrito vigoroso de socorro</PT>
+		</manuscript_t4_c_3>
+		<manuscript_t4_c_4>
+			<PT>[T1] Manuscrito infundido da tenacidade</PT>
+		</manuscript_t4_c_4>
+		<manuscript_t4_c_5>
+			<PT>[T1] Manuscrito glacial da geladura</PT>
+		</manuscript_t4_c_5>
+		<manuscript_t4_r_1>
+			<PT>[T3] Pergaminhos sagrados de Aibell</PT>
+		</manuscript_t4_r_1>
+		<manuscript_t4_r_2>
+			<PT>[T3] Encantações de Be Chuille</PT>
+		</manuscript_t4_r_2>
+		<manuscript_t4_u_1>
+			<PT>[T2] Manuscrito revidante da fortitude</PT>
+		</manuscript_t4_u_1>
+		<manuscript_t4_u_2>
+			<PT>[T2] Manuscrito coagulador de couraça</PT>
+		</manuscript_t4_u_2>
+		<manuscript_t4_u_3>
+			<PT>[T2] Manuscrito resiliente de solidez</PT>
+		</manuscript_t4_u_3>
+		<manuscript_t4_u_4>
+			<PT>[T2] Manuscrito curativo do poder</PT>
+		</manuscript_t4_u_4>
+		<oathstone_t4_c_1>
+			<PT>[T1] Jurapedra robusta de escudo</PT>
+		</oathstone_t4_c_1>
+		<oathstone_t4_c_2>
+			<PT>[T1] Jurapedra antiprojétil de couraça</PT>
+		</oathstone_t4_c_2>
+		<oathstone_t4_c_3>
+			<PT>[T1] Jurapedra de solidez do cervejeiro</PT>
+		</oathstone_t4_c_3>
+		<oathstone_t4_c_4>
+			<PT>[T1] Jurapedra de descanso de reparo</PT>
+		</oathstone_t4_c_4>
+		<oathstone_t4_c_5>
+			<PT>[T1] Jurapedra de provocação do Defensor</PT>
+		</oathstone_t4_c_5>
+		<oathstone_t4_r_1>
+			<PT>[T3] Pedra solar do resguardo</PT>
+		</oathstone_t4_r_1>
+		<oathstone_t4_r_2>
+			<PT>[T3] Pedra da provocação imbuída</PT>
+		</oathstone_t4_r_2>
+		<oathstone_t4_u_1>
+			<PT>[T2] Jurapedra resistente de coagulação</PT>
+		</oathstone_t4_u_1>
+		<oathstone_t4_u_2>
+			<PT>[T2] Jurapedra de revide do escudeiro</PT>
+		</oathstone_t4_u_2>
+		<oathstone_t4_u_3>
+			<PT>[T2] Jurapedra de golpe do duelista</PT>
+		</oathstone_t4_u_3>
+		<oathstone_t4_u_4>
+			<PT>[T2] Jurapedra de provocação do armeiro</PT>
+		</oathstone_t4_u_4>
+		<provision_t4_c_1>
+			<PT>[T1] Provisão da furtividade do revira-ossos</PT>
+		</provision_t4_c_1>
+		<provision_t4_c_2>
+			<PT>[T1] Provisão aprisionante do coureador</PT>
+		</provision_t4_c_2>
+		<provision_t4_c_3>
+			<PT>[T1] Provisão célere de cinese</PT>
+		</provision_t4_c_3>
+		<provision_t4_c_4>
+			<PT>[T1] Provisão da espreita do revira-ossos</PT>
+		</provision_t4_c_4>
+		<provision_t4_c_5>
+			<PT>[T1] Provisão pés leves da ocultação</PT>
+		</provision_t4_c_5>
+		<provision_t4_r_1>
+			<PT>[T3] Libra de Morrígu</PT>
+		</provision_t4_r_1>
+		<provision_t4_r_2>
+			<PT>[T3] Balança de Lén</PT>
+		</provision_t4_r_2>
+		<provision_t4_r_3>
+			<PT>Provisão de empalar do coureador</PT>
+		</provision_t4_r_3>
+		<provision_t4_u_1>
+			<PT>[T2] Provisão sanguinolenta de cinese</PT>
+		</provision_t4_u_1>
+		<provision_t4_u_2>
+			<PT>[T2] Provisão periculosa da exaustão</PT>
+		</provision_t4_u_2>
+		<provision_t4_u_3>
+			<PT>[T2] Provisão de boa vista do atira-facas</PT>
+		</provision_t4_u_3>
+		<provision_t4_u_4>
+			<PT>[T2] Provisão sossegada de manobra</PT>
+		</provision_t4_u_4>
+		<staff1_t4_c_1>
+			<PT>[T1] Runa raivosa da compostura</PT>
+		</staff1_t4_c_1>
+		<staff1_t4_c_2>
+			<PT>[T1] Runa de tormento do entalha-pele</PT>
+		</staff1_t4_c_2>
+		<staff1_t4_c_3>
+			<PT>[T1] Runa de ferida funda do praguejador</PT>
+		</staff1_t4_c_3>
+		<staff1_t4_c_4>
+			<PT>[T1] Runa de força da sentinela</PT>
+		</staff1_t4_c_4>
+		<staff1_t4_c_5>
+			<PT>[T1] Runa livre de sangria</PT>
+		</staff1_t4_c_5>
+		<staff1_t4_r_1>
+			<PT>[T3] Runa incendiária</PT>
+		</staff1_t4_r_1>
+		<staff1_t4_r_2>
+			<PT>[T3] Símbolo de Alaunus</PT>
+		</staff1_t4_r_2>
+		<staff1_t4_r_3>
+			<PT>[T3] O olho vigilante</PT>
+		</staff1_t4_r_3>
+		<staff1_t4_u_1>
+			<PT>[T2] Runa quebra-escudo de precisão</PT>
+		</staff1_t4_u_1>
+		<staff1_t4_u_2>
+			<PT>[T2] Runa de manobra de destruição</PT>
+		</staff1_t4_u_2>
+		<staff1_t4_u_3>
+			<PT>[T2] Runa frenética da calcinação</PT>
+		</staff1_t4_u_3>
+		<staff1_t4_u_4>
+			<PT>[T2] Runa de perfuração do boa-mira</PT>
+		</staff1_t4_u_4>
+		<staff1_t4_u_5>
+			<PT>[T2] Runa sanguinolenta de ferida funda</PT>
+		</staff1_t4_u_5>
+		<staff2_t4_c_1>
+			<PT>[T1] Runa de boa-mira do atirador</PT>
+		</staff2_t4_c_1>
+		<staff2_t4_c_2>
+			<PT>[T1] Runa de curto alcance de perfuração</PT>
+		</staff2_t4_c_2>
+		<staff2_t4_c_3>
+			<PT>[T1] Runa energizante de potência</PT>
+		</staff2_t4_c_3>
+		<staff2_t4_c_4>
+			<PT>[T1] Runa de destruição do lutador</PT>
+		</staff2_t4_c_4>
+		<staff2_t4_r_1>
+			<PT>[T3] Lamento de Caoineag</PT>
+		</staff2_t4_r_1>
+		<staff2_t4_r_2>
+			<PT>[T3] Sinal de cetro</PT>
+		</staff2_t4_r_2>
+		<staff2_t4_r_3>
+			<PT>[T3] Marca do basilisco</PT>
+		</staff2_t4_r_3>
+		<staff2_t4_r_4>
+			<PT>Runa impactante de retaliação</PT>
+		</staff2_t4_r_4>
+		<staff2_t4_u_1>
+			<PT>[T2] Runa tormentosa de frenesi</PT>
+		</staff2_t4_u_1>
+		<staff2_t4_u_2>
+			<PT>[T2] Runa de manobra de potência</PT>
+		</staff2_t4_u_2>
+		<staff2_t4_u_3>
+			<PT>[T2] Runa livre de boa-mira</PT>
+		</staff2_t4_u_3>
+		<staff2_t4_u_4>
+			<PT>[T2] Runa sugadora do berserker</PT>
+		</staff2_t4_u_4>
+		<sword_t4_c_1>
+			<PT>[T1] Runa de doença do golpeador</PT>
+		</sword_t4_c_1>
+		<sword_t4_c_2>
+			<PT>[T1] Runa de duelo do assassino</PT>
+		</sword_t4_c_2>
+		<sword_t4_c_3>
+			<PT>[T1] Runa da cinese do lutador</PT>
+		</sword_t4_c_3>
+		<sword_t4_c_4>
+			<PT>[T1] Runa da raiva do golpeador</PT>
+		</sword_t4_c_4>
+		<sword_t4_c_5>
+			<PT>[T1] Runa exaustiva de entalhe</PT>
+		</sword_t4_c_5>
+		<sword_t4_c_6>
+			<PT>[T1] Runa sugadora de rejuvenescer</PT>
+		</sword_t4_c_6>
+		<sword_t4_c_7>
+			<PT>[T1] Runa de raiva da vanguarda</PT>
+		</sword_t4_c_7>
+		<sword_t4_r_1>
+			<PT>[T3] Runa da lâmina outonal</PT>
+		</sword_t4_r_1>
+		<sword_t4_r_2>
+			<PT>[T3] Marca de magilâmina</PT>
+		</sword_t4_r_2>
+		<sword_t4_r_3>
+			<PT>[T3] Runa da subjugação</PT>
+		</sword_t4_r_3>
+		<sword_t4_r_4>
+			<PT>[T3] Sinal de caçada</PT>
+		</sword_t4_r_4>
+		<sword_t4_r_5>
+			<PT>[T3] Símbolo de pira</PT>
+		</sword_t4_r_5>
+		<sword_t4_u_1>
+			<PT>[T2] Runa do revide do batalhador</PT>
+		</sword_t4_u_1>
+		<sword_t4_u_2>
+			<PT>[T2] Runa entalha-pele de sanguinolência</PT>
+		</sword_t4_u_2>
+		<sword_t4_u_3>
+			<PT>[T2] Runa da infecção do golpeador</PT>
+		</sword_t4_u_3>
+		<sword_t4_u_4>
+			<PT>[T2] Runa de sugar do golpeador</PT>
+		</sword_t4_u_4>
+		<sword_t4_u_5>
+			<PT>[T2] Runa reparadora de compostura</PT>
+		</sword_t4_u_5>
+		<sword_t4_u_6>
+			<PT>[T2] Runa de conserto do berserker</PT>
+		</sword_t4_u_6>
+		<sword_t4_u_7>
+			<PT>[T2] Runa mata-Fomoriano da calcinação</PT>
+		</sword_t4_u_7>
+		<th_2haxe_t4_r_1>
+			<PT>[T3] Sinal de pavor bestial</PT>
+		</th_2haxe_t4_r_1>
+		<th_2haxe_t4_r_2>
+			<PT>[T3] Runa da dominação</PT>
+		</th_2haxe_t4_r_2>
+		<th_accessory_t4_r_1>
+			<PT>[T3] Olho da grande tempestade</PT>
+		</th_accessory_t4_r_1>
+		<th_crossbow_t4_r_1>
+			<PT>[T3] Runa do definhamento</PT>
+		</th_crossbow_t4_r_1>
+		<th_crossbow_t4_r_2>
+			<PT>[T3] Língua farpada de Fúamnach</PT>
+		</th_crossbow_t4_r_2>
+		<th_jewelry_t4_r_1>
+			<PT>[T3] Anel do molda-terra</PT>
+		</th_jewelry_t4_r_1>
+		<th_jewelry_t4_r_2>
+			<PT>[T3] Anel de enxofre</PT>
+		</th_jewelry_t4_r_2>
+		<th_staff2_t4_r_1>
+			<PT>[T3] Sinal de chama errante</PT>
+		</th_staff2_t4_r_1>
+		<th_staff2_t4_r_2>
+			<PT>[T3] Marca da praga de Fúamnach</PT>
+		</th_staff2_t4_r_2>
+		<th_sword_t4_r_1>
+			<PT>[T3] Sinal de verme das chamas</PT>
+		</th_sword_t4_r_1>
+		<th_sword_t4_r_2>
+			<PT>[T3] Runa do encantamento</PT>
+		</th_sword_t4_r_2>
+		<trophy_t4_c_1>
+			<PT>[T1] Troféu de sugação do mata-Fomoriano</PT>
+		</trophy_t4_c_1>
+		<trophy_t4_c_2>
+			<PT>[T1] Troféu colérico de fúria</PT>
+		</trophy_t4_c_2>
+		<trophy_t4_c_3>
+			<PT>[T1] Troféu devastador quebra-escudo</PT>
+		</trophy_t4_c_3>
+		<trophy_t4_c_4>
+			<PT>[T1] Troféu heroico de indestrutibilidade</PT>
+		</trophy_t4_c_4>
+		<trophy_t4_c_5>
+			<PT>[T1] Troféu defensivo do revide</PT>
+		</trophy_t4_c_5>
+		<trophy_t4_r_1>
+			<PT>[T3] Mandíbula de Morgawr</PT>
+		</trophy_t4_r_1>
+		<trophy_t4_r_2>
+			<PT>[T3] Cabeça de invocador da tempestade</PT>
+		</trophy_t4_r_2>
+		<trophy_t4_u_1>
+			<PT>[T2] Troféu curativo de batalhador</PT>
+		</trophy_t4_u_1>
+		<trophy_t4_u_2>
+			<PT>[T2] Troféu rodopiante de agilidade</PT>
+		</trophy_t4_u_2>
+		<trophy_t4_u_3>
+			<PT>[T2] Troféu da fúria do berserker</PT>
+		</trophy_t4_u_3>
+		<trophy_t4_u_4>
+			<PT>[T2] Troféu sólido da destruição</PT>
+		</trophy_t4_u_4>
+	</items>
+</Root>

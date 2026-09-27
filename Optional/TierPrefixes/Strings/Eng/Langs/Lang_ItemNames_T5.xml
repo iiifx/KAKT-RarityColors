@@ -1,0 +1,1226 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root>
+	<LanguageName>
+		<eng>English</eng>
+	</LanguageName>
+	<Items>
+		<2hAxe_T5_C_1>
+			<eng>[T1] Shieldbreaker Rune of Piercing</eng>
+		</2hAxe_T5_C_1>
+		<2hAxe_T5_C_2>
+			<eng>[T1] Berserker's Rune of Strength</eng>
+		</2hAxe_T5_C_2>
+		<2hAxe_T5_C_3>
+			<eng>[T1] Exhausting Rune of Balance</eng>
+		</2hAxe_T5_C_3>
+		<2hAxe_T5_C_4>
+			<eng>[T1] Vanguard's Rune of Strength</eng>
+		</2hAxe_T5_C_4>
+		<2hAxe_T5_C_5>
+			<eng>[T1] Devastating Rune of Leeching</eng>
+		</2hAxe_T5_C_5>
+		<2hAxe_T5_R_1>
+			<eng>[T3] Shieldbreaker Seal</eng>
+		</2hAxe_T5_R_1>
+		<2hAxe_T5_R_2>
+			<eng>[T3] Flogged One's Mark</eng>
+		</2hAxe_T5_R_2>
+		<2hAxe_T5_R_3>
+			<eng>[T3] Greater Rune of Neit</eng>
+		</2hAxe_T5_R_3>
+		<2hAxe_T5_U_1>
+			<eng>[T2] Battlemaster's Rune of Frenzy</eng>
+		</2hAxe_T5_U_1>
+		<2hAxe_T5_U_2>
+			<eng>[T2] Vanguard's Rune of Outmaneuvering</eng>
+		</2hAxe_T5_U_2>
+		<2hAxe_T5_U_3>
+			<eng>[T2] Armourer's Rune of Striking</eng>
+		</2hAxe_T5_U_3>
+		<2hAxe_T5_U_4>
+			<eng>[T2] Shieldbreaker Rune of Scorching</eng>
+		</2hAxe_T5_U_4>
+		<2hAxe_T5_U_5>
+			<eng>[T2] Berserker's Rune of Frostbite</eng>
+		</2hAxe_T5_U_5>
+		<2hMace_T5_C_1>
+			<eng>[T1] Duelist's Rune of Swiftness</eng>
+		</2hMace_T5_C_1>
+		<2hMace_T5_C_2>
+			<eng>[T1] Raging Rune of Aggression</eng>
+		</2hMace_T5_C_2>
+		<2hMace_T5_C_3>
+			<eng>[T1] Warlord's Rune of Undead Slaying</eng>
+		</2hMace_T5_C_3>
+		<2hMace_T5_C_4>
+			<eng>[T1] Protector's Rune of Striking</eng>
+		</2hMace_T5_C_4>
+		<2hMace_T5_R_1>
+			<eng>[T3] Mark of Abhartach</eng>
+		</2hMace_T5_R_1>
+		<2hMace_T5_R_2>
+			<eng>[T3] Sign of Crom Cruach </eng>
+		</2hMace_T5_R_2>	
+		<2hMace_T5_R_3>
+			<eng>[T3] Sign of Epona</eng>
+		</2hMace_T5_R_3>		
+		<2hMace_T5_U_1>
+			<eng>[T2] Composed Rune of Infection</eng>
+		</2hMace_T5_U_1>
+		<2hMace_T5_U_2>
+			<eng>[T2] Leeching Rune of Bloodthirst</eng>
+		</2hMace_T5_U_2>
+		<2hMace_T5_U_3>
+			<eng>[T2] Frostbitten Rune of Exhaustion</eng>
+		</2hMace_T5_U_3>
+		<2hMace_T5_U_4>
+			<eng>[T2] Duelist's Rune of Destruction</eng>
+		</2hMace_T5_U_4>
+		<Accessory_T5_C_1>
+			<eng>[T1] Scorching Amulet of Vigour</eng>
+		</Accessory_T5_C_1>
+		<Accessory_T5_C_2>
+			<eng>[T1] Seelie Slayer Amulet of First Aid</eng>
+		</Accessory_T5_C_2>
+		<Accessory_T5_C_3>
+			<eng>[T1] Energizing Amulet of Allegiance</eng>
+		</Accessory_T5_C_3>
+		<Accessory_T5_C_4>
+			<eng>[T1] Armourer's Amulet of Hardiness</eng>
+		</Accessory_T5_C_4>
+		<Accessory_T5_C_5>
+			<eng>[T1] Sturdy Amulet of Steel Plates</eng>
+		</Accessory_T5_C_5>
+		<Accessory_T5_C_6>
+			<eng>[T1] Resilient Amulet of Steel Plates</eng>
+		</Accessory_T5_C_6>		
+		<Accessory_T5_R_1>
+			<eng>[T3] Oakstone of Arduin</eng>
+		</Accessory_T5_R_1>
+		<Accessory_T5_R_2>
+			<eng>[T3] Stone of Exalted Agony</eng>
+		</Accessory_T5_R_2>
+		<Accessory_T5_R_3>
+			<eng>[T3] Tearstone</eng>
+		</Accessory_T5_R_3>
+		<Accessory_T5_R_4>
+			<eng>[T3] Eye of the Unburnt</eng>
+		</Accessory_T5_R_4>
+		<Accessory_T5_R_5>
+			<eng>[T3] Eye of Agrona</eng>
+		</Accessory_T5_R_5>
+		<Accessory_T5_R_6>
+			<eng>[T3] Savant's Stone</eng>
+		</Accessory_T5_R_6>
+		<Accessory_T5_R_7>
+			<eng>[T3] All Seeing Eye</eng>
+		</Accessory_T5_R_7>		
+		<Accessory_T5_U_1>
+			<eng>[T2] Ready Amulet of Infection</eng>
+		</Accessory_T5_U_1>
+		<Accessory_T5_U_2>
+			<eng>[T2] Battlemaster's Amulet of Retort</eng>
+		</Accessory_T5_U_2>
+		<Accessory_T5_U_3>
+			<eng>[T2] Bloodthirsty Amulet of Allegiance</eng>
+		</Accessory_T5_U_3>
+		<Accessory_T5_U_4>
+			<eng>[T2] Resistant Amulet of Frostbite</eng>
+		</Accessory_T5_U_4>
+		<Accessory_T5_U_5>
+			<eng>[T2] Sturdy Amulet of Torment</eng>
+		</Accessory_T5_U_5>
+		<Accessory_T5_U_6>
+			<eng>[T2] Point-Blank Amulet of Steel Plates</eng>
+		</Accessory_T5_U_6>
+		<Accessory_T5_U_7>
+			<eng>[T2] Aggressive Amulet of Precision</eng>
+		</Accessory_T5_U_7>		
+		<ArmourHeavy1_T5_C_1>
+			<eng>[T1] Heroic Sigil of Tenacity</eng>
+		</ArmourHeavy1_T5_C_1>
+		<ArmourHeavy1_T5_C_2>
+			<eng>[T1] Hardy Sigil of Resilience</eng>
+		</ArmourHeavy1_T5_C_2>
+		<ArmourHeavy1_T5_C_3>
+			<eng>[T1] Steel-Plated Sigil of Coagulation</eng>
+		</ArmourHeavy1_T5_C_3>
+		<ArmourHeavy1_T5_C_4>
+			<eng>[T1] Armoured Sigil of Wrath</eng>
+		</ArmourHeavy1_T5_C_4>		
+		<ArmourHeavy1_T5_C_5>
+			<eng>[T1] Ironclad Sigil of Resistance</eng>
+		</ArmourHeavy1_T5_C_5>		
+		<ArmourHeavy1_T5_C_6>
+			<eng>[T1] Agile Sigil of Resilience</eng>
+		</ArmourHeavy1_T5_C_6>		
+		<ArmourHeavy1_T5_C_7>
+			<eng>[T1] Infused Sigil of Indestructibility</eng>
+		</ArmourHeavy1_T5_C_7>		
+		<ArmourHeavy1_T5_R_1>
+			<eng>[T3] Seal of the Hallowed</eng>
+		</ArmourHeavy1_T5_R_1>
+		<ArmourHeavy1_T5_R_2>
+			<eng>[T3] Bastion Sigil</eng>
+		</ArmourHeavy1_T5_R_2>
+		<ArmourHeavy1_T5_R_3>
+			<eng>[T3] Sigil of Fortune</eng>
+		</ArmourHeavy1_T5_R_3>		
+		<ArmourHeavy1_T5_R_4>
+			<eng>Kinetic Sigil of Sprinting</eng>
+		</ArmourHeavy1_T5_R_4>	
+		<ArmourHeavy1_T5_U_1>
+			<eng>[T2] Elusive Sigil of Resilience</eng>
+		</ArmourHeavy1_T5_U_1>
+		<ArmourHeavy1_T5_U_2>
+			<eng>[T2] Armoured Sigil of Indestructibility</eng>
+		</ArmourHeavy1_T5_U_2>
+		<ArmourHeavy1_T5_U_3>
+			<eng>[T2] Armoursmith's Sigil of Retort</eng>
+		</ArmourHeavy1_T5_U_3>
+		<ArmourHeavy1_T5_U_4>
+			<eng>[T2] Steel-Plated Sigil of Sturdiness</eng>
+		</ArmourHeavy1_T5_U_4>
+		<ArmourHeavy1_T5_U_5>
+			<eng>[T2] Coagulating Sigil of First Aid</eng>
+		</ArmourHeavy1_T5_U_5>
+		<ArmourHeavy1_T5_U_6>
+			<eng>[T2] Resilient Sigil of Aggression</eng>
+		</ArmourHeavy1_T5_U_6>
+		<ArmourHeavy1_T5_U_7>
+			<eng>[T2] Ready Sigil of Resistance</eng>
+		</ArmourHeavy1_T5_U_7>
+		<ArmourHeavy2_T5_C_1>
+			<eng>[T1] Enduring Sigil of Armour</eng>
+		</ArmourHeavy2_T5_C_1>
+		<ArmourHeavy2_T5_C_2>
+			<eng>[T1] Armoursmith's Sigil of Resistance</eng>
+		</ArmourHeavy2_T5_C_2>
+		<ArmourHeavy2_T5_C_3>
+			<eng>[T1] Resistant Sigil of Indestructibility</eng>
+		</ArmourHeavy2_T5_C_3>		
+		<ArmourHeavy2_T5_C_4>
+			<eng>[T1] Hardy Sigil of Armour</eng>
+		</ArmourHeavy2_T5_C_4>		
+		<ArmourHeavy2_T5_C_5>
+			<eng>[T1] Enduring Sigil of Tenacity</eng>
+		</ArmourHeavy2_T5_C_5>		
+		<ArmourHeavy2_T5_C_6>
+			<eng>[T1] Steel-Plated Sigil of Sturdiness</eng>
+		</ArmourHeavy2_T5_C_6>		
+		<ArmourHeavy2_T5_C_7>
+			<eng>[T1] Rejuvenating Sigil of First Aid</eng>
+		</ArmourHeavy2_T5_C_7>		
+		<ArmourHeavy2_T5_R_1>
+			<eng>[T3] Sign of the Silver Anvil</eng>
+		</ArmourHeavy2_T5_R_1>
+		<ArmourHeavy2_T5_R_2>
+			<eng>[T3] Sigil of the Citadel</eng>
+		</ArmourHeavy2_T5_R_2>
+		<ArmourHeavy2_T5_R_3>
+			<eng>[T3] Juggernaut Seal</eng>
+		</ArmourHeavy2_T5_R_3>		
+		<ArmourHeavy2_T5_U_1>
+			<eng>[T2] Resting Sigil of Mending</eng>
+		</ArmourHeavy2_T5_U_1>
+		<ArmourHeavy2_T5_U_2>
+			<eng>[T2] Tenacious Sigil of Restfulness</eng>
+		</ArmourHeavy2_T5_U_2>
+		<ArmourHeavy2_T5_U_3>
+			<eng>[T2] Composed Sigil of Coagulation</eng>
+		</ArmourHeavy2_T5_U_3>
+		<ArmourHeavy2_T5_U_4>
+			<eng>[T2] Steel-Plated Sigil of Resistance</eng>
+		</ArmourHeavy2_T5_U_4>
+		<ArmourHeavy2_T5_U_5>
+			<eng>[T2] Armoured Sigil of Sturdiness</eng>
+		</ArmourHeavy2_T5_U_5>
+		<ArmourHeavy2_T5_U_6>
+			<eng>[T2] Shatterproof Sigil of Retort</eng>
+		</ArmourHeavy2_T5_U_6>
+		<ArmourHeavy2_T5_U_7>
+			<eng>[T2] Ready Sigil of Fury</eng>
+		</ArmourHeavy2_T5_U_7>
+		<ArmourLight1_T5_C_1>
+			<eng>[T1] Brewmaster's Sigil of Hardiness</eng>
+		</ArmourLight1_T5_C_1>
+		<ArmourLight1_T5_C_2>
+			<eng>[T1] Armoured Sigil of Rejuvenation</eng>
+		</ArmourLight1_T5_C_2>
+		<ArmourLight1_T5_C_3>
+			<eng>[T1] Protective Sigil of Fury</eng>
+		</ArmourLight1_T5_C_3>
+		<ArmourLight1_T5_C_4>
+			<eng>[T1] Hasty Sigil of Agility</eng>
+		</ArmourLight1_T5_C_4>		
+		<ArmourLight1_T5_C_5>
+			<eng>[T1] Incombustible Sigil of Tenacity</eng>
+		</ArmourLight1_T5_C_5>		
+		<ArmourLight1_T5_R_1>
+			<eng>[T3] Seal of Divine Favor</eng>
+		</ArmourLight1_T5_R_1>
+		<ArmourLight1_T5_R_2>
+			<eng>[T3] Aibell's Greater Sigil</eng>
+		</ArmourLight1_T5_R_2>
+		<ArmourLight1_T5_R_3>
+			<eng>[T3] Sign of Andraste</eng>
+		</ArmourLight1_T5_R_3>
+		<ArmourLight1_T5_U_1>
+			<eng>[T2] Elusive Sigil of Mending</eng>
+		</ArmourLight1_T5_U_1>
+		<ArmourLight1_T5_U_2>
+			<eng>[T2] Steel-Plated Sigil of Fury</eng>
+		</ArmourLight1_T5_U_2>
+		<ArmourLight1_T5_U_3>
+			<eng>[T2] Restful Sigil of First Aid</eng>
+		</ArmourLight1_T5_U_3>
+		<ArmourLight1_T5_U_4>
+			<eng>[T2] Tenacious Sigil of Kinesis</eng>
+		</ArmourLight1_T5_U_4>		
+		<ArmourLight1_T5_U_5>
+			<eng>[T2] Resilient Sigil of Composure</eng>
+		</ArmourLight1_T5_U_5>		
+		<ArmourLight2_T5_C_1>
+			<eng>[T1] Resting Sigil of the Unburnt</eng>
+		</ArmourLight2_T5_C_1>
+		<ArmourLight2_T5_C_2>
+			<eng>[T1] Infused Sigil of Tenacity</eng>
+		</ArmourLight2_T5_C_2>
+		<ArmourLight2_T5_C_3>
+			<eng>[T1] Bolting Sigil of First Aid</eng>
+		</ArmourLight2_T5_C_3>	
+		<ArmourLight2_T5_C_4>
+			<eng>[T1] Infused Sigil of Armour</eng>
+		</ArmourLight2_T5_C_4>	
+		<ArmourLight2_T5_C_5>
+			<eng>[T1] Hardy Sigil of Rejuvenation</eng>
+		</ArmourLight2_T5_C_5>	
+		<ArmourLight2_T5_R_1>
+			<eng>[T3] Hand of Fate Seal</eng>
+		</ArmourLight2_T5_R_1>
+		<ArmourLight2_T5_R_2>
+			<eng>[T3] Golden Aegis</eng>
+		</ArmourLight2_T5_R_2>
+		<ArmourLight2_T5_R_3>
+			<eng>[T3] Sacred Halo Sigil</eng>
+		</ArmourLight2_T5_R_3>		
+		<ArmourLight2_T5_U_1>
+			<eng>[T2] Coagulating Sigil of Agility</eng>
+		</ArmourLight2_T5_U_1>
+		<ArmourLight2_T5_U_2>
+			<eng>[T2] Armoured Sigil of Hardiness</eng>
+		</ArmourLight2_T5_U_2>
+		<ArmourLight2_T5_U_3>
+			<eng>[T2] Armoursmith's Sigil of Readiness</eng>
+		</ArmourLight2_T5_U_3>
+		<ArmourLight2_T5_U_4>
+			<eng>[T2] Shatterproof Sigil of Torment</eng>
+		</ArmourLight2_T5_U_4>
+		<ArmourLight2_T5_U_5>
+			<eng>[T2] Sturdy Sigil of Respite</eng>
+		</ArmourLight2_T5_U_5>
+		<ArmourMedium1_T5_C_1>
+			<eng>[T1] Curing Sigil of Elusion</eng>
+		</ArmourMedium1_T5_C_1>
+		<ArmourMedium1_T5_C_2>
+			<eng>[T1] Enduring Sigil of First Aid</eng>
+		</ArmourMedium1_T5_C_2>
+		<ArmourMedium1_T5_C_3>
+			<eng>[T1] Wrathful Sigil of Composure</eng>
+		</ArmourMedium1_T5_C_3>
+		<ArmourMedium1_T5_C_4>
+			<eng>[T1] Heroic Sigil of Indestructibility</eng>
+		</ArmourMedium1_T5_C_4>
+		<ArmourMedium1_T5_C_5>
+			<eng>[T1] Heroic Sigil of Readiness</eng>
+		</ArmourMedium1_T5_C_5>
+		<ArmourMedium1_T5_R_1>
+			<eng>[T3] Sign of Alaunus</eng>
+		</ArmourMedium1_T5_R_1>
+		<ArmourMedium1_T5_R_2>
+			<eng>[T3] Red Hound Seal</eng>
+		</ArmourMedium1_T5_R_2>
+		<ArmourMedium1_T5_R_3>
+			<eng>[T3] Greyhound Sigil</eng>
+		</ArmourMedium1_T5_R_3>
+		<ArmourMedium1_T5_R_4>
+			<eng>Remedial Sigil of Endurance</eng>
+		</ArmourMedium1_T5_R_4>
+		<ArmourMedium1_T5_U_1>
+			<eng>[T2] Hardy Sigil of Armour</eng>
+		</ArmourMedium1_T5_U_1>
+		<ArmourMedium1_T5_U_2>
+			<eng>[T2] Resilient Sigil of Readiness</eng>
+		</ArmourMedium1_T5_U_2>
+		<ArmourMedium1_T5_U_3>
+			<eng>[T2] Steel-Plated Sigil of Hardiness</eng>
+		</ArmourMedium1_T5_U_3>
+		<ArmourMedium1_T5_U_4>
+			<eng>[T2] Resting Sigil of Composure</eng>
+		</ArmourMedium1_T5_U_4>
+		<ArmourMedium1_T5_U_5>
+			<eng>[T2] Armoursmith's Sigil of Fury</eng>
+		</ArmourMedium1_T5_U_5>
+		<ArmourMedium2_T5_C_1>
+			<eng>[T1] Coagulating Sigil of Restfulness</eng>
+		</ArmourMedium2_T5_C_1>
+		<ArmourMedium2_T5_C_2>
+			<eng>[T1] Hardy Sigil of Wrath</eng>
+		</ArmourMedium2_T5_C_2>
+		<ArmourMedium2_T5_C_3>
+			<eng>[T1] Ironclad Sigil of Sturdiness</eng>
+		</ArmourMedium2_T5_C_3>		
+		<ArmourMedium2_T5_C_4>
+			<eng>[T1] Rejuvenating Sigil of Retort</eng>
+		</ArmourMedium2_T5_C_4>		
+		<ArmourMedium2_T5_C_5>
+			<eng>[T1] Ironclad Sigil of Armour</eng>
+		</ArmourMedium2_T5_C_5>		
+		<ArmourMedium2_T5_R_1>
+			<eng>[T3] Blessed One's Sigil</eng>
+		</ArmourMedium2_T5_R_1>
+		<ArmourMedium2_T5_R_2>
+			<eng>[T3] Mark of Deflection</eng>
+		</ArmourMedium2_T5_R_2>
+		<ArmourMedium2_T5_R_3>
+			<eng>[T3] Great Hunt Sigil</eng>
+		</ArmourMedium2_T5_R_3>
+		<ArmourMedium2_T5_U_1>
+			<eng>[T2] Elusive Sigil of Sturdiness</eng>
+		</ArmourMedium2_T5_U_1>
+		<ArmourMedium2_T5_U_2>
+			<eng>[T2] Tenacious Sigil of Retort</eng>
+		</ArmourMedium2_T5_U_2>
+		<ArmourMedium2_T5_U_3>
+			<eng>[T2] Coagulating Sigil of First Aid</eng>
+		</ArmourMedium2_T5_U_3>
+		<ArmourMedium2_T5_U_4>
+			<eng>[T2] Restful Sigil of Indestructibility</eng>
+		</ArmourMedium2_T5_U_4>
+		<ArmourMedium2_T5_U_5>
+			<eng>[T2] Armoured Sigil of Resistance</eng>
+		</ArmourMedium2_T5_U_5>
+		<Artifact_T5_C_1>
+			<eng>[T1] Raging Artifact of Malediction</eng>
+		</Artifact_T5_C_1>
+		<Artifact_T5_C_2>
+			<eng>[T1] Jolting Artifact of Precision</eng>
+		</Artifact_T5_C_2>
+		<Artifact_T5_C_3>
+			<eng>[T1] Infernal Artifact of Torment</eng>
+		</Artifact_T5_C_3>
+		<Artifact_T5_C_4>
+			<eng>[T1] Resilient Artifact of Scorching</eng>
+		</Artifact_T5_C_4>
+		<Artifact_T5_C_5>
+			<eng>[T1] Hexmaster's Artifact of Curing</eng>
+		</Artifact_T5_C_5>
+		<Artifact_T5_R_1>
+			<eng>[T3] Fire Giant Cinders</eng>
+		</Artifact_T5_R_1>
+		<Artifact_T5_R_2>
+			<eng>[T3] Ashes of Abhartach</eng>
+		</Artifact_T5_R_2>
+		<Artifact_T5_U_1>
+			<eng>[T2] Composed Artifact of Torment</eng>
+		</Artifact_T5_U_1>
+		<Artifact_T5_U_2>
+			<eng>[T2] Flaming Artifact of Scorching</eng>
+		</Artifact_T5_U_2>
+		<Artifact_T5_U_3>
+			<eng>[T2] Armoursmith's Artifact of Resilience</eng>
+		</Artifact_T5_U_3>
+		<Artifact_T5_U_4>
+			<eng>[T2] Baleful Artifact of the Hexmaster</eng>
+		</Artifact_T5_U_4>
+		<Axe_T5_C_1>
+			<eng>[T1] Raging Rune of Bloodthirst</eng>
+		</Axe_T5_C_1>
+		<Axe_T5_C_2>
+			<eng>[T1] Vanguard's Rune of Piercing</eng>
+		</Axe_T5_C_2>
+		<Axe_T5_C_3>
+			<eng>[T1] Protector's Rune of Destruction</eng>
+		</Axe_T5_C_3>
+		<Axe_T5_C_4>
+			<eng>[T1] Sidhe Slayer Rune of Striking</eng>
+		</Axe_T5_C_4>
+		<Axe_T5_C_5>
+			<eng>[T1] Aggressive Rune of Swiftness</eng>
+		</Axe_T5_C_5>
+		<Axe_T5_C_6>
+			<eng>[T1] Armourer's Rune of Undead Slaying</eng>
+		</Axe_T5_C_6>
+		<Axe_T5_C_7>
+			<eng>[T1] Initiator's Rune of Striking</eng>
+		</Axe_T5_C_7>		
+		<Axe_T5_R_1>
+			<eng>[T3] Sign of the Maimed God</eng>
+		</Axe_T5_R_1>
+		<Axe_T5_R_2>
+			<eng>[T3] Bloodied One's Mark</eng>
+		</Axe_T5_R_2>
+		<Axe_T5_R_3>
+			<eng>[T3] Greater Rune of Goibniu</eng>
+		</Axe_T5_R_3>
+		<Axe_T5_R_4>
+			<eng>[T3] Greater Rune of Lugh</eng>
+		</Axe_T5_R_4>
+		<Axe_T5_R_5>
+			<eng>[T3] Greater Rune of Agrona</eng>
+		</Axe_T5_R_5>
+		<Axe_T5_U_1>
+			<eng>[T2] Aggressive Rune of Dueling</eng>
+		</Axe_T5_U_1>
+		<Axe_T5_U_2>
+			<eng>[T2] Fomorian Slayer Rune of Torment</eng>
+		</Axe_T5_U_2>
+		<Axe_T5_U_3>
+			<eng>[T2] Shieldbreaker Rune of Inferno</eng>
+		</Axe_T5_U_3>
+		<Axe_T5_U_4>
+			<eng>[T2] Kinetic Rune of Exhaustion</eng>
+		</Axe_T5_U_4>
+		<Axe_T5_U_5>
+			<eng>[T2] Frenzied Rune of Scorching</eng>
+		</Axe_T5_U_5>
+		<Axe_T5_U_6>
+			<eng>[T2] Frostbitten Rune of Destruction</eng>
+		</Axe_T5_U_6>
+		<Axe_T5_U_7>
+			<eng>[T2] Berserker's Rune of Infection</eng>
+		</Axe_T5_U_7>
+		<Bow_T5_C_1>
+			<eng>[T1] Bolting Rune of the Disengaged</eng>
+		</Bow_T5_C_1>
+		<Bow_T5_C_2>
+			<eng>[T1] Noxious Rune of Infection</eng>
+		</Bow_T5_C_2>
+		<Bow_T5_C_3>
+			<eng>[T1] Charring Rune of Scorching</eng>
+		</Bow_T5_C_3>		
+		<Bow_T5_C_4>
+			<eng>[T1] Piercing Rune of Composure</eng>
+		</Bow_T5_C_4>		
+		<Bow_T5_R_1>
+			<eng>[T3] The Pale One's Mark</eng>
+		</Bow_T5_R_1>
+		<Bow_T5_R_2>
+			<eng>[T3] Northern Wind Rune</eng>
+		</Bow_T5_R_2>
+		<Bow_T5_R_3>
+			<eng>[T3] Hawkeye Seal</eng>
+		</Bow_T5_R_3>
+		<Bow_T5_U_1>
+			<eng>[T2] Frostbitten Rune of Frenzy</eng>
+		</Bow_T5_U_1>
+		<Bow_T5_U_2>
+			<eng>[T2] Watchdog's Rune of Piercing</eng>
+		</Bow_T5_U_2>
+		<Bow_T5_U_3>
+			<eng>[T2] Point-Blank Rune of Scorching</eng>
+		</Bow_T5_U_3>
+		<Bow_T5_U_4>
+			<eng>[T2] Shieldbreaker Rune of Bloodthirst</eng>
+		</Bow_T5_U_4>
+		<Crossbow_T5_C_1>
+			<eng>[T1] Deadeye's Rune of Fomorian Slaying</eng>
+		</Crossbow_T5_C_1>
+		<Crossbow_T5_C_2>
+			<eng>[T1] Sentinel's Rune of Piercing</eng>
+		</Crossbow_T5_C_2>
+		<Crossbow_T5_C_3>
+			<eng>[T1] Marksman's Rune of Shield Breaking</eng>
+		</Crossbow_T5_C_3>
+		<Crossbow_T5_C_4>
+			<eng>[T1] Unseelie Slayer Rune of Short Range</eng>
+		</Crossbow_T5_C_4>		
+		<Crossbow_T5_C_5>
+			<eng>[T1] Raging Rune of Outmaneuvering</eng>
+		</Crossbow_T5_C_5>		
+		<Crossbow_T5_R_1>
+			<eng>[T3] Mad Bowman's Sign</eng>
+		</Crossbow_T5_R_1>
+		<Crossbow_T5_R_2>
+			<eng>[T3] Rune of Thorns</eng>
+		</Crossbow_T5_R_2>
+		<Crossbow_T5_R_3>
+			<eng>[T3] Flaming Arrow Mark</eng>
+		</Crossbow_T5_R_3>		
+		<Crossbow_T5_U_1>
+			<eng>[T2] Sentinel's Rune of Outmaneuvering</eng>
+		</Crossbow_T5_U_1>
+		<Crossbow_T5_U_2>
+			<eng>[T2] Disengaged Rune of the Berserker</eng>
+		</Crossbow_T5_U_2>
+		<Crossbow_T5_U_3>
+			<eng>[T2] Exhausting Rune of Infection</eng>
+		</Crossbow_T5_U_3>
+		<Crossbow_T5_U_4>
+			<eng>[T2] Armourer's Rune of Short Range</eng>
+		</Crossbow_T5_U_4>
+		<Crossbow_T5_U_5>
+			<eng>[T2] Leeching Rune of Undead Slaying</eng>
+		</Crossbow_T5_U_5>
+		<Jewelry_T5_C_1>
+			<eng>[T1] Wrathful Ring of Frostbite</eng>
+		</Jewelry_T5_C_1>
+		<Jewelry_T5_C_2>
+			<eng>[T1] Kinetic Ring of Gouging</eng>
+		</Jewelry_T5_C_2>
+		<Jewelry_T5_C_3>
+			<eng>[T1] Sentinel's Ring of Deep Wounds</eng>
+		</Jewelry_T5_C_3>
+		<Jewelry_T5_C_4>
+			<eng>[T1] Infernal Ring of the Disengaged</eng>
+		</Jewelry_T5_C_4>
+		<Jewelry_T5_C_5>
+			<eng>[T1] Venomous Ring of Infection</eng>
+		</Jewelry_T5_C_5>
+		<Jewelry_T5_C_6>
+			<eng>[T1] Seelie Slayer Ring of Outmaneuvering</eng>
+		</Jewelry_T5_C_6>		
+		<Jewelry_T5_R_1>
+			<eng>[T3] Ring of Ecne</eng>
+		</Jewelry_T5_R_1>
+		<Jewelry_T5_R_2>
+			<eng>[T3] Ring of Valor</eng>
+		</Jewelry_T5_R_2>
+		<Jewelry_T5_R_3>
+			<eng>[T3] Warrior Savant's Ring</eng>
+		</Jewelry_T5_R_3>
+		<Jewelry_T5_R_4>
+			<eng>[T3] Iron Ring of Lén</eng>
+		</Jewelry_T5_R_4>
+		<Jewelry_T5_R_5>
+			<eng>[T3] Bodhmall's Ring</eng>
+		</Jewelry_T5_R_5>
+		<Jewelry_T5_R_6>
+			<eng>[T3] Ring of Epona</eng>
+		</Jewelry_T5_R_6>
+		<Jewelry_T5_R_7>
+			<eng>[T3] Ring of Bebd</eng>
+		</Jewelry_T5_R_7>	
+		<Jewelry_T5_R_8>
+			<eng>Stalwart Ring of Resistance</eng>
+		</Jewelry_T5_R_8>		
+		<Jewelry_T5_U_1>
+			<eng>[T2] Vanguard's Ring of Fury</eng>
+		</Jewelry_T5_U_1>
+		<Jewelry_T5_U_2>
+			<eng>[T2] Destructive Ring of Allegiance</eng>
+		</Jewelry_T5_U_2>
+		<Jewelry_T5_U_3>
+			<eng>[T2] Leeching Ring of Agility</eng>
+		</Jewelry_T5_U_3>
+		<Jewelry_T5_U_4>
+			<eng>[T2] Composed Ring of Frenzy</eng>
+		</Jewelry_T5_U_4>
+		<Jewelry_T5_U_5>
+			<eng>[T2] Duelist's Ring of Allegiance</eng>
+		</Jewelry_T5_U_5>
+		<Jewelry_T5_U_6>
+			<eng>[T2] Shatterproof Ring of Scorching</eng>
+		</Jewelry_T5_U_6>
+		<Jewelry_T5_U_7>
+			<eng>[T2] Outmaneuvering Ring of Resilience</eng>
+		</Jewelry_T5_U_7>		
+		<LuckyCharm_T5_C_1>
+			<eng>[T1] Resting Lucky Charm of Hardiness</eng>
+		</LuckyCharm_T5_C_1>
+		<LuckyCharm_T5_C_2>
+			<eng>[T1] Poisoner's Lucky Charm of Rejuvenation</eng>
+		</LuckyCharm_T5_C_2>
+		<LuckyCharm_T5_C_3>
+			<eng>[T1] Wrathful Lucky Charm of Precision</eng>
+		</LuckyCharm_T5_C_3>
+		<LuckyCharm_T5_C_4>
+			<eng>[T1] Infernal Lucky Charm of Scorching</eng>
+		</LuckyCharm_T5_C_4>
+		<LuckyCharm_T5_C_5>
+			<eng>[T1] Sickening Lucky Charm of Poisoning</eng>
+		</LuckyCharm_T5_C_5>
+		<LuckyCharm_T5_R_1>
+			<eng>[T3] Fomorian Witchfang</eng>
+		</LuckyCharm_T5_R_1>
+		<LuckyCharm_T5_R_2>
+			<eng>[T3] Hanged One's Hand</eng>
+		</LuckyCharm_T5_R_2>
+		<LuckyCharm_T5_U_1>
+			<eng>[T2] Precise Lucky Charm of Kinesis</eng>
+		</LuckyCharm_T5_U_1>
+		<LuckyCharm_T5_U_2>
+			<eng>[T2] Berserker's Lucky Charm of Elusion</eng>
+		</LuckyCharm_T5_U_2>
+		<LuckyCharm_T5_U_3>
+			<eng>[T2] Sagile Lucky Charm of Frenzy</eng>
+		</LuckyCharm_T5_U_3>
+		<LuckyCharm_T5_U_4>
+			<eng>[T2] Poisoner's Lucky Charm of Infection</eng>
+		</LuckyCharm_T5_U_4>
+		<Manuscript_T5_C_1>
+			<eng>[T1] Frostbitten Manuscript of Piercing</eng>
+		</Manuscript_T5_C_1>
+		<Manuscript_T5_C_2>
+			<eng>[T1] Shattering Manuscript of Exhaustion</eng>
+		</Manuscript_T5_C_2>
+		<Manuscript_T5_C_3>
+			<eng>[T1] Tenacious Manuscript of Coagulation</eng>
+		</Manuscript_T5_C_3>
+		<Manuscript_T5_C_4>
+			<eng>[T1] Fortifying Manuscript of Rejuvenation</eng>
+		</Manuscript_T5_C_4>
+		<Manuscript_T5_C_5>
+			<eng>[T1] Blessed Manuscript of Hardiness</eng>
+		</Manuscript_T5_C_5>
+		<Manuscript_T5_R_1>
+			<eng>[T3] Lost Scrolls of Cailleach</eng>
+		</Manuscript_T5_R_1>
+		<Manuscript_T5_R_2>
+			<eng>[T3] Scriptures of Glanis</eng>
+		</Manuscript_T5_R_2>
+		<Manuscript_T5_R_3>
+			<eng>Dampening Manuscript of the Arctic</eng>
+		</Manuscript_T5_R_3>
+		<Manuscript_T5_U_1>
+			<eng>[T2] Frostbitten Manuscript of Shield Breaking</eng>
+		</Manuscript_T5_U_1>
+		<Manuscript_T5_U_2>
+			<eng>[T2] Fortifying Manuscript of Exhaustion</eng>
+		</Manuscript_T5_U_2>
+		<Manuscript_T5_U_3>
+			<eng>[T2] Resilient Manuscript of Frenzy</eng>
+		</Manuscript_T5_U_3>		
+		<Manuscript_T5_U_4>
+			<eng>[T2] Blessed Manuscript of Composure</eng>
+		</Manuscript_T5_U_4>		
+		<Oathstone_T5_C_1>
+			<eng>[T1] Protector's Oathstone of Shielding</eng>
+		</Oathstone_T5_C_1>
+		<Oathstone_T5_C_2>
+			<eng>[T1] Hardy Oathstone of Taunting</eng>
+		</Oathstone_T5_C_2>		
+		<Oathstone_T5_C_3>
+			<eng>[T1] Resilient Oathstone of Resistance</eng>
+		</Oathstone_T5_C_3>		
+		<Oathstone_T5_C_4>
+			<eng>[T1] Infused Oathstone of Destruction</eng>
+		</Oathstone_T5_C_4>		
+		<Oathstone_T5_C_5>
+			<eng>[T1] Kinetic Oathstone of Charging</eng>
+		</Oathstone_T5_C_5>		
+		<Oathstone_T5_R_1>
+			<eng>[T3] Champion's Oath</eng>
+		</Oathstone_T5_R_1>
+		<Oathstone_T5_R_2>
+			<eng>[T3] Herald's Oath</eng>
+		</Oathstone_T5_R_2>
+		<Oathstone_T5_U_1>
+			<eng>[T2] Shatterproof Oathstone of Frenzy</eng>
+		</Oathstone_T5_U_1>
+		<Oathstone_T5_U_2>
+			<eng>[T2] Resistant Oathstone of Exhaustion</eng>
+		</Oathstone_T5_U_2>
+		<Oathstone_T5_U_3>
+			<eng>[T2] Projectileproof Oathstone of Shielding</eng>
+		</Oathstone_T5_U_3>
+		<Oathstone_T5_U_4>
+			<eng>[T2] Striker's Oathstone of Taunting</eng>
+		</Oathstone_T5_U_4>
+		<Provision_T5_C_1>
+			<eng>[T1] Snaring Provision of Frenzy</eng>
+		</Provision_T5_C_1>
+		<Provision_T5_C_2>
+			<eng>[T1] Knife Thrower's Provision of Strength</eng>
+		</Provision_T5_C_2>
+		<Provision_T5_C_3>
+			<eng>[T1] Trapper's Provision of Exhaustion</eng>
+		</Provision_T5_C_3>
+		<Provision_T5_C_4>
+			<eng>[T1] Skulldigger's Provision of Piercing</eng>
+		</Provision_T5_C_4>
+		<Provision_T5_C_5>
+			<eng>[T1] Trapper's Provision of Bloodthirst</eng>
+		</Provision_T5_C_5>
+		<Provision_T5_R_1>
+			<eng>[T3] Horn of Cernunnos</eng>
+		</Provision_T5_R_1>
+		<Provision_T5_R_2>
+			<eng>[T3] Trapmaster's Tools</eng>
+		</Provision_T5_R_2>
+		<Provision_T5_U_1>
+			<eng>[T2] Perilous Provision of Trapping</eng>
+		</Provision_T5_U_1>
+		<Provision_T5_U_2>
+			<eng>[T2] Aggressive Provision of Kinesis</eng>
+		</Provision_T5_U_2>
+		<Provision_T5_U_3>
+			<eng>[T2] Knife Thrower's Provision of Shield Breaking</eng>
+		</Provision_T5_U_3>
+		<Provision_T5_U_4>
+			<eng>[T2] Light-Footed Provision of Stealth</eng>
+		</Provision_T5_U_4>
+		<Staff1_T5_C_1>
+			<eng>[T1] Outmaneuvering Rune of Force</eng>
+		</Staff1_T5_C_1>
+		<Staff1_T5_C_2>
+			<eng>[T1] Strengthening Rune of Precision</eng>
+		</Staff1_T5_C_2>
+		<Staff1_T5_C_3>
+			<eng>[T1] Short Ranged Rune of Explosion</eng>
+		</Staff1_T5_C_3>
+		<Staff1_T5_C_4>
+			<eng>[T1] Skingouger Rune of Composure</eng>
+		</Staff1_T5_C_4>		
+		<Staff1_T5_C_5>
+			<eng>[T1] Charring Rune of Scorching</eng>
+		</Staff1_T5_C_5>	
+		<Staff1_T5_R_1>
+			<eng>[T3] Cursed Rune of Caoineag</eng>
+		</Staff1_T5_R_1>
+		<Staff1_T5_R_2>
+			<eng>[T3] Aine's Undying Blaze</eng>
+		</Staff1_T5_R_2>
+		<Staff1_T5_R_3>
+			<eng>[T3] Everflowing River's Mark</eng>
+		</Staff1_T5_R_3>		
+		<Staff1_T5_U_1>
+			<eng>[T2] Shieldbreaker Rune of Infection</eng>
+		</Staff1_T5_U_1>
+		<Staff1_T5_U_2>
+			<eng>[T2] Exhausting Rune of Bloodthirst</eng>
+		</Staff1_T5_U_2>
+		<Staff1_T5_U_3>
+			<eng>[T2] Watchdog's Rune of Frostbite</eng>
+		</Staff1_T5_U_3>
+		<Staff1_T5_U_4>
+			<eng>[T2] Sharpshooter's Rune of Fomorian Slaying</eng>
+		</Staff1_T5_U_4>		
+		<Staff1_T5_U_5>
+			<eng>[T2] Frenzied Rune of Outmaneuvering</eng>
+		</Staff1_T5_U_5>		
+		<Staff2_T5_C_1>
+			<eng>[T1] Hexmaster's Rune of Deep Wounds</eng>
+		</Staff2_T5_C_1>
+		<Staff2_T5_C_2>
+			<eng>[T1] Marksman's Rune of Shield Breaking</eng>
+		</Staff2_T5_C_2>
+		<Staff2_T5_C_3>
+			<eng>[T1] Explosive Rune of Bloodthirst</eng>
+		</Staff2_T5_C_3>
+		<Staff2_T5_C_4>
+			<eng>[T1] Sharpshooter's Rune of Piercing</eng>
+		</Staff2_T5_C_4>
+		<Staff2_T5_R_1>
+			<eng>[T3] Gnarled Hand's Mark</eng>
+		</Staff2_T5_R_1>
+		<Staff2_T5_R_2>
+			<eng>[T3] Greater Runestaff Sign</eng>
+		</Staff2_T5_R_2>
+		<Staff2_T5_R_3>
+			<eng>[T3] Sign of Be Chuille</eng>
+		</Staff2_T5_R_3>
+		<Staff2_T5_R_4>
+			<eng>Impactful Rune of Retaliation</eng>
+		</Staff2_T5_R_4>
+		<Staff2_T5_U_1>
+			<eng>[T2] Disengaged Rune of the Berserker</eng>
+		</Staff2_T5_U_1>
+		<Staff2_T5_U_2>
+			<eng>[T2] Sentinel's Rune of Force</eng>
+		</Staff2_T5_U_2>
+		<Staff2_T5_U_3>
+			<eng>[T2] Leeching Rune of Scorching</eng>
+		</Staff2_T5_U_3>
+		<Staff2_T5_U_4>
+			<eng>[T2] Point-Blank Rune of Short Range</eng>
+		</Staff2_T5_U_4>
+		<Sword_T5_C_1>
+			<eng>[T1] Backstabber's Rune of Dueling</eng>
+		</Sword_T5_C_1>
+		<Sword_T5_C_2>
+			<eng>[T1] Battlemaster's Rune of Bloodletting</eng>
+		</Sword_T5_C_2>
+		<Sword_T5_C_3>
+			<eng>[T1] Infectious Rune of Sickening</eng>
+		</Sword_T5_C_3>
+		<Sword_T5_C_4>
+			<eng>[T1] Frostbitten Rune of Gouging</eng>
+		</Sword_T5_C_4>	
+		<Sword_T5_C_5>
+			<eng>[T1] Skingouger Rune of Leeching</eng>
+		</Sword_T5_C_5>		
+		<Sword_T5_C_6>
+			<eng>[T1] Deep Cutting Rune of Torment</eng>
+		</Sword_T5_C_6>	
+		<Sword_T5_C_7>
+			<eng>[T1] Exhausting Rune of Strength</eng>
+		</Sword_T5_C_7>	
+		<Sword_T5_R_1>
+			<eng>[T3] Sign of the Hawk</eng>
+		</Sword_T5_R_1>
+		<Sword_T5_R_2>
+			<eng>[T3] Laughing God's Mark</eng>
+		</Sword_T5_R_2>
+		<Sword_T5_R_3>
+			<eng>[T3] Sign of Corruption</eng>
+		</Sword_T5_R_3>
+		<Sword_T5_R_4>
+			<eng>[T3] Rune of Culling</eng>
+		</Sword_T5_R_4>
+		<Sword_T5_R_5>
+			<eng>[T3] Rune of Profanation</eng>
+		</Sword_T5_R_5>
+		<Sword_T5_U_1>
+			<eng>[T2] Leeching Rune of Deep Wounds</eng>
+		</Sword_T5_U_1>
+		<Sword_T5_U_2>
+			<eng>[T2] Vanguard's Rune of Bloodthirst</eng>
+		</Sword_T5_U_2>
+		<Sword_T5_U_3>
+			<eng>[T2] Armourer's Rune of Outmaneuvering</eng>
+		</Sword_T5_U_3>
+		<Sword_T5_U_4>
+			<eng>[T2] Composed Rune of Venom</eng>
+		</Sword_T5_U_4>		
+		<Sword_T5_U_5>
+			<eng>[T2] Mending Rune of Striking</eng>
+		</Sword_T5_U_5>	
+		<Sword_T5_U_6>
+			<eng>[T2] Restful Rune of the Battlemaster</eng>
+		</Sword_T5_U_6>	
+		<Sword_T5_U_7>
+			<eng>[T2] Outmaneuvering Rune of Piercing</eng>
+		</Sword_T5_U_7>			
+		<Trophy_T5_C_1>
+			<eng>[T1] Armoursmith's Trophy of Rage</eng>
+		</Trophy_T5_C_1>
+		<Trophy_T5_C_2>
+			<eng>[T1] Frenzied Trophy of Hardiness</eng>
+		</Trophy_T5_C_2>		
+		<Trophy_T5_C_3>
+			<eng>[T1] Angering Trophy of Fury</eng>
+		</Trophy_T5_C_3>		
+		<Trophy_T5_C_4>
+			<eng>[T1] Agile Trophy of Elusion</eng>
+		</Trophy_T5_C_4>		
+		<Trophy_T5_C_5>
+			<eng>[T1] Shatterproof Trophy of Fomorian Slaying</eng>
+		</Trophy_T5_C_5>		
+		<Trophy_T5_R_1>
+			<eng>[T3] Horn of the Pale Stag</eng>
+		</Trophy_T5_R_1>
+		<Trophy_T5_R_2>
+			<eng>[T3] Horn of the Giantslayer</eng>
+		</Trophy_T5_R_2>
+		<Trophy_T5_U_1>
+			<eng>[T2] Berserker's Trophy of Destruction</eng>
+		</Trophy_T5_U_1>
+		<Trophy_T5_U_2>
+			<eng>[T2] Whirling Trophy of Bloodthirst</eng>
+		</Trophy_T5_U_2>
+		<Trophy_T5_U_3>
+			<eng>[T2] Frenzied Trophy of Dueling</eng>
+		</Trophy_T5_U_3>
+		<Trophy_T5_U_4>
+			<eng>[T2] Furious Trophy of Outmaneuvering</eng>
+		</Trophy_T5_U_4>	
+		<ET_Sword_T5_R_1>
+			<eng>[T3] Flensing Blade Rune</eng>
+		</ET_Sword_T5_R_1>
+		<ET_Axe_T5_R_1>
+			<eng>[T3] Weeping Oak's Mark</eng>
+		</ET_Axe_T5_R_1>
+		<ET_Sword_T5_R_2>
+			<eng>[T3] Willowspark Rune</eng>
+		</ET_Sword_T5_R_2>
+		<ET_Axe_T5_R_2>
+			<eng>[T3] Breakwater Hexrune</eng>
+		</ET_Axe_T5_R_2>
+		<ET_Sword_T5_R_3>
+			<eng>[T3] Tainted Blade Rune</eng>
+		</ET_Sword_T5_R_3>
+		<ET_2hAxe_T5_R_1>
+			<eng>[T3] Hexed Sign of Scalding</eng>
+		</ET_2hAxe_T5_R_1>
+		<ET_2hAxe_T5_R_2>
+			<eng>[T3] Serpentslayer's Mark</eng>
+		</ET_2hAxe_T5_R_2>
+		<ET_2hAxe_T5_R_3>
+			<eng>[T3] Widowmaker Rune</eng>
+		</ET_2hAxe_T5_R_3>
+		<ET_Staff2_T5_R_1>
+			<eng>[T3] Warrior Monk's Sign</eng>
+		</ET_Staff2_T5_R_1>
+		<ET_Staff2_T5_R_2>
+			<eng>[T3] Hexed Rune of Might</eng>
+		</ET_Staff2_T5_R_2>
+		<ET_Staff2_T5_R_3>
+			<eng>[T3] Rune of Channeling</eng>
+		</ET_Staff2_T5_R_3>
+		<ET_Crossbow_T5_R_1>
+			<eng>[T3] Giantslayer Bolt</eng>
+		</ET_Crossbow_T5_R_1>
+		<ET_Crossbow_T5_R_2>
+			<eng>[T3] Bolt of Death</eng>
+		</ET_Crossbow_T5_R_2>
+		<ET_Crossbow_T5_R_3>
+			<eng>[T3] Crooked Bow Sign</eng>
+		</ET_Crossbow_T5_R_3>
+		<ET_Armourlight1_T5_R_1>
+			<eng>[T3] Moonlight Halo</eng>
+		</ET_Armourlight1_T5_R_1>
+		<ET_Armourlight2_T5_R_1>
+			<eng>[T3] Sign of the Prophet</eng>
+		</ET_Armourlight2_T5_R_1>
+		<ET_Armourlight1_T5_R_2>
+			<eng>[T3] Thundercloak Sigil</eng>
+		</ET_Armourlight1_T5_R_2>
+		<ET_Armourlight2_T5_R_2>
+			<eng>[T3] Ravenwing Seal</eng>
+		</ET_Armourlight2_T5_R_2>
+		<ET_Armourmedium1_T5_R_1>
+			<eng>[T3] Sign of the Bull</eng>
+		</ET_Armourmedium1_T5_R_1>
+		<ET_Armourmedium2_T5_R_1>
+			<eng>[T3] Hexmark of Vigilance</eng>
+		</ET_Armourmedium2_T5_R_1>
+		<ET_Armourmedium1_T5_R_2>
+			<eng>[T3] Hexmark of Evasion</eng>
+		</ET_Armourmedium1_T5_R_2>
+		<ET_Armourmedium2_T5_R_2>
+			<eng>[T3] Unseelie Hexmark</eng>
+		</ET_Armourmedium2_T5_R_2>
+		<ET_Armourheavy1_T5_R_1>
+			<eng>[T3] Armorsmith Aegis</eng>
+		</ET_Armourheavy1_T5_R_1>
+		<ET_Armourheavy2_T5_R_1>
+			<eng>[T3] Hexmark of Impunity</eng>
+		</ET_Armourheavy2_T5_R_1>
+		<ET_Armourheavy1_T5_R_2>
+			<eng>[T3] Hexmark of Anticipation</eng>
+		</ET_Armourheavy1_T5_R_2>
+		<ET_Armourheavy2_T5_R_2>
+			<eng>[T3] Hexmark of Mending</eng>
+		</ET_Armourheavy2_T5_R_2>
+		<ET_Jewelry_T5_R_1>
+			<eng>[T3] The Michaut Legacy</eng>
+		</ET_Jewelry_T5_R_1>
+		<ET_Accessory_T5_R_1>
+			<eng>[T3] Kormakr's Everlasting Horn</eng>
+			<desc>
+				<eng>"No matter how much you drink out of it, the very next moment it is filled to the brim again!"</eng>
+			</desc>
+		</ET_Accessory_T5_R_1>
+		<ET_Jewelry_T5_R_2>
+			<eng>[T3] Astral Ring</eng>
+		</ET_Jewelry_T5_R_2>
+		<ET_Accessory_T5_R_2>
+			<eng>[T3] Stone of Distraction</eng>
+		</ET_Accessory_T5_R_2>
+		<ET_Oathstone_T5_R_1>
+			<eng>[T3] Oath of Warding</eng>
+		</ET_Oathstone_T5_R_1>
+		<ET_Oathstone_T5_R_2>
+			<eng>[T3] Oath of the Mocking Bird</eng>
+		</ET_Oathstone_T5_R_2>
+		<ET_Trophy_T5_R_1>
+			<eng>[T3] Horn of Frenzy</eng>
+		</ET_Trophy_T5_R_1>
+		<ET_Trophy_T5_R_2>
+			<eng>[T3] Horn of the High Castle</eng>
+		</ET_Trophy_T5_R_2>
+		<ET_Provision_T5_R_1>
+			<eng>[T3] Forerunner's Harness</eng>
+		</ET_Provision_T5_R_1>
+		<ET_Provision_T5_R_2>
+			<eng>[T3] Horn of the Thief</eng>
+		</ET_Provision_T5_R_2>
+		<ET_LuckyCharm_T5_R_1>
+			<eng>[T3] Sidheslayer's Charm</eng>
+		</ET_LuckyCharm_T5_R_1>
+		<ET_LuckyCharm_T5_R_2>
+			<eng>[T3] Charm of Ruination</eng>
+		</ET_LuckyCharm_T5_R_2>
+		<ET_Artifact_T5_R_1>
+			<eng>[T3] Cog of Cohh</eng>
+		</ET_Artifact_T5_R_1>
+		<ET_Artifact_T5_R_2>
+			<eng>[T3] Ashes of the Blood Mage</eng>
+		</ET_Artifact_T5_R_2>
+		<ET_Manuscript_T5_R_1>
+			<eng>[T3] Lost Stratagems of Neit</eng>
+		</ET_Manuscript_T5_R_1>
+		<ET_Manuscript_T5_R_2>
+			<eng>[T3] Tome of the Ice Mage</eng>
+		</ET_Manuscript_T5_R_2>
+		<TH_Jewelry_T5_R_1>
+			<eng>[T3] Witchbone Ring</eng>
+		</TH_Jewelry_T5_R_1>
+		<TH_Accessory_T5_R_1>
+			<eng>[T3] Sir Pétur's Drinking Horn</eng>
+		</TH_Accessory_T5_R_1>
+		<TH_Jewelry_T5_R_2>
+			<eng>[T3] Banshee Ring</eng>
+		</TH_Jewelry_T5_R_2>
+		<TH_2hAxe_T5_R_1>
+			<eng>[T3] The Onyx Blade</eng>
+		</TH_2hAxe_T5_R_1>
+		<TH_Jewelry_T5_R_3>
+			<eng>[T3] Baleful Fomorian Gem</eng>
+			<desc>
+				<eng>The BFG contains the very essence of the Fomorian Windmasters.</eng>
+			</desc>
+		</TH_Jewelry_T5_R_3>
+		<TH_LuckyCharm_T5_R_1>
+			<eng>[T3] Dead Good Lucky Charm</eng>
+		</TH_LuckyCharm_T5_R_1>
+		<TH_Sword_T5_R_1>
+			<eng>[T3] Anklebiter</eng>
+		</TH_Sword_T5_R_1>
+		<EGS1_01>
+			<eng>[TE] Sign of the Soulblade</eng>
+			<desc>
+				<eng>Ancient rune of Tuatha dé Dannan huntsmen.</eng>
+			</desc>
+		</EGS1_01>
+		<EGS1_02>
+			<eng>[TE] Soulthorn Mark</eng>
+			<desc>
+				<eng>Rune of the fabled soul-rending thorns.</eng>
+			</desc>
+		</EGS1_02>
+		<EGS1_03>
+			<eng>[TE] Winged Avenger's Sign</eng>
+			<desc>
+				<eng>Rune of axe-wielding champion of the godly people.</eng>
+			</desc>
+		</EGS1_03>
+		<EGS1_04>
+			<eng>[TE] Mark of the Jagged Ax </eng>
+			<desc>
+				<eng>Sign of the Axe that split while felling a God.</eng>
+			</desc>
+		</EGS1_04>
+		<EGS1_05>
+			<eng>[TE] Rune of the Soulstaff</eng>
+			<desc>
+				<eng>Forgotten rune of the Tuatha dé Dannan Stormcallers.</eng>
+			</desc>
+		</EGS1_05>
+		<EGS1_06>
+			<eng>[TE] Rune of the Soulflame</eng>
+			<desc>
+				<eng>Rune of the huntress who burned the Dark King.</eng>
+			</desc>
+		</EGS1_06>
+		<EGS1_07>
+			<eng>[TE] Mark of the Stormchild</eng>
+			<desc>
+				<eng>Mark of the storm-born archer of the Tuatha dé Dannan.</eng>
+			</desc>
+		</EGS1_07>
+		<EGS1_08>
+			<eng>[TE] Divine Soulseeker Sign</eng>
+			<desc>
+				<eng>Sign of the fabled soul shepherd.</eng>
+			</desc>
+		</EGS1_08>
+		<EGS1_09>
+			<eng>[TE] Spirit Guardian Sigil</eng>
+			<desc>
+				<eng>Sigil of an ancient guardian spirit.</eng>
+			</desc>
+		</EGS1_09>
+		<EGS1_10>
+			<eng>[TE] Netherwalker's Seal</eng>
+			<desc>
+				<eng>Secret rune of a cursed Tuatha dé Dannan soulcaster.</eng>
+			</desc>
+		</EGS1_10>
+		<EGS1_11>
+			<eng>[TE] Soulsnare Sigil</eng>
+			<desc>
+				<eng>Sigil of a soul-trapping, doom heralding comet.</eng>
+			</desc>
+		</EGS1_11>
+		<EGS1_12>
+			<eng>[TE] The Soulcollector's Seal</eng>
+			<desc>
+				<eng>Seal of a godly being that fed on souls.</eng>
+			</desc>
+		</EGS1_12>
+		<EGS1_13>
+			<eng>[TE] Spiritflame Sigil</eng>
+			<desc>
+				<eng>Sigil of a Tautha dé Dannan hero, destined to burn forever.</eng>
+			</desc>
+		</EGS1_13>
+		<EGS1_14>
+			<eng>[TE] Sigil of Woe</eng>
+			<desc>
+				<eng>Sigil of a Tuatha dé Dannan warrior maddened of woe.</eng>
+			</desc>
+		</EGS1_14>
+		<EGS1_15>
+			<eng>[TE] Soulspire Ring</eng>
+			<desc>
+				<eng>A stone ring cut from a Fomorian Spire.</eng>
+			</desc>
+		</EGS1_15>
+		<EGS1_16>
+			<eng>[TE] Spireshard</eng>
+			<desc>
+				<eng>An imbued shard split from a Fomorian Spire.</eng>
+			</desc>
+		</EGS1_16>
+		<EGS1_17>
+			<eng>[TE] The Cloven Hoof</eng>
+			<desc>
+				<eng>A warg's adorned hoof.</eng>
+			</desc>
+		</EGS1_17>
+		<EGS1_18>
+			<eng>[TE] Souldrinker's Eye</eng>
+			<desc>
+				<eng>Eye of the pale revenant cursed to drink souls.</eng>
+			</desc>
+		</EGS1_18>
+		<EGS1_19>
+			<eng>[TE] Soul Shepherd's Oath</eng>
+			<desc>
+				<eng>Oathstone of the Harvester of Souls.</eng>
+			</desc>
+		</EGS1_19>
+		<EGS1_20>
+			<eng>[TE] Skull of the Giant Slayer</eng>
+			<desc>
+				<eng>Remains of a Tuatha dé Dannan, a relentless hunter of Fomorians.</eng>
+			</desc>
+		</EGS1_20>
+		<EGS1_21>
+			<eng>[TE] Netherwalker's Cape</eng>
+			<desc>
+				<eng>Ancient garment of a cursed Tuatha dé Dannan soulcaster.</eng>
+			</desc>
+		</EGS1_21>
+		<EGS1_22>
+			<eng>[TE] Levitating Spiritstone</eng>
+			<desc>
+				<eng>A malevolent charmstone from a Fomorian Spire.</eng>
+			</desc>
+		</EGS1_22>
+		<EGS1_23>
+			<eng>[TE] Ashes of the Blind Hag</eng>
+			<desc>
+				<eng>Remains of a vile Fomorian witch.</eng>
+			</desc>
+		</EGS1_23>
+		<EGS1_24>
+			<eng>[TE] Silver Scrolls of Nuada</eng>
+			<desc>
+				<eng>Teachings of the great warrior king of the Tuatha dé Dannan.</eng>
+			</desc>
+		</EGS1_24>
+	</Items>
+</Root>

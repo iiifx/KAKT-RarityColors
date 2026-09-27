@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<Constants>
+	<CommonColor Type="string" Value="ff8888ff"/>
+	<UncommonColor Type="string" Value="ffffff77"/>
+	<RelicColor Type="string" Value="ffaf6025"/>
+	<XPColor Type="string" Value="ffd8b746"/>
+	<RedColor Type="string" Value="ffd82222"/>
+	<VitalityColor Type="string" Value="ff49ad78"/>
+	<HPColor Type="string" Value="ffd8b746"/>
+	<ArmorColor Type="string" Value="ffbbc3c6"/>
+	<APColor Type="string" Value="ffbbc3c6"/>
+	<BlockColor Type="string" Value="ffbbc3c6"/>
+	<PhysicalResistanceColor Type="string" Value="ffbbc3c6"/>
+	<APColor Type="string" Value="ffbbc3c6"/>
+	<BlockColor Type="string" Value="ffbbc3c6"/>
+	<PhysicalResistanceColor Type="string" Value="ffbbc3c6"/>
+	<MentalResistanceColor Type="string" Value="ffbbc3c6"/>
+	<InjuryCounterColor Type="string" Value="ffbbc3c6"/>
+	<CurseCounterColor Type="string" Value="ffbbc3c6"/>
+	<PenaltyColor Type="string" Value="ffff0000"/>
+</Constants>
+
+<Styles>
+	<Default/>
+	<DefaultIcon/>	
+		
+	<DefaultScroll
+		Background="UI/Element/Editor/ScrollBar"
+		GadgetsToUse="NoStickEnds" 
+		FixedStickSize="38"
+		Height="14"
+	/>
+		
+	
+	<!--SYSTEM-->
+	<System_Normal FontType="General" FontSize="14" BiggerFontSize="18" Color="#f0edc9" Sharpness="0.5" OutlineColor="#222222" OutlineWidth="3"/>
+	<System_Headline FontType="General" FontSize="20" BiggerFontSize="24" Color="#eed48b" Sharpness="0.5" OutlineColor="#222222" OutlineWidth="3"/>
+	
+	<!--COMMON-->
+	<Text_Large FontType="Standard" FontSize="34" BiggerFontSize="40" Color="#d7d1c5" Sharpness="0.3" OutlineColor="#222222" OutlineWidth="4"/>
+	<Text_Large_Gold FontType="Standard" FontSize="34" BiggerFontSize="40" Color="#eed48b" Sharpness="0.3" OutlineColor="#222222" OutlineWidth="4"/>
+	<Text_Lore FontType="Standard" FontSize="22" BiggerFontSize="26" Color="#c5bcac" Sharpness="0.4" OutlineColor="#222222" OutlineWidth="3"/>
+	<Text_Bigger FontType="Standard" FontSize="26" BiggerFontSize="29" Color="#d7d1c5" Sharpness="0.3" OutlineColor="0x66151618" OutlineWidth="3" OutlineSharpness="0.5" OutlineOffset="1"/>
+	<Text_Bigger_Gold FontType="Standard" FontSize="26" BiggerFontSize="29" Color="#eed48b" Sharpness="0.3" OutlineColor="0x66151618" OutlineWidth="3" OutlineSharpness="0.5" OutlineOffset="1"/>
+	<Text_Big FontType="Standard" FontSize="20" BiggerFontSize="23" Color="#d7d1c5" Sharpness="0.3" OutlineColor="0x66151618" OutlineWidth="3" OutlineSharpness="0.5" OutlineOffset="1"/>
+	<Text_Big_Gold FontType="Standard" FontSize="20" BiggerFontSize="23" Color="#eed48b" Sharpness="0.3" OutlineColor="0x66151618" OutlineWidth="3" OutlineSharpness="0.5" OutlineOffset="1"/>
+	<Text_Normal FontType="Standard" FontSize="18" BiggerFontSize="21" Color="#d7d1c5" Sharpness="0.3" OutlineColor="0x66151618" OutlineWidth="3" OutlineSharpness="0.5" OutlineOffset="1"/>
+	<Text_Normal_white FontType="Standard" FontSize="18" BiggerFontSize="21" Color="#ffffff" Sharpness="0.3" OutlineColor="0x66151618" OutlineWidth="3" OutlineSharpness="0.5" OutlineOffset="1"/>
+	<Text_Normal_Gold FontType="Standard" FontSize="18" BiggerFontSize="21" Color="#eed48b" Sharpness="0.5" OutlineColor="#222222" OutlineWidth="3"/>
+	<Number_Normal_white FontType="Numbers" FontSize="15" BiggerFontSize="20" Color="#d7d1c5" Sharpness="0.3" OutlineColor="0x66151618" OutlineWidth="3" OutlineSharpness="0.5" OutlineOffset="1"/>
+	<Number_Normal_gold FontType="Numbers" FontSize="15" BiggerFontSize="20" Color="#eed48b" Sharpness="0.3" OutlineColor="0x66151618" OutlineWidth="3" OutlineSharpness="0.5" OutlineOffset="1"/>
+	<Number_Big_white FontType="Numbers" FontSize="18" BiggerFontSize="21" Color="#d7d1c5" Sharpness="0.3" OutlineColor="0x66151618" OutlineWidth="3" OutlineSharpness="0.5" OutlineOffset="1"/>
+	<Number_Large_gold FontType="Numbers" FontSize="30" BiggerFontSize="34" Color="#eed48b" Sharpness="0.3" OutlineColor="#000000" OutlineWidth="4" OutlineSharpness="0.5"/>
+	<Number_Large_black FontType="Numbers" FontSize="30" BiggerFontSize="34" Color="#201e1c" Sharpness="0.3" OutlineColor="0x4Dffffff" OutlineWidth="2" OutlineSharpness="0.3" OutlineOffset="1"/>
+	<Text_Title1 FontType="Headline" FontSize="34" BiggerFontSize="40" Color="#9c0000" Sharpness="0.5"/>
+	<Text_Title2 FontType="Headline" FontSize="26" BiggerFontSize="28" Color="#d7d1c5" Sharpness="0.3" OutlineColor="0xCC151618" OutlineWidth="7" OutlineSharpness="1.0" OutlineOffset="1"/>
+	<Text_Title3 FontType="Headline" FontSize="34" BiggerFontSize="40" Color="#d7d1c5" Sharpness="0.3" OutlineColor="0xCC151618" OutlineWidth="7" OutlineSharpness="1.0" OutlineOffset="1"/>
+	<Text_Title4 FontType="Headline" FontSize="20" BiggerFontSize="25" Color="#d7d1c5" Sharpness="0.3" OutlineColor="0xCC151618" OutlineWidth="7" OutlineSharpness="1.0" OutlineOffset="1"/>
+	<Headline_white FontType="Headline" FontSize="40" BiggerFontSize="50" Color="#d7d1c5" Sharpness="0.3" OutlineColor="0xCC151618" OutlineWidth="7" OutlineSharpness="1.0" OutlineOffset="1"/>
+	<Headline_Medium_gold FontType="Headline" FontSize="25" BiggerFontSize="30" Color="#eed48b" Sharpness="0.3" OutlineColor="0xCC151618" OutlineWidth="7" OutlineSharpness="1.0" OutlineOffset="1"/>
+	<Text_Highlight FontType="Standard" FontSize="18" BiggerFontSize="21" Color="#d9c7a3" Sharpness="0.3"/>
+	
+	<!--MISSION RESULT-->
+	<Text_DEAD FontType="Standard" FontSize="42" BiggerFontSize="50" Color="#c00020" Sharpness="0.3" OutlineColor="0x66222222" OutlineWidth="6" OutlineSharpness="0.7"/>
+	
+	<!--BATTLE UI-->
+	<Number_Small_white FontType="Numbers" FontSize="12" BiggerFontSize="14" Color="#d7d1c5" Sharpness="0.5" OutlineColor="0x4D000000" OutlineWidth="2" OutlineSharpness="0.9" OutlineOffset="1"/>
+	<Number_Small_Stats FontType="Numbers" FontSize="11" BiggerFontSize="13" Color="#d7d1c5" Sharpness="0.5" OutlineColor="0x4D000000" OutlineWidth="2" OutlineSharpness="0.9" OutlineOffset="1"/>
+	<Number_Small_black FontType="Numbers" FontSize="12" BiggerFontSize="14" Color="#151618" Sharpness="0.5" OutlineColor="0x4Dffffff" FontOutlineWidth="20" OutlineSharpness="1.5" OutlineOffset="1" />
+	<Number_Medium_white FontType="Numbers" FontSize="14" BiggerFontSize="14" Color="#d7d1c5" Sharpness="0.5" OutlineColor="0x4D000000" OutlineWidth="3" OutlineSharpness="0.9" OutlineOffset="1"/>
+	<Text_NameEnemy FontType="Standard" FontSize="20" BiggerFontSize="24" Color="#d6bfba" Sharpness="0.2"/>
+	<Text_NameAlly FontType="Standard" FontSize="20" BiggerFontSize="24" Color="#d5e6d4" Sharpness="0.2"/>
+	<Cooldown_counter FontType="Numbers" FontSize="30" BiggerFontSize="34" Color="#ffffff" Sharpness="0.5" OutlineColor="#222222" OutlineWidth="3" OutlineSharpness="0.2"/>
+	<NewRoundText FontType="Headline" FontSize="30" Color="#c6bca3" Sharpness="0.5" OutlineColor="0xff1e1200" FontOutlineWidth="4" OutlineSharpness="0.5" OutlineOffset="1"/>
+	<Text_SkillSelected FontType="Standard" FontSize="22" BiggerFontSize="25" Color="#ffe59b" Sharpness="0.3" OutlineColor="0x66151618" OutlineWidth="3" OutlineSharpness="0.5" OutlineOffset="1"/>
+	<Nameplate FontType="Headline" FontSize="20" BiggerFontSize="23" Color="#eed48b" Sharpness="0.3" OutlineColor="#222222" OutlineWidth="4"/>
+
+	
+	<!--CONVERSATIONS-->
+	<Banter FontType="Standard" FontSize="18" BiggerFontSize="24" Color="#dcd7c8" Sharpness="0.5" OutlineColor="0x4D000000" OutlineWidth="3" OutlineSharpness="0.9" OutlineOffset="2"/>
+	<Dialogue_Text FontType="Standard" FontSize="18" BiggerFontSize="23" Color="#c5bcac" Sharpness="0.3" OutlineColor="0x4D000000" OutlineWidth="3" OutlineSharpness="0.9" OutlineOffset="2"/>
+	<Dialogue_Name FontType="Headline" FontSize="24" BiggerFontSize="30" Color="#f3f3f3" Sharpness="0.5" OutlineColor="0x4D000000" OutlineWidth="3" OutlineSharpness="0.9" OutlineOffset="2"/>
+	<Choice
+		IdleFontType="Standard" IdleFontSize="18" IdleBiggerFontSize="22" IdleColor="#c5bcac" IdleSharpness="0.3" IdleOutlineColor="0x4D000000" IdleOutlineWidth="3" IdleOutlineSharpness="0.9" IdleOutlineOffset="2"
+		PressFontType="Standard" PressFontSize="18" PressBiggerFontSize="22" PressColor="#c5bcac" PressSharpness="0.3" PressOutlineColor="0x4D000000" PressOutlineWidth="3" PressOutlineSharpness="0.9" PressOutlineOffset="2"
+		RolloverFontType="Standard" RolloverFontSize="18" RolloverBiggerFontSize="22" RolloverColor="#ffffe3" RolloverSharpness="0.3" RolloverOutlineOffset="0.0" RolloverOutlineColor="0x4D000000" RolloverOutlineWidth="3" RolloverOutlineSharpness="0.9" RolloverOutlineOffset="2"
+		IndeterminateFontType="Standard" IndeterminateFontSize="20" IndeterminateBiggerFontSize="32" IndeterminateColor="#eed48b" IndeterminateSharpness="0.3" IndeterminateOutlineColor="0x4D000000" IndeterminateOutlineWidth="3" IndeterminateOutlineSharpness="0.9" IndeterminateOutlineOffset="2"
+	/>	
+	<Choice_Special
+		IdleFontType="Standard" IdleFontSize="18" IdleBiggerFontSize="22" IdleColor="#e2cb7b" IdleSharpness="0.3"
+		PressFontType="Standard" PressFontSize="18" PressBiggerFontSize="22" PressColor="#e2cb7b" PressSharpness="0.3"
+		RolloverFontType="Standard" RolloverFontSize="18" RolloverBiggerFontSize="22" RolloverColor="#ffeba5" RolloverSharpness="0.3" RolloverOutlineOffset="0.0"
+		IndeterminateFontType="Standard" IndeterminateFontSize="20" IndeterminateBiggerFontSize="32" IndeterminateColor="#eed48b" IndeterminateSharpness="0.3"
+	/>
+	
+	<!--TOOLTIP-->
+	<Skilltooltip_Name FontType="Headline" FontSize="24" BiggerFontSize="27" Color="#eed48b" Sharpness="0.3" OutlineColor="#222222" OutlineWidth="4"/>
+	<Skilltooltip_Desc FontType="Standard" FontSize="18" BiggerFontSize="22" Color="#f0edc9" Sharpness="0.5" OutlineColor="#222222" OutlineWidth="3"/>
+	<Skilltooltip_Stat FontType="Standard" FontSize="18" BiggerFontSize="22" Color="#c5bcac" Sharpness="0.5" OutlineColor="#222222" OutlineWidth="3"/>
+	<Skilltooltip_Damage FontType="Numbers" FontSize="20" BiggerFontSize="22" Color="#c5bcac" Sharpness="0.5" OutlineColor="#222222" OutlineWidth="3"/>
+	<Skilltooltip_Number FontType="Numbers" FontSize="18" BiggerFontSize="22" Color="#c5bcac" Sharpness="0.5" OutlineColor="#222222" OutlineWidth="3"/>
+	<Herotooltip_Name FontType="Standard" FontSize="20" BiggerFontSize="24" Color="#ffffff" Sharpness="0.5" OutlineColor="#222222" OutlineWidth="3"/>
+	
+	
+	<!--CHARACTER SHEET-->
+	<Stat_Large_white FontType="Standard" FontSize="25" BiggerFontSize="30" Color="#d7d1c5" Sharpness="0.3" OutlineColor="0xCC151618" OutlineWidth="6" OutlineSharpness="0.6" OutlineOffset="1"/>
+	<Number_Large_white FontType="Numbers" FontSize="24" BiggerFontSize="30" Color="#d7d1c5" Sharpness="0.3" OutlineColor="0xCC151618" OutlineWidth="6" OutlineSharpness="0.6" OutlineOffset="1"/>
+	<Stat_Medium_white FontType="Standard" FontSize="20" BiggerFontSize="22" Color="#c3c4c3" Sharpness="0.3" OutlineColor="0x66151618" OutlineWidth="3" OutlineSharpness="0.5" OutlineOffset="1"/>
+	<Number_Medium_white FontType="Numbers" FontSize="20" BiggerFontSize="22" Color="#c3c4c3" Sharpness="0.3" OutlineColor="0x66151618" OutlineWidth="3" OutlineSharpness="0.5" OutlineOffset="1"/>
+	<Title_gold FontType="Standard" FontSize="40" BiggerFontSize="50" Color="#f4e8bf" Sharpness="0.3" OutlineColor="0xCC151618" OutlineWidth="8" OutlineSharpness="0.6" OutlineOffset="1"/>
+	<Text_Large_black FontType="Standard" FontSize="40" BiggerFontSize="44" Color="#151618" Sharpness="0.5" OutlineColor="0x4Dffffff" OutlineWidth="2" OutlineSharpness="0.5" OutlineOffset="1" />
+	<Text_HeroName FontType="Headline" FontSize="60" BiggerFontSize="66" Color="#151618" Sharpness="0.2" OutlineColor="0x66ffffff" OutlineWidth="3" OutlineSharpness="0.5" OutlineOffset="1" />
+	<Text_XLarge_white FontType="Headline" FontSize="60" BiggerFontSize="66" Color="#d7d1c5" Sharpness="0.2" OutlineColor="0x4D151618" OutlineWidth="2" OutlineSharpness="0.5" OutlineOffset="1" />
+	<Hero_Level FontType="Numbers" FontSize="32" BiggerFontSize="40" Color="#d7d1c5" Sharpness="0.2" OutlineColor="0x66151618" OutlineWidth="4" OutlineSharpness="0.4" OutlineOffset="1" />
+	<Xp_number FontType="Standard" FontSize="19" BiggerFontSize="21" Color="#151618" Sharpness="0.5" OutlineColor="0xD9ffffff" OutlineWidth="6" OutlineSharpness="1.4" OutlineOffset="1" />
+	<Name_Normal_white FontType="Standard" FontSize="17" BiggerFontSize="21" Color="#d7d1c5" Sharpness="0.3" OutlineColor="0x66151618" OutlineWidth="3" OutlineSharpness="0.5" OutlineOffset="1"/>
+	<Trait_name FontType="Standard" FontSize="20" BiggerFontSize="23" Color="#f4e8bf" Sharpness="0.5" OutlineColor="0x4D000000" OutlineWidth="2" OutlineSharpness="2" OutlineOffset="1" />
+	
+	<!--ITEM POPUP-->
+	<ItemName FontType="Headline" FontSize="24" BiggerFontSize="30" Color="#c3c3c3" Sharpness="0.3" OutlineColor="#222222" OutlineWidth="4"/>
+	<Type FontType="Standard" FontSize="17" BiggerFontSize="22" Color="#ffffff" Sharpness="0.5" OutlineColor="#222222" OutlineWidth="3"/>
+	<StatNumber FontType="Numbers" FontSize="26" BiggerFontSize="26" Color="#c5bcac" Sharpness="0.5" OutlineColor="#222222" OutlineWidth="3"/>
+	<CompareStatNumber FontType="Numbers" FontSize="22" BiggerFontSize="22" Color="#c5bcac" Sharpness="0.5" OutlineColor="#222222" OutlineWidth="3"/>
+	<Enchants FontType="Standard" FontSize="18" BiggerFontSize="22" Color="#f0edc9" Sharpness="0.5" OutlineColor="#222222" OutlineWidth="3"/>
+	<Requirement FontType="Standard" FontSize="18" BiggerFontSize="22" Color="#c5bcac" Sharpness="0.5" OutlineColor="#222222" OutlineWidth="3"/>
+	<Price FontType="Standard" FontSize="18" BiggerFontSize="22" Color="#d8b746" Sharpness="0.5" />
+	<Usage_Info FontType="Standard" FontSize="16" BiggerFontSize="19" Color="#f4e8bf" Sharpness="0.3" OutlineColor="0x66151618" OutlineWidth="3" OutlineSharpness="0.5" OutlineOffset="1"/>
+	
+	
+	<!-- Treatment Panels -->	
+	<ActivityInfo FontType="Standard" FontSize="20" BiggerFontSize="22" Color="#151618" Sharpness="0.5" OutlineColor="0x4Dffffff" OutlineWidth="8" OutlineSharpness="1.5" OutlineOffset="1" />
+	<Season_number FontType="Numbers" FontSize="26" BiggerFontSize="28" Color="#151618" Sharpness="0.5" OutlineColor="0x33ffffff" OutlineWidth="10" OutlineSharpness="1.0" OutlineOffset="1" />
+	<Round_info FontType="Standard" FontSize="20" BiggerFontSize="22" Color="#151618" Sharpness="0.5" OutlineColor="0x44ffffff" OutlineWidth="6" OutlineSharpness="1.0" OutlineOffset="1" />
+	<Season_number_large FontType="Numbers" FontSize="36" BiggerFontSize="40" Color="#151618" Sharpness="0.5" OutlineColor="0x1Affffff" OutlineWidth="10" OutlineSharpness="1.0" OutlineOffset="1" />
+	<TreatName FontType="Standard" FontSize="22" BiggerFontSize="24" Color="#151618" Sharpness="0.5" OutlineColor="0x33ffffff" OutlineWidth="6" OutlineSharpness="0.8" OutlineOffset="1" />
+	<TreatDesc FontType="Standard" FontSize="18" BiggerFontSize="20" Color="#151618" Sharpness="0.5" OutlineColor="0x33ffffff" OutlineWidth="6" OutlineSharpness="1.0" OutlineOffset="1" />
+	<Upgrade_name FontType="Standard" FontSize="21" BiggerFontSize="23" Color="#d7d1c5" Sharpness="0.5" OutlineColor="0x66151618" OutlineWidth="3" OutlineSharpness="0.5" OutlineOffset="1" />
+	<Cost_Number FontType="Numbers" FontSize="30" BiggerFontSize="35" Color="#151618" Sharpness="0.5" OutlineColor="0x4Dffffff" OutlineWidth="2" OutlineSharpness="0.8" OutlineOffset="1" />
+	
+	<!-- Buttons -->	
+	<Headline1
+		IdleFontType="Standard" IdleFontSize="20" IdleBiggerFontSize="24" IdleColor="#f0edc9" IdleSharpness="0.5"
+		PressFontType="Standard" PressFontSize="20" PressBiggerFontSize="24" PressColor="#eed48b" PressSharpness="0.5"
+		RolloverFontType="Standard" RolloverFontSize="20" RolloverBiggerFontSize="24" RolloverColor="#ffffe3" RolloverSharpness="0.5" RolloverOutlineOffset="0.0"
+		IndeterminateFontType="Standard" IndeterminateFontSize="20" IndeterminateBiggerFontSize="24" IndeterminateColor="#eed48b" IndeterminateSharpness="0.5"
+	/>
+	<ButtonSmall
+		IdleFontType="Standard" IdleFontSize="14" IdleBiggerFontSize="18" IdleColor="#eed48b" IdleSharpness="0.5"
+		PressFontType="Standard" PressFontSize="14" PressBiggerFontSize="18" PressColor="#eed48b" PressSharpness="0.5"
+		RolloverFontType="Standard" RolloverFontSize="14" RolloverBiggerFontSize="18" RolloverColor="#ffffe3" RolloverSharpness="0.5" RolloverOutlineOffset="0.0"
+		IndeterminateFontType="Standard" IndeterminateFontSize="14" IndeterminateBiggerFontSize="18" IndeterminateColor="#eed48b" IndeterminateSharpness="0.5"
+	/>
+	<ControllerButton
+		IdleFontType="Standard" IdleFontSize="22" IdleBiggerFontSize="22" IdleColor="#eed48b" IdleSharpness="0.5" IdleOutlineColor="0x66151618" IdleOutlineWidth="3.8" IdleOutlineSharpness="1.0" IdleOutlineOffset="1"
+		PressFontType="Standard" PressFontSize="22" PressBiggerFontSize="22" PressColor="#f0edc9" PressSharpness="0.5" IdleOutlineColor="0x66151618" IdleOutlineWidth="1.8" IdleOutlineSharpness="1.0" IdleOutlineOffset="1"
+		RolloverFontType="Standard" RolloverFontSize="22" RolloverBiggerFontSize="22" RolloverColor="#ffffe3" RolloverSharpness="0.5" RolloverOutlineOffset="0.0"
+	/>
+	<ControllerButton_MissionReward
+		IdleFontType="Headline" IdleFontSize="34" IdleColor="#151618" IdleSharpness="0.3" IdleOutlineColor="0x4Dffffff" IdleOutlineWidth="1.8" IdleOutlineSharpness="1.0" IdleOutlineOffset="1"
+		RolloverFontType="Headline" RolloverFontSize="34" RolloverColor="#312b15" RolloverSharpness="0.2" RolloverOutlineColor="0x8Dffffff" RolloverOutlineWidth="10" RolloverOutlineSharpness="1.0" RolloverOutlineOffset="1"
+		PressFontType="Headline" PressFontSize="34" PressColor="#151618" PressSharpness="0.2" PressOutlineColor="0x4Dffffff" PressOutlineWidth="2" PressOutlineSharpness="0.5" PressOutlineOffset="1"
+	/>
+	<ControllerButton_FinishMission
+		IdleFontType="Headline" IdleFontSize="27" IdleColor="#151618" IdleSharpness="0.3" IdleOutlineColor="0x33c3c3c3" IdleOutlineWidth="1.2" IdleOutlineSharpness="1.0" IdleOutlineOffset="1"
+		RolloverFontType="Headline" RolloverFontSize="27" RolloverColor="#312b15" RolloverSharpness="0.2" RolloverOutlineColor="0x8Dc3c3c3" RolloverOutlineWidth="10" RolloverOutlineSharpness="0.6" RolloverOutlineOffset="1"
+		PressFontType="Headline" PressFontSize="27" PressColor="#151618" PressSharpness="0.2" PressOutlineColor="0x4Dffffff" PressOutlineWidth="2" PressOutlineSharpness="0.5" PressOutlineOffset="1"
+	/>	
+	<ControllerButton_Buildings
+		IdleFontType="Standard" IdleFontSize="27" IdleColor="#151618" IdleSharpness="0.3" IdleOutlineColor="0x33c3c3c3" IdleOutlineWidth="1.2" IdleOutlineSharpness="1.0" IdleOutlineOffset="1"
+		RolloverFontType="Standard" RolloverFontSize="27" RolloverColor="#312b15" RolloverSharpness="0.2" RolloverOutlineColor="0x8Dc3c3c3" RolloverOutlineWidth="10" RolloverOutlineSharpness="0.6" RolloverOutlineOffset="1"
+		PressFontType="Standard" PressFontSize="27" PressColor="#151618" PressSharpness="0.2" PressOutlineColor="0x4Dffffff" PressOutlineWidth="2" PressOutlineSharpness="0.5" PressOutlineOffset="1"
+	/>	
+	<Button1
+		IdleFontType="Standard" IdleFontSize="18" IdleBiggerFontSize="24" IdleColor="#c5bcac" IdleSharpness="0.5"
+		PressFontType="Standard" PressFontSize="18" PressBiggerFontSize="24" PressColor="#c5bcac" PressSharpness="0.5"
+		RolloverFontType="Standard" RolloverFontSize="18" RolloverBiggerFontSize="24" RolloverColor="#ffffe3" RolloverSharpness="0.5" RolloverOutlineOffset="0.0"
+		IndeterminateFontType="Standard" IndeterminateFontSize="18" IndeterminateBiggerFontSize="24" IndeterminateColor="#c5bcac" IndeterminateSharpness="0.5"
+	/>
+	<Button2
+		IdleFontType="Standard" IdleFontSize="30" IdleBiggerFontSize="32" IdleColor="#eed48b" IdleSharpness="0.5"
+		PressFontType="Standard" PressFontSize="30" PressBiggerFontSize="32" PressColor="#eed48b" PressSharpness="0.5"
+		RolloverFontType="Standard" RolloverFontSize="31" RolloverBiggerFontSize="33" RolloverColor="#ffffe3" RolloverSharpness="0.5" RolloverOutlineOffset="0.0"
+		IndeterminateFontType="Standard" IndeterminateFontSize="30" IndeterminateBiggerFontSize="32" IndeterminateColor="#eed48b" IndeterminateSharpness="0.5"
+	/>
+	<Sacrifice_Button
+		IdleFontType="Headline" IdleFontSize="19" IdleBiggerFontSize="21" IdleColor="#22201e" IdleSharpness="0.5" IdleOutlineColor="0x4Dffffff" IdleOutlineWidth="20" IdleOutlineSharpness="1.5" IdleOutlineOffset="1"
+		RolloverFontType="Headline" RolloverFontSize="19" RolloverBiggerFontSize="21" RolloverColor="#EDEDED" RolloverSharpness="0.5"
+		PressFontType="Headline" PressFontSize="19" PressBiggerFontSize="21" PressColor="#EDEDED" PressSharpness="0.5"
+		UseButtonEffects="0"
+	/>
+	
+	<AM_LocationPOI
+		IdleFontType="Standard" IdleFontSize="14" IdleBiggerFontSize="19" IdleColor="#d7d1c5" IdleSharpness="0.5"
+		RolloverFontType="Standard" RolloverFontSize="14" RolloverBiggerFontSize="19" RolloverColor="#EDEDED" RolloverSharpness="0.5" RolloverOutlineColor="0x4Dffffff" RolloverOutlineWidth="20" RolloverOutlineSharpness="1.5" RolloverOutlineOffset="1"
+		PressFontType="Standard" PressFontSize="14" PressBiggerFontSize="19" PressColor="#EDEDED" PressSharpness="0.5" PressOutlineColor="0x4Dffffff" PressOutlineWidth="20" PressOutlineSharpness="1.5" PressOutlineOffset="1"
+		UseButtonEffects="0"
+	/>
+	
+	<AM_Nameplate
+		IdleFontType="Standard" IdleFontSize="17" IdleBiggerFontSize="21" IdleColor="#d7d1c5" IdleSharpness="0.5"
+		RolloverFontType="Standard" RolloverFontSize="17" RolloverBiggerFontSize="21" RolloverColor="#EDEDED" RolloverSharpness="0.5" RolloverOutlineColor="0x4Dffffff" RolloverOutlineWidth="20" RolloverOutlineSharpness="1.5" RolloverOutlineOffset="1"
+		PressFontType="Standard" PressFontSize="17" PressBiggerFontSize="21" PressColor="#EDEDED" PressSharpness="0.5" PressOutlineColor="0x4Dffffff" PressOutlineWidth="20" PressOutlineSharpness="1.5" PressOutlineOffset="1"
+		UseButtonEffects="0"
+	/>
+	
+	<AM_Nameplate_locked
+		IdleFontType="Standard" IdleFontSize="17" IdleBiggerFontSize="21" IdleColor="#c4ab9e" IdleSharpness="0.5"
+		RolloverFontType="Standard" RolloverFontSize="17" RolloverBiggerFontSize="21" RolloverColor="#EDEDED" RolloverSharpness="0.5" RolloverOutlineColor="0x4Dffffff" RolloverOutlineWidth="20" RolloverOutlineSharpness="1.5" RolloverOutlineOffset="1"
+		PressFontType="Standard" PressFontSize="17" PressBiggerFontSize="21" PressColor="#EDEDED" PressSharpness="0.5" PressOutlineColor="0x4Dffffff" PressOutlineWidth="20" PressOutlineSharpness="1.5" PressOutlineOffset="1"
+		UseButtonEffects="0"
+	/>
+	
+	<AM_Eventplate
+		IdleFontType="Standard" IdleFontSize="17" IdleBiggerFontSize="20" IdleColor="#d8c363" IdleSharpness="0.5"
+		RolloverFontType="Standard" RolloverFontSize="17" RolloverBiggerFontSize="20" RolloverColor="#fffc96" RolloverSharpness="0.5" RolloverOutlineColor="0x4Dffffff" RolloverOutlineWidth="20" RolloverOutlineSharpness="1.5" RolloverOutlineOffset="1"
+		PressFontType="Standard" PressFontSize="17" PressBiggerFontSize="20" PressColor="#fffc96" PressSharpness="0.5" PressOutlineColor="0x4Dffffff" PressOutlineWidth="20" PressOutlineSharpness="1.5" PressOutlineOffset="1"
+		UseButtonEffects="0"
+	/>
+	
+	<Location
+		IdleFontType="Standard" IdleFontSize="20" IdleBiggerFontSize="22" IdleColor="#d7d1c5" IdleSharpness="0.5"
+		RolloverFontType="Standard" RolloverFontSize="20" RolloverBiggerFontSize="22" RolloverColor="#EDEDED" RolloverSharpness="0.5" RolloverOutlineColor="0x4Dffffff" RolloverOutlineWidth="20" RolloverOutlineSharpness="1.5" RolloverOutlineOffset="1"
+		PressFontType="Standard" PressFontSize="20" PressBiggerFontSize="22" PressColor="#EDEDED" PressSharpness="0.5" PressOutlineColor="0x4Dffffff" PressOutlineWidth="20" PressOutlineSharpness="1.5" PressOutlineOffset="1"
+		UseButtonEffects="0"
+	/>
+	
+	<New_Campaign_Button
+		IdleFontType="Standard" IdleFontSize="30" IdleBiggerFontSize="30" IdleColor="#bcbda7" IdleSharpness="0.5"
+		RolloverFontType="Standard" RolloverFontSize="32" RolloverBiggerFontSize="32" RolloverColor="#c3c4c3" RolloverSharpness="0.5" RolloverOutlineColor="0x33ffffff" RolloverOutlineWidth="20" RolloverOutlineSharpness="1.5" RolloverOutlineOffset="1"
+		PressFontType="Standard" PressFontSize="29" PressBiggerFontSize="29" PressColor="#bcbda7" PressSharpness="0.5"
+		UseButtonEffects="0"
+	/>
+	
+	<SaveGameName_Button
+		IdleFontType="Headline" IdleFontSize="40" IdleBiggerFontSize="40" IdleColor="#151618" IdleSharpness="0.3" IdleOutlineColor="0x4Dffffff" IdleOutlineWidth="1.8" IdleOutlineSharpness="1.0" IdleOutlineOffset="1"
+		RolloverFontType="Headline" RolloverFontSize="40" RolloverBiggerFontSize="40" RolloverColor="#312b15" RolloverSharpness="0.2" RolloverOutlineColor="0x8Dffffff" RolloverOutlineWidth="10" RolloverOutlineSharpness="1.0" RolloverOutlineOffset="1"
+		PressFontType="Headline" PressFontSize="40" PressBiggerFontSize="40" PressColor="#151618" PressSharpness="0.2" PressOutlineColor="0x4Dffffff" PressOutlineWidth="2" PressOutlineSharpness="0.5" PressOutlineOffset="1"
+		UseButtonEffects="0"
+	/>
+	<Training_Button
+		IdleFontType="Headline" IdleFontSize="24" IdleBiggerFontSize="26" IdleColor="#151618" IdleSharpness="0.3" IdleOutlineColor="0x4Dffffff" IdleOutlineWidth="1.8" IdleOutlineSharpness="1.0" IdleOutlineOffset="1"
+		RolloverFontType="Headline" RolloverFontSize="24" RolloverBiggerFontSize="26" RolloverColor="#312b15" RolloverSharpness="0.2" RolloverOutlineColor="0x73ffffff" RolloverOutlineWidth="7" RolloverOutlineSharpness="1.2" RolloverOutlineOffset="1"
+		PressFontType="Headline" PressFontSize="22" PressBiggerFontSize="24" PressColor="#151618" PressSharpness="0.2" PressOutlineColor="0x4Dffffff" PressOutlineWidth="2" PressOutlineSharpness="0.5" PressOutlineOffset="1"
+	/>
+	
+	<Ready_Button
+		IdleFontType="Headline" IdleFontSize="22" IdleBiggerFontSize="22" IdleColor="#151618" IdleSharpness="0.3" IdleOutlineColor="0x4Dffffff" IdleOutlineWidth="1.8" IdleOutlineSharpness="1.0" IdleOutlineOffset="1"
+		RolloverFontType="Headline" RolloverFontSize="22" RolloverBiggerFontSize="22" RolloverColor="#312b15" RolloverSharpness="0.2" RolloverOutlineColor="0x73ffffff" RolloverOutlineWidth="7" RolloverOutlineSharpness="1.2" RolloverOutlineOffset="1"
+		PressFontType="Headline" PressFontSize="22" PressBiggerFontSize="22" PressColor="#151618" PressSharpness="0.2" PressOutlineColor="0x4Dffffff" PressOutlineWidth="2" PressOutlineSharpness="0.5" PressOutlineOffset="1"
+	/>
+	
+	<Animated_Button
+		IdleFontType="Headline" IdleFontSize="22" IdleBiggerFontSize="24" IdleColor="#151618" IdleSharpness="0.3" IdleOutlineColor="0x4Dffffff" IdleOutlineWidth="1.8" IdleOutlineSharpness="1.0" IdleOutlineOffset="1"
+		RolloverFontType="Headline" RolloverFontSize="22" RolloverBiggerFontSize="24" RolloverColor="#312b15" RolloverSharpness="0.2" RolloverOutlineColor="0x73ffffff" RolloverOutlineWidth="7" RolloverOutlineSharpness="1.2" RolloverOutlineOffset="1"
+		PressFontType="Headline" PressFontSize="22" PressBiggerFontSize="24" PressColor="#151618" PressSharpness="0.2" PressOutlineColor="0x4Dffffff" PressOutlineWidth="2" PressOutlineSharpness="0.5" PressOutlineOffset="1"
+		UseButtonEffects="0"
+		Size="284,72"
+		PaddingLeft="74"
+		PaddingRight="74"
+		Image="UI/Element/Default/Animated_button_small/Ready_Button_bg000.dds"
+		ImageCount="61"
+		HoverImageCount="60"
+		FPS="200"			
+		PaddingTop="-3"
+		IgnoreScissor="1"
+	/>
+	
+	<Season1_Animated_Button
+		IdleFontType="Headline" IdleFontSize="22" IdleBiggerFontSize="24" IdleColor="#151618" IdleSharpness="0.3" IdleOutlineColor="0x4Dffffff" IdleOutlineWidth="1.8" IdleOutlineSharpness="1.0" IdleOutlineOffset="1"
+		RolloverFontType="Headline" RolloverFontSize="22" RolloverBiggerFontSize="24" RolloverColor="#312b15" RolloverSharpness="0.2" RolloverOutlineColor="0x73ffffff" RolloverOutlineWidth="7" RolloverOutlineSharpness="1.2" RolloverOutlineOffset="1"
+		PressFontType="Headline" PressFontSize="22" PressBiggerFontSize="24" PressColor="#151618" PressSharpness="0.2" PressOutlineColor="0x4Dffffff" PressOutlineWidth="2" PressOutlineSharpness="0.5" PressOutlineOffset="1"
+		UseButtonEffects="0"
+		Size="284,72"
+		PaddingLeft="74"
+		PaddingRight="74"
+		Image="UI/MainMenu/Seasons/Season1_Button_small/Ready_Button_bg_000.dds"
+		ImageCount="61"
+		HoverImageCount="60"
+		FPS="200"			
+		PaddingTop="-3"
+		IgnoreScissor="1"
+	/>
+	
+	<Animated_Button_Big
+		IdleFontType="Headline" IdleFontSize="34" IdleBiggerFontSize="36" IdleColor="#151618" IdleSharpness="0.3" IdleOutlineColor="0x4Dffffff" IdleOutlineWidth="1.8" IdleOutlineSharpness="1.0" IdleOutlineOffset="1"
+		RolloverFontType="Headline" RolloverFontSize="34" RolloverBiggerFontSize="36" RolloverColor="#312b15" RolloverSharpness="0.2" RolloverOutlineColor="0x8Dffffff" RolloverOutlineWidth="10" RolloverOutlineSharpness="1.0" RolloverOutlineOffset="1"
+		PressFontType="Headline" PressFontSize="34" PressBiggerFontSize="36" PressColor="#151618" PressSharpness="0.2" PressOutlineColor="0x4Dffffff" PressOutlineWidth="2" PressOutlineSharpness="0.5" PressOutlineOffset="1"
+		UseButtonEffects="0"
+		Size="398,101"
+		PaddingBottom="3"
+		PaddingLeft="111"
+		PaddingRight="112"
+		Image="UI/Element/Default/Animated_button_big/Ready_Button_bg000.dds"
+		ImageCount="61"
+		HoverImageCount="60"
+		FPS="200"			
+		PaddingTop="-3"
+		IgnoreScissor="1"
+	/>
+	
+	<Season1_Animated_Button_Big
+		IdleFontType="Headline" IdleFontSize="34" IdleBiggerFontSize="36" IdleColor="#151618" IdleSharpness="0.3" IdleOutlineColor="0x4Dffffff" IdleOutlineWidth="1.8" IdleOutlineSharpness="1.0" IdleOutlineOffset="1"
+		RolloverFontType="Headline" RolloverFontSize="34" RolloverBiggerFontSize="36" RolloverColor="#312b15" RolloverSharpness="0.2" RolloverOutlineColor="0x8Dffffff" RolloverOutlineWidth="10" RolloverOutlineSharpness="1.0" RolloverOutlineOffset="1"
+		PressFontType="Headline" PressFontSize="34" PressBiggerFontSize="36" PressColor="#151618" PressSharpness="0.2" PressOutlineColor="0x4Dffffff" PressOutlineWidth="2" PressOutlineSharpness="0.5" PressOutlineOffset="1"
+		UseButtonEffects="0"
+		Size="398,101"
+		PaddingBottom="3"
+		PaddingLeft="111"
+		PaddingRight="112"
+		Image="UI/MainMenu/Seasons/Season1_Start_Button_big/Start_Button_bg_000.dds"
+		ImageCount="61"
+		HoverImageCount="60"
+		FPS="200"			
+		PaddingTop="-3"
+		IgnoreScissor="1"
+	/>
+	
+	<SaveGameName
+		FontType="Standard"			
+		Color="#bcbda7" 
+		IdleColor="#6c6c6c"
+		OutlineColor="#001d40" 
+		Sharpness="0.5" 
+		OutlineWidth="0" 
+		FontSize="20"
+	/>
+</Styles>
+
+<Transitions>
+	<Fast
+		Length="125"
+		Scale="1.1,1.1"
+		Offset="0,0"
+		Alpha="0"
+		Easing="easeOut"
+	/>
+	<Fullscreen
+		Length="150"
+		Scale="1,1"
+		Offset="0,0"
+		Alpha="0"
+		Easing="linear"
+	/>
+	<SwipeInLeft
+		Length="1000"
+		Alpha="0"
+		Offset="-1920,0"
+		Easing="easeOut"
+	/>
+	<SwipeInBottom
+		Length="1000"
+		Alpha="0"
+		Offset="0,-1080"
+		Easing="easeOut"
+	/>
+	<TravelFade
+		Length="200"
+		Alpha="0"
+	/>
+	<FastTravel
+		Length="150"
+		Alpha="0"
+	/>
+	<Credits
+		Length="400"
+		Alpha="0"
+	/>
+	<AM_Modal
+		Length="250"
+		Scale="0.9,0.9"
+		Offset="0,0"
+		Alpha="0"
+		Easing="easeOut"
+	/>
+</Transitions>

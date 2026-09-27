@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<PT>Português (Brasil)</PT>
+	</LanguageName>
+	<Languages>PT</Languages>
+	<items>
+		<lar_cacus>
+			<PT>[TL] Lar Cacus</PT>
+		</lar_cacus>
+		<lar_fulgora>
+			<PT>[TL] Lar Fulgora</PT>
+		</lar_fulgora>
+		<lar_lemure>
+			<PT>[TL] Lar Lemure</PT>
+		</lar_lemure>
+		<lar_poena>
+			<PT>[TL] Lar Poena</PT>
+		</lar_poena>
+		<lar_umbrae>
+			<PT>[TL] Lar Umbrae</PT>
+		</lar_umbrae>
+		<lar_volcanus>
+			<PT>[TL] Lar Volcanus</PT>
+		</lar_volcanus>
+	</items>
+</Root>

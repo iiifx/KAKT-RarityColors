@@ -1,0 +1,1020 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<CH>简体中文</CH>
+	</LanguageName>
+	<Languages>CH</Languages>
+	<items>
+		<2haxe_t4_c_1>
+			<CH>[T1] 盔甲师剜心符文</CH>
+		</2haxe_t4_c_1>
+		<2haxe_t4_c_2>
+			<CH>[T1] 铁甲对决符文</CH>
+		</2haxe_t4_c_2>
+		<2haxe_t4_c_3>
+			<CH>[T1] 穿刺狂热符文</CH>
+		</2haxe_t4_c_3>
+		<2haxe_t4_c_4>
+			<CH>[T1] 打击者弗摩尔克星符文</CH>
+		</2haxe_t4_c_4>
+		<2haxe_t4_c_5>
+			<CH>[T1] 先锋力量符文</CH>
+		</2haxe_t4_c_5>
+		<2haxe_t4_r_1>
+			<CH>[T3] 坚定者标志</CH>
+		</2haxe_t4_r_1>
+		<2haxe_t4_r_2>
+			<CH>[T3] 屠戮者标志</CH>
+		</2haxe_t4_r_2>
+		<2haxe_t4_r_3>
+			<CH>[T3] 曼南徵标</CH>
+		</2haxe_t4_r_3>
+		<2haxe_t4_u_1>
+			<CH>[T2] 打击者吸血符文</CH>
+		</2haxe_t4_u_1>
+		<2haxe_t4_u_2>
+			<CH>[T2] 打击者嗜血符文</CH>
+		</2haxe_t4_u_2>
+		<2haxe_t4_u_3>
+			<CH>[T2] 挑衅狂热符文</CH>
+		</2haxe_t4_u_3>
+		<2haxe_t4_u_4>
+			<CH>[T2] 狂战士修复符文</CH>
+		</2haxe_t4_u_4>
+		<2haxe_t4_u_5>
+			<CH>[T2] 战神耗竭符文</CH>
+		</2haxe_t4_u_5>
+		<2hmace_t4_c_1>
+			<CH>[T1] 狂战士督军符文</CH>
+		</2hmace_t4_c_1>
+		<2hmace_t4_c_2>
+			<CH>[T1] 放血耗竭符文</CH>
+		</2hmace_t4_c_2>
+		<2hmace_t4_c_3>
+			<CH>[T1] 开创者毁灭符文</CH>
+		</2hmace_t4_c_3>
+		<2hmace_t4_c_4>
+			<CH>[T1] 深割打击符文</CH>
+		</2hmace_t4_c_4>
+		<2hmace_t4_r_1>
+			<CH>[T3] 巨人杀手标记</CH>
+		</2hmace_t4_r_1>
+		<2hmace_t4_r_2>
+			<CH>[T3] 阿格罗纳符文</CH>
+		</2hmace_t4_r_2>
+		<2hmace_t4_r_3>
+			<CH>[T3] 巨橡印记</CH>
+		</2hmace_t4_r_3>
+		<2hmace_t4_u_1>
+			<CH>[T2] 灼热智取符文</CH>
+		</2hmace_t4_u_1>
+		<2hmace_t4_u_2>
+			<CH>[T2] 沉静狂战士符文</CH>
+		</2hmace_t4_u_2>
+		<2hmace_t4_u_3>
+			<CH>[T2] 对决者破盾符文</CH>
+		</2hmace_t4_u_3>
+		<2hmace_t4_u_4>
+			<CH>[T2] 破盾破坏符文</CH>
+		</2hmace_t4_u_4>
+		<accessory_t4_c_1>
+			<CH>[T1] 战神放血符坠</CH>
+		</accessory_t4_c_1>
+		<accessory_t4_c_2>
+			<CH>[T1] 弗摩尔族克星愈合符坠</CH>
+		</accessory_t4_c_2>
+		<accessory_t4_c_3>
+			<CH>[T1] 急速顽强符坠</CH>
+		</accessory_t4_c_3>
+		<accessory_t4_c_4>
+			<CH>[T1] 反击不屈符坠</CH>
+		</accessory_t4_c_4>
+		<accessory_t4_c_5>
+			<CH>[T1] 搏斗者先攻符坠</CH>
+		</accessory_t4_c_5>
+		<accessory_t4_c_6>
+			<CH>[T1] 炼狱精准符坠</CH>
+		</accessory_t4_c_6>
+		<accessory_t4_r_1>
+			<CH>[T3] 安古斯灼热宝石</CH>
+		</accessory_t4_r_1>
+		<accessory_t4_r_2>
+			<CH>[T3] 诡诈死亡宝石</CH>
+		</accessory_t4_r_2>
+		<accessory_t4_r_3>
+			<CH>[T3] 虔诚之石</CH>
+		</accessory_t4_r_3>
+		<accessory_t4_r_4>
+			<CH>[T3] 防御者之石</CH>
+		</accessory_t4_r_4>
+		<accessory_t4_r_5>
+			<CH>[T3] 玛瑙灵魂石</CH>
+		</accessory_t4_r_5>
+		<accessory_t4_r_6>
+			<CH>[T3] 游侠吊坠</CH>
+		</accessory_t4_r_6>
+		<accessory_t4_r_7>
+			<CH>[T3] 秋兽之眼</CH>
+		</accessory_t4_r_7>
+		<accessory_t4_u_1>
+			<CH>[T2] 折磨忠诚符坠</CH>
+		</accessory_t4_u_1>
+		<accessory_t4_u_2>
+			<CH>[T2] 戒备耗竭符坠</CH>
+		</accessory_t4_u_2>
+		<accessory_t4_u_3>
+			<CH>[T2] 抵抗愈合符坠</CH>
+		</accessory_t4_u_3>
+		<accessory_t4_u_4>
+			<CH>[T2] 疗愈凝固符坠</CH>
+		</accessory_t4_u_4>
+		<accessory_t4_u_5>
+			<CH>[T2] 盔甲师抗性符坠</CH>
+		</accessory_t4_u_5>
+		<accessory_t4_u_6>
+			<CH>[T2] 破盾者狂暴符坠</CH>
+		</accessory_t4_u_6>
+		<accessory_t4_u_7>
+			<CH>[T2] 动力烈毒符坠</CH>
+		</accessory_t4_u_7>
+		<armourheavy1_t4_c_1>
+			<CH>[T1] 戒备愤怒纹章</CH>
+		</armourheavy1_t4_c_1>
+		<armourheavy1_t4_c_2>
+			<CH>[T1] 不屈护甲纹章</CH>
+		</armourheavy1_t4_c_2>
+		<armourheavy1_t4_c_3>
+			<CH>[T1] 钢板护甲纹章</CH>
+		</armourheavy1_t4_c_3>
+		<armourheavy1_t4_c_4>
+			<CH>[T1] 铸甲匠注魔纹章</CH>
+		</armourheavy1_t4_c_4>
+		<armourheavy1_t4_c_5>
+			<CH>[T1] 坚忍狂暴纹章</CH>
+		</armourheavy1_t4_c_5>
+		<armourheavy1_t4_c_6>
+			<CH>[T1] 防碎狂怒纹章</CH>
+		</armourheavy1_t4_c_6>
+		<armourheavy1_t4_c_7>
+			<CH>[T1] 迅捷顽强纹章</CH>
+		</armourheavy1_t4_c_7>
+		<armourheavy1_t4_r_1>
+			<CH>[T3] 竖石标志</CH>
+		</armourheavy1_t4_r_1>
+		<armourheavy1_t4_r_2>
+			<CH>[T3] 哥布纽徵标</CH>
+		</armourheavy1_t4_r_2>
+		<armourheavy1_t4_r_3>
+			<CH>[T3] 克雷德文的标记</CH>
+		</armourheavy1_t4_r_3>
+		<armourheavy1_t4_r_4>
+			<CH>动力疾跑纹章</CH>
+		</armourheavy1_t4_r_4>
+		<armourheavy1_t4_u_1>
+			<CH>[T2] 安宁反击纹章</CH>
+		</armourheavy1_t4_u_1>
+		<armourheavy1_t4_u_2>
+			<CH>[T2] 防碎强韧纹章</CH>
+		</armourheavy1_t4_u_2>
+		<armourheavy1_t4_u_3>
+			<CH>[T2] 护甲敏捷纹章</CH>
+		</armourheavy1_t4_u_3>
+		<armourheavy1_t4_u_4>
+			<CH>[T2] 凝固急救纹章</CH>
+		</armourheavy1_t4_u_4>
+		<armourheavy1_t4_u_5>
+			<CH>[T2] 坚固不灭纹章</CH>
+		</armourheavy1_t4_u_5>
+		<armourheavy1_t4_u_6>
+			<CH>[T2] 狂暴反击纹章</CH>
+		</armourheavy1_t4_u_6>
+		<armourheavy1_t4_u_7>
+			<CH>[T2] 顽强反击纹章</CH>
+		</armourheavy1_t4_u_7>
+		<armourheavy2_t4_c_1>
+			<CH>[T1] 护甲苏息纹章</CH>
+		</armourheavy2_t4_c_1>
+		<armourheavy2_t4_c_2>
+			<CH>[T1] 不屈安宁纹章</CH>
+		</armourheavy2_t4_c_2>
+		<armourheavy2_t4_c_3>
+			<CH>[T1] 护甲敏捷纹章</CH>
+		</armourheavy2_t4_c_3>
+		<armourheavy2_t4_c_4>
+			<CH>[T1] 活力反击纹章</CH>
+		</armourheavy2_t4_c_4>
+		<armourheavy2_t4_c_5>
+			<CH>[T1] 愈合复苏纹章</CH>
+		</armourheavy2_t4_c_5>
+		<armourheavy2_t4_c_6>
+			<CH>[T1] 沉静活力纹章</CH>
+		</armourheavy2_t4_c_6>
+		<armourheavy2_t4_c_7>
+			<CH>[T1] 敏捷挑衅纹章</CH>
+		</armourheavy2_t4_c_7>
+		<armourheavy2_t4_r_1>
+			<CH>[T3] 忏悔印记</CH>
+		</armourheavy2_t4_r_1>
+		<armourheavy2_t4_r_2>
+			<CH>[T3] 地根纹章</CH>
+		</armourheavy2_t4_r_2>
+		<armourheavy2_t4_r_3>
+			<CH>[T3] 塔拉尼斯印记</CH>
+		</armourheavy2_t4_r_3>
+		<armourheavy2_t4_u_1>
+			<CH>[T2] 戒备急救纹章</CH>
+		</armourheavy2_t4_u_1>
+		<armourheavy2_t4_u_2>
+			<CH>[T2] 护甲坚固纹章</CH>
+		</armourheavy2_t4_u_2>
+		<armourheavy2_t4_u_3>
+			<CH>[T2] 疗愈迷踪纹章</CH>
+		</armourheavy2_t4_u_3>
+		<armourheavy2_t4_u_4>
+			<CH>[T2] 抗性不灭纹章</CH>
+		</armourheavy2_t4_u_4>
+		<armourheavy2_t4_u_5>
+			<CH>[T2] 钢板顽强纹章</CH>
+		</armourheavy2_t4_u_5>
+		<armourheavy2_t4_u_6>
+			<CH>[T2] 抗性愈合纹章</CH>
+		</armourheavy2_t4_u_6>
+		<armourheavy2_t4_u_7>
+			<CH>[T2] 铸甲匠狂暴纹章</CH>
+		</armourheavy2_t4_u_7>
+		<armourlight1_t4_c_1>
+			<CH>[T1] 钢板雄鹰纹章</CH>
+		</armourlight1_t4_c_1>
+		<armourlight1_t4_c_2>
+			<CH>[T1] 激励不屈纹章</CH>
+		</armourlight1_t4_c_2>
+		<armourlight1_t4_c_3>
+			<CH>[T1] 守护精准纹章</CH>
+		</armourlight1_t4_c_3>
+		<armourlight1_t4_c_4>
+			<CH>[T1] 不屈敏捷纹章</CH>
+		</armourlight1_t4_c_4>
+		<armourlight1_t4_c_5>
+			<CH>[T1] 酿造大师急救纹章</CH>
+		</armourlight1_t4_c_5>
+		<armourlight1_t4_r_1>
+			<CH>[T3] 无暇纹章</CH>
+		</armourlight1_t4_r_1>
+		<armourlight1_t4_r_2>
+			<CH>[T3] 灵焰印记</CH>
+		</armourlight1_t4_r_2>
+		<armourlight1_t4_r_3>
+			<CH>[T3] 妖灵卫士纹章</CH>
+		</armourlight1_t4_r_3>
+		<armourlight1_t4_u_1>
+			<CH>[T2] 强韧顽强纹章</CH>
+		</armourlight1_t4_u_1>
+		<armourlight1_t4_u_2>
+			<CH>[T2] 折磨迷踪纹章</CH>
+		</armourlight1_t4_u_2>
+		<armourlight1_t4_u_3>
+			<CH>[T2] 不屈钢板纹章</CH>
+		</armourlight1_t4_u_3>
+		<armourlight1_t4_u_4>
+			<CH>[T2] 狂暴凝固纹章</CH>
+		</armourlight1_t4_u_4>
+		<armourlight1_t4_u_5>
+			<CH>[T2] 钢板沉静纹章</CH>
+		</armourlight1_t4_u_5>
+		<armourlight2_t4_c_1>
+			<CH>[T1] 护甲复苏纹章</CH>
+		</armourlight2_t4_c_1>
+		<armourlight2_t4_c_2>
+			<CH>[T1] 钢板不灭纹章</CH>
+		</armourlight2_t4_c_2>
+		<armourlight2_t4_c_3>
+			<CH>[T1] 铸甲匠坚忍纹章</CH>
+		</armourlight2_t4_c_3>
+		<armourlight2_t4_c_4>
+			<CH>[T1] 护甲不屈纹章</CH>
+		</armourlight2_t4_c_4>
+		<armourlight2_t4_c_5>
+			<CH>[T1] 迅捷顽强纹章</CH>
+		</armourlight2_t4_c_5>
+		<armourlight2_t4_r_1>
+			<CH>[T3] 石蔽符文</CH>
+		</armourlight2_t4_r_1>
+		<armourlight2_t4_r_2>
+			<CH>[T3] 流浪者标志</CH>
+		</armourlight2_t4_r_2>
+		<armourlight2_t4_r_3>
+			<CH>[T3] 自若纹章</CH>
+		</armourlight2_t4_r_3>
+		<armourlight2_t4_u_1>
+			<CH>[T2] 守护动力纹章</CH>
+		</armourlight2_t4_u_1>
+		<armourlight2_t4_u_2>
+			<CH>[T2] 戒备铸甲匠纹章</CH>
+		</armourlight2_t4_u_2>
+		<armourlight2_t4_u_3>
+			<CH>[T2] 护甲解毒纹章</CH>
+		</armourlight2_t4_u_3>
+		<armourlight2_t4_u_4>
+			<CH>[T2] 防碎安宁纹章</CH>
+		</armourlight2_t4_u_4>
+		<armourlight2_t4_u_5>
+			<CH>[T2] 抗性急救纹章</CH>
+		</armourlight2_t4_u_5>
+		<armourmedium1_t4_c_1>
+			<CH>[T1] 安宁护甲纹章</CH>
+		</armourmedium1_t4_c_1>
+		<armourmedium1_t4_c_2>
+			<CH>[T1] 不屈戒备纹章</CH>
+		</armourmedium1_t4_c_2>
+		<armourmedium1_t4_c_3>
+			<CH>[T1] 防碎迅捷纹章</CH>
+		</armourmedium1_t4_c_3>
+		<armourmedium1_t4_c_4>
+			<CH>[T1] 不屈护甲纹章</CH>
+		</armourmedium1_t4_c_4>
+		<armourmedium1_t4_c_5>
+			<CH>[T1] 钢板铸甲匠纹章</CH>
+		</armourmedium1_t4_c_5>
+		<armourmedium1_t4_r_1>
+			<CH>[T3] 寻血猎犬标记</CH>
+		</armourmedium1_t4_r_1>
+		<armourmedium1_t4_r_2>
+			<CH>[T3] 维护纹章</CH>
+		</armourmedium1_t4_r_2>
+		<armourmedium1_t4_r_3>
+			<CH>[T3] 收割者标志</CH>
+		</armourmedium1_t4_r_3>
+		<armourmedium1_t4_r_4>
+			<CH>补救坚忍纹章</CH>
+		</armourmedium1_t4_r_4>
+		<armourmedium1_t4_u_1>
+			<CH>[T2] 顽强动力纹章</CH>
+		</armourmedium1_t4_u_1>
+		<armourmedium1_t4_u_2>
+			<CH>[T2] 疗愈敏捷纹章</CH>
+		</armourmedium1_t4_u_2>
+		<armourmedium1_t4_u_3>
+			<CH>[T2] 抗性护甲纹章</CH>
+		</armourmedium1_t4_u_3>
+		<armourmedium1_t4_u_4>
+			<CH>[T2] 迷踪沉静纹章</CH>
+		</armourmedium1_t4_u_4>
+		<armourmedium1_t4_u_5>
+			<CH>[T2] 护甲不灭纹章</CH>
+		</armourmedium1_t4_u_5>
+		<armourmedium2_t4_c_1>
+			<CH>[T1] 疗愈狂热纹章</CH>
+		</armourmedium2_t4_c_1>
+		<armourmedium2_t4_c_2>
+			<CH>[T1] 活力迷踪纹章</CH>
+		</armourmedium2_t4_c_2>
+		<armourmedium2_t4_c_3>
+			<CH>[T1] 铁甲挑衅纹章</CH>
+		</armourmedium2_t4_c_3>
+		<armourmedium2_t4_c_4>
+			<CH>[T1] 不屈隐秘纹章</CH>
+		</armourmedium2_t4_c_4>
+		<armourmedium2_t4_c_5>
+			<CH>[T1] 复苏急救纹章</CH>
+		</armourmedium2_t4_c_5>
+		<armourmedium2_t4_r_1>
+			<CH>[T3] 鲁格徵标</CH>
+		</armourmedium2_t4_r_1>
+		<armourmedium2_t4_r_2>
+			<CH>[T3] 高堡纹章</CH>
+		</armourmedium2_t4_r_2>
+		<armourmedium2_t4_r_3>
+			<CH>[T3] 艾拉萨的光环</CH>
+		</armourmedium2_t4_r_3>
+		<armourmedium2_t4_u_1>
+			<CH>[T2] 狂暴反击纹章</CH>
+		</armourmedium2_t4_u_1>
+		<armourmedium2_t4_u_2>
+			<CH>[T2] 不屈铸甲匠纹章</CH>
+		</armourmedium2_t4_u_2>
+		<armourmedium2_t4_u_3>
+			<CH>[T2] 愈合反击纹章</CH>
+		</armourmedium2_t4_u_3>
+		<armourmedium2_t4_u_4>
+			<CH>[T2] 坚固不屈纹章</CH>
+		</armourmedium2_t4_u_4>
+		<armourmedium2_t4_u_5>
+			<CH>[T2] 强韧安宁纹章</CH>
+		</armourmedium2_t4_u_5>
+		<artifact_t4_c_1>
+			<CH>[T1] 狂战士力量神器</CH>
+		</artifact_t4_c_1>
+		<artifact_t4_c_2>
+			<CH>[T1] 直击强力神器</CH>
+		</artifact_t4_c_2>
+		<artifact_t4_c_3>
+			<CH>[T1] 恶意折磨神器</CH>
+		</artifact_t4_c_3>
+		<artifact_t4_c_4>
+			<CH>[T1] 疗愈毁灭神器</CH>
+		</artifact_t4_c_4>
+		<artifact_t4_c_5>
+			<CH>[T1] 威吓重伤神器</CH>
+		</artifact_t4_c_5>
+		<artifact_t4_r_1>
+			<CH>[T3] 先驱者的骨灰</CH>
+		</artifact_t4_r_1>
+		<artifact_t4_r_2>
+			<CH>[T3] 苍白之树的树皮</CH>
+		</artifact_t4_r_2>
+		<artifact_t4_u_1>
+			<CH>[T2] 咒术大师先攻神器</CH>
+		</artifact_t4_u_1>
+		<artifact_t4_u_2>
+			<CH>[T2] 灼热烈焰神器</CH>
+		</artifact_t4_u_2>
+		<artifact_t4_u_3>
+			<CH>[T2] 嗜血沉静神器</CH>
+		</artifact_t4_u_3>
+		<artifact_t4_u_4>
+			<CH>[T2] 折磨破盾神器</CH>
+		</artifact_t4_u_4>
+		<axe_t4_c_1>
+			<CH>[T1] 刺客挑衅符文</CH>
+		</axe_t4_c_1>
+		<axe_t4_c_2>
+			<CH>[T1] 不屈折磨符文</CH>
+		</axe_t4_c_2>
+		<axe_t4_c_3>
+			<CH>[T1] 力量沉静符文</CH>
+		</axe_t4_c_3>
+		<axe_t4_c_4>
+			<CH>[T1] 深割狂热符文</CH>
+		</axe_t4_c_4>
+		<axe_t4_c_5>
+			<CH>[T1] 战神狂怒符文</CH>
+		</axe_t4_c_5>
+		<axe_t4_c_6>
+			<CH>[T1] 打击者穿刺符文</CH>
+		</axe_t4_c_6>
+		<axe_t4_c_7>
+			<CH>[T1] 狂战士重伤符文</CH>
+		</axe_t4_c_7>
+		<axe_t4_r_1>
+			<CH>[T3] 卡莱赫之触</CH>
+		</axe_t4_r_1>
+		<axe_t4_r_2>
+			<CH>[T3] 堕落君王的狂怒</CH>
+		</axe_t4_r_2>
+		<axe_t4_r_3>
+			<CH>[T3] 命定骑士的印记</CH>
+		</axe_t4_r_3>
+		<axe_t4_r_4>
+			<CH>[T3] 亡魂标记</CH>
+		</axe_t4_r_4>
+		<axe_t4_r_5>
+			<CH>[T3] 富阿姆纳赫巫印</CH>
+		</axe_t4_r_5>
+		<axe_t4_u_1>
+			<CH>[T2] 打击者先攻符文</CH>
+		</axe_t4_u_1>
+		<axe_t4_u_2>
+			<CH>[T2] 对决者挑衅符文</CH>
+		</axe_t4_u_2>
+		<axe_t4_u_3>
+			<CH>[T2] 先锋毁灭符文</CH>
+		</axe_t4_u_3>
+		<axe_t4_u_4>
+			<CH>[T2] 破盾者弗摩尔克星符文</CH>
+		</axe_t4_u_4>
+		<axe_t4_u_5>
+			<CH>[T2] 破盾者打击符文</CH>
+		</axe_t4_u_5>
+		<axe_t4_u_6>
+			<CH>[T2] 霜冻耗竭符文</CH>
+		</axe_t4_u_6>
+		<axe_t4_u_7>
+			<CH>[T2] 开创者动力符文</CH>
+		</axe_t4_u_7>
+		<bow_t4_c_1>
+			<CH>[T1] 近程怒火符文</CH>
+		</bow_t4_c_1>
+		<bow_t4_c_2>
+			<CH>[T1] 弗摩尔族克星耗竭符文</CH>
+		</bow_t4_c_2>
+		<bow_t4_c_3>
+			<CH>[T1] 力量毁灭符文</CH>
+		</bow_t4_c_3>
+		<bow_t4_c_4>
+			<CH>[T1] 开创者沉静符文</CH>
+		</bow_t4_c_4>
+		<bow_t4_r_1>
+			<CH>[T3] 元素之风符文</CH>
+		</bow_t4_r_1>
+		<bow_t4_r_2>
+			<CH>[T3] 希灵日虹徽标</CH>
+		</bow_t4_r_2>
+		<bow_t4_r_3>
+			<CH>[T3] 高级狩猎印记</CH>
+		</bow_t4_r_3>
+		<bow_t4_u_1>
+			<CH>[T2] 神射手狂热符文</CH>
+		</bow_t4_u_1>
+		<bow_t4_u_2>
+			<CH>[T2] 近程灼热符文</CH>
+		</bow_t4_u_2>
+		<bow_t4_u_3>
+			<CH>[T2] 神射手沉静符文</CH>
+		</bow_t4_u_3>
+		<bow_t4_u_4>
+			<CH>[T2] 毒液感染符文</CH>
+		</bow_t4_u_4>
+		<crossbow_t4_c_1>
+			<CH>[T1] 狂战士毒液符文</CH>
+		</crossbow_t4_c_1>
+		<crossbow_t4_c_2>
+			<CH>[T1] 神射手平衡符文</CH>
+		</crossbow_t4_c_2>
+		<crossbow_t4_c_3>
+			<CH>[T1] 鹰眼狂热符文</CH>
+		</crossbow_t4_c_3>
+		<crossbow_t4_c_4>
+			<CH>[T1] 烧焦灼热符文</CH>
+		</crossbow_t4_c_4>
+		<crossbow_t4_c_5>
+			<CH>[T1] 锐眼射手烈毒符文</CH>
+		</crossbow_t4_c_5>
+		<crossbow_t4_r_1>
+			<CH>[T3] 敏锐之眼的标记</CH>
+		</crossbow_t4_r_1>
+		<crossbow_t4_r_2>
+			<CH>[T3] 妖灵弓兵印记</CH>
+		</crossbow_t4_r_2>
+		<crossbow_t4_r_3>
+			<CH>[T3] 元素之火标记</CH>
+		</crossbow_t4_r_3>
+		<crossbow_t4_r_4>
+			<CH>近程渗透符文</CH>
+		</crossbow_t4_r_4>
+		<crossbow_t4_u_1>
+			<CH>[T2] 精准动力符文</CH>
+		</crossbow_t4_u_1>
+		<crossbow_t4_u_2>
+			<CH>[T2] 炼狱近程符文</CH>
+		</crossbow_t4_u_2>
+		<crossbow_t4_u_3>
+			<CH>[T2] 监察者穿刺符文</CH>
+		</crossbow_t4_u_3>
+		<crossbow_t4_u_4>
+			<CH>[T2] 从容脱战符文</CH>
+		</crossbow_t4_u_4>
+		<crossbow_t4_u_5>
+			<CH>[T2] 深割嗜血符文</CH>
+		</crossbow_t4_u_5>
+		<et_2haxe_t4_r_1>
+			<CH>[T3] 撼地者符文</CH>
+		</et_2haxe_t4_r_1>
+		<et_accessory_t4_r_1>
+			<CH>[T3] 低语之石</CH>
+		</et_accessory_t4_r_1>
+		<et_armourheavy1_t4_r_1>
+			<CH>[T3] 共苦纹章</CH>
+		</et_armourheavy1_t4_r_1>
+		<et_armourheavy2_t4_r_1>
+			<CH>[T3] 意识标志</CH>
+		</et_armourheavy2_t4_r_1>
+		<et_armourlight1_t4_r_1>
+			<CH>[T3] 大魔法师的纹章</CH>
+		</et_armourlight1_t4_r_1>
+		<et_armourlight2_t4_r_1>
+			<CH>[T3] 狂野法师的标记</CH>
+		</et_armourlight2_t4_r_1>
+		<et_armourmedium1_t4_r_1>
+			<CH>[T3] 鬼铠纹章</CH>
+		</et_armourmedium1_t4_r_1>
+		<et_armourmedium2_t4_r_1>
+			<CH>[T3] 天界射手印记</CH>
+		</et_armourmedium2_t4_r_1>
+		<et_artifact_t4_r_1>
+			<CH>[T3] 卡莱赫之狂暴</CH>
+		</et_artifact_t4_r_1>
+		<et_axe_t4_r_1>
+			<CH>[T3] 斧兵的狂怒</CH>
+		</et_axe_t4_r_1>
+		<et_crossbow_t4_r_1>
+			<CH>[T3] 污秽之箭标志</CH>
+		</et_crossbow_t4_r_1>
+		<et_jewelry_t4_r_1>
+			<CH>[T3] 对决大师的指环</CH>
+		</et_jewelry_t4_r_1>
+		<et_luckycharm_t4_r_1>
+			<CH>[T3] 曼南法宝</CH>
+		</et_luckycharm_t4_r_1>
+		<et_manuscript_t4_r_1>
+			<CH>[T3] 克罗姆·克鲁奇的欲望</CH>
+		</et_manuscript_t4_r_1>
+		<et_oathstone_t4_r_1>
+			<CH>[T3] 断线者之誓</CH>
+		</et_oathstone_t4_r_1>
+		<et_provision_t4_r_1>
+			<CH>[T3] 炼金术士背包</CH>
+		</et_provision_t4_r_1>
+		<et_staff2_t4_r_1>
+			<CH>[T3] 火焰风暴符文</CH>
+		</et_staff2_t4_r_1>
+		<et_sword_t4_r_1>
+			<CH>[T3] 咒刃巫印</CH>
+		</et_sword_t4_r_1>
+		<et_trophy_t4_r_1>
+			<CH>[T3] 贝德的花环</CH>
+		</et_trophy_t4_r_1>
+		<jewelry_t4_c_1>
+			<CH>[T1] 坚固活力指环</CH>
+		</jewelry_t4_c_1>
+		<jewelry_t4_c_2>
+			<CH>[T1] 开创者急速指环</CH>
+		</jewelry_t4_c_2>
+		<jewelry_t4_c_3>
+			<CH>[T1] 毒噬脱战指环</CH>
+		</jewelry_t4_c_3>
+		<jewelry_t4_c_4>
+			<CH>[T1] 鹰眼对决指环</CH>
+		</jewelry_t4_c_4>
+		<jewelry_t4_c_5>
+			<CH>[T1] 迷踪烈毒指环</CH>
+		</jewelry_t4_c_5>
+		<jewelry_t4_c_6>
+			<CH>[T1] 背刺者吸血指环</CH>
+		</jewelry_t4_c_6>
+		<jewelry_t4_r_1>
+			<CH>[T3] 炼金术士指环</CH>
+		</jewelry_t4_r_1>
+		<jewelry_t4_r_2>
+			<CH>[T3] 赎罪指环</CH>
+		</jewelry_t4_r_2>
+		<jewelry_t4_r_3>
+			<CH>[T3] 巨魔之心</CH>
+		</jewelry_t4_r_3>
+		<jewelry_t4_r_4>
+			<CH>[T3] 伊伦指环</CH>
+		</jewelry_t4_r_4>
+		<jewelry_t4_r_5>
+			<CH>[T3] 忏悔指环</CH>
+		</jewelry_t4_r_5>
+		<jewelry_t4_r_6>
+			<CH>[T3] 复原指环</CH>
+		</jewelry_t4_r_6>
+		<jewelry_t4_r_7>
+			<CH>[T3] 埃蕾达指环</CH>
+		</jewelry_t4_r_7>
+		<jewelry_t4_u_1>
+			<CH>[T2] 破盾者戒备指环</CH>
+		</jewelry_t4_u_1>
+		<jewelry_t4_u_2>
+			<CH>[T2] 强韧挑衅指环</CH>
+		</jewelry_t4_u_2>
+		<jewelry_t4_u_3>
+			<CH>[T2] 灼热钢板指环</CH>
+		</jewelry_t4_u_3>
+		<jewelry_t4_u_4>
+			<CH>[T2] 强韧狂热指环</CH>
+		</jewelry_t4_u_4>
+		<jewelry_t4_u_5>
+			<CH>[T2] 迷踪耗竭指环</CH>
+		</jewelry_t4_u_5>
+		<jewelry_t4_u_6>
+			<CH>[T2] 沉静吸血指环</CH>
+		</jewelry_t4_u_6>
+		<jewelry_t4_u_7>
+			<CH>[T2] 抗性忠诚指环</CH>
+		</jewelry_t4_u_7>
+		<luckycharm_t4_c_1>
+			<CH>[T1] 破盾者穿刺护身符</CH>
+		</luckycharm_t4_c_1>
+		<luckycharm_t4_c_2>
+			<CH>[T1] 鹰眼沉静护身符</CH>
+		</luckycharm_t4_c_2>
+		<luckycharm_t4_c_3>
+			<CH>[T1] 射手近程护身符</CH>
+		</luckycharm_t4_c_3>
+		<luckycharm_t4_c_4>
+			<CH>[T1] 神射手烧焦护身符</CH>
+		</luckycharm_t4_c_4>
+		<luckycharm_t4_c_5>
+			<CH>[T1] 坚忍急救护身符</CH>
+		</luckycharm_t4_c_5>
+		<luckycharm_t4_r_1>
+			<CH>[T3] 以眼还眼护身符</CH>
+		</luckycharm_t4_r_1>
+		<luckycharm_t4_r_2>
+			<CH>[T3] 黑曜石符坠</CH>
+		</luckycharm_t4_r_2>
+		<luckycharm_t4_u_1>
+			<CH>[T2] 穿刺灼热护身符</CH>
+		</luckycharm_t4_u_1>
+		<luckycharm_t4_u_2>
+			<CH>[T2] 毒师解毒护身符</CH>
+		</luckycharm_t4_u_2>
+		<luckycharm_t4_u_3>
+			<CH>[T2] 狂热脱战护身符</CH>
+		</luckycharm_t4_u_3>
+		<luckycharm_t4_u_4>
+			<CH>[T2] 弗摩尔克星毁灭护身符</CH>
+		</luckycharm_t4_u_4>
+		<manuscript_t4_c_1>
+			<CH>[T1] 鼓舞赐福手抄本</CH>
+		</manuscript_t4_c_1>
+		<manuscript_t4_c_2>
+			<CH>[T1] 弗摩尔族克星不屈手抄本</CH>
+		</manuscript_t4_c_2>
+		<manuscript_t4_c_3>
+			<CH>[T1] 活力急救手抄本</CH>
+		</manuscript_t4_c_3>
+		<manuscript_t4_c_4>
+			<CH>[T1] 注魔顽强手抄本</CH>
+		</manuscript_t4_c_4>
+		<manuscript_t4_c_5>
+			<CH>[T1] 冰川霜冻手抄本</CH>
+		</manuscript_t4_c_5>
+		<manuscript_t4_r_1>
+			<CH>[T3] 艾贝尔神圣卷轴</CH>
+		</manuscript_t4_r_1>
+		<manuscript_t4_r_2>
+			<CH>[T3] 贝库耶符咒</CH>
+		</manuscript_t4_r_2>
+		<manuscript_t4_u_1>
+			<CH>[T2] 反击刚毅手抄本</CH>
+		</manuscript_t4_u_1>
+		<manuscript_t4_u_2>
+			<CH>[T2] 凝固钢板手抄本</CH>
+		</manuscript_t4_u_2>
+		<manuscript_t4_u_3>
+			<CH>[T2] 强韧坚固手抄本</CH>
+		</manuscript_t4_u_3>
+		<manuscript_t4_u_4>
+			<CH>[T2] 疗愈统御手抄本</CH>
+		</manuscript_t4_u_4>
+		<oathstone_t4_c_1>
+			<CH>[T1] 不屈防护誓石</CH>
+		</oathstone_t4_c_1>
+		<oathstone_t4_c_2>
+			<CH>[T1] 防飞弹钢板誓石</CH>
+		</oathstone_t4_c_2>
+		<oathstone_t4_c_3>
+			<CH>[T1] 酿造大师坚固誓石</CH>
+		</oathstone_t4_c_3>
+		<oathstone_t4_c_4>
+			<CH>[T1] 安宁愈合誓石</CH>
+		</oathstone_t4_c_4>
+		<oathstone_t4_c_5>
+			<CH>[T1] 防御者嘲讽誓石</CH>
+		</oathstone_t4_c_5>
+		<oathstone_t4_r_1>
+			<CH>[T3] 护卫太阳石</CH>
+		</oathstone_t4_r_1>
+		<oathstone_t4_r_2>
+			<CH>[T3] 注能嘲讽石</CH>
+		</oathstone_t4_r_2>
+		<oathstone_t4_u_1>
+			<CH>[T2] 抗性凝固誓石</CH>
+		</oathstone_t4_u_1>
+		<oathstone_t4_u_2>
+			<CH>[T2] 盾兵反击誓石</CH>
+		</oathstone_t4_u_2>
+		<oathstone_t4_u_3>
+			<CH>[T2] 对决者打击誓石</CH>
+		</oathstone_t4_u_3>
+		<oathstone_t4_u_4>
+			<CH>[T2] 盔甲师嘲讽誓石</CH>
+		</oathstone_t4_u_4>
+		<provision_t4_c_1>
+			<CH>[T1] 掘颅者隐秘装备</CH>
+		</provision_t4_c_1>
+		<provision_t4_c_2>
+			<CH>[T1] 设陷者诱捕装备</CH>
+		</provision_t4_c_2>
+		<provision_t4_c_3>
+			<CH>[T1] 迅捷动力装备</CH>
+		</provision_t4_c_3>
+		<provision_t4_c_4>
+			<CH>[T1] 掘颅者潜伏装备</CH>
+		</provision_t4_c_4>
+		<provision_t4_c_5>
+			<CH>[T1] 轻灵隐匿装备</CH>
+		</provision_t4_c_5>
+		<provision_t4_r_1>
+			<CH>[T3] 莫里古之秤</CH>
+		</provision_t4_r_1>
+		<provision_t4_r_2>
+			<CH>[T3] 列恩的天平</CH>
+		</provision_t4_r_2>
+		<provision_t4_r_3>
+			<CH>设陷者穿刺装备</CH>
+		</provision_t4_r_3>
+		<provision_t4_u_1>
+			<CH>[T2] 嗜血动力装备</CH>
+		</provision_t4_u_1>
+		<provision_t4_u_2>
+			<CH>[T2] 危险耗竭装备</CH>
+		</provision_t4_u_2>
+		<provision_t4_u_3>
+			<CH>[T2] 飞刀手远视装备</CH>
+		</provision_t4_u_3>
+		<provision_t4_u_4>
+			<CH>[T2] 从容先攻装备</CH>
+		</provision_t4_u_4>
+		<staff1_t4_c_1>
+			<CH>[T1] 怒火沉静符文</CH>
+		</staff1_t4_c_1>
+		<staff1_t4_c_2>
+			<CH>[T1] 剥皮者折磨符文</CH>
+		</staff1_t4_c_2>
+		<staff1_t4_c_3>
+			<CH>[T1] 咒术大师重伤符文</CH>
+		</staff1_t4_c_3>
+		<staff1_t4_c_4>
+			<CH>[T1] 哨兵力量符文</CH>
+		</staff1_t4_c_4>
+		<staff1_t4_c_5>
+			<CH>[T1] 脱战放血符文</CH>
+		</staff1_t4_c_5>
+		<staff1_t4_r_1>
+			<CH>[T3] 纵火者符文</CH>
+		</staff1_t4_r_1>
+		<staff1_t4_r_2>
+			<CH>[T3] 阿劳努斯徽标</CH>
+		</staff1_t4_r_2>
+		<staff1_t4_r_3>
+			<CH>[T3] 警惕之眼</CH>
+		</staff1_t4_r_3>
+		<staff1_t4_u_1>
+			<CH>[T2] 破盾者精准符文</CH>
+		</staff1_t4_u_1>
+		<staff1_t4_u_2>
+			<CH>[T2] 先攻毁灭符文</CH>
+		</staff1_t4_u_2>
+		<staff1_t4_u_3>
+			<CH>[T2] 狂热灼热符文</CH>
+		</staff1_t4_u_3>
+		<staff1_t4_u_4>
+			<CH>[T2] 神射手穿刺符文</CH>
+		</staff1_t4_u_4>
+		<staff1_t4_u_5>
+			<CH>[T2] 嗜血重伤符文</CH>
+		</staff1_t4_u_5>
+		<staff2_t4_c_1>
+			<CH>[T1] 射手神射手符文</CH>
+		</staff2_t4_c_1>
+		<staff2_t4_c_2>
+			<CH>[T1] 近程穿刺符文</CH>
+		</staff2_t4_c_2>
+		<staff2_t4_c_3>
+			<CH>[T1] 激励强力符文</CH>
+		</staff2_t4_c_3>
+		<staff2_t4_c_4>
+			<CH>[T1] 搏斗者毁灭符文</CH>
+		</staff2_t4_c_4>
+		<staff2_t4_r_1>
+			<CH>[T3] 报丧女妖哀歌</CH>
+		</staff2_t4_r_1>
+		<staff2_t4_r_2>
+			<CH>[T3] 节杖标志</CH>
+		</staff2_t4_r_2>
+		<staff2_t4_r_3>
+			<CH>[T3] 蛇怪标记</CH>
+		</staff2_t4_r_3>
+		<staff2_t4_r_4>
+			<CH>强效报复符文</CH>
+		</staff2_t4_r_4>
+		<staff2_t4_u_1>
+			<CH>[T2] 折磨狂热符文</CH>
+		</staff2_t4_u_1>
+		<staff2_t4_u_2>
+			<CH>[T2] 先攻强力符文</CH>
+		</staff2_t4_u_2>
+		<staff2_t4_u_3>
+			<CH>[T2] 脱战神射手符文</CH>
+		</staff2_t4_u_3>
+		<staff2_t4_u_4>
+			<CH>[T2] 狂战士吸血符文</CH>
+		</staff2_t4_u_4>
+		<sword_t4_c_1>
+			<CH>[T1] 打击者烈毒符文</CH>
+		</sword_t4_c_1>
+		<sword_t4_c_2>
+			<CH>[T1] 刺客对决符文</CH>
+		</sword_t4_c_2>
+		<sword_t4_c_3>
+			<CH>[T1] 搏斗者动力符文</CH>
+		</sword_t4_c_3>
+		<sword_t4_c_4>
+			<CH>[T1] 打击者怒火符文</CH>
+		</sword_t4_c_4>
+		<sword_t4_c_5>
+			<CH>[T1] 耗竭剜心符文</CH>
+		</sword_t4_c_5>
+		<sword_t4_c_6>
+			<CH>[T1] 吸血复苏符文</CH>
+		</sword_t4_c_6>
+		<sword_t4_c_7>
+			<CH>[T1] 先锋怒火符文</CH>
+		</sword_t4_c_7>
+		<sword_t4_r_1>
+			<CH>[T3] 秋日之刃符文</CH>
+		</sword_t4_r_1>
+		<sword_t4_r_2>
+			<CH>[T3] 咒刃标记</CH>
+		</sword_t4_r_2>
+		<sword_t4_r_3>
+			<CH>[T3] 征服符文</CH>
+		</sword_t4_r_3>
+		<sword_t4_r_4>
+			<CH>[T3] 潜行者标志</CH>
+		</sword_t4_r_4>
+		<sword_t4_r_5>
+			<CH>[T3] 柴堆徽标</CH>
+		</sword_t4_r_5>
+		<sword_t4_u_1>
+			<CH>[T2] 战神反击符文</CH>
+		</sword_t4_u_1>
+		<sword_t4_u_2>
+			<CH>[T2] 剥皮者嗜血符文</CH>
+		</sword_t4_u_2>
+		<sword_t4_u_3>
+			<CH>[T2] 打击者感染符文</CH>
+		</sword_t4_u_3>
+		<sword_t4_u_4>
+			<CH>[T2] 打击者吸血符文</CH>
+		</sword_t4_u_4>
+		<sword_t4_u_5>
+			<CH>[T2] 愈合沉静符文</CH>
+		</sword_t4_u_5>
+		<sword_t4_u_6>
+			<CH>[T2] 狂战士修复符文</CH>
+		</sword_t4_u_6>
+		<sword_t4_u_7>
+			<CH>[T2] 弗摩尔克星灼热符文</CH>
+		</sword_t4_u_7>
+		<th_2haxe_t4_r_1>
+			<CH>[T3] 肝胆俱裂标志</CH>
+		</th_2haxe_t4_r_1>
+		<th_2haxe_t4_r_2>
+			<CH>[T3] 主宰符文</CH>
+		</th_2haxe_t4_r_2>
+		<th_accessory_t4_r_1>
+			<CH>[T3] 大风暴之眼</CH>
+		</th_accessory_t4_r_1>
+		<th_crossbow_t4_r_1>
+			<CH>[T3] 枯败符文</CH>
+		</th_crossbow_t4_r_1>
+		<th_crossbow_t4_r_2>
+			<CH>[T3] 富阿姆纳赫之毒舌</CH>
+		</th_crossbow_t4_r_2>
+		<th_jewelry_t4_r_1>
+			<CH>[T3] 泥匠指环</CH>
+		</th_jewelry_t4_r_1>
+		<th_jewelry_t4_r_2>
+			<CH>[T3] 硫磺石指环</CH>
+		</th_jewelry_t4_r_2>
+		<th_staff2_t4_r_1>
+			<CH>[T3] 行走烈焰标志</CH>
+		</th_staff2_t4_r_1>
+		<th_staff2_t4_r_2>
+			<CH>[T3] 富阿姆纳赫巫印</CH>
+		</th_staff2_t4_r_2>
+		<th_sword_t4_r_1>
+			<CH>[T3] 火虫标志</CH>
+		</th_sword_t4_r_1>
+		<th_sword_t4_r_2>
+			<CH>[T3] 奴役符文</CH>
+		</th_sword_t4_r_2>
+		<trophy_t4_c_1>
+			<CH>[T1] 弗摩尔族克星吸血奖杯</CH>
+		</trophy_t4_c_1>
+		<trophy_t4_c_2>
+			<CH>[T1] 愤怒狂暴奖杯</CH>
+		</trophy_t4_c_2>
+		<trophy_t4_c_3>
+			<CH>[T1] 毁灭破盾奖杯</CH>
+		</trophy_t4_c_3>
+		<trophy_t4_c_4>
+			<CH>[T1] 英雄不灭奖杯</CH>
+		</trophy_t4_c_4>
+		<trophy_t4_c_5>
+			<CH>[T1] 防卫反击奖杯</CH>
+		</trophy_t4_c_5>
+		<trophy_t4_r_1>
+			<CH>[T3] 莫尔高尔颚骨</CH>
+		</trophy_t4_r_1>
+		<trophy_t4_r_2>
+			<CH>[T3] 风暴召唤者之颅</CH>
+		</trophy_t4_r_2>
+		<trophy_t4_u_1>
+			<CH>[T2] 疗愈战神奖杯</CH>
+		</trophy_t4_u_1>
+		<trophy_t4_u_2>
+			<CH>[T2] 旋风敏捷奖杯</CH>
+		</trophy_t4_u_2>
+		<trophy_t4_u_3>
+			<CH>[T2] 狂战士狂暴奖杯</CH>
+		</trophy_t4_u_3>
+		<trophy_t4_u_4>
+			<CH>[T2] 坚固毁灭奖杯</CH>
+		</trophy_t4_u_4>
+	</items>
+</Root>

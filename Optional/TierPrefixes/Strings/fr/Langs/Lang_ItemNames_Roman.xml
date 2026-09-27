@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<FR>Français</FR>
+	</LanguageName>
+	<Languages>FR</Languages>
+	<items>
+		<lar_cacus>
+			<FR>[TL] Lare Cacus</FR>
+		</lar_cacus>
+		<lar_fulgora>
+			<FR>[TL] Lare Fulgora</FR>
+		</lar_fulgora>
+		<lar_lemure>
+			<FR>[TL] Lare Lémure</FR>
+		</lar_lemure>
+		<lar_poena>
+			<FR>[TL] Lare Poena</FR>
+		</lar_poena>
+		<lar_umbrae>
+			<FR>[TL] Lare Umbrae</FR>
+		</lar_umbrae>
+		<lar_volcanus>
+			<FR>[TL] Lare Volcanus</FR>
+		</lar_volcanus>
+	</items>
+</Root>

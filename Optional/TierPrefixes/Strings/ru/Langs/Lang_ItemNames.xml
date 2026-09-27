@@ -1,0 +1,1221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<RU>Русский</RU>
+	</LanguageName>
+	<Languages>RU</Languages>
+	<items>
+		<1haxe_start>
+			<RU>[T0] Руна стали</RU>
+		</1haxe_start>
+		<1hmace_start>
+			<RU>[T0] Руна стали</RU>
+		</1hmace_start>
+		<1hsword_start>
+			<RU>[T0] Руна стали</RU>
+		</1hsword_start>
+		<2haxe_start>
+			<RU>[T0] Руна стали</RU>
+		</2haxe_start>
+		<2haxe_t1_c_1>
+			<RU>[T1] Пронзающая руна</RU>
+		</2haxe_t1_c_1>
+		<2haxe_t1_c_2>
+			<RU>[T1] Руна кровопускания</RU>
+		</2haxe_t1_c_2>
+		<2haxe_t1_c_3>
+			<RU>[T1] Руна глубоких ран</RU>
+		</2haxe_t1_c_3>
+		<2haxe_t1_r_1>
+			<RU>[T3] Кровная руна</RU>
+		</2haxe_t1_r_1>
+		<2haxe_t1_r_2>
+			<RU>[T3] Священная руна отдыха</RU>
+		</2haxe_t1_r_2>
+		<2haxe_t1_u_1>
+			<RU>[T2] Руна убийства нежити ударника</RU>
+		</2haxe_t1_u_1>
+		<2haxe_t1_u_2>
+			<RU>[T2] Руна свирепости ассасина</RU>
+		</2haxe_t1_u_2>
+		<2haxe_t1_u_3>
+			<RU>[T2] Руна берсерка военачальника</RU>
+		</2haxe_t1_u_3>
+		<2hmace_start>
+			<RU>[T0] Руна стали</RU>
+		</2hmace_start>
+		<2hmace_t1_c_1>
+			<RU>[T1] Руна ускорения</RU>
+		</2hmace_t1_c_1>
+		<2hmace_t1_c_2>
+			<RU>[T1] Руна убийцы нежити</RU>
+		</2hmace_t1_c_2>
+		<2hmace_t1_c_3>
+			<RU>[T1] Яростная руна</RU>
+		</2hmace_t1_c_3>
+		<2hmace_t1_r_1>
+			<RU>[T3] Знак выдержки</RU>
+		</2hmace_t1_r_1>
+		<2hmace_t1_r_2>
+			<RU>[T3] Метка грозы великанов</RU>
+		</2hmace_t1_r_2>
+		<2hmace_t1_u_1>
+			<RU>[T2] Кровопускающая руна изнурения</RU>
+		</2hmace_t1_u_1>
+		<2hmace_t1_u_2>
+			<RU>[T2] Руна уничтожения инициатора</RU>
+		</2hmace_t1_u_2>
+		<2hmace_t1_u_3>
+			<RU>[T2] Режущая руна силы</RU>
+		</2hmace_t1_u_3>
+		<2hsword_start>
+			<RU>[T0] Руна стали</RU>
+		</2hsword_start>
+		<2hsword_t1_c_1>
+			<RU>[T1] Руна военачальника</RU>
+		</2hsword_t1_c_1>
+		<2hsword_t1_c_2>
+			<RU>[T1] Руна первой крови</RU>
+		</2hsword_t1_c_2>
+		<2hsword_t1_c_3>
+			<RU>[T1] Руна свирепости</RU>
+		</2hsword_t1_c_3>
+		<2hsword_t1_r_1>
+			<RU>[T3] Дар Аэрон</RU>
+		</2hsword_t1_r_1>
+		<2hsword_t1_r_2>
+			<RU>[T3] Печать пронзания</RU>
+		</2hsword_t1_r_2>
+		<2hsword_t1_u_1>
+			<RU>[T2] Руна долбления оружейника</RU>
+		</2hsword_t1_u_1>
+		<2hsword_t1_u_2>
+			<RU>[T2] Руна поединка броненосца</RU>
+		</2hsword_t1_u_2>
+		<2hsword_t1_u_3>
+			<RU>[T2] Бешеная руна пронзания</RU>
+		</2hsword_t1_u_3>
+		<accessory_start>
+			<RU>Амулет</RU>
+		</accessory_start>
+		<accessory_t1_c_1>
+			<RU>[T1] Героический амулет</RU>
+		</accessory_t1_c_1>
+		<accessory_t1_c_2>
+			<RU>[T1] Амулет выносливости</RU>
+		</accessory_t1_c_2>
+		<accessory_t1_c_3>
+			<RU>[T1] Амулет подвижности</RU>
+		</accessory_t1_c_3>
+		<accessory_t1_c_4>
+			<RU>[T1] Защитный амулет</RU>
+		</accessory_t1_c_4>
+		<accessory_t1_c_5>
+			<RU>[T1] Амулет военачальника</RU>
+		</accessory_t1_c_5>
+		<accessory_t1_c_6>
+			<RU>[T1] Амулет закалки</RU>
+		</accessory_t1_c_6>
+		<accessory_t1_r_1>
+			<RU>[T3] Кулон жизни</RU>
+		</accessory_t1_r_1>
+		<accessory_t1_r_2>
+			<RU>[T3] Лазурное око</RU>
+		</accessory_t1_r_2>
+		<accessory_t1_r_3>
+			<RU>[T3] Кулон охотницы</RU>
+		</accessory_t1_r_3>
+		<accessory_t1_r_4>
+			<RU>[T3] Камень поединщика</RU>
+		</accessory_t1_r_4>
+		<accessory_t1_r_5>
+			<RU>[T3] Ожерелье Кредне</RU>
+		</accessory_t1_r_5>
+		<accessory_t1_r_6>
+			<RU>[T3] Рубиновый кулон Эпоны</RU>
+		</accessory_t1_r_6>
+		<accessory_t1_r_7>
+			<RU>[T3] Камень зрителя</RU>
+		</accessory_t1_r_7>
+		<accessory_t1_u_1>
+			<RU>[T2] Кровопускающий амулет воеводы</RU>
+		</accessory_t1_u_1>
+		<accessory_t1_u_2>
+			<RU>[T2] Амулет исправления убийцы нежити</RU>
+		</accessory_t1_u_2>
+		<accessory_t1_u_3>
+			<RU>[T2] Упорный амулет ускорения</RU>
+		</accessory_t1_u_3>
+		<accessory_t1_u_4>
+			<RU>[T2] Закалённый амулет парирования</RU>
+		</accessory_t1_u_4>
+		<accessory_t1_u_5>
+			<RU>[T2] Амулет маневрирования борца</RU>
+		</accessory_t1_u_5>
+		<accessory_t1_u_6>
+			<RU>[T2] Инфернальный амулет точности</RU>
+		</accessory_t1_u_6>
+		<accessory_t1_u_7>
+			<RU>[T2] Преданный амулет резвости</RU>
+		</accessory_t1_u_7>
+		<am_consumable_ap>
+			<RU>[T3] Эссенция скорости</RU>
+		</am_consumable_ap>
+		<am_consumable_apperkill>
+			<RU>[T3] Эссенция истребления</RU>
+		</am_consumable_apperkill>
+		<am_consumable_armour>
+			<RU>[T3] Эссенция брони</RU>
+		</am_consumable_armour>
+		<am_consumable_armourbreak>
+			<RU>[T3] Эссенция сокрушения</RU>
+		</am_consumable_armourbreak>
+		<am_consumable_bleedingdamage>
+			<RU>[T3] Эссенция кровоточивости</RU>
+		</am_consumable_bleedingdamage>
+		<am_consumable_block>
+			<RU>[T3] Эссенция укрепления</RU>
+		</am_consumable_block>
+		<am_consumable_burningdamage>
+			<RU>[T3] Эссенция сожжения</RU>
+		</am_consumable_burningdamage>
+		<am_consumable_damage>
+			<RU>[T3] Эссенция аннигиляции</RU>
+		</am_consumable_damage>
+		<am_consumable_damagefromranged>
+			<RU>[T3] Эссенция упреждения</RU>
+		</am_consumable_damagefromranged>
+		<am_consumable_dodge>
+			<RU>[T3] Эссенция уклонения</RU>
+		</am_consumable_dodge>
+		<am_consumable_doubledamage>
+			<RU>[T3] Эссенция увечья</RU>
+		</am_consumable_doubledamage>
+		<am_consumable_fomorianslayer>
+			<RU>[T3] Эссенция убийцы фоморов</RU>
+		</am_consumable_fomorianslayer>
+		<am_consumable_healvitality>
+			<RU>[T3] Эссенция исправления</RU>
+		</am_consumable_healvitality>
+		<am_consumable_hp>
+			<RU>[T3] Эссенция жизни</RU>
+		</am_consumable_hp>
+		<am_consumable_immunitybleeding>
+			<RU>[T3] Эссенция иммунитета к кровотечению</RU>
+		</am_consumable_immunitybleeding>
+		<am_consumable_immunityblind>
+			<RU>[T3] Эссенция взора</RU>
+		</am_consumable_immunityblind>
+		<am_consumable_immunityburning>
+			<RU>[T3] Эссенция иммунитета к горению</RU>
+		</am_consumable_immunityburning>
+		<am_consumable_immunityknockdow>
+			<RU>[T3] Эссенция стабильности</RU>
+		</am_consumable_immunityknockdow>
+		<am_consumable_immunitypoison>
+			<RU>[T3] Эссенция иммунитета к отравлению</RU>
+		</am_consumable_immunitypoison>
+		<am_consumable_immunitystun>
+			<RU>[T3] Эссенция равновесия</RU>
+		</am_consumable_immunitystun>
+		<am_consumable_injurytoken>
+			<RU>[T3] Эссенция жизнестойкости</RU>
+		</am_consumable_injurytoken>
+		<am_consumable_lostslayer>
+			<RU>[T3] Эссенция убийцы потерянных</RU>
+		</am_consumable_lostslayer>
+		<am_consumable_mr>
+			<RU>[T3] Эссенция воли</RU>
+		</am_consumable_mr>
+		<am_consumable_perception>
+			<RU>[T3] Эссенция восприятия</RU>
+		</am_consumable_perception>
+		<am_consumable_pictslayer>
+			<RU>[T3] Эссенция убийцы пиктов</RU>
+		</am_consumable_pictslayer>
+		<am_consumable_poisondamage>
+			<RU>[T3] Эссенция мора</RU>
+		</am_consumable_poisondamage>
+		<am_consumable_pr>
+			<RU>[T3] Эссенция телосложения</RU>
+		</am_consumable_pr>
+		<am_consumable_rangeincrease>
+			<RU>[T3] Эссенция наблюдательности</RU>
+		</am_consumable_rangeincrease>
+		<am_consumable_sidheslayer>
+			<RU>[T3] Эссенция убийцы сидов</RU>
+		</am_consumable_sidheslayer>
+		<am_consumable_spellcraft>
+			<RU>[T3] Эссенция чародейства</RU>
+		</am_consumable_spellcraft>
+		<am_consumable_spellresistance>
+			<RU>[T3] Эссенция защищённости</RU>
+		</am_consumable_spellresistance>
+		<am_consumable_vitality>
+			<RU>[T3] Эссенция целебности</RU>
+		</am_consumable_vitality>
+		<armourheavy1_t1_c_1>
+			<RU>[T1] Сигил напора</RU>
+		</armourheavy1_t1_c_1>
+		<armourheavy1_t1_c_2>
+			<RU>[T1] Гневный сигил</RU>
+		</armourheavy1_t1_c_2>
+		<armourheavy1_t1_c_3>
+			<RU>[T1] Броненосный сигил</RU>
+		</armourheavy1_t1_c_3>
+		<armourheavy1_t1_c_4>
+			<RU>[T1] Сигил восстановления</RU>
+		</armourheavy1_t1_c_4>
+		<armourheavy1_t1_c_5>
+			<RU>[T1] Сигил выносливости</RU>
+		</armourheavy1_t1_c_5>
+		<armourheavy1_t1_c_6>
+			<RU>[T1] Сигил пластин стали</RU>
+		</armourheavy1_t1_c_6>
+		<armourheavy1_t1_c_7>
+			<RU>[T1] Сигил защитника</RU>
+		</armourheavy1_t1_c_7>
+		<armourheavy1_t1_r_1>
+			<RU>[T3] Метка хранителя</RU>
+		</armourheavy1_t1_r_1>
+		<armourheavy1_t1_r_2>
+			<RU>[T3] Сигил сидов</RU>
+		</armourheavy1_t1_r_2>
+		<armourheavy1_t1_r_3>
+			<RU>[T3] Символ злопамятности</RU>
+		</armourheavy1_t1_r_3>
+		<armourheavy1_t1_u_1>
+			<RU>[T2] Раздражённый сигил готовности</RU>
+		</armourheavy1_t1_u_1>
+		<armourheavy1_t1_u_2>
+			<RU>[T2] Бронированный сигил закалки</RU>
+		</armourheavy1_t1_u_2>
+		<armourheavy1_t1_u_3>
+			<RU>[T2] Бронированный сигил пластин стали</RU>
+		</armourheavy1_t1_u_3>
+		<armourheavy1_t1_u_4>
+			<RU>[T2] Настоянный сигил бронника</RU>
+		</armourheavy1_t1_u_4>
+		<armourheavy1_t1_u_5>
+			<RU>[T2] Выносливый сигил неистовства</RU>
+		</armourheavy1_t1_u_5>
+		<armourheavy1_t1_u_6>
+			<RU>[T2] Гневный сигил нерушимости</RU>
+		</armourheavy1_t1_u_6>
+		<armourheavy1_t1_u_7>
+			<RU>[T2] Упорный сигил резвости</RU>
+		</armourheavy1_t1_u_7>
+		<armourheavy2_t1_c_1>
+			<RU>[T1] Сигил зельевара</RU>
+		</armourheavy2_t1_c_1>
+		<armourheavy2_t1_c_2>
+			<RU>[T1] Сигил настоек</RU>
+		</armourheavy2_t1_c_2>
+		<armourheavy2_t1_c_3>
+			<RU>[T1] Героический сигил</RU>
+		</armourheavy2_t1_c_3>
+		<armourheavy2_t1_c_4>
+			<RU>[T1] Сигил подвижности</RU>
+		</armourheavy2_t1_c_4>
+		<armourheavy2_t1_c_5>
+			<RU>[T1] Сигил передышки</RU>
+		</armourheavy2_t1_c_5>
+		<armourheavy2_t1_c_6>
+			<RU>[T1] Сигил раздражения</RU>
+		</armourheavy2_t1_c_6>
+		<armourheavy2_t1_c_7>
+			<RU>[T1] Сигил закалки</RU>
+		</armourheavy2_t1_c_7>
+		<armourheavy2_t1_r_1>
+			<RU>[T3] Благочестивая руна защищённости</RU>
+		</armourheavy2_t1_r_1>
+		<armourheavy2_t1_r_2>
+			<RU>[T3] Знак Айбелл</RU>
+		</armourheavy2_t1_r_2>
+		<armourheavy2_t1_r_3>
+			<RU>[T3] Печать вечной брони</RU>
+		</armourheavy2_t1_r_3>
+		<armourheavy2_t1_u_1>
+			<RU>[T2] Бронированный сигил передышки</RU>
+		</armourheavy2_t1_u_1>
+		<armourheavy2_t1_u_2>
+			<RU>[T2] Закалённый сигил успокоения</RU>
+		</armourheavy2_t1_u_2>
+		<armourheavy2_t1_u_3>
+			<RU>[T2] Подвижный сигил брони</RU>
+		</armourheavy2_t1_u_3>
+		<armourheavy2_t1_u_4>
+			<RU>[T2] Напорный сигил парирования</RU>
+		</armourheavy2_t1_u_4>
+		<armourheavy2_t1_u_5>
+			<RU>[T2] Восстанавливающий сигил исправления</RU>
+		</armourheavy2_t1_u_5>
+		<armourheavy2_t1_u_6>
+			<RU>[T2] Сдержанный сигил напора</RU>
+		</armourheavy2_t1_u_6>
+		<armourheavy2_t1_u_7>
+			<RU>[T2] Подвижный сигил агрессии</RU>
+		</armourheavy2_t1_u_7>
+		<armourheavy_start1>
+			<RU>[T0] Сигил наковальни</RU>
+		</armourheavy_start1>
+		<armourheavy_start2>
+			<RU>[T0] Сигил наковальни</RU>
+		</armourheavy_start2>
+		<armourlight1_t1_c_1>
+			<RU>[T1] Сигил закалки</RU>
+		</armourlight1_t1_c_1>
+		<armourlight1_t1_c_2>
+			<RU>[T1] Сигил передышки</RU>
+		</armourlight1_t1_c_2>
+		<armourlight1_t1_c_3>
+			<RU>[T1] Сигил орлиного взора</RU>
+		</armourlight1_t1_c_3>
+		<armourlight1_t1_c_4>
+			<RU>[T1] Сигил напора</RU>
+		</armourlight1_t1_c_4>
+		<armourlight1_t1_c_5>
+			<RU>[T1] Сигил пластин стали</RU>
+		</armourlight1_t1_c_5>
+		<armourlight1_t1_r_1>
+			<RU>[T3] Печать предвестия</RU>
+		</armourlight1_t1_r_1>
+		<armourlight1_t1_r_2>
+			<RU>[T3] Сигил божественной милости</RU>
+		</armourlight1_t1_r_2>
+		<armourlight1_t1_r_3>
+			<RU>[T3] Сигил жизни эгиды</RU>
+		</armourlight1_t1_r_3>
+		<armourlight1_t1_u_1>
+			<RU>[T2] Сигил орла пластин стали</RU>
+		</armourlight1_t1_u_1>
+		<armourlight1_t1_u_2>
+			<RU>[T2] Закалённый сигил энергии</RU>
+		</armourlight1_t1_u_2>
+		<armourlight1_t1_u_3>
+			<RU>[T2] Защитный сигил точности</RU>
+		</armourlight1_t1_u_3>
+		<armourlight1_t1_u_4>
+			<RU>[T2] Подвижный сигил закалки</RU>
+		</armourlight1_t1_u_4>
+		<armourlight1_t1_u_5>
+			<RU>[T2] Сигил первой помощи зельевара</RU>
+		</armourlight1_t1_u_5>
+		<armourlight2_t1_c_1>
+			<RU>[T1] Сигил настоек</RU>
+		</armourlight2_t1_c_1>
+		<armourlight2_t1_c_2>
+			<RU>[T1] Сигил раздражения</RU>
+		</armourlight2_t1_c_2>
+		<armourlight2_t1_c_3>
+			<RU>[T1] Сигил зельевара</RU>
+		</armourlight2_t1_c_3>
+		<armourlight2_t1_c_4>
+			<RU>[T1] Сигил ускорения</RU>
+		</armourlight2_t1_c_4>
+		<armourlight2_t1_c_5>
+			<RU>[T1] Сигил заряда</RU>
+		</armourlight2_t1_c_5>
+		<armourlight2_t1_r_1>
+			<RU>[T3] Печать благословенной брони</RU>
+		</armourlight2_t1_r_1>
+		<armourlight2_t1_r_2>
+			<RU>[T3] Метка обречённого героя</RU>
+		</armourlight2_t1_r_2>
+		<armourlight2_t1_r_3>
+			<RU>[T3] Печать небесной эгиды</RU>
+		</armourlight2_t1_r_3>
+		<armourlight2_t1_r_4>
+			<RU>[T3] Знак несломленного</RU>
+		</armourlight2_t1_r_4>
+		<armourlight2_t1_u_1>
+			<RU>[T2] Восстанавливающий сигил брони</RU>
+		</armourlight2_t1_u_1>
+		<armourlight2_t1_u_2>
+			<RU>[T2] Сигил нерушимости пластин стали</RU>
+		</armourlight2_t1_u_2>
+		<armourlight2_t1_u_3>
+			<RU>[T2] Сигил выносливости бронника</RU>
+		</armourlight2_t1_u_3>
+		<armourlight2_t1_u_4>
+			<RU>[T2] Закалённый сигил брони</RU>
+		</armourlight2_t1_u_4>
+		<armourlight2_t1_u_5>
+			<RU>[T2] Стремительный сигил упорства</RU>
+		</armourlight2_t1_u_5>
+		<armourlight_start1>
+			<RU>[T0] Сигил вепря</RU>
+		</armourlight_start1>
+		<armourlight_start2>
+			<RU>[T0] Сигил вепря</RU>
+		</armourlight_start2>
+		<armourmedium1_t1_c_1>
+			<RU>[T1] Сигил напора</RU>
+		</armourmedium1_t1_c_1>
+		<armourmedium1_t1_c_2>
+			<RU>[T1] Сигил восстановления</RU>
+		</armourmedium1_t1_c_2>
+		<armourmedium1_t1_c_3>
+			<RU>[T1] Сигил героизма</RU>
+		</armourmedium1_t1_c_3>
+		<armourmedium1_t1_c_4>
+			<RU>[T1] Сигил пластин стали</RU>
+		</armourmedium1_t1_c_4>
+		<armourmedium1_t1_c_5>
+			<RU>[T1] Сигил настоек</RU>
+		</armourmedium1_t1_c_5>
+		<armourmedium1_t1_r_1>
+			<RU>[T3] Метка Белена</RU>
+		</armourmedium1_t1_r_1>
+		<armourmedium1_t1_r_2>
+			<RU>[T3] Великая руна судьбы</RU>
+		</armourmedium1_t1_r_2>
+		<armourmedium1_t1_r_3>
+			<RU>[T3] Оперённый сигил</RU>
+		</armourmedium1_t1_r_3>
+		<armourmedium1_t1_u_1>
+			<RU>[T2] Бронированный сигил передышки</RU>
+		</armourmedium1_t1_u_1>
+		<armourmedium1_t1_u_2>
+			<RU>[T2] Закалённый сигил готовности</RU>
+		</armourmedium1_t1_u_2>
+		<armourmedium1_t1_u_3>
+			<RU>[T2] Ударопрочный сигил резвости</RU>
+		</armourmedium1_t1_u_3>
+		<armourmedium1_t1_u_4>
+			<RU>[T2] Бронированный сигил закалки</RU>
+		</armourmedium1_t1_u_4>
+		<armourmedium1_t1_u_5>
+			<RU>[T2] Сигил пластин стали бронника</RU>
+		</armourmedium1_t1_u_5>
+		<armourmedium2_t1_c_1>
+			<RU>[T1] Сигил передышки</RU>
+		</armourmedium2_t1_c_1>
+		<armourmedium2_t1_c_2>
+			<RU>[T1] Выносливый сигил</RU>
+		</armourmedium2_t1_c_2>
+		<armourmedium2_t1_c_3>
+			<RU>[T1] Сигил зельевара</RU>
+		</armourmedium2_t1_c_3>
+		<armourmedium2_t1_c_4>
+			<RU>[T1] Броненосный сигил</RU>
+		</armourmedium2_t1_c_4>
+		<armourmedium2_t1_c_5>
+			<RU>[T1] Сигил закалки</RU>
+		</armourmedium2_t1_c_5>
+		<armourmedium2_t1_r_1>
+			<RU>[T3] Метка воздаяния</RU>
+		</armourmedium2_t1_r_1>
+		<armourmedium2_t1_r_2>
+			<RU>[T3] Великая руна оружейника</RU>
+		</armourmedium2_t1_r_2>
+		<armourmedium2_t1_r_3>
+			<RU>[T3] Передышка оружейника</RU>
+		</armourmedium2_t1_r_3>
+		<armourmedium2_t1_u_1>
+			<RU>[T2] Лечащий сигил бешенства</RU>
+		</armourmedium2_t1_u_1>
+		<armourmedium2_t1_u_2>
+			<RU>[T2] Напорный сигил неуловимости</RU>
+		</armourmedium2_t1_u_2>
+		<armourmedium2_t1_u_3>
+			<RU>[T2] Броненосный сигил агрессии</RU>
+		</armourmedium2_t1_u_3>
+		<armourmedium2_t1_u_4>
+			<RU>[T2] Закалённый сигил скрытности</RU>
+		</armourmedium2_t1_u_4>
+		<armourmedium2_t1_u_5>
+			<RU>[T2] Восстанавливающий сигил первой помощи</RU>
+		</armourmedium2_t1_u_5>
+		<armourmedium_start1>
+			<RU>[T0] Сигил молота</RU>
+		</armourmedium_start1>
+		<armourmedium_start2>
+			<RU>[T0] Сигил молота</RU>
+		</armourmedium_start2>
+		<artifact_start>
+			<RU>Тотем проклятия</RU>
+		</artifact_start>
+		<artifact_t1_c_1>
+			<RU>[T1] Могучий артефакт</RU>
+		</artifact_t1_c_1>
+		<artifact_t1_c_2>
+			<RU>[T1] Артефакт пластин стали</RU>
+		</artifact_t1_c_2>
+		<artifact_t1_c_3>
+			<RU>[T1] Артефакт заряда</RU>
+		</artifact_t1_c_3>
+		<artifact_t1_c_4>
+			<RU>[T1] Пагубный артефакт</RU>
+		</artifact_t1_c_4>
+		<artifact_t1_c_5>
+			<RU>[T1] Артефакт долбления</RU>
+		</artifact_t1_c_5>
+		<artifact_t1_r_1>
+			<RU>[T3] Эфирная оболочка</RU>
+		</artifact_t1_r_1>
+		<artifact_t1_r_2>
+			<RU>[T3] Прах Муга Руита</RU>
+		</artifact_t1_r_2>
+		<artifact_t1_u_1>
+			<RU>[T2] Артефакт свирепости берсерка</RU>
+		</artifact_t1_u_1>
+		<artifact_t1_u_2>
+			<RU>[T2] Прямолинейный артефакт пагубы</RU>
+		</artifact_t1_u_2>
+		<artifact_t1_u_3>
+			<RU>[T2] Злобный артефакт мук</RU>
+		</artifact_t1_u_3>
+		<artifact_t1_u_4>
+			<RU>[T2] Уничтожающий артефакт могущества</RU>
+		</artifact_t1_u_4>
+		<axe_t1_c_1>
+			<RU>[T1] Руна убийцы нежити</RU>
+		</axe_t1_c_1>
+		<axe_t1_c_2>
+			<RU>[T1] Руна глубоких ран</RU>
+		</axe_t1_c_2>
+		<axe_t1_c_3>
+			<RU>[T1] Руна свирепости</RU>
+		</axe_t1_c_3>
+		<axe_t1_c_4>
+			<RU>[T1] Руна баланса</RU>
+		</axe_t1_c_4>
+		<axe_t1_c_5>
+			<RU>[T1] Руна защитника</RU>
+		</axe_t1_c_5>
+		<axe_t1_r_1>
+			<RU>[T3] Печать косы</RU>
+		</axe_t1_r_1>
+		<axe_t1_r_2>
+			<RU>[T3] Метка сборщика</RU>
+		</axe_t1_r_2>
+		<axe_t1_r_3>
+			<RU>[T3] Стойкость мученика</RU>
+		</axe_t1_r_3>
+		<axe_t1_u_1>
+			<RU>[T2] Восстанавливающая руна опустошения</RU>
+		</axe_t1_u_1>
+		<axe_t1_u_2>
+			<RU>[T2] Руна ярости ассасина</RU>
+		</axe_t1_u_2>
+		<axe_t1_u_3>
+			<RU>[T2] Руна агрессии убийцы</RU>
+		</axe_t1_u_3>
+		<axe_t1_u_4>
+			<RU>[T2] Закалённая руна мук</RU>
+		</axe_t1_u_4>
+		<axe_t1_u_5>
+			<RU>[T2] Свирепая руна сдержанности</RU>
+		</axe_t1_u_5>
+		<bow_t1_c_1>
+			<RU>[T1] Руна борьбы</RU>
+		</bow_t1_c_1>
+		<bow_t1_c_2>
+			<RU>[T1] Руна стрелка</RU>
+		</bow_t1_c_2>
+		<bow_t1_c_3>
+			<RU>[T1] Руна защитника</RU>
+		</bow_t1_c_3>
+		<bow_t1_c_4>
+			<RU>[T1] Руна кожедолба</RU>
+		</bow_t1_c_4>
+		<bow_t1_r_1>
+			<RU>[T3] Руна стрелы Агроны</RU>
+		</bow_t1_r_1>
+		<bow_t1_r_2>
+			<RU>[T3] Знак лучника</RU>
+		</bow_t1_r_2>
+		<bow_t1_r_3>
+			<RU>[T3] Гнев охотницы</RU>
+		</bow_t1_r_3>
+		<bow_t1_u_1>
+			<RU>[T2] Руна ярости малой дальности</RU>
+		</bow_t1_u_1>
+		<bow_t1_u_2>
+			<RU>[T2] Подвижная руна изнурения</RU>
+		</bow_t1_u_2>
+		<bow_t1_u_3>
+			<RU>[T2] Уничтожающая руна свирепости</RU>
+		</bow_t1_u_3>
+		<bow_t1_u_4>
+			<RU>[T2] Руна сдержанности инициатора</RU>
+		</bow_t1_u_4>
+		<console_earlybird_ring>
+			<desc>
+				<RU>Его сила подчинится лишь тем, кто первым ринулся на спасение Авалона в тёмные времена...</RU>
+			</desc>
+			<RU>[T3] Кольцо ранней пташки</RU>
+		</console_earlybird_ring>
+		<crossbow_t1_c_1>
+			<RU>[T1] Руна отравления</RU>
+		</crossbow_t1_c_1>
+		<crossbow_t1_c_2>
+			<RU>[T1] Руна немочи</RU>
+		</crossbow_t1_c_2>
+		<crossbow_t1_c_3>
+			<RU>[T1] Инфернальная руна</RU>
+		</crossbow_t1_c_3>
+		<crossbow_t1_c_4>
+			<RU>[T1] Руна удара в спину</RU>
+		</crossbow_t1_c_4>
+		<crossbow_t1_c_5>
+			<RU>[T1] Руна обугливания</RU>
+		</crossbow_t1_c_5>
+		<crossbow_t1_r_1>
+			<RU>[T3] Руна искателя сердец</RU>
+		</crossbow_t1_r_1>
+		<crossbow_t1_r_2>
+			<RU>[T3] Прикосновение рока</RU>
+		</crossbow_t1_r_2>
+		<crossbow_t1_r_3>
+			<RU>[T3] Руна смерти</RU>
+		</crossbow_t1_r_3>
+		<crossbow_t1_u_1>
+			<RU>[T2] Отравляющая руна берсерка</RU>
+		</crossbow_t1_u_1>
+		<crossbow_t1_u_2>
+			<RU>[T2] Сбалансированная руна меткого стрелка</RU>
+		</crossbow_t1_u_2>
+		<crossbow_t1_u_3>
+			<RU>[T2] Бешеная руна орла</RU>
+		</crossbow_t1_u_3>
+		<crossbow_t1_u_4>
+			<RU>[T2] Обугливающая руна жара</RU>
+		</crossbow_t1_u_4>
+		<crossbow_t1_u_5>
+			<RU>[T2] Сильная руна немочи</RU>
+		</crossbow_t1_u_5>
+		<isoldesneklace>
+			<RU>[T3] Ожерелье Изольды</RU>
+		</isoldesneklace>
+		<jewelry_start>
+			<RU>Драгоценное кольцо</RU>
+		</jewelry_start>
+		<jewelry_t1_c_1>
+			<RU>[T1] Кольцо резвости</RU>
+		</jewelry_t1_c_1>
+		<jewelry_t1_c_2>
+			<RU>[T1] Обугливающее кольцо</RU>
+		</jewelry_t1_c_2>
+		<jewelry_t1_c_3>
+			<RU>[T1] Кольцо защитника</RU>
+		</jewelry_t1_c_3>
+		<jewelry_t1_c_4>
+			<RU>[T1] Инфернальное кольцо</RU>
+		</jewelry_t1_c_4>
+		<jewelry_t1_c_5>
+			<RU>[T1] Кольцо заряда</RU>
+		</jewelry_t1_c_5>
+		<jewelry_t1_c_6>
+			<RU>[T1] Кольцо свирепости</RU>
+		</jewelry_t1_c_6>
+		<jewelry_t1_r_1>
+			<RU>[T3] Кольцо казни</RU>
+		</jewelry_t1_r_1>
+		<jewelry_t1_r_2>
+			<RU>[T3] Кольцо кремня</RU>
+		</jewelry_t1_r_2>
+		<jewelry_t1_r_3>
+			<RU>[T3] Кольцо Кредне</RU>
+		</jewelry_t1_r_3>
+		<jewelry_t1_r_4>
+			<RU>[T3] Кольцо мыслителя</RU>
+		</jewelry_t1_r_4>
+		<jewelry_t1_r_5>
+			<RU>[T3] Кольцо поединщика</RU>
+		</jewelry_t1_r_5>
+		<jewelry_t1_r_6>
+			<RU>[T3] Драгоценность божественного кузнеца</RU>
+		</jewelry_t1_r_6>
+		<jewelry_t1_r_7>
+			<RU>[T3] Кровавый камень Кром Круаха</RU>
+		</jewelry_t1_r_7>
+		<jewelry_t1_u_1>
+			<RU>[T2] Прочное кольцо напора</RU>
+		</jewelry_t1_u_1>
+		<jewelry_t1_u_2>
+			<RU>[T2] Ускоряющее кольцо первой крови</RU>
+		</jewelry_t1_u_2>
+		<jewelry_t1_u_3>
+			<RU>[T2] Отравляющее кольцо выхода из боя</RU>
+		</jewelry_t1_u_3>
+		<jewelry_t1_u_4>
+			<RU>[T2] Кольцо поединка орлиного взора</RU>
+		</jewelry_t1_u_4>
+		<jewelry_t1_u_5>
+			<RU>[T2] Немощное кольцо неуловимости</RU>
+		</jewelry_t1_u_5>
+		<jewelry_t1_u_6>
+			<RU>[T2] Кольцо опустошения удара в спину</RU>
+		</jewelry_t1_u_6>
+		<jewelry_t1_u_7>
+			<RU>[T2] Кольцо щитолома защитника</RU>
+		</jewelry_t1_u_7>
+		<luckycharm_start>
+			<RU>Счастливая монетка</RU>
+		</luckycharm_start>
+		<luckycharm_t1_c_1>
+			<RU>[T1] Талисман резвости</RU>
+		</luckycharm_t1_c_1>
+		<luckycharm_t1_c_2>
+			<RU>[T1] Воспламеняющий талисман</RU>
+		</luckycharm_t1_c_2>
+		<luckycharm_t1_c_3>
+			<RU>[T1] Обугливающий талисман</RU>
+		</luckycharm_t1_c_3>
+		<luckycharm_t1_c_4>
+			<RU>[T1] Талисман немочи</RU>
+		</luckycharm_t1_c_4>
+		<luckycharm_t1_c_5>
+			<RU>[T1] Отравляющий талисман</RU>
+		</luckycharm_t1_c_5>
+		<luckycharm_t1_r_1>
+			<RU>[T3] Талисман охотника</RU>
+		</luckycharm_t1_r_1>
+		<luckycharm_t1_r_2>
+			<RU>[T3] Огненный талисман кузнеца</RU>
+		</luckycharm_t1_r_2>
+		<luckycharm_t1_u_1>
+			<RU>[T2] Пронзающий талисман щитолома</RU>
+		</luckycharm_t1_u_1>
+		<luckycharm_t1_u_2>
+			<RU>[T2] Талисман сдержанности орлиного взора</RU>
+		</luckycharm_t1_u_2>
+		<luckycharm_t1_u_3>
+			<RU>[T2] Талисман малой дальности стрелка</RU>
+		</luckycharm_t1_u_3>
+		<luckycharm_t1_u_4>
+			<RU>[T2] Обугливающий талисман маневрирования</RU>
+		</luckycharm_t1_u_4>
+		<mace_t1_c_1>
+			<RU>[T1] Руна отравления</RU>
+		</mace_t1_c_1>
+		<mace_t1_c_2>
+			<RU>[T1] Руна удара в спину</RU>
+		</mace_t1_c_2>
+		<mace_t1_c_3>
+			<RU>[T1] Яростная руна</RU>
+		</mace_t1_c_3>
+		<mace_t1_c_4>
+			<RU>[T1] Руна убийства</RU>
+		</mace_t1_c_4>
+		<mace_t1_r_1>
+			<RU>[T3] Горе соперника</RU>
+		</mace_t1_r_1>
+		<mace_t1_r_2>
+			<RU>[T3] Знак экзорцизма</RU>
+		</mace_t1_r_2>
+		<mace_t1_r_3>
+			<RU>[T3] Метка Луга</RU>
+		</mace_t1_r_3>
+		<mace_t1_u_1>
+			<RU>[T2] Бешеная руна глубоких ран</RU>
+		</mace_t1_u_1>
+		<mace_t1_u_2>
+			<RU>[T2] Руна гнева воеводы</RU>
+		</mace_t1_u_2>
+		<mace_t1_u_3>
+			<RU>[T2] Пронзающая руна силы</RU>
+		</mace_t1_u_3>
+		<mace_t1_u_4>
+			<RU>[T2] Режущая руна берсерка</RU>
+		</mace_t1_u_4>
+		<manuscript_start>
+			<RU>Манускрипт</RU>
+		</manuscript_start>
+		<manuscript_t1_c_1>
+			<RU>[T1] Манускрипт энергии</RU>
+		</manuscript_t1_c_1>
+		<manuscript_t1_c_2>
+			<RU>[T1] Манускрипт выносливости</RU>
+		</manuscript_t1_c_2>
+		<manuscript_t1_c_3>
+			<RU>[T1] Манускрипт убийства нежити</RU>
+		</manuscript_t1_c_3>
+		<manuscript_t1_c_4>
+			<RU>[T1] Манускрипт резвости</RU>
+		</manuscript_t1_c_4>
+		<manuscript_t1_c_5>
+			<RU>[T1] Манускрипт зельевара</RU>
+		</manuscript_t1_c_5>
+		<manuscript_t1_r_1>
+			<RU>[T3] Книга слияния</RU>
+		</manuscript_t1_r_1>
+		<manuscript_t1_r_2>
+			<RU>[T3] Завет Донна</RU>
+		</manuscript_t1_r_2>
+		<manuscript_t1_u_1>
+			<RU>[T2] Бронированный манускрипт благословений</RU>
+		</manuscript_t1_u_1>
+		<manuscript_t1_u_2>
+			<RU>[T2] Манускрипт закалки убийцы нежити</RU>
+		</manuscript_t1_u_2>
+		<manuscript_t1_u_3>
+			<RU>[T2] Напорный манускрипт первой помощи</RU>
+		</manuscript_t1_u_3>
+		<manuscript_t1_u_4>
+			<RU>[T2] Настоянный манускрипт упорства</RU>
+		</manuscript_t1_u_4>
+		<oathstone_start>
+			<RU>Камень клятвы зелий</RU>
+		</oathstone_start>
+		<oathstone_t1_c_1>
+			<RU>[T1] Камень клятвы настоек</RU>
+		</oathstone_t1_c_1>
+		<oathstone_t1_c_2>
+			<RU>[T1] Камень клятвы борца</RU>
+		</oathstone_t1_c_2>
+		<oathstone_t1_c_3>
+			<RU>[T1] Камень клятвы кожедолба</RU>
+		</oathstone_t1_c_3>
+		<oathstone_t1_c_4>
+			<RU>[T1] Камень клятвы героизма</RU>
+		</oathstone_t1_c_4>
+		<oathstone_t1_c_5>
+			<RU>[T1] Энергетический камень клятвы</RU>
+		</oathstone_t1_c_5>
+		<oathstone_t1_r_1>
+			<RU>[T3] Камень наковальни</RU>
+		</oathstone_t1_r_1>
+		<oathstone_t1_r_2>
+			<RU>[T3] Кристалл эха</RU>
+		</oathstone_t1_r_2>
+		<oathstone_t1_u_1>
+			<RU>[T2] Закалённый камень клятвы щита</RU>
+		</oathstone_t1_u_1>
+		<oathstone_t1_u_2>
+			<RU>[T2] Камень клятвы пластин стали от снарядов</RU>
+		</oathstone_t1_u_2>
+		<oathstone_t1_u_3>
+			<RU>[T2] Камень клятвы прочности зельевара</RU>
+		</oathstone_t1_u_3>
+		<oathstone_t1_u_4>
+			<RU>[T2] Отдыхающий камень клятвы исправления</RU>
+		</oathstone_t1_u_4>
+		<potion_armour>
+			<RU>[T0] Зелье брони</RU>
+		</potion_armour>
+		<potion_armour_large>
+			<RU>[T2] Мощное зелье брони</RU>
+		</potion_armour_large>
+		<potion_bless>
+			<RU>[T0] Зелье благословения</RU>
+		</potion_bless>
+		<potion_bless_large>
+			<RU>[T2] Мощное зелье благословения</RU>
+		</potion_bless_large>
+		<potion_haste>
+			<RU>[T0] Зелье ускорения</RU>
+		</potion_haste>
+		<potion_haste_large>
+			<RU>[T2] Мощное зелье ускорения</RU>
+		</potion_haste_large>
+		<potion_healing>
+			<RU>[T0] Исцеляющее зелье</RU>
+		</potion_healing>
+		<potion_healing_large>
+			<RU>[T2] Мощное исцеляющее зелье</RU>
+		</potion_healing_large>
+		<potion_invisibility>
+			<RU>[T2] Зелье невидимости</RU>
+		</potion_invisibility>
+		<potion_refreshing>
+			<RU>[T2] Зелье обновления</RU>
+		</potion_refreshing>
+		<potion_stoneskin>
+			<RU>[T0] Зелье каменного покрова</RU>
+		</potion_stoneskin>
+		<potion_stoneskin_large>
+			<RU>[T2] Мощное зелье каменного покрова</RU>
+		</potion_stoneskin_large>
+		<provision_start>
+			<RU>Мантия</RU>
+		</provision_start>
+		<provision_t1_c_1>
+			<RU>[T1] Провизия ускорения</RU>
+		</provision_t1_c_1>
+		<provision_t1_c_2>
+			<RU>[T1] Провизия удара в спину</RU>
+		</provision_t1_c_2>
+		<provision_t1_c_3>
+			<RU>[T1] Провизия зверолова</RU>
+		</provision_t1_c_3>
+		<provision_t1_c_4>
+			<RU>[T1] Провизия скрытня</RU>
+		</provision_t1_c_4>
+		<provision_t1_c_5>
+			<RU>[T1] Провизия раздражения</RU>
+		</provision_t1_c_5>
+		<provision_t1_r_1>
+			<RU>[T3] Рыщущее око</RU>
+		</provision_t1_r_1>
+		<provision_t1_r_2>
+			<RU>[T3] Подзорная труба ассасина</RU>
+		</provision_t1_r_2>
+		<provision_t1_u_1>
+			<RU>[T2] Провизия скрытности могильщика</RU>
+		</provision_t1_u_1>
+		<provision_t1_u_2>
+			<RU>[T2] Силковая провизия укрытия</RU>
+		</provision_t1_u_2>
+		<provision_t1_u_3>
+			<RU>[T2] Стремительная провизия движения</RU>
+		</provision_t1_u_3>
+		<provision_t1_u_4>
+			<RU>[T2] Провизия маскировки могильщика</RU>
+		</provision_t1_u_4>
+		<rangedbow_start>
+			<RU>[T0] Руна стрелка</RU>
+		</rangedbow_start>
+		<rangedcrossbow_start>
+			<RU>[T0] Руна стрелка</RU>
+		</rangedcrossbow_start>
+		<resource_gemcommon>
+			<RU>[T0] Сундук изумрудов</RU>
+		</resource_gemcommon>
+		<resource_gemrelic>
+			<RU>[T3] Топаз</RU>
+		</resource_gemrelic>
+		<resource_gemuncommon>
+			<RU>[T2] Шкатулка сапфиров</RU>
+		</resource_gemuncommon>
+		<resource_relicdust>
+			<RU>[T3] Мешок пыльцы реликвий</RU>
+		</resource_relicdust>
+		<scroll_dash>
+			<RU>[T2] Свиток рывка</RU>
+		</scroll_dash>
+		<scroll_fireblast>
+			<RU>[T2] Свиток огненного взрыва</RU>
+		</scroll_fireblast>
+		<scroll_icewall>
+			<RU>[T2] Свиток ледяной стены</RU>
+		</scroll_icewall>
+		<scroll_recuperate>
+			<RU>[T2] Свиток выздоровления</RU>
+		</scroll_recuperate>
+		<scroll_taunt>
+			<RU>[T2] Свиток провокации</RU>
+		</scroll_taunt>
+		<scroll_thunderbolt>
+			<RU>[T2] Свиток грозового заряда</RU>
+		</scroll_thunderbolt>
+		<scroll_wallofflame>
+			<RU>[T2] Свиток пламенной стены</RU>
+		</scroll_wallofflame>
+		<sirdagonet_masterofpotions_potion>
+			<RU>[T0] Отвар обновления</RU>
+		</sirdagonet_masterofpotions_potion>
+		<staff1_t1_c_1>
+			<RU>[T1] Руна баланса</RU>
+		</staff1_t1_c_1>
+		<staff1_t1_c_2>
+			<RU>[T1] Руна стрелка</RU>
+		</staff1_t1_c_2>
+		<staff1_t1_c_3>
+			<RU>[T1] Руна свирепости</RU>
+		</staff1_t1_c_3>
+		<staff1_t1_c_4>
+			<RU>[T1] Руна могущества</RU>
+		</staff1_t1_c_4>
+		<staff1_t1_c_5>
+			<RU>[T1] Энергетическая руна</RU>
+		</staff1_t1_c_5>
+		<staff1_t1_r_1>
+			<RU>[T3] Око Бе-Шуй</RU>
+		</staff1_t1_r_1>
+		<staff1_t1_r_2>
+			<RU>[T3] Руна мести</RU>
+		</staff1_t1_r_2>
+		<staff1_t1_r_3>
+			<RU>[T3] Знак лишений</RU>
+		</staff1_t1_r_3>
+		<staff1_t1_u_1>
+			<RU>[T2] Яростная руна сдержанности</RU>
+		</staff1_t1_u_1>
+		<staff1_t1_u_2>
+			<RU>[T2] Руна мук кожедолба</RU>
+		</staff1_t1_u_2>
+		<staff1_t1_u_3>
+			<RU>[T2] Руна глубоких ран аса проклятий</RU>
+		</staff1_t1_u_3>
+		<staff1_t1_u_4>
+			<RU>[T2] Руна свирепости караула</RU>
+		</staff1_t1_u_4>
+		<staff1_t1_u_5>
+			<RU>[T2] Руна кровопускания выхода из боя</RU>
+		</staff1_t1_u_5>
+		<staff2_t1_c_1>
+			<RU>[T1] Руна первой крови</RU>
+		</staff2_t1_c_1>
+		<staff2_t1_c_2>
+			<RU>[T1] Руна защитника</RU>
+		</staff2_t1_c_2>
+		<staff2_t1_c_3>
+			<RU>[T1] Пронзающая руна</RU>
+		</staff2_t1_c_3>
+		<staff2_t1_c_4>
+			<RU>[T1] Руна восстановления</RU>
+		</staff2_t1_c_4>
+		<staff2_t1_r_1>
+			<RU>[T3] Зов Донна</RU>
+		</staff2_t1_r_1>
+		<staff2_t1_r_2>
+			<RU>[T3] Гнев Экне</RU>
+		</staff2_t1_r_2>
+		<staff2_t1_r_3>
+			<RU>[T3] Благочестивая руна гнева</RU>
+		</staff2_t1_r_3>
+		<staff2_t1_u_1>
+			<RU>[T2] Руна меткости стрелка</RU>
+		</staff2_t1_u_1>
+		<staff2_t1_u_2>
+			<RU>[T2] Пронзающая руна малой дальности</RU>
+		</staff2_t1_u_2>
+		<staff2_t1_u_3>
+			<RU>[T2] Энергетическая руна силы</RU>
+		</staff2_t1_u_3>
+		<staff2_t1_u_4>
+			<RU>[T2] Руна уничтожения борца</RU>
+		</staff2_t1_u_4>
+		<staff_start1>
+			<RU>[T0] Руна магии</RU>
+		</staff_start1>
+		<staff_start2>
+			<RU>[T0] Руна магии</RU>
+		</staff_start2>
+		<sword_t1_c_1>
+			<RU>[T1] Руна орлиного взора</RU>
+		</sword_t1_c_1>
+		<sword_t1_c_2>
+			<RU>[T1] Руна кожедолба</RU>
+		</sword_t1_c_2>
+		<sword_t1_c_3>
+			<RU>[T1] Руна борьбы</RU>
+		</sword_t1_c_3>
+		<sword_t1_c_4>
+			<RU>[T1] Пронзающая руна</RU>
+		</sword_t1_c_4>
+		<sword_t1_c_5>
+			<RU>[T1] Руна кровопускания</RU>
+		</sword_t1_c_5>
+		<sword_t1_r_1>
+			<RU>[T3] Знак вора</RU>
+		</sword_t1_r_1>
+		<sword_t1_r_2>
+			<RU>[T3] Символ острия пера</RU>
+		</sword_t1_r_2>
+		<sword_t1_r_3>
+			<RU>[T3] Решимость поединщика</RU>
+		</sword_t1_r_3>
+		<sword_t1_r_4>
+			<RU>[T3] Напитанный сланец</RU>
+		</sword_t1_r_4>
+		<sword_t1_u_1>
+			<RU>[T2] Немощная руна силы</RU>
+		</sword_t1_u_1>
+		<sword_t1_u_2>
+			<RU>[T2] Руна поединка убийцы</RU>
+		</sword_t1_u_2>
+		<sword_t1_u_3>
+			<RU>[T2] Движущаяся руна борьбы</RU>
+		</sword_t1_u_3>
+		<sword_t1_u_4>
+			<RU>[T2] Яростная руна удара</RU>
+		</sword_t1_u_4>
+		<sword_t1_u_5>
+			<RU>[T2] Руна изнурения кожедолба</RU>
+		</sword_t1_u_5>
+		<temp_accessory_berserker>
+			<RU>[T3] Амулет неистовства</RU>
+		</temp_accessory_berserker>
+		<temp_accessory_drainlife>
+			<RU>[T3] Амулет вампиризма</RU>
+		</temp_accessory_drainlife>
+		<temp_jewelry_damageresist>
+			<RU>[T3] Кольцо сопротивления</RU>
+		</temp_jewelry_damageresist>
+		<temp_jewelry_power>
+			<RU>[T3] Кольцо уничтожения</RU>
+		</temp_jewelry_power>
+		<temp_jewelry_summonlost>
+			<RU>[T3] Изумруд некроманта</RU>
+		</temp_jewelry_summonlost>
+		<temp_jewelry_teleport>
+			<RU>[T3] Кольцо чародейства</RU>
+		</temp_jewelry_teleport>
+		<tome_healinjury>
+			<RU>[T0] Фолиант восстановления</RU>
+		</tome_healinjury>
+		<tome_healvitality>
+			<RU>[T0] Фолиант хирургии</RU>
+		</tome_healvitality>
+		<tome_missionap>
+			<RU>[T2] Фолиант ускорения</RU>
+		</tome_missionap>
+		<tome_missiondamage>
+			<RU>[T0] Фолиант войны</RU>
+		</tome_missiondamage>
+		<tome_missionresist>
+			<RU>[T0] Фолиант сопротивления</RU>
+		</tome_missionresist>
+		<tome_removetrait>
+			<RU>[T2] Фолиант освобождения</RU>
+		</tome_removetrait>
+		<tome_resetloyalty>
+			<RU>[T0] Фолиант прощения</RU>
+		</tome_resetloyalty>
+		<tome_resetskills>
+			<RU>[T0] Фолиант сожаления</RU>
+		</tome_resetskills>
+		<tome_resurrection>
+			<RU>[T2] Фолиант воскрешения</RU>
+		</tome_resurrection>
+		<tome_returntoaspirant>
+			<RU>[T0] Фолиант безземельника</RU>
+		</tome_returntoaspirant>
+		<tome_skillpoint>
+			<RU>[T2] Фолиант мастерства</RU>
+		</tome_skillpoint>
+		<tome_xp>
+			<RU>[T0] Фолиант опытности</RU>
+		</tome_xp>
+		<trophy_start>
+			<RU>Трофей охотника</RU>
+		</trophy_start>
+		<trophy_t1_c_1>
+			<RU>[T1] Трофей выносливости</RU>
+		</trophy_t1_c_1>
+		<trophy_t1_c_2>
+			<RU>[T1] Трофей ярости</RU>
+		</trophy_t1_c_2>
+		<trophy_t1_c_3>
+			<RU>[T1] Трофей рассечения</RU>
+		</trophy_t1_c_3>
+		<trophy_t1_c_4>
+			<RU>[T1] Трофей свирепости</RU>
+		</trophy_t1_c_4>
+		<trophy_t1_c_5>
+			<RU>[T1] Трофей кровопускания</RU>
+		</trophy_t1_c_5>
+		<trophy_t1_r_1>
+			<RU>[T3] Рога Кернунна</RU>
+		</trophy_t1_r_1>
+		<trophy_t1_r_2>
+			<RU>[T3] Оленьи рога Ардуин</RU>
+		</trophy_t1_r_2>
+		<trophy_t1_u_1>
+			<RU>[T2] Сильный трофей опустошения</RU>
+		</trophy_t1_u_1>
+		<trophy_t1_u_2>
+			<RU>[T2] Раздражённый трофей неистовства</RU>
+		</trophy_t1_u_2>
+		<trophy_t1_u_3>
+			<RU>[T2] Трофей сокрушения щитолома</RU>
+		</trophy_t1_u_3>
+		<trophy_t1_u_4>
+			<RU>[T2] Героический трофей нерушимости</RU>
+		</trophy_t1_u_4>
+	</items>
+</Root>

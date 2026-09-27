@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<LanguageName>
+		<RU>Русский</RU>
+	</LanguageName>
+	<Languages>RU</Languages>
+	<items>
+		<lar_cacus>
+			<RU>[TL] Лар Как</RU>
+		</lar_cacus>
+		<lar_fulgora>
+			<RU>[TL] Лар Фульгора</RU>
+		</lar_fulgora>
+		<lar_lemure>
+			<RU>[TL] Лар Лемур</RU>
+		</lar_lemure>
+		<lar_poena>
+			<RU>[TL] Лар Пэна</RU>
+		</lar_poena>
+		<lar_umbrae>
+			<RU>[TL] Лар Умбра</RU>
+		</lar_umbrae>
+		<lar_volcanus>
+			<RU>[TL] Лар Вулкан</RU>
+		</lar_volcanus>
+	</items>
+</Root>
