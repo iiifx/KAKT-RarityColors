@@ -1,0 +1,5 @@
+# Mod files must reach the game byte for byte: no line-ending conversion anywhere.
+* -text
+*.sh text eol=lf
+*.bat text eol=crlf
+*.ps1 text eol=crlf

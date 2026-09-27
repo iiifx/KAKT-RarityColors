@@ -65,14 +65,54 @@ The prefixes are included for all 10 game languages.
 5. Optional: to get the tier prefixes, also copy the `Strings` folder from
    `Optional/TierPrefixes` into the game folder.
 
-`README.md`, `LICENSE`, `.gitignore` and the `tools` folder do not need to be copied.
+Only the folders above are copied; everything else in the archive (`README.md`, `LICENSE`,
+the scripts, `installer`, `tools`, `tests`) stays out of the game folder.
+
+## Installing with a script (optional)
+
+Instead of copying by hand you can let a script do it. It finds the game through Steam,
+checks that the game files are the ones the mod expects, backs up every file it replaces
+and can later put them back.
+
+- **Windows:** double-click `install.bat` (or `uninstall.bat`). If Windows warns about a
+  downloaded file ("Windows protected your PC"), choose *More info* → *Run anyway*.
+- **Linux and macOS:** in a terminal, in the extracted folder: `sh install.sh` (or
+  `sh uninstall.sh`).
+
+On the first run the installer asks whether to add the optional tier prefixes. To add them
+later, uninstall and install again with `--with TierPrefixes`. Options (the same on every
+system; on Windows add them after the `.bat` name in a command prompt):
+
+| Option | Meaning |
+|---|---|
+| `--game PATH` | game folder, if it is not found automatically |
+| `--with TierPrefixes` | install the tier prefixes without asking |
+| `--yes` | confirm warnings without asking (optional components still need `--with`) |
+| `--force` | install even over files changed by something else; they are backed up as they are |
+| `--discard-backup` | uninstall: forget a backup that can no longer be restored |
+
+How it keeps your game safe:
+
+- The backup goes to `_mod_backups/KAKT-RarityColors` inside the game folder. Do not delete it
+  while the mod is installed.
+- Nothing is changed unless every file checks out. If the mod was already copied by hand,
+  another mod changed the same files or they come from another game version, the installer stops and
+  says why. If copying fails halfway, the original files are put back.
+- The uninstaller restores only files that are still exactly as the mod left them. Files
+  changed since then (a game update, a file verification, another mod) are left alone and
+  listed.
+- The game must be closed while the scripts run.
+- Do not mix the two methods: remove a hand-copied mod with Steam, a script-installed one
+  with the uninstaller. Steam *Verify integrity of game files* always works as a last resort;
+  run the installer again afterwards and it cleans up its old backup.
 
 ## Updating and removing
 
 - To remove the mod, use Steam: right-click the game → *Properties* → *Installed Files* →
   *Verify integrity of game files*. Steam restores the original files.
+- If you installed with the script, run the uninstaller instead (see above).
 - A game update or a file verification also removes the mod. Copy the files again
-  afterwards if you want to keep it.
+  (or run the installer) afterwards if you want to keep it.
 - The mod does not touch save files. It can be installed or removed at any time, in the
   middle of a campaign too.
 
@@ -105,6 +145,13 @@ so the two mods can be installed together.
 - **Prefixes.** The tier of each item is taken from the game's item data (`Rarity`), and the
   tag is added in front of its name in `Lang_ItemNames*.xml`.
 
+## Installer manifest and tests
+
+`tools/manifest.py` regenerates `installer/manifest.txt` (the file list with SHA-256 hashes the
+scripts rely on). `tests/test_installer.py` runs the installer against a fake game folder:
+`python3 tests/test_installer.py` for the shell script, `KAKT_IMPL=ps` for the PowerShell one.
+The tests run on Linux, macOS and Windows through GitHub Actions.
+
 ## Building from the game files
 
 `tools/build.py` regenerates every mod file from the original game files, for example after
@@ -116,7 +163,8 @@ python3 tools/build.py --game "/path/to/King Arthur Knight's Tale" --out . --pre
 
 The source files must be unmodified. If the game folder already has the mod installed, verify
 the game files in Steam first, or pass a backup of the original files with `--originals`.
-`python3 tools/build.py --help` lists all options.
+`python3 tools/build.py --help` lists all options. After a rebuild, regenerate the installer
+manifest with `python3 tools/manifest.py --originals <folder with the original files>`.
 
 ## Known limits
 

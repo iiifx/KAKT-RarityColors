@@ -1,0 +1,30 @@
+name: installer tests
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  test:
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - { os: ubuntu-latest, impl: sh, shell: sh }
+          - { os: ubuntu-latest, impl: sh, shell: bash }
+          - { os: macos-latest, impl: sh, shell: sh }
+          - { os: windows-latest, impl: ps, ps: powershell }
+          - { os: windows-latest, impl: ps, ps: pwsh }
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: Run tests
+        env:
+          KAKT_IMPL: ${{ matrix.impl }}
+          KAKT_SH: ${{ matrix.shell }}
+          KAKT_PS: ${{ matrix.ps }}
+        run: python tests/test_installer.py
