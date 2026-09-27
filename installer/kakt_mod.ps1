@@ -66,8 +66,12 @@ function Ask([string]$question) {
 }
 
 function Get-Sha256([string]$path) {
-    if (-not (Test-Path -LiteralPath $path -PathType Leaf)) { return '-' }
-    return (Get-FileHash -LiteralPath $path -Algorithm SHA256).Hash.ToLowerInvariant()
+    # .NET directly: Get-FileHash lives in a module that may fail to load (e.g. a foreign PSModulePath)
+    if (-not [IO.File]::Exists($path)) { return '-' }
+    $sha = [Security.Cryptography.SHA256]::Create()
+    $stream = [IO.File]::OpenRead($path)
+    try { $bytes = $sha.ComputeHash($stream) } finally { $stream.Dispose(); $sha.Dispose() }
+    return ([BitConverter]::ToString($bytes) -replace '-', '').ToLowerInvariant()
 }
 
 function Join-Rel([string]$base, [string]$rel) {
